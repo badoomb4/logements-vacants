@@ -1,0 +1,20 @@
+{
+  "code": "06",
+  "nom": "Mayotte",
+  "slug": "mayotte",
+  "nb_communes": 17,
+  "nb_log_prive": 30332,
+  "nb_log_vacant": 3341,
+  "nb_log_vacant_2ans": 2337,
+  "taux_vacance": 11.01,
+  "taux_vacance_2ans": 7.7,
+  "departements": [
+    {
+      "code": "976",
+      "nom": "Mayotte",
+      "slug": "mayotte-976",
+      "taux_vacance": 11.01,
+      "nb_log_vacant": 3341
+    }
+  ]
+}

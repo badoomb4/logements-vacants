@@ -1,0 +1,155 @@
+{
+  "code": "07",
+  "nom": "Ard�che",
+  "slug": "ard-che-07",
+  "code_region": "84",
+  "nom_region": "Auvergne-Rh�ne-Alpes",
+  "nb_communes": 335,
+  "nb_log_prive": 171484,
+  "nb_log_vacant": 17435,
+  "nb_log_vacant_2ans": 10082,
+  "taux_vacance": 10.17,
+  "taux_vacance_2ans": 5.88,
+  "top_communes": [
+    {
+      "code_insee": "07133",
+      "nom": "Larnas",
+      "slug": "larnas-07133",
+      "taux_vacance": 21.92,
+      "nb_log_vacant": 32
+    },
+    {
+      "code_insee": "07269",
+      "nom": "Saint-Martin-de-Valamas",
+      "slug": "saint-martin-de-valamas-07269",
+      "taux_vacance": 21.13,
+      "nb_log_vacant": 209
+    },
+    {
+      "code_insee": "07153",
+      "nom": "Mayres",
+      "slug": "mayres-07153",
+      "taux_vacance": 18.76,
+      "nb_log_vacant": 82
+    },
+    {
+      "code_insee": "07130",
+      "nom": "Lanarce",
+      "slug": "lanarce-07130",
+      "taux_vacance": 18.69,
+      "nb_log_vacant": 54
+    },
+    {
+      "code_insee": "07026",
+      "nom": "Le B�age",
+      "slug": "le-b-age-07026",
+      "taux_vacance": 18.25,
+      "nb_log_vacant": 52
+    },
+    {
+      "code_insee": "07262",
+      "nom": "Saint-Laurent-les-Bains-Laval-d'Aurelle",
+      "slug": "saint-laurent-les-bains-laval-d-aurelle-07262",
+      "taux_vacance": 18.14,
+      "nb_log_vacant": 43
+    },
+    {
+      "code_insee": "07132",
+      "nom": "Largenti�re",
+      "slug": "largenti-re-07132",
+      "taux_vacance": 18.08,
+      "nb_log_vacant": 200
+    },
+    {
+      "code_insee": "07064",
+      "nom": "Le Cheylard",
+      "slug": "le-cheylard-07064",
+      "taux_vacance": 18.01,
+      "nb_log_vacant": 337
+    },
+    {
+      "code_insee": "07224",
+      "nom": "Saint-Cirgues-en-Montagne",
+      "slug": "saint-cirgues-en-montagne-07224",
+      "taux_vacance": 17.87,
+      "nb_log_vacant": 67
+    },
+    {
+      "code_insee": "07129",
+      "nom": "Lamastre",
+      "slug": "lamastre-07129",
+      "taux_vacance": 17.43,
+      "nb_log_vacant": 277
+    },
+    {
+      "code_insee": "07165",
+      "nom": "Belsentes",
+      "slug": "belsentes-07165",
+      "taux_vacance": 17.35,
+      "nb_log_vacant": 89
+    },
+    {
+      "code_insee": "07128",
+      "nom": "Lalouvesc",
+      "slug": "lalouvesc-07128",
+      "taux_vacance": 16.53,
+      "nb_log_vacant": 82
+    },
+    {
+      "code_insee": "07319",
+      "nom": "Le Teil",
+      "slug": "le-teil-07319",
+      "taux_vacance": 16.47,
+      "nb_log_vacant": 688
+    },
+    {
+      "code_insee": "07045",
+      "nom": "Burzet",
+      "slug": "burzet-07045",
+      "taux_vacance": 15.8,
+      "nb_log_vacant": 109
+    },
+    {
+      "code_insee": "07032",
+      "nom": "Berz�me",
+      "slug": "berz-me-07032",
+      "taux_vacance": 15.74,
+      "nb_log_vacant": 17
+    },
+    {
+      "code_insee": "07295",
+      "nom": "Saint-Sauveur-de-Montagut",
+      "slug": "saint-sauveur-de-montagut-07295",
+      "taux_vacance": 15.69,
+      "nb_log_vacant": 115
+    },
+    {
+      "code_insee": "07267",
+      "nom": "Saint-Martial",
+      "slug": "saint-martial-07267",
+      "taux_vacance": 15.56,
+      "nb_log_vacant": 56
+    },
+    {
+      "code_insee": "07012",
+      "nom": "Arcens",
+      "slug": "arcens-07012",
+      "taux_vacance": 15.54,
+      "nb_log_vacant": 55
+    },
+    {
+      "code_insee": "07116",
+      "nom": "Lab�gude",
+      "slug": "lab-gude-07116",
+      "taux_vacance": 15.48,
+      "nb_log_vacant": 152
+    },
+    {
+      "code_insee": "07127",
+      "nom": "Lalevade-d'Ard�che",
+      "slug": "lalevade-d-ard-che-07127",
+      "taux_vacance": 15.15,
+      "nb_log_vacant": 100
+    }
+  ]
+}

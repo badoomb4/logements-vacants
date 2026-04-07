@@ -1,0 +1,155 @@
+{
+  "code": "62",
+  "nom": "Pas-de-Calais",
+  "slug": "pas-de-calais-62",
+  "code_region": "32",
+  "nom_region": "Hauts-de-France",
+  "nb_communes": 887,
+  "nb_log_prive": 490238,
+  "nb_log_vacant": 31438,
+  "nb_log_vacant_2ans": 15526,
+  "taux_vacance": 6.41,
+  "taux_vacance_2ans": 3.17,
+  "top_communes": [
+    {
+      "code_insee": "62498",
+      "nom": "Lens",
+      "slug": "lens-62498",
+      "taux_vacance": 14.29,
+      "nb_log_vacant": 1389
+    },
+    {
+      "code_insee": "62377",
+      "nom": "Gosnay",
+      "slug": "gosnay-62377",
+      "taux_vacance": 14.09,
+      "nb_log_vacant": 42
+    },
+    {
+      "code_insee": "62361",
+      "nom": "Fr�vent",
+      "slug": "fr-vent-62361",
+      "taux_vacance": 13.68,
+      "nb_log_vacant": 177
+    },
+    {
+      "code_insee": "62060",
+      "nom": "Auxi-le-Ch�teau",
+      "slug": "auxi-le-ch-teau-62060",
+      "taux_vacance": 13.42,
+      "nb_log_vacant": 167
+    },
+    {
+      "code_insee": "62765",
+      "nom": "Saint-Omer",
+      "slug": "saint-omer-62765",
+      "taux_vacance": 13.24,
+      "nb_log_vacant": 938
+    },
+    {
+      "code_insee": "62783",
+      "nom": "Saulchoy",
+      "slug": "saulchoy-62783",
+      "taux_vacance": 12.88,
+      "nb_log_vacant": 21
+    },
+    {
+      "code_insee": "62588",
+      "nom": "Montreuil-sur-Mer",
+      "slug": "montreuil-sur-mer-62588",
+      "taux_vacance": 12.28,
+      "nb_log_vacant": 138
+    },
+    {
+      "code_insee": "62449",
+      "nom": "Hesmond",
+      "slug": "hesmond-62449",
+      "taux_vacance": 12.24,
+      "nb_log_vacant": 12
+    },
+    {
+      "code_insee": "62364",
+      "nom": "Fruges",
+      "slug": "fruges-62364",
+      "taux_vacance": 11.71,
+      "nb_log_vacant": 126
+    },
+    {
+      "code_insee": "62365",
+      "nom": "Galametz",
+      "slug": "galametz-62365",
+      "taux_vacance": 11.71,
+      "nb_log_vacant": 13
+    },
+    {
+      "code_insee": "62447",
+      "nom": "Hesdin-la-For�t",
+      "slug": "hesdin-la-for-t-62447",
+      "taux_vacance": 11.32,
+      "nb_log_vacant": 277
+    },
+    {
+      "code_insee": "62080",
+      "nom": "Bapaume",
+      "slug": "bapaume-62080",
+      "taux_vacance": 10.96,
+      "nb_log_vacant": 146
+    },
+    {
+      "code_insee": "62771",
+      "nom": "Sallaumines",
+      "slug": "sallaumines-62771",
+      "taux_vacance": 10.62,
+      "nb_log_vacant": 187
+    },
+    {
+      "code_insee": "62353",
+      "nom": "Fr�micourt",
+      "slug": "fr-micourt-62353",
+      "taux_vacance": 10.58,
+      "nb_log_vacant": 11
+    },
+    {
+      "code_insee": "62843",
+      "nom": "Verchin",
+      "slug": "verchin-62843",
+      "taux_vacance": 10.4,
+      "nb_log_vacant": 13
+    },
+    {
+      "code_insee": "62767",
+      "nom": "Saint-Pol-sur-Ternoise",
+      "slug": "saint-pol-sur-ternoise-62767",
+      "taux_vacance": 10.3,
+      "nb_log_vacant": 240
+    },
+    {
+      "code_insee": "62472",
+      "nom": "Inxent",
+      "slug": "inxent-62472",
+      "taux_vacance": 10.26,
+      "nb_log_vacant": 12
+    },
+    {
+      "code_insee": "62451",
+      "nom": "Heuchin",
+      "slug": "heuchin-62451",
+      "taux_vacance": 10.21,
+      "nb_log_vacant": 24
+    },
+    {
+      "code_insee": "62036",
+      "nom": "Anvin",
+      "slug": "anvin-62036",
+      "taux_vacance": 10.2,
+      "nb_log_vacant": 35
+    },
+    {
+      "code_insee": "62325",
+      "nom": "Fauquembergues",
+      "slug": "fauquembergues-62325",
+      "taux_vacance": 10.1,
+      "nb_log_vacant": 41
+    }
+  ]
+}

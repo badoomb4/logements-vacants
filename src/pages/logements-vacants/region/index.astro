@@ -1,0 +1,38 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import regionsList from '../../../../data/regions-list.json';
+import meta from '../../../../data/meta.json';
+
+const sorted = [...regionsList].sort((a, b) => b.taux_vacance - a.taux_vacance);
+---
+
+<BaseLayout
+  title="Logements vacants par région — France LOVAC"
+  description="Statistiques des logements vacants dans les 18 régions de France. Classement par taux de vacance — données LOVAC."
+>
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+    <h1 class="text-3xl font-bold text-gray-900 mb-6">Logements vacants par région</h1>
+    <p class="text-gray-600 mb-8">Données LOVAC {meta.millesime} — classement par taux de vacance décroissant</p>
+
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+      {sorted.map((r) => (
+        <a href={`/logements-vacants/region/${r.slug}/`}
+           class="bg-white rounded-lg shadow-sm border border-gray-200 p-5 hover:shadow-md hover:border-blue-300 transition-all">
+          <h2 class="font-semibold text-lg text-gray-900 mb-2">{r.nom}</h2>
+          <div class="flex justify-between text-sm">
+            <span class="text-gray-600">Taux de vacance</span>
+            <span class="font-bold text-orange-600">{r.taux_vacance}%</span>
+          </div>
+          <div class="flex justify-between text-sm mt-1">
+            <span class="text-gray-600">Logements vacants</span>
+            <span class="font-medium">{r.nb_log_vacant?.toLocaleString('fr-FR')}</span>
+          </div>
+          <div class="flex justify-between text-sm mt-1">
+            <span class="text-gray-600">Départements</span>
+            <span class="font-medium">{r.nb_departements}</span>
+          </div>
+        </a>
+      ))}
+    </div>
+  </div>
+</BaseLayout>

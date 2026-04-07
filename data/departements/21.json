@@ -1,0 +1,155 @@
+{
+  "code": "21",
+  "nom": "C�te-d'Or",
+  "slug": "c-te-d-or-21",
+  "code_region": "27",
+  "nom_region": "Bourgogne-Franche-Comt�",
+  "nb_communes": 698,
+  "nb_log_prive": 196694,
+  "nb_log_vacant": 15274,
+  "nb_log_vacant_2ans": 6894,
+  "taux_vacance": 7.77,
+  "taux_vacance_2ans": 3.5,
+  "top_communes": [
+    {
+      "code_insee": "21150",
+      "nom": "Chassagne-Montrachet",
+      "slug": "chassagne-montrachet-21150",
+      "taux_vacance": 24,
+      "nb_log_vacant": 66
+    },
+    {
+      "code_insee": "21078",
+      "nom": "Bissey-la-Pierre",
+      "slug": "bissey-la-pierre-21078",
+      "taux_vacance": 22.81,
+      "nb_log_vacant": 13
+    },
+    {
+      "code_insee": "21714",
+      "nom": "Vosne-Roman�e",
+      "slug": "vosne-roman-e-21714",
+      "taux_vacance": 21.77,
+      "nb_log_vacant": 59
+    },
+    {
+      "code_insee": "21664",
+      "nom": "Verdonnet",
+      "slug": "verdonnet-21664",
+      "taux_vacance": 21.74,
+      "nb_log_vacant": 15
+    },
+    {
+      "code_insee": "21582",
+      "nom": "Santenay",
+      "slug": "santenay-21582",
+      "taux_vacance": 20.14,
+      "nb_log_vacant": 114
+    },
+    {
+      "code_insee": "21432",
+      "nom": "Montigny-sur-Aube",
+      "slug": "montigny-sur-aube-21432",
+      "taux_vacance": 19.23,
+      "nb_log_vacant": 40
+    },
+    {
+      "code_insee": "21133",
+      "nom": "Chambolle-Musigny",
+      "slug": "chambolle-musigny-21133",
+      "taux_vacance": 19.07,
+      "nb_log_vacant": 37
+    },
+    {
+      "code_insee": "21584",
+      "nom": "Saulieu",
+      "slug": "saulieu-21584",
+      "taux_vacance": 18.93,
+      "nb_log_vacant": 283
+    },
+    {
+      "code_insee": "21304",
+      "nom": "Grancey-le-Ch�teau-Neuvelle",
+      "slug": "grancey-le-ch-teau-neuvelle-21304",
+      "taux_vacance": 18.6,
+      "nb_log_vacant": 32
+    },
+    {
+      "code_insee": "21334",
+      "nom": "Lacanche",
+      "slug": "lacanche-21334",
+      "taux_vacance": 18.38,
+      "nb_log_vacant": 59
+    },
+    {
+      "code_insee": "21023",
+      "nom": "Arnay-le-Duc",
+      "slug": "arnay-le-duc-21023",
+      "taux_vacance": 18.06,
+      "nb_log_vacant": 145
+    },
+    {
+      "code_insee": "21519",
+      "nom": "Recey-sur-Ource",
+      "slug": "recey-sur-ource-21519",
+      "taux_vacance": 17.91,
+      "nb_log_vacant": 48
+    },
+    {
+      "code_insee": "21336",
+      "nom": "Laignes",
+      "slug": "laignes-21336",
+      "taux_vacance": 17.86,
+      "nb_log_vacant": 85
+    },
+    {
+      "code_insee": "21438",
+      "nom": "Montmoyen",
+      "slug": "montmoyen-21438",
+      "taux_vacance": 17.33,
+      "nb_log_vacant": 13
+    },
+    {
+      "code_insee": "21505",
+      "nom": "Pr�cy-sous-Thil",
+      "slug": "pr-cy-sous-thil-21505",
+      "taux_vacance": 17.28,
+      "nb_log_vacant": 75
+    },
+    {
+      "code_insee": "21043",
+      "nom": "Baigneux-les-Juifs",
+      "slug": "baigneux-les-juifs-21043",
+      "taux_vacance": 16.92,
+      "nb_log_vacant": 22
+    },
+    {
+      "code_insee": "21134",
+      "nom": "Chamesson",
+      "slug": "chamesson-21134",
+      "taux_vacance": 16.88,
+      "nb_log_vacant": 26
+    },
+    {
+      "code_insee": "21492",
+      "nom": "Pommard",
+      "slug": "pommard-21492",
+      "taux_vacance": 16.85,
+      "nb_log_vacant": 62
+    },
+    {
+      "code_insee": "21642",
+      "nom": "Toutry",
+      "slug": "toutry-21642",
+      "taux_vacance": 16.8,
+      "nb_log_vacant": 41
+    },
+    {
+      "code_insee": "21710",
+      "nom": "Vitteaux",
+      "slug": "vitteaux-21710",
+      "taux_vacance": 16.23,
+      "nb_log_vacant": 87
+    }
+  ]
+}

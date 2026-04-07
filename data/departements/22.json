@@ -1,0 +1,155 @@
+{
+  "code": "22",
+  "nom": "C�tes-d'Armor",
+  "slug": "c-tes-d-armor-22",
+  "code_region": "53",
+  "nom_region": "Bretagne",
+  "nb_communes": 344,
+  "nb_log_prive": 342194,
+  "nb_log_vacant": 23788,
+  "nb_log_vacant_2ans": 12704,
+  "taux_vacance": 6.95,
+  "taux_vacance_2ans": 3.71,
+  "top_communes": [
+    {
+      "code_insee": "22139",
+      "nom": "Magoar",
+      "slug": "magoar-22139",
+      "taux_vacance": 23.17,
+      "nb_log_vacant": 19
+    },
+    {
+      "code_insee": "22009",
+      "nom": "Le Bod�o",
+      "slug": "le-bod-o-22009",
+      "taux_vacance": 22.39,
+      "nb_log_vacant": 30
+    },
+    {
+      "code_insee": "22092",
+      "nom": "Kerpert",
+      "slug": "kerpert-22092",
+      "taux_vacance": 19.38,
+      "nb_log_vacant": 44
+    },
+    {
+      "code_insee": "22294",
+      "nom": "Saint-Gilles-Pligeaux",
+      "slug": "saint-gilles-pligeaux-22294",
+      "taux_vacance": 18.66,
+      "nb_log_vacant": 50
+    },
+    {
+      "code_insee": "22031",
+      "nom": "Carno�t",
+      "slug": "carno-t-22031",
+      "taux_vacance": 17.28,
+      "nb_log_vacant": 89
+    },
+    {
+      "code_insee": "22037",
+      "nom": "La Chapelle-Neuve",
+      "slug": "la-chapelle-neuve-22037",
+      "taux_vacance": 16.4,
+      "nb_log_vacant": 52
+    },
+    {
+      "code_insee": "22087",
+      "nom": "Kergrist-Mo�lou",
+      "slug": "kergrist-mo-lou-22087",
+      "taux_vacance": 15.66,
+      "nb_log_vacant": 70
+    },
+    {
+      "code_insee": "22330",
+      "nom": "Saint-Th�lo",
+      "slug": "saint-th-lo-22330",
+      "taux_vacance": 15.38,
+      "nb_log_vacant": 36
+    },
+    {
+      "code_insee": "22229",
+      "nom": "Ploun�vez-Quintin",
+      "slug": "ploun-vez-quintin-22229",
+      "taux_vacance": 15.29,
+      "nb_log_vacant": 111
+    },
+    {
+      "code_insee": "22313",
+      "nom": "Saint-Martin-des-Pr�s",
+      "slug": "saint-martin-des-pr-s-22313",
+      "taux_vacance": 15.15,
+      "nb_log_vacant": 35
+    },
+    {
+      "code_insee": "22128",
+      "nom": "Locarn",
+      "slug": "locarn-22128",
+      "taux_vacance": 15.09,
+      "nb_log_vacant": 59
+    },
+    {
+      "code_insee": "22073",
+      "nom": "La Harmoye",
+      "slug": "la-harmoye-22073",
+      "taux_vacance": 15.07,
+      "nb_log_vacant": 33
+    },
+    {
+      "code_insee": "22267",
+      "nom": "Rouillac",
+      "slug": "rouillac-22267",
+      "taux_vacance": 14.93,
+      "nb_log_vacant": 40
+    },
+    {
+      "code_insee": "22316",
+      "nom": "Saint-Mayeux",
+      "slug": "saint-mayeux-22316",
+      "taux_vacance": 14.77,
+      "nb_log_vacant": 52
+    },
+    {
+      "code_insee": "22255",
+      "nom": "La Pr�nessaye",
+      "slug": "la-pr-nessaye-22255",
+      "taux_vacance": 14.68,
+      "nb_log_vacant": 74
+    },
+    {
+      "code_insee": "22029",
+      "nom": "Canihuel",
+      "slug": "canihuel-22029",
+      "taux_vacance": 14.55,
+      "nb_log_vacant": 40
+    },
+    {
+      "code_insee": "22115",
+      "nom": "Lanrivain",
+      "slug": "lanrivain-22115",
+      "taux_vacance": 14.55,
+      "nb_log_vacant": 48
+    },
+    {
+      "code_insee": "22052",
+      "nom": "Duault",
+      "slug": "duault-22052",
+      "taux_vacance": 14.29,
+      "nb_log_vacant": 43
+    },
+    {
+      "code_insee": "22061",
+      "nom": "Glomel",
+      "slug": "glomel-22061",
+      "taux_vacance": 14.15,
+      "nb_log_vacant": 150
+    },
+    {
+      "code_insee": "22153",
+      "nom": "Moncontour",
+      "slug": "moncontour-22153",
+      "taux_vacance": 13.81,
+      "nb_log_vacant": 50
+    }
+  ]
+}

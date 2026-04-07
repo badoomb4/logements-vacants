@@ -1,0 +1,155 @@
+{
+  "code": "36",
+  "nom": "Indre",
+  "slug": "indre-36",
+  "code_region": "24",
+  "nom_region": "Centre-Val de Loire",
+  "nb_communes": 241,
+  "nb_log_prive": 107756,
+  "nb_log_vacant": 12775,
+  "nb_log_vacant_2ans": 7392,
+  "taux_vacance": 11.86,
+  "taux_vacance_2ans": 6.86,
+  "top_communes": [
+    {
+      "code_insee": "36166",
+      "nom": "Pr�aux",
+      "slug": "pr-aux-36166",
+      "taux_vacance": 21.17,
+      "nb_log_vacant": 29
+    },
+    {
+      "code_insee": "36126",
+      "nom": "Montchevrier",
+      "slug": "montchevrier-36126",
+      "taux_vacance": 20.43,
+      "nb_log_vacant": 85
+    },
+    {
+      "code_insee": "36094",
+      "nom": "Lignac",
+      "slug": "lignac-36094",
+      "taux_vacance": 19.87,
+      "nb_log_vacant": 94
+    },
+    {
+      "code_insee": "36146",
+      "nom": "Orsennes",
+      "slug": "orsennes-36146",
+      "taux_vacance": 19.83,
+      "nb_log_vacant": 115
+    },
+    {
+      "code_insee": "36001",
+      "nom": "Aigurande",
+      "slug": "aigurande-36001",
+      "taux_vacance": 19.74,
+      "nb_log_vacant": 196
+    },
+    {
+      "code_insee": "36060",
+      "nom": "Crevant",
+      "slug": "crevant-36060",
+      "taux_vacance": 19.26,
+      "nb_log_vacant": 114
+    },
+    {
+      "code_insee": "36105",
+      "nom": "Lureuil",
+      "slug": "lureuil-36105",
+      "taux_vacance": 19.05,
+      "nb_log_vacant": 24
+    },
+    {
+      "code_insee": "36168",
+      "nom": "Prissac",
+      "slug": "prissac-36168",
+      "taux_vacance": 18.64,
+      "nb_log_vacant": 104
+    },
+    {
+      "code_insee": "36208",
+      "nom": "Sainte-S�v�re-sur-Indre",
+      "slug": "sainte-s-v-re-sur-indre-36208",
+      "taux_vacance": 18.37,
+      "nb_log_vacant": 90
+    },
+    {
+      "code_insee": "36163",
+      "nom": "Pouligny-Notre-Dame",
+      "slug": "pouligny-notre-dame-36163",
+      "taux_vacance": 18.04,
+      "nb_log_vacant": 81
+    },
+    {
+      "code_insee": "36182",
+      "nom": "Saint-Beno�t-du-Sault",
+      "slug": "saint-beno-t-du-sault-36182",
+      "taux_vacance": 17.45,
+      "nb_log_vacant": 74
+    },
+    {
+      "code_insee": "36144",
+      "nom": "Nuret-le-Ferron",
+      "slug": "nuret-le-ferron-36144",
+      "taux_vacance": 17.37,
+      "nb_log_vacant": 33
+    },
+    {
+      "code_insee": "36243",
+      "nom": "Villegouin",
+      "slug": "villegouin-36243",
+      "taux_vacance": 17.37,
+      "nb_log_vacant": 37
+    },
+    {
+      "code_insee": "36124",
+      "nom": "Mign�",
+      "slug": "mign-36124",
+      "taux_vacance": 17.35,
+      "nb_log_vacant": 38
+    },
+    {
+      "code_insee": "36010",
+      "nom": "Azay-le-Ferron",
+      "slug": "azay-le-ferron-36010",
+      "taux_vacance": 17.33,
+      "nb_log_vacant": 105
+    },
+    {
+      "code_insee": "36046",
+      "nom": "La Ch�tre",
+      "slug": "la-ch-tre-36046",
+      "taux_vacance": 17.13,
+      "nb_log_vacant": 379
+    },
+    {
+      "code_insee": "36218",
+      "nom": "Soug�",
+      "slug": "soug-36218",
+      "taux_vacance": 17,
+      "nb_log_vacant": 17
+    },
+    {
+      "code_insee": "36056",
+      "nom": "Cluis",
+      "slug": "cluis-36056",
+      "taux_vacance": 16.8,
+      "nb_log_vacant": 122
+    },
+    {
+      "code_insee": "36204",
+      "nom": "Saint-Michel-en-Brenne",
+      "slug": "saint-michel-en-brenne-36204",
+      "taux_vacance": 16.74,
+      "nb_log_vacant": 39
+    },
+    {
+      "code_insee": "36189",
+      "nom": "Saint-Denis-de-Jouhet",
+      "slug": "saint-denis-de-jouhet-36189",
+      "taux_vacance": 16.53,
+      "nb_log_vacant": 119
+    }
+  ]
+}

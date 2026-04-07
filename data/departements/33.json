@@ -1,0 +1,155 @@
+{
+  "code": "33",
+  "nom": "Gironde",
+  "slug": "gironde-33",
+  "code_region": "75",
+  "nom_region": "Nouvelle-Aquitaine",
+  "nb_communes": 534,
+  "nb_log_prive": 756610,
+  "nb_log_vacant": 43918,
+  "nb_log_vacant_2ans": 19214,
+  "taux_vacance": 5.8,
+  "taux_vacance_2ans": 2.54,
+  "top_communes": [
+    {
+      "code_insee": "33372",
+      "nom": "Saint-Antoine-du-Queyret",
+      "slug": "saint-antoine-du-queyret-33372",
+      "taux_vacance": 31.25,
+      "nb_log_vacant": 15
+    },
+    {
+      "code_insee": "33420",
+      "nom": "Saint-Hippolyte",
+      "slug": "saint-hippolyte-33420",
+      "taux_vacance": 27.08,
+      "nb_log_vacant": 26
+    },
+    {
+      "code_insee": "33423",
+      "nom": "Saint-Julien-Beychevelle",
+      "slug": "saint-julien-beychevelle-33423",
+      "taux_vacance": 23.13,
+      "nb_log_vacant": 99
+    },
+    {
+      "code_insee": "33402",
+      "nom": "Sainte-Foy-la-Grande",
+      "slug": "sainte-foy-la-grande-33402",
+      "taux_vacance": 21.99,
+      "nb_log_vacant": 331
+    },
+    {
+      "code_insee": "33342",
+      "nom": "Puisseguin",
+      "slug": "puisseguin-33342",
+      "taux_vacance": 21.26,
+      "nb_log_vacant": 118
+    },
+    {
+      "code_insee": "33394",
+      "nom": "Saint-�milion",
+      "slug": "saint-milion-33394",
+      "taux_vacance": 20.89,
+      "nb_log_vacant": 258
+    },
+    {
+      "code_insee": "33476",
+      "nom": "Saint-Seurin-de-Cadourne",
+      "slug": "saint-seurin-de-cadourne-33476",
+      "taux_vacance": 18.48,
+      "nb_log_vacant": 85
+    },
+    {
+      "code_insee": "33328",
+      "nom": "Pomerol",
+      "slug": "pomerol-33328",
+      "taux_vacance": 17.76,
+      "nb_log_vacant": 65
+    },
+    {
+      "code_insee": "33261",
+      "nom": "Lussac",
+      "slug": "lussac-33261",
+      "taux_vacance": 16.69,
+      "nb_log_vacant": 123
+    },
+    {
+      "code_insee": "33290",
+      "nom": "Montagne",
+      "slug": "montagne-33290",
+      "taux_vacance": 16.5,
+      "nb_log_vacant": 150
+    },
+    {
+      "code_insee": "33384",
+      "nom": "Saint-Christophe-des-Bardes",
+      "slug": "saint-christophe-des-bardes-33384",
+      "taux_vacance": 15.41,
+      "nb_log_vacant": 41
+    },
+    {
+      "code_insee": "33108",
+      "nom": "Castillon-la-Bataille",
+      "slug": "castillon-la-bataille-33108",
+      "taux_vacance": 14.64,
+      "nb_log_vacant": 281
+    },
+    {
+      "code_insee": "33395",
+      "nom": "Saint-Est�phe",
+      "slug": "saint-est-phe-33395",
+      "taux_vacance": 14.4,
+      "nb_log_vacant": 150
+    },
+    {
+      "code_insee": "33060",
+      "nom": "Bommes",
+      "slug": "bommes-33060",
+      "taux_vacance": 13.46,
+      "nb_log_vacant": 35
+    },
+    {
+      "code_insee": "33067",
+      "nom": "Bourg",
+      "slug": "bourg-33067",
+      "taux_vacance": 13.21,
+      "nb_log_vacant": 172
+    },
+    {
+      "code_insee": "33352",
+      "nom": "La R�ole",
+      "slug": "la-r-ole-33352",
+      "taux_vacance": 13.14,
+      "nb_log_vacant": 287
+    },
+    {
+      "code_insee": "33480",
+      "nom": "Saint-Sulpice-de-Faleyrens",
+      "slug": "saint-sulpice-de-faleyrens-33480",
+      "taux_vacance": 13.14,
+      "nb_log_vacant": 93
+    },
+    {
+      "code_insee": "33316",
+      "nom": "Pellegrue",
+      "slug": "pellegrue-33316",
+      "taux_vacance": 13.12,
+      "nb_log_vacant": 74
+    },
+    {
+      "code_insee": "33442",
+      "nom": "Saint-Martin-de-Laye",
+      "slug": "saint-martin-de-laye-33442",
+      "taux_vacance": 13.09,
+      "nb_log_vacant": 36
+    },
+    {
+      "code_insee": "33289",
+      "nom": "Mons�gur",
+      "slug": "mons-gur-33289",
+      "taux_vacance": 12.8,
+      "nb_log_vacant": 106
+    }
+  ]
+}

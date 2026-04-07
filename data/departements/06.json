@@ -1,0 +1,155 @@
+{
+  "code": "06",
+  "nom": "Alpes-Maritimes",
+  "slug": "alpes-maritimes-06",
+  "code_region": "93",
+  "nom_region": "Provence-Alpes-C�te d'Azur",
+  "nb_communes": 163,
+  "nb_log_prive": 760377,
+  "nb_log_vacant": 48728,
+  "nb_log_vacant_2ans": 23364,
+  "taux_vacance": 6.41,
+  "taux_vacance_2ans": 3.07,
+  "top_communes": [
+    {
+      "code_insee": "06129",
+      "nom": "Saint-Sauveur-sur-Tin�e",
+      "slug": "saint-sauveur-sur-tin-e-06129",
+      "taux_vacance": 19.03,
+      "nb_log_vacant": 59
+    },
+    {
+      "code_insee": "06163",
+      "nom": "Tende",
+      "slug": "tende-06163",
+      "taux_vacance": 18.57,
+      "nb_log_vacant": 395
+    },
+    {
+      "code_insee": "06045",
+      "nom": "Collongues",
+      "slug": "collongues-06045",
+      "taux_vacance": 18.42,
+      "nb_log_vacant": 14
+    },
+    {
+      "code_insee": "06062",
+      "nom": "Fontan",
+      "slug": "fontan-06062",
+      "taux_vacance": 18.3,
+      "nb_log_vacant": 97
+    },
+    {
+      "code_insee": "06162",
+      "nom": "La Brigue",
+      "slug": "la-brigue-06162",
+      "taux_vacance": 17.56,
+      "nb_log_vacant": 194
+    },
+    {
+      "code_insee": "06074",
+      "nom": "Lantosque",
+      "slug": "lantosque-06074",
+      "taux_vacance": 17.44,
+      "nb_log_vacant": 217
+    },
+    {
+      "code_insee": "06086",
+      "nom": "Moulinet",
+      "slug": "moulinet-06086",
+      "taux_vacance": 17.15,
+      "nb_log_vacant": 71
+    },
+    {
+      "code_insee": "06023",
+      "nom": "Breil-sur-Roya",
+      "slug": "breil-sur-roya-06023",
+      "taux_vacance": 16.8,
+      "nb_log_vacant": 346
+    },
+    {
+      "code_insee": "06098",
+      "nom": "Puget-Rostang",
+      "slug": "puget-rostang-06098",
+      "taux_vacance": 16.67,
+      "nb_log_vacant": 17
+    },
+    {
+      "code_insee": "06047",
+      "nom": "Cons�gudes",
+      "slug": "cons-gudes-06047",
+      "taux_vacance": 16.24,
+      "nb_log_vacant": 19
+    },
+    {
+      "code_insee": "06141",
+      "nom": "Toudon",
+      "slug": "toudon-06141",
+      "taux_vacance": 15.73,
+      "nb_log_vacant": 53
+    },
+    {
+      "code_insee": "06013",
+      "nom": "Belv�d�re",
+      "slug": "belv-d-re-06013",
+      "taux_vacance": 15.31,
+      "nb_log_vacant": 181
+    },
+    {
+      "code_insee": "06009",
+      "nom": "Bairols",
+      "slug": "bairols-06009",
+      "taux_vacance": 14.86,
+      "nb_log_vacant": 11
+    },
+    {
+      "code_insee": "06118",
+      "nom": "Saint-C�zaire-sur-Siagne",
+      "slug": "saint-c-zaire-sur-siagne-06118",
+      "taux_vacance": 14.86,
+      "nb_log_vacant": 411
+    },
+    {
+      "code_insee": "06005",
+      "nom": "Ascros",
+      "slug": "ascros-06005",
+      "taux_vacance": 14.52,
+      "nb_log_vacant": 35
+    },
+    {
+      "code_insee": "06017",
+      "nom": "B�zaudun-les-Alpes",
+      "slug": "b-zaudun-les-alpes-06017",
+      "taux_vacance": 14.04,
+      "nb_log_vacant": 25
+    },
+    {
+      "code_insee": "06099",
+      "nom": "Puget-Th�niers",
+      "slug": "puget-th-niers-06099",
+      "taux_vacance": 13.95,
+      "nb_log_vacant": 147
+    },
+    {
+      "code_insee": "06103",
+      "nom": "Roquebilli�re",
+      "slug": "roquebilli-re-06103",
+      "taux_vacance": 13.87,
+      "nb_log_vacant": 201
+    },
+    {
+      "code_insee": "06151",
+      "nom": "Utelle",
+      "slug": "utelle-06151",
+      "taux_vacance": 13.8,
+      "nb_log_vacant": 113
+    },
+    {
+      "code_insee": "06020",
+      "nom": "La Boll�ne-V�subie",
+      "slug": "la-boll-ne-v-subie-06020",
+      "taux_vacance": 13.47,
+      "nb_log_vacant": 87
+    }
+  ]
+}

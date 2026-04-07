@@ -1,0 +1,155 @@
+{
+  "code": "974",
+  "nom": "La R�union",
+  "slug": "la-r-union-974",
+  "code_region": "04",
+  "nom_region": "La R�union",
+  "nb_communes": 24,
+  "nb_log_prive": 321295,
+  "nb_log_vacant": 20255,
+  "nb_log_vacant_2ans": 13171,
+  "taux_vacance": 6.3,
+  "taux_vacance_2ans": 4.1,
+  "top_communes": [
+    {
+      "code_insee": "97424",
+      "nom": "Cilaos",
+      "slug": "cilaos-97424",
+      "taux_vacance": 10.22,
+      "nb_log_vacant": 288
+    },
+    {
+      "code_insee": "97421",
+      "nom": "Salazie",
+      "slug": "salazie-97421",
+      "taux_vacance": 9.67,
+      "nb_log_vacant": 303
+    },
+    {
+      "code_insee": "97406",
+      "nom": "La Plaine-des-Palmistes",
+      "slug": "la-plaine-des-palmistes-97406",
+      "taux_vacance": 8.65,
+      "nb_log_vacant": 282
+    },
+    {
+      "code_insee": "97423",
+      "nom": "Les Trois-Bassins",
+      "slug": "les-trois-bassins-97423",
+      "taux_vacance": 7.8,
+      "nb_log_vacant": 229
+    },
+    {
+      "code_insee": "97411",
+      "nom": "Saint-Denis",
+      "slug": "saint-denis-97411",
+      "taux_vacance": 7.47,
+      "nb_log_vacant": 4085
+    },
+    {
+      "code_insee": "97417",
+      "nom": "Saint-Philippe",
+      "slug": "saint-philippe-97417",
+      "taux_vacance": 7.43,
+      "nb_log_vacant": 159
+    },
+    {
+      "code_insee": "97419",
+      "nom": "Sainte-Rose",
+      "slug": "sainte-rose-97419",
+      "taux_vacance": 7.28,
+      "nb_log_vacant": 172
+    },
+    {
+      "code_insee": "97403",
+      "nom": "Entre-Deux",
+      "slug": "entre-deux-97403",
+      "taux_vacance": 6.91,
+      "nb_log_vacant": 214
+    },
+    {
+      "code_insee": "97422",
+      "nom": "Le Tampon",
+      "slug": "le-tampon-97422",
+      "taux_vacance": 6.46,
+      "nb_log_vacant": 2153
+    },
+    {
+      "code_insee": "97412",
+      "nom": "Saint-Joseph",
+      "slug": "saint-joseph-97412",
+      "taux_vacance": 6.42,
+      "nb_log_vacant": 1041
+    },
+    {
+      "code_insee": "97420",
+      "nom": "Sainte-Suzanne",
+      "slug": "sainte-suzanne-97420",
+      "taux_vacance": 6.42,
+      "nb_log_vacant": 530
+    },
+    {
+      "code_insee": "97401",
+      "nom": "Les Avirons",
+      "slug": "les-avirons-97401",
+      "taux_vacance": 6.23,
+      "nb_log_vacant": 306
+    },
+    {
+      "code_insee": "97413",
+      "nom": "Saint-Leu",
+      "slug": "saint-leu-97413",
+      "taux_vacance": 6.19,
+      "nb_log_vacant": 927
+    },
+    {
+      "code_insee": "97416",
+      "nom": "Saint-Pierre",
+      "slug": "saint-pierre-97416",
+      "taux_vacance": 6.16,
+      "nb_log_vacant": 2052
+    },
+    {
+      "code_insee": "97405",
+      "nom": "Petite-�le",
+      "slug": "petite-le-97405",
+      "taux_vacance": 6.06,
+      "nb_log_vacant": 360
+    },
+    {
+      "code_insee": "97410",
+      "nom": "Saint-Beno�t",
+      "slug": "saint-beno-t-97410",
+      "taux_vacance": 6.05,
+      "nb_log_vacant": 705
+    },
+    {
+      "code_insee": "97409",
+      "nom": "Saint-Andr�",
+      "slug": "saint-andr-97409",
+      "taux_vacance": 5.91,
+      "nb_log_vacant": 1113
+    },
+    {
+      "code_insee": "97415",
+      "nom": "Saint-Paul",
+      "slug": "saint-paul-97415",
+      "taux_vacance": 5.67,
+      "nb_log_vacant": 2326
+    },
+    {
+      "code_insee": "97407",
+      "nom": "Le Port",
+      "slug": "le-port-97407",
+      "taux_vacance": 5.53,
+      "nb_log_vacant": 339
+    },
+    {
+      "code_insee": "97414",
+      "nom": "Saint-Louis",
+      "slug": "saint-louis-97414",
+      "taux_vacance": 5.44,
+      "nb_log_vacant": 1028
+    }
+  ]
+}

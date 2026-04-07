@@ -1,0 +1,155 @@
+{
+  "code": "29",
+  "nom": "Finist�re",
+  "slug": "finist-re-29",
+  "code_region": "53",
+  "nom_region": "Bretagne",
+  "nb_communes": 275,
+  "nb_log_prive": 516553,
+  "nb_log_vacant": 34807,
+  "nb_log_vacant_2ans": 19030,
+  "taux_vacance": 6.74,
+  "taux_vacance_2ans": 3.68,
+  "top_communes": [
+    {
+      "code_insee": "29289",
+      "nom": "Tr�garvan",
+      "slug": "tr-garvan-29289",
+      "taux_vacance": 16.15,
+      "nb_log_vacant": 21
+    },
+    {
+      "code_insee": "29014",
+      "nom": "Botsorhel",
+      "slug": "botsorhel-29014",
+      "taux_vacance": 15.77,
+      "nb_log_vacant": 50
+    },
+    {
+      "code_insee": "29122",
+      "nom": "Laz",
+      "slug": "laz-29122",
+      "taux_vacance": 15.51,
+      "nb_log_vacant": 69
+    },
+    {
+      "code_insee": "29267",
+      "nom": "Saint-Thois",
+      "slug": "saint-thois-29267",
+      "taux_vacance": 15.09,
+      "nb_log_vacant": 70
+    },
+    {
+      "code_insee": "29142",
+      "nom": "Lothey",
+      "slug": "lothey-29142",
+      "taux_vacance": 15.08,
+      "nb_log_vacant": 38
+    },
+    {
+      "code_insee": "29222",
+      "nom": "Port-Launay",
+      "slug": "port-launay-29222",
+      "taux_vacance": 14.79,
+      "nb_log_vacant": 46
+    },
+    {
+      "code_insee": "29036",
+      "nom": "Collorec",
+      "slug": "collorec-29036",
+      "taux_vacance": 13.82,
+      "nb_log_vacant": 63
+    },
+    {
+      "code_insee": "29275",
+      "nom": "Scrignac",
+      "slug": "scrignac-29275",
+      "taux_vacance": 13.66,
+      "nb_log_vacant": 109
+    },
+    {
+      "code_insee": "29038",
+      "nom": "Commana",
+      "slug": "commana-29038",
+      "taux_vacance": 13.65,
+      "nb_log_vacant": 92
+    },
+    {
+      "code_insee": "29262",
+      "nom": "Saint-Sauveur",
+      "slug": "saint-sauveur-29262",
+      "taux_vacance": 13.64,
+      "nb_log_vacant": 57
+    },
+    {
+      "code_insee": "29261",
+      "nom": "Saint-Rivoal",
+      "slug": "saint-rivoal-29261",
+      "taux_vacance": 13.42,
+      "nb_log_vacant": 20
+    },
+    {
+      "code_insee": "29211",
+      "nom": "Plouy�",
+      "slug": "plouy-29211",
+      "taux_vacance": 13.35,
+      "nb_log_vacant": 75
+    },
+    {
+      "code_insee": "29250",
+      "nom": "Saint-Hernin",
+      "slug": "saint-hernin-29250",
+      "taux_vacance": 13.35,
+      "nb_log_vacant": 69
+    },
+    {
+      "code_insee": "29249",
+      "nom": "Saint-Goazec",
+      "slug": "saint-goazec-29249",
+      "taux_vacance": 13.24,
+      "nb_log_vacant": 72
+    },
+    {
+      "code_insee": "29114",
+      "nom": "Lann�anou",
+      "slug": "lann-anou-29114",
+      "taux_vacance": 13.04,
+      "nb_log_vacant": 30
+    },
+    {
+      "code_insee": "29033",
+      "nom": "Le Clo�tre-Pleyben",
+      "slug": "le-clo-tre-pleyben-29033",
+      "taux_vacance": 12.97,
+      "nb_log_vacant": 45
+    },
+    {
+      "code_insee": "29175",
+      "nom": "Plon�vez-du-Faou",
+      "slug": "plon-vez-du-faou-29175",
+      "taux_vacance": 12.92,
+      "nb_log_vacant": 193
+    },
+    {
+      "code_insee": "29125",
+      "nom": "Leuhan",
+      "slug": "leuhan-29125",
+      "taux_vacance": 12.87,
+      "nb_log_vacant": 69
+    },
+    {
+      "code_insee": "29018",
+      "nom": "Brennilis",
+      "slug": "brennilis-29018",
+      "taux_vacance": 12.74,
+      "nb_log_vacant": 46
+    },
+    {
+      "code_insee": "29027",
+      "nom": "Ch�teauneuf-du-Faou",
+      "slug": "ch-teauneuf-du-faou-29027",
+      "taux_vacance": 12.34,
+      "nb_log_vacant": 266
+    }
+  ]
+}

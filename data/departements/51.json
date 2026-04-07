@@ -1,0 +1,155 @@
+{
+  "code": "51",
+  "nom": "Marne",
+  "slug": "marne-51",
+  "code_region": "44",
+  "nom_region": "Grand Est",
+  "nb_communes": 610,
+  "nb_log_prive": 177726,
+  "nb_log_vacant": 16051,
+  "nb_log_vacant_2ans": 7646,
+  "taux_vacance": 9.03,
+  "taux_vacance_2ans": 4.3,
+  "top_communes": [
+    {
+      "code_insee": "51191",
+      "nom": "Court�mont",
+      "slug": "court-mont-51191",
+      "taux_vacance": 28.26,
+      "nb_log_vacant": 13
+    },
+    {
+      "code_insee": "51228",
+      "nom": "�lise-Daucourt",
+      "slug": "lise-daucourt-51228",
+      "taux_vacance": 23.53,
+      "nb_log_vacant": 12
+    },
+    {
+      "code_insee": "51272",
+      "nom": "Givry-en-Argonne",
+      "slug": "givry-en-argonne-51272",
+      "taux_vacance": 21.26,
+      "nb_log_vacant": 54
+    },
+    {
+      "code_insee": "51164",
+      "nom": "Connantray-Vaurefroy",
+      "slug": "connantray-vaurefroy-51164",
+      "taux_vacance": 21.25,
+      "nb_log_vacant": 17
+    },
+    {
+      "code_insee": "51442",
+      "nom": "Possesse",
+      "slug": "possesse-51442",
+      "taux_vacance": 20.93,
+      "nb_log_vacant": 18
+    },
+    {
+      "code_insee": "51361",
+      "nom": "Le Meix-Tiercelin",
+      "slug": "le-meix-tiercelin-51361",
+      "taux_vacance": 19.05,
+      "nb_log_vacant": 12
+    },
+    {
+      "code_insee": "51595",
+      "nom": "Vatry",
+      "slug": "vatry-51595",
+      "taux_vacance": 18.03,
+      "nb_log_vacant": 11
+    },
+    {
+      "code_insee": "51535",
+      "nom": "S�zanne",
+      "slug": "s-zanne-51535",
+      "taux_vacance": 15.63,
+      "nb_log_vacant": 374
+    },
+    {
+      "code_insee": "51629",
+      "nom": "Villers-Allerand",
+      "slug": "villers-allerand-51629",
+      "taux_vacance": 15.5,
+      "nb_log_vacant": 75
+    },
+    {
+      "code_insee": "51531",
+      "nom": "Sermaize-les-Bains",
+      "slug": "sermaize-les-bains-51531",
+      "taux_vacance": 15.19,
+      "nb_log_vacant": 149
+    },
+    {
+      "code_insee": "51416",
+      "nom": "Orbais-l'Abbaye",
+      "slug": "orbais-l-abbaye-51416",
+      "taux_vacance": 14.91,
+      "nb_log_vacant": 48
+    },
+    {
+      "code_insee": "51507",
+      "nom": "Sainte-Menehould",
+      "slug": "sainte-menehould-51507",
+      "taux_vacance": 14.69,
+      "nb_log_vacant": 301
+    },
+    {
+      "code_insee": "51457",
+      "nom": "C�ur-de-la-Vall�e",
+      "slug": "c-ur-de-la-vall-e-51457",
+      "taux_vacance": 14.63,
+      "nb_log_vacant": 61
+    },
+    {
+      "code_insee": "51252",
+      "nom": "Fleury-la-Rivi�re",
+      "slug": "fleury-la-rivi-re-51252",
+      "taux_vacance": 14.42,
+      "nb_log_vacant": 45
+    },
+    {
+      "code_insee": "51415",
+      "nom": "Omey",
+      "slug": "omey-51415",
+      "taux_vacance": 13.59,
+      "nb_log_vacant": 14
+    },
+    {
+      "code_insee": "51649",
+      "nom": "Vitry-le-Fran�ois",
+      "slug": "vitry-le-fran-ois-51649",
+      "taux_vacance": 13.57,
+      "nb_log_vacant": 495
+    },
+    {
+      "code_insee": "51580",
+      "nom": "Tr�pail",
+      "slug": "tr-pail-51580",
+      "taux_vacance": 13.48,
+      "nb_log_vacant": 36
+    },
+    {
+      "code_insee": "51027",
+      "nom": "Auve",
+      "slug": "auve-51027",
+      "taux_vacance": 13.39,
+      "nb_log_vacant": 17
+    },
+    {
+      "code_insee": "51077",
+      "nom": "Bouvancourt",
+      "slug": "bouvancourt-51077",
+      "taux_vacance": 13.19,
+      "nb_log_vacant": 12
+    },
+    {
+      "code_insee": "51079",
+      "nom": "Bouzy",
+      "slug": "bouzy-51079",
+      "taux_vacance": 13,
+      "nb_log_vacant": 62
+    }
+  ]
+}

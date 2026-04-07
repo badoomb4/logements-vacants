@@ -1,0 +1,155 @@
+{
+  "code": "79",
+  "nom": "Deux-S�vres",
+  "slug": "deux-s-vres-79",
+  "code_region": "75",
+  "nom_region": "Nouvelle-Aquitaine",
+  "nb_communes": 252,
+  "nb_log_prive": 157088,
+  "nb_log_vacant": 11623,
+  "nb_log_vacant_2ans": 5868,
+  "taux_vacance": 7.4,
+  "taux_vacance_2ans": 3.74,
+  "top_communes": [
+    {
+      "code_insee": "79331",
+      "nom": "Tourtenay",
+      "slug": "tourtenay-79331",
+      "taux_vacance": 22.22,
+      "nb_log_vacant": 24
+    },
+    {
+      "code_insee": "79106",
+      "nom": "Couture-d'Argenson",
+      "slug": "couture-d-argenson-79106",
+      "taux_vacance": 16.79,
+      "nb_log_vacant": 44
+    },
+    {
+      "code_insee": "79141",
+      "nom": "Irais",
+      "slug": "irais-79141",
+      "taux_vacance": 15.15,
+      "nb_log_vacant": 20
+    },
+    {
+      "code_insee": "79326",
+      "nom": "Th�nezay",
+      "slug": "th-nezay-79326",
+      "taux_vacance": 13.9,
+      "nb_log_vacant": 108
+    },
+    {
+      "code_insee": "79115",
+      "nom": "Exoudun",
+      "slug": "exoudun-79115",
+      "taux_vacance": 13.57,
+      "nb_log_vacant": 46
+    },
+    {
+      "code_insee": "79120",
+      "nom": "La Ferri�re-en-Parthenay",
+      "slug": "la-ferri-re-en-parthenay-79120",
+      "taux_vacance": 12.89,
+      "nb_log_vacant": 54
+    },
+    {
+      "code_insee": "79001",
+      "nom": "L'Absie",
+      "slug": "l-absie-79001",
+      "taux_vacance": 12.84,
+      "nb_log_vacant": 76
+    },
+    {
+      "code_insee": "79311",
+      "nom": "Secondigny",
+      "slug": "secondigny-79311",
+      "taux_vacance": 12.63,
+      "nb_log_vacant": 126
+    },
+    {
+      "code_insee": "79268",
+      "nom": "Saint-Loup-Lamair�",
+      "slug": "saint-loup-lamair-79268",
+      "taux_vacance": 11.86,
+      "nb_log_vacant": 76
+    },
+    {
+      "code_insee": "79059",
+      "nom": "Le Busseau",
+      "slug": "le-busseau-79059",
+      "taux_vacance": 11.62,
+      "nb_log_vacant": 51
+    },
+    {
+      "code_insee": "79005",
+      "nom": "Airvault",
+      "slug": "airvault-79005",
+      "taux_vacance": 11.4,
+      "nb_log_vacant": 203
+    },
+    {
+      "code_insee": "79196",
+      "nom": "Plaine-et-Vall�es",
+      "slug": "plaine-et-vall-es-79196",
+      "taux_vacance": 11.37,
+      "nb_log_vacant": 154
+    },
+    {
+      "code_insee": "79258",
+      "nom": "Saint-Jacques-de-Thouars",
+      "slug": "saint-jacques-de-thouars-79258",
+      "taux_vacance": 11.36,
+      "nb_log_vacant": 25
+    },
+    {
+      "code_insee": "79077",
+      "nom": "Beugnon-Thireuil",
+      "slug": "beugnon-thireuil-79077",
+      "taux_vacance": 11.13,
+      "nb_log_vacant": 53
+    },
+    {
+      "code_insee": "79280",
+      "nom": "Saint Maurice �tusson",
+      "slug": "saint-maurice-tusson-79280",
+      "taux_vacance": 11.09,
+      "nb_log_vacant": 49
+    },
+    {
+      "code_insee": "79029",
+      "nom": "Beaulieu-sous-Parthenay",
+      "slug": "beaulieu-sous-parthenay-79029",
+      "taux_vacance": 11.08,
+      "nb_log_vacant": 37
+    },
+    {
+      "code_insee": "79336",
+      "nom": "Van�ais",
+      "slug": "van-ais-79336",
+      "taux_vacance": 11.04,
+      "nb_log_vacant": 18
+    },
+    {
+      "code_insee": "79343",
+      "nom": "Vernoux-sur-Boutonne",
+      "slug": "vernoux-sur-boutonne-79343",
+      "taux_vacance": 11.02,
+      "nb_log_vacant": 14
+    },
+    {
+      "code_insee": "79136",
+      "nom": "Alloinay",
+      "slug": "alloinay-79136",
+      "taux_vacance": 10.89,
+      "nb_log_vacant": 59
+    },
+    {
+      "code_insee": "79316",
+      "nom": "Soudan",
+      "slug": "soudan-79316",
+      "taux_vacance": 10.85,
+      "nb_log_vacant": 23
+    }
+  ]
+}

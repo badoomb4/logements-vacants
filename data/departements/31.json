@@ -1,0 +1,155 @@
+{
+  "code": "31",
+  "nom": "Haute-Garonne",
+  "slug": "haute-garonne-31",
+  "code_region": "76",
+  "nom_region": "Occitanie",
+  "nb_communes": 586,
+  "nb_log_prive": 641999,
+  "nb_log_vacant": 37827,
+  "nb_log_vacant_2ans": 15275,
+  "taux_vacance": 5.89,
+  "taux_vacance_2ans": 2.38,
+  "top_communes": [
+    {
+      "code_insee": "31471",
+      "nom": "Saint-B�at-Lez",
+      "slug": "saint-b-at-lez-31471",
+      "taux_vacance": 22.29,
+      "nb_log_vacant": 115
+    },
+    {
+      "code_insee": "31390",
+      "nom": "Montr�jeau",
+      "slug": "montr-jeau-31390",
+      "taux_vacance": 21.47,
+      "nb_log_vacant": 399
+    },
+    {
+      "code_insee": "31523",
+      "nom": "Salies-du-Salat",
+      "slug": "salies-du-salat-31523",
+      "taux_vacance": 20.23,
+      "nb_log_vacant": 232
+    },
+    {
+      "code_insee": "31564",
+      "nom": "Valcabr�re",
+      "slug": "valcabr-re-31564",
+      "taux_vacance": 18.56,
+      "nb_log_vacant": 18
+    },
+    {
+      "code_insee": "31362",
+      "nom": "Montberaud",
+      "slug": "montberaud-31362",
+      "taux_vacance": 17.16,
+      "nb_log_vacant": 23
+    },
+    {
+      "code_insee": "31080",
+      "nom": "Boulogne-sur-Gesse",
+      "slug": "boulogne-sur-gesse-31080",
+      "taux_vacance": 16.42,
+      "nb_log_vacant": 147
+    },
+    {
+      "code_insee": "31565",
+      "nom": "Valentine",
+      "slug": "valentine-31565",
+      "taux_vacance": 16,
+      "nb_log_vacant": 84
+    },
+    {
+      "code_insee": "31020",
+      "nom": "Aspet",
+      "slug": "aspet-31020",
+      "taux_vacance": 15.53,
+      "nb_log_vacant": 123
+    },
+    {
+      "code_insee": "31503",
+      "nom": "Saint-Martory",
+      "slug": "saint-martory-31503",
+      "taux_vacance": 15.47,
+      "nb_log_vacant": 88
+    },
+    {
+      "code_insee": "31483",
+      "nom": "Saint-Gaudens",
+      "slug": "saint-gaudens-31483",
+      "taux_vacance": 14.24,
+      "nb_log_vacant": 1014
+    },
+    {
+      "code_insee": "31239",
+      "nom": "L'Isle-en-Dodon",
+      "slug": "l-isle-en-dodon-31239",
+      "taux_vacance": 13.68,
+      "nb_log_vacant": 154
+    },
+    {
+      "code_insee": "31552",
+      "nom": "Terrebasse",
+      "slug": "terrebasse-31552",
+      "taux_vacance": 13.58,
+      "nb_log_vacant": 11
+    },
+    {
+      "code_insee": "31344",
+      "nom": "Miramont-de-Comminges",
+      "slug": "miramont-de-comminges-31344",
+      "taux_vacance": 13.57,
+      "nb_log_vacant": 62
+    },
+    {
+      "code_insee": "31224",
+      "nom": "Gourdan-Polignan",
+      "slug": "gourdan-polignan-31224",
+      "taux_vacance": 12.66,
+      "nb_log_vacant": 101
+    },
+    {
+      "code_insee": "31070",
+      "nom": "Blajan",
+      "slug": "blajan-31070",
+      "taux_vacance": 11.83,
+      "nb_log_vacant": 33
+    },
+    {
+      "code_insee": "31315",
+      "nom": "Mane",
+      "slug": "mane-31315",
+      "taux_vacance": 11.78,
+      "nb_log_vacant": 65
+    },
+    {
+      "code_insee": "31538",
+      "nom": "Sav�res",
+      "slug": "sav-res-31538",
+      "taux_vacance": 11.76,
+      "nb_log_vacant": 12
+    },
+    {
+      "code_insee": "31028",
+      "nom": "Aurignac",
+      "slug": "aurignac-31028",
+      "taux_vacance": 11.73,
+      "nb_log_vacant": 80
+    },
+    {
+      "code_insee": "31246",
+      "nom": "Labarthe-Inard",
+      "slug": "labarthe-inard-31246",
+      "taux_vacance": 11.5,
+      "nb_log_vacant": 52
+    },
+    {
+      "code_insee": "31457",
+      "nom": "Roquefort-sur-Garonne",
+      "slug": "roquefort-sur-garonne-31457",
+      "taux_vacance": 11.26,
+      "nb_log_vacant": 51
+    }
+  ]
+}

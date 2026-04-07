@@ -1,0 +1,155 @@
+{
+  "code": "95",
+  "nom": "Val-d'Oise",
+  "slug": "val-d-oise-95",
+  "code_region": "11",
+  "nom_region": "�le-de-France",
+  "nb_communes": 183,
+  "nb_log_prive": 400341,
+  "nb_log_vacant": 19816,
+  "nb_log_vacant_2ans": 9757,
+  "taux_vacance": 4.95,
+  "taux_vacance_2ans": 2.44,
+  "top_communes": [
+    {
+      "code_insee": "95651",
+      "nom": "V�theuil",
+      "slug": "v-theuil-95651",
+      "taux_vacance": 9.77,
+      "nb_log_vacant": 51
+    },
+    {
+      "code_insee": "95008",
+      "nom": "Aincourt",
+      "slug": "aincourt-95008",
+      "taux_vacance": 9.44,
+      "nb_log_vacant": 34
+    },
+    {
+      "code_insee": "95355",
+      "nom": "Magny-en-Vexin",
+      "slug": "magny-en-vexin-95355",
+      "taux_vacance": 9.11,
+      "nb_log_vacant": 186
+    },
+    {
+      "code_insee": "95566",
+      "nom": "Saint-Martin-du-Tertre",
+      "slug": "saint-martin-du-tertre-95566",
+      "taux_vacance": 8.86,
+      "nb_log_vacant": 78
+    },
+    {
+      "code_insee": "95052",
+      "nom": "Beaumont-sur-Oise",
+      "slug": "beaumont-sur-oise-95052",
+      "taux_vacance": 8.81,
+      "nb_log_vacant": 335
+    },
+    {
+      "code_insee": "95459",
+      "nom": "Nucourt",
+      "slug": "nucourt-95459",
+      "taux_vacance": 8.5,
+      "nb_log_vacant": 25
+    },
+    {
+      "code_insee": "95456",
+      "nom": "Noisy-sur-Oise",
+      "slug": "noisy-sur-oise-95456",
+      "taux_vacance": 8.33,
+      "nb_log_vacant": 26
+    },
+    {
+      "code_insee": "95541",
+      "nom": "Saint-Clair-sur-Epte",
+      "slug": "saint-clair-sur-epte-95541",
+      "taux_vacance": 7.89,
+      "nb_log_vacant": 27
+    },
+    {
+      "code_insee": "95523",
+      "nom": "La Roche-Guyon",
+      "slug": "la-roche-guyon-95523",
+      "taux_vacance": 7.87,
+      "nb_log_vacant": 20
+    },
+    {
+      "code_insee": "95365",
+      "nom": "Mareil-en-France",
+      "slug": "mareil-en-france-95365",
+      "taux_vacance": 7.85,
+      "nb_log_vacant": 23
+    },
+    {
+      "code_insee": "95527",
+      "nom": "Roissy-en-France",
+      "slug": "roissy-en-france-95527",
+      "taux_vacance": 7.8,
+      "nb_log_vacant": 73
+    },
+    {
+      "code_insee": "95680",
+      "nom": "Villiers-le-Bel",
+      "slug": "villiers-le-bel-95680",
+      "taux_vacance": 7.77,
+      "nb_log_vacant": 457
+    },
+    {
+      "code_insee": "95487",
+      "nom": "Persan",
+      "slug": "persan-95487",
+      "taux_vacance": 7.49,
+      "nb_log_vacant": 274
+    },
+    {
+      "code_insee": "95210",
+      "nom": "Enghien-les-Bains",
+      "slug": "enghien-les-bains-95210",
+      "taux_vacance": 7.42,
+      "nb_log_vacant": 419
+    },
+    {
+      "code_insee": "95142",
+      "nom": "Chars",
+      "slug": "chars-95142",
+      "taux_vacance": 7.27,
+      "nb_log_vacant": 59
+    },
+    {
+      "code_insee": "95014",
+      "nom": "Andilly",
+      "slug": "andilly-95014",
+      "taux_vacance": 7.18,
+      "nb_log_vacant": 62
+    },
+    {
+      "code_insee": "95063",
+      "nom": "Bezons",
+      "slug": "bezons-95063",
+      "taux_vacance": 7.07,
+      "nb_log_vacant": 770
+    },
+    {
+      "code_insee": "95370",
+      "nom": "Marines",
+      "slug": "marines-95370",
+      "taux_vacance": 6.93,
+      "nb_log_vacant": 98
+    },
+    {
+      "code_insee": "95500",
+      "nom": "Pontoise",
+      "slug": "pontoise-95500",
+      "taux_vacance": 6.89,
+      "nb_log_vacant": 731
+    },
+    {
+      "code_insee": "95409",
+      "nom": "Moisselles",
+      "slug": "moisselles-95409",
+      "taux_vacance": 6.86,
+      "nb_log_vacant": 38
+    }
+  ]
+}

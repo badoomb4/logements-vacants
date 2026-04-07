@@ -1,0 +1,155 @@
+{
+  "code": "49",
+  "nom": "Maine-et-Loire",
+  "slug": "maine-et-loire-49",
+  "code_region": "52",
+  "nom_region": "Pays de la Loire",
+  "nb_communes": 176,
+  "nb_log_prive": 347080,
+  "nb_log_vacant": 18674,
+  "nb_log_vacant_2ans": 8979,
+  "taux_vacance": 5.38,
+  "taux_vacance_2ans": 2.59,
+  "top_communes": [
+    {
+      "code_insee": "49221",
+      "nom": "Mouliherne",
+      "slug": "mouliherne-49221",
+      "taux_vacance": 13.47,
+      "nb_log_vacant": 73
+    },
+    {
+      "code_insee": "49228",
+      "nom": "Noyant-Villages",
+      "slug": "noyant-villages-49228",
+      "taux_vacance": 12.53,
+      "nb_log_vacant": 416
+    },
+    {
+      "code_insee": "49121",
+      "nom": "D�nez�-sous-Dou�",
+      "slug": "d-nez-sous-dou-49121",
+      "taux_vacance": 11.45,
+      "nb_log_vacant": 26
+    },
+    {
+      "code_insee": "49178",
+      "nom": "Loir�",
+      "slug": "loir-49178",
+      "taux_vacance": 11.17,
+      "nb_log_vacant": 46
+    },
+    {
+      "code_insee": "49140",
+      "nom": "Fontevraud-l'Abbaye",
+      "slug": "fontevraud-l-abbaye-49140",
+      "taux_vacance": 10.89,
+      "nb_log_vacant": 60
+    },
+    {
+      "code_insee": "49061",
+      "nom": "Challain-la-Potherie",
+      "slug": "challain-la-potherie-49061",
+      "taux_vacance": 10.81,
+      "nb_log_vacant": 44
+    },
+    {
+      "code_insee": "49102",
+      "nom": "Cl�r�-sur-Layon",
+      "slug": "cl-r-sur-layon-49102",
+      "taux_vacance": 10.71,
+      "nb_log_vacant": 18
+    },
+    {
+      "code_insee": "49369",
+      "nom": "Vernoil-le-Fourrier",
+      "slug": "vernoil-le-fourrier-49369",
+      "taux_vacance": 10.66,
+      "nb_log_vacant": 77
+    },
+    {
+      "code_insee": "49219",
+      "nom": "Montsoreau",
+      "slug": "montsoreau-49219",
+      "taux_vacance": 10.53,
+      "nb_log_vacant": 36
+    },
+    {
+      "code_insee": "49067",
+      "nom": "Chenill�-Champteuss�",
+      "slug": "chenill-champteuss-49067",
+      "taux_vacance": 10.26,
+      "nb_log_vacant": 16
+    },
+    {
+      "code_insee": "49018",
+      "nom": "Baug�-en-Anjou",
+      "slug": "baug-en-anjou-49018",
+      "taux_vacance": 10.21,
+      "nb_log_vacant": 571
+    },
+    {
+      "code_insee": "49341",
+      "nom": "Souzay-Champigny",
+      "slug": "souzay-champigny-49341",
+      "taux_vacance": 10.08,
+      "nb_log_vacant": 38
+    },
+    {
+      "code_insee": "49012",
+      "nom": "Aubign�-sur-Layon",
+      "slug": "aubign-sur-layon-49012",
+      "taux_vacance": 9.76,
+      "nb_log_vacant": 16
+    },
+    {
+      "code_insee": "49127",
+      "nom": "Durtal",
+      "slug": "durtal-49127",
+      "taux_vacance": 9.71,
+      "nb_log_vacant": 149
+    },
+    {
+      "code_insee": "49334",
+      "nom": "Sermaise",
+      "slug": "sermaise-49334",
+      "taux_vacance": 9.68,
+      "nb_log_vacant": 15
+    },
+    {
+      "code_insee": "49368",
+      "nom": "Vernantes",
+      "slug": "vernantes-49368",
+      "taux_vacance": 9.57,
+      "nb_log_vacant": 90
+    },
+    {
+      "code_insee": "49180",
+      "nom": "Longu�-Jumelles",
+      "slug": "longu-jumelles-49180",
+      "taux_vacance": 9.54,
+      "nb_log_vacant": 274
+    },
+    {
+      "code_insee": "49310",
+      "nom": "Saint-Paul-du-Bois",
+      "slug": "saint-paul-du-bois-49310",
+      "taux_vacance": 9.51,
+      "nb_log_vacant": 27
+    },
+    {
+      "code_insee": "49064",
+      "nom": "Chambellay",
+      "slug": "chambellay-49064",
+      "taux_vacance": 9.39,
+      "nb_log_vacant": 20
+    },
+    {
+      "code_insee": "49045",
+      "nom": "La Breille-les-Pins",
+      "slug": "la-breille-les-pins-49045",
+      "taux_vacance": 9.23,
+      "nb_log_vacant": 25
+    }
+  ]
+}

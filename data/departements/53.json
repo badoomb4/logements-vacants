@@ -1,0 +1,155 @@
+{
+  "code": "53",
+  "nom": "Mayenne",
+  "slug": "mayenne-53",
+  "code_region": "52",
+  "nom_region": "Pays de la Loire",
+  "nb_communes": 240,
+  "nb_log_prive": 128446,
+  "nb_log_vacant": 9851,
+  "nb_log_vacant_2ans": 5050,
+  "taux_vacance": 7.67,
+  "taux_vacance_2ans": 3.93,
+  "top_communes": [
+    {
+      "code_insee": "53223",
+      "nom": "Saint-Germain-de-Coulamer",
+      "slug": "saint-germain-de-coulamer-53223",
+      "taux_vacance": 18.41,
+      "nb_log_vacant": 51
+    },
+    {
+      "code_insee": "53132",
+      "nom": "Levar�",
+      "slug": "levar-53132",
+      "taux_vacance": 17.24,
+      "nb_log_vacant": 30
+    },
+    {
+      "code_insee": "53057",
+      "nom": "La Chapelle-au-Riboul",
+      "slug": "la-chapelle-au-riboul-53057",
+      "taux_vacance": 16.26,
+      "nb_log_vacant": 47
+    },
+    {
+      "code_insee": "53139",
+      "nom": "Loupfoug�res",
+      "slug": "loupfoug-res-53139",
+      "taux_vacance": 16.19,
+      "nb_log_vacant": 40
+    },
+    {
+      "code_insee": "53204",
+      "nom": "Saint-Calais-du-D�sert",
+      "slug": "saint-calais-du-d-sert-53204",
+      "taux_vacance": 16.14,
+      "nb_log_vacant": 46
+    },
+    {
+      "code_insee": "53164",
+      "nom": "Neuilly-le-Vendin",
+      "slug": "neuilly-le-vendin-53164",
+      "taux_vacance": 15.16,
+      "nb_log_vacant": 47
+    },
+    {
+      "code_insee": "53120",
+      "nom": "Iz�",
+      "slug": "iz-53120",
+      "taux_vacance": 15.03,
+      "nb_log_vacant": 46
+    },
+    {
+      "code_insee": "53133",
+      "nom": "Ligni�res-Org�res",
+      "slug": "ligni-res-org-res-53133",
+      "taux_vacance": 14.9,
+      "nb_log_vacant": 80
+    },
+    {
+      "code_insee": "53257",
+      "nom": "Saulges",
+      "slug": "saulges-53257",
+      "taux_vacance": 14.69,
+      "nb_log_vacant": 26
+    },
+    {
+      "code_insee": "53126",
+      "nom": "Larchamp",
+      "slug": "larchamp-53126",
+      "taux_vacance": 14.46,
+      "nb_log_vacant": 82
+    },
+    {
+      "code_insee": "53053",
+      "nom": "Champgen�teux",
+      "slug": "champgen-teux-53053",
+      "taux_vacance": 14.45,
+      "nb_log_vacant": 51
+    },
+    {
+      "code_insee": "53185",
+      "nom": "Pr�-en-Pail-Saint-Samson",
+      "slug": "pr-en-pail-saint-samson-53185",
+      "taux_vacance": 14.45,
+      "nb_log_vacant": 214
+    },
+    {
+      "code_insee": "53013",
+      "nom": "Averton",
+      "slug": "averton-53013",
+      "taux_vacance": 14.04,
+      "nb_log_vacant": 49
+    },
+    {
+      "code_insee": "53083",
+      "nom": "Courcit�",
+      "slug": "courcit-53083",
+      "taux_vacance": 13.78,
+      "nb_log_vacant": 70
+    },
+    {
+      "code_insee": "53190",
+      "nom": "Le Ribay",
+      "slug": "le-ribay-53190",
+      "taux_vacance": 13.77,
+      "nb_log_vacant": 34
+    },
+    {
+      "code_insee": "53238",
+      "nom": "Saint-Mars-sur-la-Futaie",
+      "slug": "saint-mars-sur-la-futaie-53238",
+      "taux_vacance": 13.74,
+      "nb_log_vacant": 50
+    },
+    {
+      "code_insee": "53121",
+      "nom": "Javron-les-Chapelles",
+      "slug": "javron-les-chapelles-53121",
+      "taux_vacance": 13.58,
+      "nb_log_vacant": 118
+    },
+    {
+      "code_insee": "53125",
+      "nom": "Landivy",
+      "slug": "landivy-53125",
+      "taux_vacance": 13.56,
+      "nb_log_vacant": 86
+    },
+    {
+      "code_insee": "53249",
+      "nom": "Vimartin-sur-Orthe",
+      "slug": "vimartin-sur-orthe-53249",
+      "taux_vacance": 12.67,
+      "nb_log_vacant": 104
+    },
+    {
+      "code_insee": "53230",
+      "nom": "Saint-Julien-du-Terroux",
+      "slug": "saint-julien-du-terroux-53230",
+      "taux_vacance": 12.43,
+      "nb_log_vacant": 22
+    }
+  ]
+}

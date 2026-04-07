@@ -1,0 +1,155 @@
+{
+  "code": "10",
+  "nom": "Aube",
+  "slug": "aube-10",
+  "code_region": "44",
+  "nom_region": "Grand Est",
+  "nb_communes": 431,
+  "nb_log_prive": 102410,
+  "nb_log_vacant": 10952,
+  "nb_log_vacant_2ans": 5636,
+  "taux_vacance": 10.69,
+  "taux_vacance_2ans": 5.5,
+  "top_communes": [
+    {
+      "code_insee": "10137",
+      "nom": "Engente",
+      "slug": "engente-10137",
+      "taux_vacance": 40.74,
+      "nb_log_vacant": 11
+    },
+    {
+      "code_insee": "10202",
+      "nom": "Les Loges-Margueron",
+      "slug": "les-loges-margueron-10202",
+      "taux_vacance": 26.67,
+      "nb_log_vacant": 32
+    },
+    {
+      "code_insee": "10369",
+      "nom": "Semoine",
+      "slug": "semoine-10369",
+      "taux_vacance": 26.36,
+      "nb_log_vacant": 29
+    },
+    {
+      "code_insee": "10022",
+      "nom": "Avirey-Lingey",
+      "slug": "avirey-lingey-10022",
+      "taux_vacance": 24.44,
+      "nb_log_vacant": 44
+    },
+    {
+      "code_insee": "10261",
+      "nom": "Mussy-sur-Seine",
+      "slug": "mussy-sur-seine-10261",
+      "taux_vacance": 24.27,
+      "nb_log_vacant": 141
+    },
+    {
+      "code_insee": "10264",
+      "nom": "No�-les-Mallets",
+      "slug": "no-les-mallets-10264",
+      "taux_vacance": 22.09,
+      "nb_log_vacant": 19
+    },
+    {
+      "code_insee": "10317",
+      "nom": "Les Riceys",
+      "slug": "les-riceys-10317",
+      "taux_vacance": 20.69,
+      "nb_log_vacant": 179
+    },
+    {
+      "code_insee": "10111",
+      "nom": "Courteron",
+      "slug": "courteron-10111",
+      "taux_vacance": 20.37,
+      "nb_log_vacant": 22
+    },
+    {
+      "code_insee": "10141",
+      "nom": "Essoyes",
+      "slug": "essoyes-10141",
+      "taux_vacance": 20.23,
+      "nb_log_vacant": 104
+    },
+    {
+      "code_insee": "10140",
+      "nom": "Ervy-le-Ch�tel",
+      "slug": "ervy-le-ch-tel-10140",
+      "taux_vacance": 20.07,
+      "nb_log_vacant": 113
+    },
+    {
+      "code_insee": "10033",
+      "nom": "Bar-sur-Aube",
+      "slug": "bar-sur-aube-10033",
+      "taux_vacance": 19.47,
+      "nb_log_vacant": 395
+    },
+    {
+      "code_insee": "10040",
+      "nom": "Bernon",
+      "slug": "bernon-10040",
+      "taux_vacance": 19.2,
+      "nb_log_vacant": 24
+    },
+    {
+      "code_insee": "10011",
+      "nom": "Arrenti�res",
+      "slug": "arrenti-res-10011",
+      "taux_vacance": 18.87,
+      "nb_log_vacant": 30
+    },
+    {
+      "code_insee": "10080",
+      "nom": "Chaource",
+      "slug": "chaource-10080",
+      "taux_vacance": 18.23,
+      "nb_log_vacant": 99
+    },
+    {
+      "code_insee": "10386",
+      "nom": "Trouans",
+      "slug": "trouans-10386",
+      "taux_vacance": 17.59,
+      "nb_log_vacant": 19
+    },
+    {
+      "code_insee": "10335",
+      "nom": "Saint-Benoist-sur-Vanne",
+      "slug": "saint-benoist-sur-vanne-10335",
+      "taux_vacance": 17.36,
+      "nb_log_vacant": 25
+    },
+    {
+      "code_insee": "10414",
+      "nom": "Villeloup",
+      "slug": "villeloup-10414",
+      "taux_vacance": 17.33,
+      "nb_log_vacant": 13
+    },
+    {
+      "code_insee": "10312",
+      "nom": "Racines",
+      "slug": "racines-10312",
+      "taux_vacance": 17.31,
+      "nb_log_vacant": 18
+    },
+    {
+      "code_insee": "10313",
+      "nom": "Radonvilliers",
+      "slug": "radonvilliers-10313",
+      "taux_vacance": 16.08,
+      "nb_log_vacant": 32
+    },
+    {
+      "code_insee": "10094",
+      "nom": "Chavanges",
+      "slug": "chavanges-10094",
+      "taux_vacance": 16.04,
+      "nb_log_vacant": 47
+    }
+  ]
+}

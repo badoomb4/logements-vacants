@@ -1,0 +1,48 @@
+{
+  "code": "28",
+  "nom": "Normandie",
+  "slug": "normandie",
+  "nb_communes": 2644,
+  "nb_log_prive": 1249135,
+  "nb_log_vacant": 88851,
+  "nb_log_vacant_2ans": 43353,
+  "taux_vacance": 7.11,
+  "taux_vacance_2ans": 3.47,
+  "departements": [
+    {
+      "code": "61",
+      "nom": "Orne",
+      "slug": "orne-61",
+      "taux_vacance": 10.33,
+      "nb_log_vacant": 11745
+    },
+    {
+      "code": "50",
+      "nom": "Manche",
+      "slug": "manche-50",
+      "taux_vacance": 7.21,
+      "nb_log_vacant": 15389
+    },
+    {
+      "code": "76",
+      "nom": "Seine-Maritime",
+      "slug": "seine-maritime-76",
+      "taux_vacance": 7.13,
+      "nb_log_vacant": 30854
+    },
+    {
+      "code": "27",
+      "nom": "Eure",
+      "slug": "eure-27",
+      "taux_vacance": 7.07,
+      "nb_log_vacant": 12652
+    },
+    {
+      "code": "14",
+      "nom": "Calvados",
+      "slug": "calvados-14",
+      "taux_vacance": 5.87,
+      "nb_log_vacant": 18211
+    }
+  ]
+}

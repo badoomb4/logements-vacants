@@ -1,0 +1,155 @@
+{
+  "code": "68",
+  "nom": "Haut-Rhin",
+  "slug": "haut-rhin-68",
+  "code_region": "44",
+  "nom_region": "Grand Est",
+  "nb_communes": 366,
+  "nb_log_prive": 288169,
+  "nb_log_vacant": 22947,
+  "nb_log_vacant_2ans": 12774,
+  "taux_vacance": 7.96,
+  "taux_vacance_2ans": 4.43,
+  "top_communes": [
+    {
+      "code_insee": "68298",
+      "nom": "Sainte-Marie-aux-Mines",
+      "slug": "sainte-marie-aux-mines-68298",
+      "taux_vacance": 20.61,
+      "nb_log_vacant": 511
+    },
+    {
+      "code_insee": "68253",
+      "nom": "Ottmarsheim",
+      "slug": "ottmarsheim-68253",
+      "taux_vacance": 17.9,
+      "nb_log_vacant": 176
+    },
+    {
+      "code_insee": "68277",
+      "nom": "Riquewihr",
+      "slug": "riquewihr-68277",
+      "taux_vacance": 15.81,
+      "nb_log_vacant": 139
+    },
+    {
+      "code_insee": "68090",
+      "nom": "Ferrette",
+      "slug": "ferrette-68090",
+      "taux_vacance": 13.53,
+      "nb_log_vacant": 59
+    },
+    {
+      "code_insee": "68231",
+      "nom": "Neuf-Brisach",
+      "slug": "neuf-brisach-68231",
+      "taux_vacance": 12.82,
+      "nb_log_vacant": 115
+    },
+    {
+      "code_insee": "68294",
+      "nom": "Sainte-Croix-aux-Mines",
+      "slug": "sainte-croix-aux-mines-68294",
+      "taux_vacance": 12.7,
+      "nb_log_vacant": 134
+    },
+    {
+      "code_insee": "68165",
+      "nom": "Kiffis",
+      "slug": "kiffis-68165",
+      "taux_vacance": 12.42,
+      "nb_log_vacant": 19
+    },
+    {
+      "code_insee": "68111",
+      "nom": "Gueberschwihr",
+      "slug": "gueberschwihr-68111",
+      "taux_vacance": 12.34,
+      "nb_log_vacant": 57
+    },
+    {
+      "code_insee": "68201",
+      "nom": "Masevaux-Niederbruck",
+      "slug": "masevaux-niederbruck-68201",
+      "taux_vacance": 12.1,
+      "nb_log_vacant": 230
+    },
+    {
+      "code_insee": "68224",
+      "nom": "Mulhouse",
+      "slug": "mulhouse-68224",
+      "taux_vacance": 12.05,
+      "nb_log_vacant": 5514
+    },
+    {
+      "code_insee": "68269",
+      "nom": "Ribeauvill�",
+      "slug": "ribeauvill-68269",
+      "taux_vacance": 11.85,
+      "nb_log_vacant": 296
+    },
+    {
+      "code_insee": "68078",
+      "nom": "Eguisheim",
+      "slug": "eguisheim-68078",
+      "taux_vacance": 11.72,
+      "nb_log_vacant": 130
+    },
+    {
+      "code_insee": "68051",
+      "nom": "Breitenbach-Haut-Rhin",
+      "slug": "breitenbach-haut-rhin-68051",
+      "taux_vacance": 11.68,
+      "nb_log_vacant": 66
+    },
+    {
+      "code_insee": "68334",
+      "nom": "Thann",
+      "slug": "thann-68334",
+      "taux_vacance": 11.53,
+      "nb_log_vacant": 425
+    },
+    {
+      "code_insee": "68296",
+      "nom": "Saint-Hippolyte",
+      "slug": "saint-hippolyte-68296",
+      "taux_vacance": 11.17,
+      "nb_log_vacant": 64
+    },
+    {
+      "code_insee": "68226",
+      "nom": "Munster",
+      "slug": "munster-68226",
+      "taux_vacance": 10.71,
+      "nb_log_vacant": 275
+    },
+    {
+      "code_insee": "68181",
+      "nom": "Levoncourt",
+      "slug": "levoncourt-68181",
+      "taux_vacance": 10.62,
+      "nb_log_vacant": 12
+    },
+    {
+      "code_insee": "68257",
+      "nom": "Pfetterhouse",
+      "slug": "pfetterhouse-68257",
+      "taux_vacance": 10.38,
+      "nb_log_vacant": 54
+    },
+    {
+      "code_insee": "68138",
+      "nom": "Hirsingue",
+      "slug": "hirsingue-68138",
+      "taux_vacance": 9.79,
+      "nb_log_vacant": 101
+    },
+    {
+      "code_insee": "68249",
+      "nom": "Orbey",
+      "slug": "orbey-68249",
+      "taux_vacance": 9.74,
+      "nb_log_vacant": 204
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "code": "15",
+  "nom": "Cantal",
+  "slug": "cantal-15",
+  "code_region": "84",
+  "nom_region": "Auvergne-Rh�ne-Alpes",
+  "nb_communes": 250,
+  "nb_log_prive": 75446,
+  "nb_log_vacant": 8533,
+  "nb_log_vacant_2ans": 4860,
+  "taux_vacance": 11.31,
+  "taux_vacance_2ans": 6.44,
+  "top_communes": [
+    {
+      "code_insee": "15043",
+      "nom": "Charmensac",
+      "slug": "charmensac-15043",
+      "taux_vacance": 29.73,
+      "nb_log_vacant": 22
+    },
+    {
+      "code_insee": "15094",
+      "nom": "Laroquebrou",
+      "slug": "laroquebrou-15094",
+      "taux_vacance": 19.6,
+      "nb_log_vacant": 119
+    },
+    {
+      "code_insee": "15054",
+      "nom": "Condat",
+      "slug": "condat-15054",
+      "taux_vacance": 19.37,
+      "nb_log_vacant": 154
+    },
+    {
+      "code_insee": "15165",
+      "nom": "Rouffiac",
+      "slug": "rouffiac-15165",
+      "taux_vacance": 19.28,
+      "nb_log_vacant": 32
+    },
+    {
+      "code_insee": "15219",
+      "nom": "Salers",
+      "slug": "salers-15219",
+      "taux_vacance": 18.71,
+      "nb_log_vacant": 52
+    },
+    {
+      "code_insee": "15122",
+      "nom": "Maurs",
+      "slug": "maurs-15122",
+      "taux_vacance": 17.5,
+      "nb_log_vacant": 263
+    },
+    {
+      "code_insee": "15120",
+      "nom": "Mauriac",
+      "slug": "mauriac-15120",
+      "taux_vacance": 17.34,
+      "nb_log_vacant": 385
+    },
+    {
+      "code_insee": "15206",
+      "nom": "Saint-Pierre",
+      "slug": "saint-pierre-15206",
+      "taux_vacance": 17.24,
+      "nb_log_vacant": 15
+    },
+    {
+      "code_insee": "15104",
+      "nom": "Leynhac",
+      "slug": "leynhac-15104",
+      "taux_vacance": 17.07,
+      "nb_log_vacant": 42
+    },
+    {
+      "code_insee": "15045",
+      "nom": "Chaudes-Aigues",
+      "slug": "chaudes-aigues-15045",
+      "taux_vacance": 16.65,
+      "nb_log_vacant": 137
+    },
+    {
+      "code_insee": "15213",
+      "nom": "Saint-Saturnin",
+      "slug": "saint-saturnin-15213",
+      "taux_vacance": 16.6,
+      "nb_log_vacant": 40
+    },
+    {
+      "code_insee": "15243",
+      "nom": "Trizac",
+      "slug": "trizac-15243",
+      "taux_vacance": 16.5,
+      "nb_log_vacant": 81
+    },
+    {
+      "code_insee": "15138",
+      "nom": "Murat",
+      "slug": "murat-15138",
+      "taux_vacance": 16.35,
+      "nb_log_vacant": 214
+    },
+    {
+      "code_insee": "15076",
+      "nom": "Gl�nat",
+      "slug": "gl-nat-15076",
+      "taux_vacance": 15.85,
+      "nb_log_vacant": 29
+    },
+    {
+      "code_insee": "15170",
+      "nom": "Saint-Amandin",
+      "slug": "saint-amandin-15170",
+      "taux_vacance": 15.59,
+      "nb_log_vacant": 41
+    },
+    {
+      "code_insee": "15187",
+      "nom": "Saint-Flour",
+      "slug": "saint-flour-15187",
+      "taux_vacance": 15.48,
+      "nb_log_vacant": 575
+    },
+    {
+      "code_insee": "15042",
+      "nom": "La Chapelle-Laurent",
+      "slug": "la-chapelle-laurent-15042",
+      "taux_vacance": 15.35,
+      "nb_log_vacant": 33
+    },
+    {
+      "code_insee": "15001",
+      "nom": "Allanche",
+      "slug": "allanche-15001",
+      "taux_vacance": 15.34,
+      "nb_log_vacant": 106
+    },
+    {
+      "code_insee": "15162",
+      "nom": "Riom-�s-Montagnes",
+      "slug": "riom-s-montagnes-15162",
+      "taux_vacance": 14.99,
+      "nb_log_vacant": 254
+    },
+    {
+      "code_insee": "15211",
+      "nom": "Saint-Santin-Cantal�s",
+      "slug": "saint-santin-cantal-s-15211",
+      "taux_vacance": 14.8,
+      "nb_log_vacant": 33
+    }
+  ]
+}

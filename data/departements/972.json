@@ -1,0 +1,155 @@
+{
+  "code": "972",
+  "nom": "Martinique",
+  "slug": "martinique-972",
+  "code_region": "02",
+  "nom_region": "Martinique",
+  "nb_communes": 34,
+  "nb_log_prive": 197900,
+  "nb_log_vacant": 22966,
+  "nb_log_vacant_2ans": 17557,
+  "taux_vacance": 11.6,
+  "taux_vacance_2ans": 8.87,
+  "top_communes": [
+    {
+      "code_insee": "97209",
+      "nom": "Fort-de-France",
+      "slug": "fort-de-france-97209",
+      "taux_vacance": 15.22,
+      "nb_log_vacant": 6766
+    },
+    {
+      "code_insee": "97225",
+      "nom": "Saint-Pierre",
+      "slug": "saint-pierre-97225",
+      "taux_vacance": 14.89,
+      "nb_log_vacant": 349
+    },
+    {
+      "code_insee": "97219",
+      "nom": "Le Pr�cheur",
+      "slug": "le-pr-cheur-97219",
+      "taux_vacance": 14.32,
+      "nb_log_vacant": 124
+    },
+    {
+      "code_insee": "97211",
+      "nom": "Grand'Rivi�re",
+      "slug": "grand-rivi-re-97211",
+      "taux_vacance": 13.17,
+      "nb_log_vacant": 54
+    },
+    {
+      "code_insee": "97201",
+      "nom": "L'Ajoupa-Bouillon",
+      "slug": "l-ajoupa-bouillon-97201",
+      "taux_vacance": 13.08,
+      "nb_log_vacant": 127
+    },
+    {
+      "code_insee": "97230",
+      "nom": "La Trinit�",
+      "slug": "la-trinit-97230",
+      "taux_vacance": 12.55,
+      "nb_log_vacant": 849
+    },
+    {
+      "code_insee": "97217",
+      "nom": "Le Marin",
+      "slug": "le-marin-97217",
+      "taux_vacance": 12.1,
+      "nb_log_vacant": 531
+    },
+    {
+      "code_insee": "97214",
+      "nom": "Le Lorrain",
+      "slug": "le-lorrain-97214",
+      "taux_vacance": 12.08,
+      "nb_log_vacant": 474
+    },
+    {
+      "code_insee": "97232",
+      "nom": "Le Vauclin",
+      "slug": "le-vauclin-97232",
+      "taux_vacance": 11.97,
+      "nb_log_vacant": 680
+    },
+    {
+      "code_insee": "97228",
+      "nom": "Sainte-Marie",
+      "slug": "sainte-marie-97228",
+      "taux_vacance": 11.5,
+      "nb_log_vacant": 1051
+    },
+    {
+      "code_insee": "97224",
+      "nom": "Saint-Joseph",
+      "slug": "saint-joseph-97224",
+      "taux_vacance": 11.34,
+      "nb_log_vacant": 909
+    },
+    {
+      "code_insee": "97218",
+      "nom": "Le Morne-Rouge",
+      "slug": "le-morne-rouge-97218",
+      "taux_vacance": 11.24,
+      "nb_log_vacant": 282
+    },
+    {
+      "code_insee": "97233",
+      "nom": "Le Morne-Vert",
+      "slug": "le-morne-vert-97233",
+      "taux_vacance": 10.9,
+      "nb_log_vacant": 105
+    },
+    {
+      "code_insee": "97203",
+      "nom": "Basse-Pointe",
+      "slug": "basse-pointe-97203",
+      "taux_vacance": 10.83,
+      "nb_log_vacant": 191
+    },
+    {
+      "code_insee": "97229",
+      "nom": "Sch�lcher",
+      "slug": "sch-lcher-97229",
+      "taux_vacance": 10.78,
+      "nb_log_vacant": 1190
+    },
+    {
+      "code_insee": "97227",
+      "nom": "Sainte-Luce",
+      "slug": "sainte-luce-97227",
+      "taux_vacance": 10.6,
+      "nb_log_vacant": 560
+    },
+    {
+      "code_insee": "97206",
+      "nom": "Le Diamant",
+      "slug": "le-diamant-97206",
+      "taux_vacance": 10.5,
+      "nb_log_vacant": 403
+    },
+    {
+      "code_insee": "97208",
+      "nom": "Fonds-Saint-Denis",
+      "slug": "fonds-saint-denis-97208",
+      "taux_vacance": 10.47,
+      "nb_log_vacant": 47
+    },
+    {
+      "code_insee": "97222",
+      "nom": "Le Robert",
+      "slug": "le-robert-97222",
+      "taux_vacance": 10.27,
+      "nb_log_vacant": 1111
+    },
+    {
+      "code_insee": "97204",
+      "nom": "Le Carbet",
+      "slug": "le-carbet-97204",
+      "taux_vacance": 10.21,
+      "nb_log_vacant": 226
+    }
+  ]
+}

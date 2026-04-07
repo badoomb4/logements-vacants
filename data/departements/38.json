@@ -1,0 +1,155 @@
+{
+  "code": "38",
+  "nom": "Is�re",
+  "slug": "is-re-38",
+  "code_region": "84",
+  "nom_region": "Auvergne-Rh�ne-Alpes",
+  "nb_communes": 512,
+  "nb_log_prive": 559291,
+  "nb_log_vacant": 34335,
+  "nb_log_vacant_2ans": 16373,
+  "taux_vacance": 6.14,
+  "taux_vacance_2ans": 2.93,
+  "top_communes": [
+    {
+      "code_insee": "38289",
+      "nom": "Oz",
+      "slug": "oz-38289",
+      "taux_vacance": 15.92,
+      "nb_log_vacant": 146
+    },
+    {
+      "code_insee": "38319",
+      "nom": "Pont-en-Royans",
+      "slug": "pont-en-royans-38319",
+      "taux_vacance": 14.83,
+      "nb_log_vacant": 66
+    },
+    {
+      "code_insee": "38128",
+      "nom": "Corps",
+      "slug": "corps-38128",
+      "taux_vacance": 14.74,
+      "nb_log_vacant": 74
+    },
+    {
+      "code_insee": "38347",
+      "nom": "Roybon",
+      "slug": "roybon-38347",
+      "taux_vacance": 14.36,
+      "nb_log_vacant": 87
+    },
+    {
+      "code_insee": "38212",
+      "nom": "Livet-et-Gavet",
+      "slug": "livet-et-gavet-38212",
+      "taux_vacance": 14.11,
+      "nb_log_vacant": 94
+    },
+    {
+      "code_insee": "38204",
+      "nom": "Lalley",
+      "slug": "lalley-38204",
+      "taux_vacance": 13.96,
+      "nb_log_vacant": 31
+    },
+    {
+      "code_insee": "38430",
+      "nom": "Saint-Mury-Monteymond",
+      "slug": "saint-mury-monteymond-38430",
+      "taux_vacance": 12.5,
+      "nb_log_vacant": 21
+    },
+    {
+      "code_insee": "38269",
+      "nom": "La Mure",
+      "slug": "la-mure-38269",
+      "taux_vacance": 12.07,
+      "nb_log_vacant": 286
+    },
+    {
+      "code_insee": "38456",
+      "nom": "Ch�tel-en-Tri�ves",
+      "slug": "ch-tel-en-tri-ves-38456",
+      "taux_vacance": 11.71,
+      "nb_log_vacant": 39
+    },
+    {
+      "code_insee": "38514",
+      "nom": "Tr�minis",
+      "slug": "tr-minis-38514",
+      "taux_vacance": 11.26,
+      "nb_log_vacant": 26
+    },
+    {
+      "code_insee": "38478",
+      "nom": "S�chilienne",
+      "slug": "s-chilienne-38478",
+      "taux_vacance": 10.72,
+      "nb_log_vacant": 61
+    },
+    {
+      "code_insee": "38424",
+      "nom": "Saint-Maurice-en-Tri�ves",
+      "slug": "saint-maurice-en-tri-ves-38424",
+      "taux_vacance": 10.64,
+      "nb_log_vacant": 15
+    },
+    {
+      "code_insee": "38492",
+      "nom": "Sinard",
+      "slug": "sinard-38492",
+      "taux_vacance": 10.51,
+      "nb_log_vacant": 33
+    },
+    {
+      "code_insee": "38562",
+      "nom": "Vizille",
+      "slug": "vizille-38562",
+      "taux_vacance": 10.47,
+      "nb_log_vacant": 353
+    },
+    {
+      "code_insee": "38495",
+      "nom": "La S�ne",
+      "slug": "la-s-ne-38495",
+      "taux_vacance": 10.34,
+      "nb_log_vacant": 36
+    },
+    {
+      "code_insee": "38113",
+      "nom": "Clelles",
+      "slug": "clelles-38113",
+      "taux_vacance": 10.28,
+      "nb_log_vacant": 41
+    },
+    {
+      "code_insee": "38034",
+      "nom": "Beaurepaire",
+      "slug": "beaurepaire-38034",
+      "taux_vacance": 10.24,
+      "nb_log_vacant": 248
+    },
+    {
+      "code_insee": "38561",
+      "nom": "Viriville",
+      "slug": "viriville-38561",
+      "taux_vacance": 10.21,
+      "nb_log_vacant": 81
+    },
+    {
+      "code_insee": "38315",
+      "nom": "Le Pont-de-Beauvoisin",
+      "slug": "le-pont-de-beauvoisin-38315",
+      "taux_vacance": 10.01,
+      "nb_log_vacant": 175
+    },
+    {
+      "code_insee": "38375",
+      "nom": "Saint-Christophe-en-Oisans",
+      "slug": "saint-christophe-en-oisans-38375",
+      "taux_vacance": 9.89,
+      "nb_log_vacant": 18
+    }
+  ]
+}

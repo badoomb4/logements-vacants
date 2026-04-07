@@ -1,0 +1,74 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import Breadcrumb from '../../../components/Breadcrumb.astro';
+import StatCard from '../../../components/StatCard.astro';
+import regionsList from '../../../../data/regions-list.json';
+import meta from '../../../../data/meta.json';
+import fs from 'fs';
+import path from 'path';
+
+export function getStaticPaths() {
+  return regionsList.map((r) => ({
+    params: { region: r.slug },
+    props: { regionInfo: r },
+  }));
+}
+
+const { regionInfo } = Astro.props;
+const regionData = JSON.parse(
+  fs.readFileSync(path.join(process.cwd(), `data/regions/${regionInfo.code}.json`), 'utf-8')
+);
+
+const schema = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Accueil', item: 'https://logementsvacants.fr/' },
+    { '@type': 'ListItem', position: 2, name: 'Régions', item: 'https://logementsvacants.fr/logements-vacants/region/' },
+    { '@type': 'ListItem', position: 3, name: regionData.nom },
+  ],
+};
+---
+
+<BaseLayout
+  title={`Logements vacants en ${regionData.nom} — Données LOVAC ${meta.millesime}`}
+  description={`${regionData.nb_log_vacant?.toLocaleString('fr-FR')} logements vacants en ${regionData.nom} (taux ${regionData.taux_vacance}%). Statistiques par département et commune — données LOVAC ${meta.millesime}.`}
+  schema={schema}
+>
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+    <Breadcrumb items={[
+      { label: 'Accueil', href: '/' },
+      { label: 'Régions', href: '/logements-vacants/region/' },
+      { label: regionData.nom },
+    ]} />
+
+    <h1 class="text-3xl font-bold text-gray-900 mb-6">
+      Logements vacants en {regionData.nom} — Données LOVAC {meta.millesime}
+    </h1>
+
+    <div class="grid grid-cols-2 md:grid-cols-4 gap-4 mb-8">
+      <StatCard label="Logements vacants" value={regionData.nb_log_vacant} color="orange" />
+      <StatCard label="Vacants + 2 ans" value={regionData.nb_log_vacant_2ans} color="red" />
+      <StatCard label="Taux de vacance" value={`${regionData.taux_vacance}%`} subtitle={`France : ${meta.taux_vacance}%`} color="blue" />
+      <StatCard label="Communes" value={regionData.nb_communes} color="green" />
+    </div>
+
+    <h2 class="text-2xl font-bold mb-6">Départements de la région</h2>
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+      {regionData.departements.map((dept) => (
+        <a href={`/logements-vacants/departement/${dept.slug}/`}
+           class="bg-white rounded-lg shadow-sm border border-gray-200 p-5 hover:shadow-md hover:border-blue-300 transition-all">
+          <h3 class="font-semibold text-lg text-gray-900 mb-2">{dept.nom} ({dept.code})</h3>
+          <div class="flex justify-between text-sm">
+            <span class="text-gray-600">Taux de vacance</span>
+            <span class="font-bold text-orange-600">{dept.taux_vacance}%</span>
+          </div>
+          <div class="flex justify-between text-sm mt-1">
+            <span class="text-gray-600">Logements vacants</span>
+            <span class="font-medium">{dept.nb_log_vacant?.toLocaleString('fr-FR')}</span>
+          </div>
+        </a>
+      ))}
+    </div>
+  </div>
+</BaseLayout>

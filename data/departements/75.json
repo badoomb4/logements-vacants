@@ -1,0 +1,155 @@
+{
+  "code": "75",
+  "nom": "Paris",
+  "slug": "paris-75",
+  "code_region": "11",
+  "nom_region": "�le-de-France",
+  "nb_communes": 20,
+  "nb_log_prive": 1125864,
+  "nb_log_vacant": 75774,
+  "nb_log_vacant_2ans": 36205,
+  "taux_vacance": 6.73,
+  "taux_vacance_2ans": 3.22,
+  "top_communes": [
+    {
+      "code_insee": "75108",
+      "nom": "Paris 8e Arrondissement",
+      "slug": "paris-8e-arrondissement-75108",
+      "taux_vacance": 10.29,
+      "nb_log_vacant": 2875
+    },
+    {
+      "code_insee": "75101",
+      "nom": "Paris 1er Arrondissement",
+      "slug": "paris-1er-arrondissement-75101",
+      "taux_vacance": 9.08,
+      "nb_log_vacant": 1194
+    },
+    {
+      "code_insee": "75102",
+      "nom": "Paris 2e Arrondissement",
+      "slug": "paris-2e-arrondissement-75102",
+      "taux_vacance": 8.7,
+      "nb_log_vacant": 1506
+    },
+    {
+      "code_insee": "75106",
+      "nom": "Paris 6e Arrondissement",
+      "slug": "paris-6e-arrondissement-75106",
+      "taux_vacance": 8.42,
+      "nb_log_vacant": 2703
+    },
+    {
+      "code_insee": "75104",
+      "nom": "Paris 4e Arrondissement",
+      "slug": "paris-4e-arrondissement-75104",
+      "taux_vacance": 8.1,
+      "nb_log_vacant": 1666
+    },
+    {
+      "code_insee": "75107",
+      "nom": "Paris 7e Arrondissement",
+      "slug": "paris-7e-arrondissement-75107",
+      "taux_vacance": 7.8,
+      "nb_log_vacant": 2981
+    },
+    {
+      "code_insee": "75110",
+      "nom": "Paris 10e Arrondissement",
+      "slug": "paris-10e-arrondissement-75110",
+      "taux_vacance": 7.72,
+      "nb_log_vacant": 4004
+    },
+    {
+      "code_insee": "75109",
+      "nom": "Paris 9e Arrondissement",
+      "slug": "paris-9e-arrondissement-75109",
+      "taux_vacance": 7.61,
+      "nb_log_vacant": 2946
+    },
+    {
+      "code_insee": "75118",
+      "nom": "Paris 18e Arrondissement",
+      "slug": "paris-18e-arrondissement-75118",
+      "taux_vacance": 7.25,
+      "nb_log_vacant": 7210
+    },
+    {
+      "code_insee": "75117",
+      "nom": "Paris 17e Arrondissement",
+      "slug": "paris-17e-arrondissement-75117",
+      "taux_vacance": 7.05,
+      "nb_log_vacant": 6314
+    },
+    {
+      "code_insee": "75103",
+      "nom": "Paris 3e Arrondissement",
+      "slug": "paris-3e-arrondissement-75103",
+      "taux_vacance": 7.04,
+      "nb_log_vacant": 1753
+    },
+    {
+      "code_insee": "75105",
+      "nom": "Paris 5e Arrondissement",
+      "slug": "paris-5e-arrondissement-75105",
+      "taux_vacance": 6.73,
+      "nb_log_vacant": 2519
+    },
+    {
+      "code_insee": "75116",
+      "nom": "Paris 16e Arrondissement",
+      "slug": "paris-16e-arrondissement-75116",
+      "taux_vacance": 6.53,
+      "nb_log_vacant": 6132
+    },
+    {
+      "code_insee": "75119",
+      "nom": "Paris 19e Arrondissement",
+      "slug": "paris-19e-arrondissement-75119",
+      "taux_vacance": 6.14,
+      "nb_log_vacant": 3804
+    },
+    {
+      "code_insee": "75114",
+      "nom": "Paris 14e Arrondissement",
+      "slug": "paris-14e-arrondissement-75114",
+      "taux_vacance": 6.12,
+      "nb_log_vacant": 3998
+    },
+    {
+      "code_insee": "75111",
+      "nom": "Paris 11e Arrondissement",
+      "slug": "paris-11e-arrondissement-75111",
+      "taux_vacance": 6.1,
+      "nb_log_vacant": 5455
+    },
+    {
+      "code_insee": "75115",
+      "nom": "Paris 15e Arrondissement",
+      "slug": "paris-15e-arrondissement-75115",
+      "taux_vacance": 5.9,
+      "nb_log_vacant": 7353
+    },
+    {
+      "code_insee": "75113",
+      "nom": "Paris 13e Arrondissement",
+      "slug": "paris-13e-arrondissement-75113",
+      "taux_vacance": 5.73,
+      "nb_log_vacant": 3653
+    },
+    {
+      "code_insee": "75112",
+      "nom": "Paris 12e Arrondissement",
+      "slug": "paris-12e-arrondissement-75112",
+      "taux_vacance": 5.72,
+      "nb_log_vacant": 3798
+    },
+    {
+      "code_insee": "75120",
+      "nom": "Paris 20e Arrondissement",
+      "slug": "paris-20e-arrondissement-75120",
+      "taux_vacance": 5.63,
+      "nb_log_vacant": 3910
+    }
+  ]
+}

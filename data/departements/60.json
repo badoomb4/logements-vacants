@@ -1,0 +1,155 @@
+{
+  "code": "60",
+  "nom": "Oise",
+  "slug": "oise-60",
+  "code_region": "32",
+  "nom_region": "Hauts-de-France",
+  "nb_communes": 680,
+  "nb_log_prive": 235946,
+  "nb_log_vacant": 15473,
+  "nb_log_vacant_2ans": 7392,
+  "taux_vacance": 6.56,
+  "taux_vacance_2ans": 3.13,
+  "top_communes": [
+    {
+      "code_insee": "60471",
+      "nom": "Noyon",
+      "slug": "noyon-60471",
+      "taux_vacance": 12.82,
+      "nb_log_vacant": 572
+    },
+    {
+      "code_insee": "60233",
+      "nom": "Feuqui�res",
+      "slug": "feuqui-res-60233",
+      "taux_vacance": 12.6,
+      "nb_log_vacant": 66
+    },
+    {
+      "code_insee": "60211",
+      "nom": "�ragny-sur-Epte",
+      "slug": "ragny-sur-epte-60211",
+      "taux_vacance": 12.5,
+      "nb_log_vacant": 33
+    },
+    {
+      "code_insee": "60590",
+      "nom": "Saint-Omer-en-Chauss�e",
+      "slug": "saint-omer-en-chauss-e-60590",
+      "taux_vacance": 11.95,
+      "nb_log_vacant": 52
+    },
+    {
+      "code_insee": "60173",
+      "nom": "Cramoisy",
+      "slug": "cramoisy-60173",
+      "taux_vacance": 11.2,
+      "nb_log_vacant": 40
+    },
+    {
+      "code_insee": "60175",
+      "nom": "Creil",
+      "slug": "creil-60175",
+      "taux_vacance": 10.98,
+      "nb_log_vacant": 664
+    },
+    {
+      "code_insee": "60291",
+      "nom": "Guiscard",
+      "slug": "guiscard-60291",
+      "taux_vacance": 10.47,
+      "nb_log_vacant": 67
+    },
+    {
+      "code_insee": "60286",
+      "nom": "Grandvilliers",
+      "slug": "grandvilliers-60286",
+      "taux_vacance": 10.1,
+      "nb_log_vacant": 106
+    },
+    {
+      "code_insee": "60368",
+      "nom": "Longueil-Annel",
+      "slug": "longueil-annel-60368",
+      "taux_vacance": 9.95,
+      "nb_log_vacant": 104
+    },
+    {
+      "code_insee": "60414",
+      "nom": "Montataire",
+      "slug": "montataire-60414",
+      "taux_vacance": 9.88,
+      "nb_log_vacant": 324
+    },
+    {
+      "code_insee": "60104",
+      "nom": "Breteuil",
+      "slug": "breteuil-60104",
+      "taux_vacance": 9.84,
+      "nb_log_vacant": 157
+    },
+    {
+      "code_insee": "60684",
+      "nom": "Villers-Saint-Paul",
+      "slug": "villers-saint-paul-60684",
+      "taux_vacance": 9.79,
+      "nb_log_vacant": 175
+    },
+    {
+      "code_insee": "60387",
+      "nom": "Marseille-en-Beauvaisis",
+      "slug": "marseille-en-beauvaisis-60387",
+      "taux_vacance": 9.61,
+      "nb_log_vacant": 39
+    },
+    {
+      "code_insee": "60491",
+      "nom": "Pierrefonds",
+      "slug": "pierrefonds-60491",
+      "taux_vacance": 9.42,
+      "nb_log_vacant": 87
+    },
+    {
+      "code_insee": "60150",
+      "nom": "Chiry-Ourscamp",
+      "slug": "chiry-ourscamp-60150",
+      "taux_vacance": 9.28,
+      "nb_log_vacant": 45
+    },
+    {
+      "code_insee": "60045",
+      "nom": "Barbery",
+      "slug": "barbery-60045",
+      "taux_vacance": 9.2,
+      "nb_log_vacant": 23
+    },
+    {
+      "code_insee": "60665",
+      "nom": "Venette",
+      "slug": "venette-60665",
+      "taux_vacance": 9.14,
+      "nb_log_vacant": 103
+    },
+    {
+      "code_insee": "60124",
+      "nom": "Candor",
+      "slug": "candor-60124",
+      "taux_vacance": 9.09,
+      "nb_log_vacant": 14
+    },
+    {
+      "code_insee": "60623",
+      "nom": "Songeons",
+      "slug": "songeons-60623",
+      "taux_vacance": 9.05,
+      "nb_log_vacant": 44
+    },
+    {
+      "code_insee": "60537",
+      "nom": "Rib�court-Dreslincourt",
+      "slug": "rib-court-dreslincourt-60537",
+      "taux_vacance": 8.85,
+      "nb_log_vacant": 122
+    }
+  ]
+}

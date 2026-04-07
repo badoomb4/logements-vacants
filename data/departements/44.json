@@ -1,0 +1,155 @@
+{
+  "code": "44",
+  "nom": "Loire-Atlantique",
+  "slug": "loire-atlantique-44",
+  "code_region": "52",
+  "nom_region": "Pays de la Loire",
+  "nb_communes": 207,
+  "nb_log_prive": 707525,
+  "nb_log_vacant": 32832,
+  "nb_log_vacant_2ans": 13640,
+  "taux_vacance": 4.64,
+  "taux_vacance_2ans": 1.93,
+  "top_communes": [
+    {
+      "code_insee": "44121",
+      "nom": "Petit-Auvern�",
+      "slug": "petit-auvern-44121",
+      "taux_vacance": 15.38,
+      "nb_log_vacant": 36
+    },
+    {
+      "code_insee": "44148",
+      "nom": "Ruffign�",
+      "slug": "ruffign-44148",
+      "taux_vacance": 14.57,
+      "nb_log_vacant": 52
+    },
+    {
+      "code_insee": "44170",
+      "nom": "Saint-Julien-de-Vouvantes",
+      "slug": "saint-julien-de-vouvantes-44170",
+      "taux_vacance": 12.12,
+      "nb_log_vacant": 56
+    },
+    {
+      "code_insee": "44200",
+      "nom": "Soulvache",
+      "slug": "soulvache-44200",
+      "taux_vacance": 11.96,
+      "nb_log_vacant": 25
+    },
+    {
+      "code_insee": "44105",
+      "nom": "Mouais",
+      "slug": "mouais-44105",
+      "taux_vacance": 10.87,
+      "nb_log_vacant": 20
+    },
+    {
+      "code_insee": "44065",
+      "nom": "Grand-Auvern�",
+      "slug": "grand-auvern-44065",
+      "taux_vacance": 10.21,
+      "nb_log_vacant": 43
+    },
+    {
+      "code_insee": "44197",
+      "nom": "Sion-les-Mines",
+      "slug": "sion-les-mines-44197",
+      "taux_vacance": 9.7,
+      "nb_log_vacant": 96
+    },
+    {
+      "code_insee": "44199",
+      "nom": "Soudan",
+      "slug": "soudan-44199",
+      "taux_vacance": 9.59,
+      "nb_log_vacant": 97
+    },
+    {
+      "code_insee": "44180",
+      "nom": "Vallons-de-l'Erdre",
+      "slug": "vallons-de-l-erdre-44180",
+      "taux_vacance": 9.29,
+      "nb_log_vacant": 296
+    },
+    {
+      "code_insee": "44067",
+      "nom": "Gu�men�-Penfao",
+      "slug": "gu-men-penfao-44067",
+      "taux_vacance": 9.14,
+      "nb_log_vacant": 272
+    },
+    {
+      "code_insee": "44208",
+      "nom": "Treffieux",
+      "slug": "treffieux-44208",
+      "taux_vacance": 9.09,
+      "nb_log_vacant": 40
+    },
+    {
+      "code_insee": "44031",
+      "nom": "La Chapelle-Glain",
+      "slug": "la-chapelle-glain-44031",
+      "taux_vacance": 9.07,
+      "nb_log_vacant": 38
+    },
+    {
+      "code_insee": "44075",
+      "nom": "Iss�",
+      "slug": "iss-44075",
+      "taux_vacance": 8.97,
+      "nb_log_vacant": 82
+    },
+    {
+      "code_insee": "44218",
+      "nom": "Villepot",
+      "slug": "villepot-44218",
+      "taux_vacance": 8.96,
+      "nb_log_vacant": 30
+    },
+    {
+      "code_insee": "44116",
+      "nom": "Paimb�uf",
+      "slug": "paimb-uf-44116",
+      "taux_vacance": 8.87,
+      "nb_log_vacant": 138
+    },
+    {
+      "code_insee": "44086",
+      "nom": "Lusanger",
+      "slug": "lusanger-44086",
+      "taux_vacance": 8.54,
+      "nb_log_vacant": 44
+    },
+    {
+      "code_insee": "44036",
+      "nom": "Ch�teaubriant",
+      "slug": "ch-teaubriant-44036",
+      "taux_vacance": 8.39,
+      "nb_log_vacant": 489
+    },
+    {
+      "code_insee": "44153",
+      "nom": "Saint-Aubin-des-Ch�teaux",
+      "slug": "saint-aubin-des-ch-teaux-44153",
+      "taux_vacance": 8.19,
+      "nb_log_vacant": 66
+    },
+    {
+      "code_insee": "44193",
+      "nom": "Saint-Vincent-des-Landes",
+      "slug": "saint-vincent-des-landes-44193",
+      "taux_vacance": 8.1,
+      "nb_log_vacant": 56
+    },
+    {
+      "code_insee": "44185",
+      "nom": "Saint-Nicolas-de-Redon",
+      "slug": "saint-nicolas-de-redon-44185",
+      "taux_vacance": 8.09,
+      "nb_log_vacant": 144
+    }
+  ]
+}

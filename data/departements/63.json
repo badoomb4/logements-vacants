@@ -1,0 +1,155 @@
+{
+  "code": "63",
+  "nom": "Puy-de-D�me",
+  "slug": "puy-de-d-me-63",
+  "code_region": "84",
+  "nom_region": "Auvergne-Rh�ne-Alpes",
+  "nb_communes": 463,
+  "nb_log_prive": 307259,
+  "nb_log_vacant": 29862,
+  "nb_log_vacant_2ans": 16904,
+  "taux_vacance": 9.72,
+  "taux_vacance_2ans": 5.5,
+  "top_communes": [
+    {
+      "code_insee": "63009",
+      "nom": "Ardes",
+      "slug": "ardes-63009",
+      "taux_vacance": 26.34,
+      "nb_log_vacant": 138
+    },
+    {
+      "code_insee": "63233",
+      "nom": "Montaigut-en-Combraille",
+      "slug": "montaigut-en-combraille-63233",
+      "taux_vacance": 24.88,
+      "nb_log_vacant": 156
+    },
+    {
+      "code_insee": "63048",
+      "nom": "Bourg-Lastic",
+      "slug": "bourg-lastic-63048",
+      "taux_vacance": 23.72,
+      "nb_log_vacant": 162
+    },
+    {
+      "code_insee": "63118",
+      "nom": "Condat-en-Combraille",
+      "slug": "condat-en-combraille-63118",
+      "taux_vacance": 22.83,
+      "nb_log_vacant": 79
+    },
+    {
+      "code_insee": "63231",
+      "nom": "La Monnerie-le-Montel",
+      "slug": "la-monnerie-le-montel-63231",
+      "taux_vacance": 21.97,
+      "nb_log_vacant": 234
+    },
+    {
+      "code_insee": "63430",
+      "nom": "Thiers",
+      "slug": "thiers-63430",
+      "taux_vacance": 21.8,
+      "nb_log_vacant": 1539
+    },
+    {
+      "code_insee": "63006",
+      "nom": "Anzat-le-Luguet",
+      "slug": "anzat-le-luguet-63006",
+      "taux_vacance": 21.77,
+      "nb_log_vacant": 59
+    },
+    {
+      "code_insee": "63460",
+      "nom": "Villossanges",
+      "slug": "villossanges-63460",
+      "taux_vacance": 21.2,
+      "nb_log_vacant": 53
+    },
+    {
+      "code_insee": "63165",
+      "nom": "Giat",
+      "slug": "giat-63165",
+      "taux_vacance": 21.17,
+      "nb_log_vacant": 145
+    },
+    {
+      "code_insee": "63144",
+      "nom": "�gliseneuve-d'Entraigues",
+      "slug": "gliseneuve-d-entraigues-63144",
+      "taux_vacance": 20.93,
+      "nb_log_vacant": 113
+    },
+    {
+      "code_insee": "63258",
+      "nom": "Olliergues",
+      "slug": "olliergues-63258",
+      "taux_vacance": 20.78,
+      "nb_log_vacant": 128
+    },
+    {
+      "code_insee": "63454",
+      "nom": "Vertolaye",
+      "slug": "vertolaye-63454",
+      "taux_vacance": 20.73,
+      "nb_log_vacant": 80
+    },
+    {
+      "code_insee": "63237",
+      "nom": "Montel-de-Gelat",
+      "slug": "montel-de-gelat-63237",
+      "taux_vacance": 20.11,
+      "nb_log_vacant": 74
+    },
+    {
+      "code_insee": "63190",
+      "nom": "Larodde",
+      "slug": "larodde-63190",
+      "taux_vacance": 20.06,
+      "nb_log_vacant": 63
+    },
+    {
+      "code_insee": "63182",
+      "nom": "Jumeaux",
+      "slug": "jumeaux-63182",
+      "taux_vacance": 19.87,
+      "nb_log_vacant": 94
+    },
+    {
+      "code_insee": "63008",
+      "nom": "Arconsat",
+      "slug": "arconsat-63008",
+      "taux_vacance": 19.43,
+      "nb_log_vacant": 88
+    },
+    {
+      "code_insee": "63189",
+      "nom": "Laqueuille",
+      "slug": "laqueuille-63189",
+      "taux_vacance": 19.38,
+      "nb_log_vacant": 50
+    },
+    {
+      "code_insee": "63426",
+      "nom": "Tauves",
+      "slug": "tauves-63426",
+      "taux_vacance": 18.88,
+      "nb_log_vacant": 115
+    },
+    {
+      "code_insee": "63336",
+      "nom": "Saint-Donat",
+      "slug": "saint-donat-63336",
+      "taux_vacance": 18.53,
+      "nb_log_vacant": 48
+    },
+    {
+      "code_insee": "63175",
+      "nom": "Herment",
+      "slug": "herment-63175",
+      "taux_vacance": 18.5,
+      "nb_log_vacant": 37
+    }
+  ]
+}

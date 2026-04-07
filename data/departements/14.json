@@ -1,0 +1,155 @@
+{
+  "code": "14",
+  "nom": "Calvados",
+  "slug": "calvados-14",
+  "code_region": "28",
+  "nom_region": "Normandie",
+  "nb_communes": 526,
+  "nb_log_prive": 309981,
+  "nb_log_vacant": 18211,
+  "nb_log_vacant_2ans": 8465,
+  "taux_vacance": 5.87,
+  "taux_vacance_2ans": 2.73,
+  "top_communes": [
+    {
+      "code_insee": "14478",
+      "nom": "Orbec",
+      "slug": "orbec-14478",
+      "taux_vacance": 19.79,
+      "nb_log_vacant": 231
+    },
+    {
+      "code_insee": "14202",
+      "nom": "Cricqueb�uf",
+      "slug": "cricqueb-uf-14202",
+      "taux_vacance": 17.32,
+      "nb_log_vacant": 31
+    },
+    {
+      "code_insee": "14764",
+      "nom": "Pont-d'Ouilly",
+      "slug": "pont-d-ouilly-14764",
+      "taux_vacance": 14.03,
+      "nb_log_vacant": 85
+    },
+    {
+      "code_insee": "14174",
+      "nom": "Cond�-en-Normandie",
+      "slug": "cond-en-normandie-14174",
+      "taux_vacance": 12.54,
+      "nb_log_vacant": 401
+    },
+    {
+      "code_insee": "14352",
+      "nom": "Landelles-et-Coupigny",
+      "slug": "landelles-et-coupigny-14352",
+      "taux_vacance": 12.27,
+      "nb_log_vacant": 61
+    },
+    {
+      "code_insee": "14654",
+      "nom": "Saint-Pierre-en-Auge",
+      "slug": "saint-pierre-en-auge-14654",
+      "taux_vacance": 11.04,
+      "nb_log_vacant": 407
+    },
+    {
+      "code_insee": "14726",
+      "nom": "Valdalli�re",
+      "slug": "valdalli-re-14726",
+      "taux_vacance": 10.57,
+      "nb_log_vacant": 327
+    },
+    {
+      "code_insee": "14658",
+      "nom": "Noues de Sienne",
+      "slug": "noues-de-sienne-14658",
+      "taux_vacance": 10.38,
+      "nb_log_vacant": 259
+    },
+    {
+      "code_insee": "14366",
+      "nom": "Lisieux",
+      "slug": "lisieux-14366",
+      "taux_vacance": 10.3,
+      "nb_log_vacant": 853
+    },
+    {
+      "code_insee": "14258",
+      "nom": "Falaise",
+      "slug": "falaise-14258",
+      "taux_vacance": 10.28,
+      "nb_log_vacant": 364
+    },
+    {
+      "code_insee": "14126",
+      "nom": "Cambremer",
+      "slug": "cambremer-14126",
+      "taux_vacance": 10.05,
+      "nb_log_vacant": 82
+    },
+    {
+      "code_insee": "14162",
+      "nom": "Cl�cy",
+      "slug": "cl-cy-14162",
+      "taux_vacance": 9.91,
+      "nb_log_vacant": 74
+    },
+    {
+      "code_insee": "14371",
+      "nom": "Livarot-Pays-d'Auge",
+      "slug": "livarot-pays-d-auge-14371",
+      "taux_vacance": 9.76,
+      "nb_log_vacant": 341
+    },
+    {
+      "code_insee": "14083",
+      "nom": "Bonnebosq",
+      "slug": "bonnebosq-14083",
+      "taux_vacance": 9.69,
+      "nb_log_vacant": 41
+    },
+    {
+      "code_insee": "14333",
+      "nom": "Honfleur",
+      "slug": "honfleur-14333",
+      "taux_vacance": 9.64,
+      "nb_log_vacant": 509
+    },
+    {
+      "code_insee": "14557",
+      "nom": "Saint-Arnoult",
+      "slug": "saint-arnoult-14557",
+      "taux_vacance": 9.09,
+      "nb_log_vacant": 87
+    },
+    {
+      "code_insee": "14656",
+      "nom": "Saint-R�my",
+      "slug": "saint-r-my-14656",
+      "taux_vacance": 8.82,
+      "nb_log_vacant": 45
+    },
+    {
+      "code_insee": "14342",
+      "nom": "Isigny-sur-Mer",
+      "slug": "isigny-sur-mer-14342",
+      "taux_vacance": 8.58,
+      "nb_log_vacant": 155
+    },
+    {
+      "code_insee": "14762",
+      "nom": "Vire Normandie",
+      "slug": "vire-normandie-14762",
+      "taux_vacance": 8.33,
+      "nb_log_vacant": 681
+    },
+    {
+      "code_insee": "14347",
+      "nom": "Dialan sur Cha�ne",
+      "slug": "dialan-sur-cha-ne-14347",
+      "taux_vacance": 8.19,
+      "nb_log_vacant": 39
+    }
+  ]
+}

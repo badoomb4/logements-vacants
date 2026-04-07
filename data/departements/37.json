@@ -1,0 +1,155 @@
+{
+  "code": "37",
+  "nom": "Indre-et-Loire",
+  "slug": "indre-et-loire-37",
+  "code_region": "24",
+  "nom_region": "Centre-Val de Loire",
+  "nb_communes": 272,
+  "nb_log_prive": 272868,
+  "nb_log_vacant": 17942,
+  "nb_log_vacant_2ans": 8851,
+  "taux_vacance": 6.58,
+  "taux_vacance_2ans": 3.24,
+  "top_communes": [
+    {
+      "code_insee": "37189",
+      "nom": "Preuilly-sur-Claise",
+      "slug": "preuilly-sur-claise-37189",
+      "taux_vacance": 16.87,
+      "nb_log_vacant": 125
+    },
+    {
+      "code_insee": "37133",
+      "nom": "Loch�-sur-Indrois",
+      "slug": "loch-sur-indrois-37133",
+      "taux_vacance": 16.33,
+      "nb_log_vacant": 56
+    },
+    {
+      "code_insee": "37218",
+      "nom": "Saint-Flovier",
+      "slug": "saint-flovier-37218",
+      "taux_vacance": 15.94,
+      "nb_log_vacant": 62
+    },
+    {
+      "code_insee": "37146",
+      "nom": "Marcilly-sur-Maulne",
+      "slug": "marcilly-sur-maulne-37146",
+      "taux_vacance": 15.28,
+      "nb_log_vacant": 22
+    },
+    {
+      "code_insee": "37048",
+      "nom": "Chambon",
+      "slug": "chambon-37048",
+      "taux_vacance": 15.2,
+      "nb_log_vacant": 38
+    },
+    {
+      "code_insee": "37113",
+      "nom": "Le Grand-Pressigny",
+      "slug": "le-grand-pressigny-37113",
+      "taux_vacance": 15.11,
+      "nb_log_vacant": 97
+    },
+    {
+      "code_insee": "37196",
+      "nom": "Richelieu",
+      "slug": "richelieu-37196",
+      "taux_vacance": 14.43,
+      "nb_log_vacant": 162
+    },
+    {
+      "code_insee": "37082",
+      "nom": "Continvoir",
+      "slug": "continvoir-37082",
+      "taux_vacance": 14.29,
+      "nb_log_vacant": 45
+    },
+    {
+      "code_insee": "37259",
+      "nom": "Tournon-Saint-Pierre",
+      "slug": "tournon-saint-pierre-37259",
+      "taux_vacance": 14.29,
+      "nb_log_vacant": 45
+    },
+    {
+      "code_insee": "37277",
+      "nom": "Villeloin-Coulang�",
+      "slug": "villeloin-coulang-37277",
+      "taux_vacance": 13.97,
+      "nb_log_vacant": 51
+    },
+    {
+      "code_insee": "37028",
+      "nom": "Bossay-sur-Claise",
+      "slug": "bossay-sur-claise-37028",
+      "taux_vacance": 13.93,
+      "nb_log_vacant": 85
+    },
+    {
+      "code_insee": "37019",
+      "nom": "Barrou",
+      "slug": "barrou-37019",
+      "taux_vacance": 13.78,
+      "nb_log_vacant": 47
+    },
+    {
+      "code_insee": "37207",
+      "nom": "Saint-Aubin-le-D�peint",
+      "slug": "saint-aubin-le-d-peint-37207",
+      "taux_vacance": 13.76,
+      "nb_log_vacant": 26
+    },
+    {
+      "code_insee": "37260",
+      "nom": "La Tour-Saint-Gelin",
+      "slug": "la-tour-saint-gelin-37260",
+      "taux_vacance": 13.02,
+      "nb_log_vacant": 44
+    },
+    {
+      "code_insee": "37177",
+      "nom": "Orbigny",
+      "slug": "orbigny-37177",
+      "taux_vacance": 12.93,
+      "nb_log_vacant": 57
+    },
+    {
+      "code_insee": "37063",
+      "nom": "Ch�teau-Renault",
+      "slug": "ch-teau-renault-37063",
+      "taux_vacance": 12.8,
+      "nb_log_vacant": 282
+    },
+    {
+      "code_insee": "37173",
+      "nom": "Nouans-les-Fontaines",
+      "slug": "nouans-les-fontaines-37173",
+      "taux_vacance": 12.8,
+      "nb_log_vacant": 64
+    },
+    {
+      "code_insee": "37269",
+      "nom": "Verneuil-sur-Indre",
+      "slug": "verneuil-sur-indre-37269",
+      "taux_vacance": 12.74,
+      "nb_log_vacant": 40
+    },
+    {
+      "code_insee": "37044",
+      "nom": "La Celle-Guenand",
+      "slug": "la-celle-guenand-37044",
+      "taux_vacance": 12.67,
+      "nb_log_vacant": 28
+    },
+    {
+      "code_insee": "37069",
+      "nom": "Chemill�-sur-Indrois",
+      "slug": "chemill-sur-indrois-37069",
+      "taux_vacance": 11.96,
+      "nb_log_vacant": 22
+    }
+  ]
+}

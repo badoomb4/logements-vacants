@@ -1,0 +1,155 @@
+{
+  "code": "973",
+  "nom": "Guyane",
+  "slug": "guyane-973",
+  "code_region": "03",
+  "nom_region": "Guyane",
+  "nb_communes": 22,
+  "nb_log_prive": 71115,
+  "nb_log_vacant": 10363,
+  "nb_log_vacant_2ans": 7639,
+  "taux_vacance": 14.57,
+  "taux_vacance_2ans": 10.74,
+  "top_communes": [
+    {
+      "code_insee": "97302",
+      "nom": "Cayenne",
+      "slug": "cayenne-97302",
+      "taux_vacance": 18.48,
+      "nb_log_vacant": 4431
+    },
+    {
+      "code_insee": "97312",
+      "nom": "Sinnamary",
+      "slug": "sinnamary-97312",
+      "taux_vacance": 16.75,
+      "nb_log_vacant": 161
+    },
+    {
+      "code_insee": "97305",
+      "nom": "Macouria",
+      "slug": "macouria-97305",
+      "taux_vacance": 16.15,
+      "nb_log_vacant": 760
+    },
+    {
+      "code_insee": "97310",
+      "nom": "Roura",
+      "slug": "roura-97310",
+      "taux_vacance": 15.75,
+      "nb_log_vacant": 143
+    },
+    {
+      "code_insee": "97313",
+      "nom": "Montsin�ry-Tonnegrande",
+      "slug": "montsin-ry-tonnegrande-97313",
+      "taux_vacance": 15.43,
+      "nb_log_vacant": 127
+    },
+    {
+      "code_insee": "97307",
+      "nom": "Matoury",
+      "slug": "matoury-97307",
+      "taux_vacance": 14.85,
+      "nb_log_vacant": 1550
+    },
+    {
+      "code_insee": "97308",
+      "nom": "Saint-Georges",
+      "slug": "saint-georges-97308",
+      "taux_vacance": 13.12,
+      "nb_log_vacant": 143
+    },
+    {
+      "code_insee": "97311",
+      "nom": "Saint-Laurent-du-Maroni",
+      "slug": "saint-laurent-du-maroni-97311",
+      "taux_vacance": 11.94,
+      "nb_log_vacant": 1041
+    },
+    {
+      "code_insee": "97304",
+      "nom": "Kourou",
+      "slug": "kourou-97304",
+      "taux_vacance": 11.6,
+      "nb_log_vacant": 565
+    },
+    {
+      "code_insee": "97301",
+      "nom": "R�gina",
+      "slug": "r-gina-97301",
+      "taux_vacance": 11.29,
+      "nb_log_vacant": 28
+    },
+    {
+      "code_insee": "97353",
+      "nom": "Maripasoula",
+      "slug": "maripasoula-97353",
+      "taux_vacance": 10.94,
+      "nb_log_vacant": 107
+    },
+    {
+      "code_insee": "97303",
+      "nom": "Iracoubo",
+      "slug": "iracoubo-97303",
+      "taux_vacance": 10.89,
+      "nb_log_vacant": 59
+    },
+    {
+      "code_insee": "97306",
+      "nom": "Mana",
+      "slug": "mana-97306",
+      "taux_vacance": 10.57,
+      "nb_log_vacant": 203
+    },
+    {
+      "code_insee": "97309",
+      "nom": "Remire-Montjoly",
+      "slug": "remire-montjoly-97309",
+      "taux_vacance": 10.45,
+      "nb_log_vacant": 1028
+    },
+    {
+      "code_insee": "97357",
+      "nom": "Grand-Santi",
+      "slug": "grand-santi-97357",
+      "taux_vacance": 1.6,
+      "nb_log_vacant": 17
+    },
+    {
+      "code_insee": "97314",
+      "nom": "Ouanary",
+      "slug": "ouanary-97314",
+      "taux_vacance": null,
+      "nb_log_vacant": null
+    },
+    {
+      "code_insee": "97352",
+      "nom": "Sa�l",
+      "slug": "sa-l-97352",
+      "taux_vacance": null,
+      "nb_log_vacant": null
+    },
+    {
+      "code_insee": "97356",
+      "nom": "Camopi",
+      "slug": "camopi-97356",
+      "taux_vacance": null,
+      "nb_log_vacant": 0
+    },
+    {
+      "code_insee": "97358",
+      "nom": "Saint-�lie",
+      "slug": "saint-lie-97358",
+      "taux_vacance": 0,
+      "nb_log_vacant": 0
+    },
+    {
+      "code_insee": "97360",
+      "nom": "Apatou",
+      "slug": "apatou-97360",
+      "taux_vacance": null,
+      "nb_log_vacant": null
+    }
+  ]
+}

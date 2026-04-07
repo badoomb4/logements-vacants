@@ -1,0 +1,80 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout
+  title="Comprendre la vacance des logements en France — Guide complet"
+  description="Qu'est-ce qu'un logement vacant ? Vacance structurelle vs frictionnelle, données LOVAC, causes et solutions. Guide complet sur la vacance des logements en France."
+>
+  <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+    <h1 class="text-3xl font-bold text-gray-900 mb-8">Comprendre la vacance des logements en France</h1>
+
+    <article class="prose prose-gray max-w-none">
+      <h2>Qu'est-ce qu'un logement vacant ?</h2>
+      <p>
+        Un logement vacant est un logement inoccupé au 1er janvier de l'année de référence.
+        Il peut être proposé à la vente ou à la location, ou bien être retiré du marché
+        (succession en cours, travaux, volonté du propriétaire...).
+      </p>
+
+      <h2>Vacance frictionnelle vs structurelle</h2>
+      <p>
+        La <strong>vacance frictionnelle</strong> (moins de 2 ans) est normale : elle correspond
+        au temps nécessaire entre deux occupants (déménagement, remise en état, recherche de locataire).
+        Elle est le signe d'un marché qui fonctionne.
+      </p>
+      <p>
+        La <strong>vacance structurelle</strong> (plus de 2 ans) est préoccupante. Elle signale
+        des logements durablement retirés du marché, souvent pour des raisons de dégradation,
+        de succession bloquée, de coûts de rénovation trop élevés ou de marché immobilier détendu.
+      </p>
+
+      <h2>D'où viennent les données ?</h2>
+      <p>
+        Les données présentées sur ce site proviennent du fichier <strong>LOVAC</strong>
+        (Logements Vacants), produit annuellement par le <strong>Cerema</strong> pour le compte
+        du Ministère de la Transition écologique. Ce fichier est construit par croisement de :
+      </p>
+      <ul>
+        <li>Les <strong>fichiers fonciers</strong> de la DGFiP (cadastre)</li>
+        <li>Les <strong>fichiers de la taxe d'habitation</strong></li>
+      </ul>
+      <p>
+        Le fichier est publié en open data sur data.gouv.fr sous Licence Ouverte.
+      </p>
+
+      <h2>Comment est calculé le taux de vacance ?</h2>
+      <p>
+        Le taux de vacance est le rapport entre le nombre de logements vacants et le nombre
+        total de logements du parc privé dans la commune. Par exemple, si une commune compte
+        1 000 logements privés dont 80 vacants, le taux de vacance est de 8%.
+      </p>
+
+      <h2>Le secret statistique</h2>
+      <p>
+        Lorsqu'une commune compte moins de 11 logements dans une catégorie donnée,
+        les données sont masquées et remplacées par la mention « s » pour respecter
+        le secret statistique. Cela concerne principalement les très petites communes rurales.
+      </p>
+
+      <h2>Quelles solutions contre la vacance ?</h2>
+      <p>Plusieurs dispositifs existent pour lutter contre la vacance des logements :</p>
+      <ul>
+        <li><strong>Zéro Logement Vacant</strong> — programme d'accompagnement des propriétaires piloté par la DGALN</li>
+        <li><strong>Taxe sur les logements vacants (TLV)</strong> — taxe applicable dans les zones tendues</li>
+        <li><strong>Dispositif Denormandie</strong> — réduction d'impôt pour les investisseurs qui rénovent dans certaines zones</li>
+        <li><strong>Aides de l'ANAH</strong> — subventions pour la rénovation énergétique et la remise sur le marché</li>
+        <li><strong>Bail réhabilitation</strong> — le propriétaire confie son logement à un organisme qui le rénove et le loue</li>
+      </ul>
+
+      <div class="bg-blue-50 border border-blue-200 rounded-lg p-4 mt-6">
+        <p class="text-blue-800">
+          <strong>Explorer les données :</strong> consultez notre
+          <a href="/carte" class="underline">carte interactive</a> pour visualiser la vacance
+          par département, ou recherchez directement votre commune depuis
+          <a href="/" class="underline">la page d'accueil</a>.
+        </p>
+      </div>
+    </article>
+  </div>
+</BaseLayout>

@@ -1,0 +1,155 @@
+{
+  "code": "35",
+  "nom": "Ille-et-Vilaine",
+  "slug": "ille-et-vilaine-35",
+  "code_region": "53",
+  "nom_region": "Bretagne",
+  "nb_communes": 332,
+  "nb_log_prive": 513344,
+  "nb_log_vacant": 27512,
+  "nb_log_vacant_2ans": 12914,
+  "taux_vacance": 5.36,
+  "taux_vacance_2ans": 2.52,
+  "top_communes": [
+    {
+      "code_insee": "35271",
+      "nom": "Saint-Georges-de-Reintembault",
+      "slug": "saint-georges-de-reintembault-35271",
+      "taux_vacance": 16.42,
+      "nb_log_vacant": 135
+    },
+    {
+      "code_insee": "35230",
+      "nom": "Poilley",
+      "slug": "poilley-35230",
+      "taux_vacance": 16.09,
+      "nb_log_vacant": 37
+    },
+    {
+      "code_insee": "35114",
+      "nom": "Forges-la-For�t",
+      "slug": "forges-la-for-t-35114",
+      "taux_vacance": 13.57,
+      "nb_log_vacant": 19
+    },
+    {
+      "code_insee": "35237",
+      "nom": "Renac",
+      "slug": "renac-35237",
+      "taux_vacance": 13.45,
+      "nb_log_vacant": 85
+    },
+    {
+      "code_insee": "35292",
+      "nom": "Saint-Marc-le-Blanc",
+      "slug": "saint-marc-le-blanc-35292",
+      "taux_vacance": 12.96,
+      "nb_log_vacant": 109
+    },
+    {
+      "code_insee": "35285",
+      "nom": "Saint-Just",
+      "slug": "saint-just-35285",
+      "taux_vacance": 12.57,
+      "nb_log_vacant": 92
+    },
+    {
+      "code_insee": "35168",
+      "nom": "Val d'Anast",
+      "slug": "val-d-anast-35168",
+      "taux_vacance": 12.56,
+      "nb_log_vacant": 269
+    },
+    {
+      "code_insee": "35004",
+      "nom": "Val-Couesnon",
+      "slug": "val-couesnon-35004",
+      "taux_vacance": 12.54,
+      "nb_log_vacant": 281
+    },
+    {
+      "code_insee": "35045",
+      "nom": "Bruc-sur-Aff",
+      "slug": "bruc-sur-aff-35045",
+      "taux_vacance": 12.52,
+      "nb_log_vacant": 65
+    },
+    {
+      "code_insee": "35232",
+      "nom": "Princ�",
+      "slug": "princ-35232",
+      "taux_vacance": 12.2,
+      "nb_log_vacant": 25
+    },
+    {
+      "code_insee": "35064",
+      "nom": "La Chapelle-de-Brain",
+      "slug": "la-chapelle-de-brain-35064",
+      "taux_vacance": 12.09,
+      "nb_log_vacant": 93
+    },
+    {
+      "code_insee": "35075",
+      "nom": "Chauvign�",
+      "slug": "chauvign-35075",
+      "taux_vacance": 11.69,
+      "nb_log_vacant": 49
+    },
+    {
+      "code_insee": "35165",
+      "nom": "Marcill�-Robert",
+      "slug": "marcill-robert-35165",
+      "taux_vacance": 11.67,
+      "nb_log_vacant": 51
+    },
+    {
+      "code_insee": "35242",
+      "nom": "Rimou",
+      "slug": "rimou-35242",
+      "taux_vacance": 11.63,
+      "nb_log_vacant": 25
+    },
+    {
+      "code_insee": "35157",
+      "nom": "Le Loroux",
+      "slug": "le-loroux-35157",
+      "taux_vacance": 11.37,
+      "nb_log_vacant": 34
+    },
+    {
+      "code_insee": "35249",
+      "nom": "Sainte-Anne-sur-Vilaine",
+      "slug": "sainte-anne-sur-vilaine-35249",
+      "taux_vacance": 10.79,
+      "nb_log_vacant": 67
+    },
+    {
+      "code_insee": "35117",
+      "nom": "Ga�l",
+      "slug": "ga-l-35117",
+      "taux_vacance": 10.69,
+      "nb_log_vacant": 93
+    },
+    {
+      "code_insee": "35030",
+      "nom": "La Bosse-de-Bretagne",
+      "slug": "la-bosse-de-bretagne-35030",
+      "taux_vacance": 10.68,
+      "nb_log_vacant": 36
+    },
+    {
+      "code_insee": "35174",
+      "nom": "Mell�",
+      "slug": "mell-35174",
+      "taux_vacance": 10.58,
+      "nb_log_vacant": 38
+    },
+    {
+      "code_insee": "35019",
+      "nom": "Bazouges-la-P�rouse",
+      "slug": "bazouges-la-p-rouse-35019",
+      "taux_vacance": 10.33,
+      "nb_log_vacant": 108
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "code": "02",
+  "nom": "Martinique",
+  "slug": "martinique",
+  "nb_communes": 34,
+  "nb_log_prive": 197900,
+  "nb_log_vacant": 22966,
+  "nb_log_vacant_2ans": 17557,
+  "taux_vacance": 11.6,
+  "taux_vacance_2ans": 8.87,
+  "departements": [
+    {
+      "code": "972",
+      "nom": "Martinique",
+      "slug": "martinique-972",
+      "taux_vacance": 11.6,
+      "nb_log_vacant": 22966
+    }
+  ]
+}

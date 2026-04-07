@@ -1,0 +1,155 @@
+{
+  "code": "23",
+  "nom": "Creuse",
+  "slug": "creuse-23",
+  "code_region": "75",
+  "nom_region": "Nouvelle-Aquitaine",
+  "nb_communes": 255,
+  "nb_log_prive": 59231,
+  "nb_log_vacant": 9031,
+  "nb_log_vacant_2ans": 5708,
+  "taux_vacance": 15.25,
+  "taux_vacance_2ans": 9.64,
+  "top_communes": [
+    {
+      "code_insee": "23008",
+      "nom": "Aubusson",
+      "slug": "aubusson-23008",
+      "taux_vacance": 25.62,
+      "nb_log_vacant": 630
+    },
+    {
+      "code_insee": "23069",
+      "nom": "Crocq",
+      "slug": "crocq-23069",
+      "taux_vacance": 25,
+      "nb_log_vacant": 87
+    },
+    {
+      "code_insee": "23067",
+      "nom": "La Courtine",
+      "slug": "la-courtine-23067",
+      "taux_vacance": 24.36,
+      "nb_log_vacant": 123
+    },
+    {
+      "code_insee": "23102",
+      "nom": "Ladapeyre",
+      "slug": "ladapeyre-23102",
+      "taux_vacance": 24.25,
+      "nb_log_vacant": 73
+    },
+    {
+      "code_insee": "23026",
+      "nom": "Bord-Saint-Georges",
+      "slug": "bord-saint-georges-23026",
+      "taux_vacance": 22.59,
+      "nb_log_vacant": 68
+    },
+    {
+      "code_insee": "23105",
+      "nom": "Lavaveix-les-Mines",
+      "slug": "lavaveix-les-mines-23105",
+      "taux_vacance": 21.66,
+      "nb_log_vacant": 112
+    },
+    {
+      "code_insee": "23030",
+      "nom": "Bourganeuf",
+      "slug": "bourganeuf-23030",
+      "taux_vacance": 21.14,
+      "nb_log_vacant": 303
+    },
+    {
+      "code_insee": "23009",
+      "nom": "Auge",
+      "slug": "auge-23009",
+      "taux_vacance": 20.65,
+      "nb_log_vacant": 19
+    },
+    {
+      "code_insee": "23134",
+      "nom": "Le Monteil-au-Vicomte",
+      "slug": "le-monteil-au-vicomte-23134",
+      "taux_vacance": 20.25,
+      "nb_log_vacant": 33
+    },
+    {
+      "code_insee": "23064",
+      "nom": "Clugnat",
+      "slug": "clugnat-23064",
+      "taux_vacance": 20,
+      "nb_log_vacant": 118
+    },
+    {
+      "code_insee": "23022",
+      "nom": "B�t�te",
+      "slug": "b-t-te-23022",
+      "taux_vacance": 19.87,
+      "nb_log_vacant": 63
+    },
+    {
+      "code_insee": "23049",
+      "nom": "Champsanglard",
+      "slug": "champsanglard-23049",
+      "taux_vacance": 19.8,
+      "nb_log_vacant": 39
+    },
+    {
+      "code_insee": "23246",
+      "nom": "Saint-Sulpice-les-Champs",
+      "slug": "saint-sulpice-les-champs-23246",
+      "taux_vacance": 19.79,
+      "nb_log_vacant": 56
+    },
+    {
+      "code_insee": "23061",
+      "nom": "Ch�n�railles",
+      "slug": "ch-n-railles-23061",
+      "taux_vacance": 19.77,
+      "nb_log_vacant": 104
+    },
+    {
+      "code_insee": "23013",
+      "nom": "Auzances",
+      "slug": "auzances-23013",
+      "taux_vacance": 19.25,
+      "nb_log_vacant": 149
+    },
+    {
+      "code_insee": "23031",
+      "nom": "Boussac",
+      "slug": "boussac-23031",
+      "taux_vacance": 19.18,
+      "nb_log_vacant": 149
+    },
+    {
+      "code_insee": "23154",
+      "nom": "Pionnat",
+      "slug": "pionnat-23154",
+      "taux_vacance": 19.02,
+      "nb_log_vacant": 97
+    },
+    {
+      "code_insee": "23062",
+      "nom": "Ch�niers",
+      "slug": "ch-niers-23062",
+      "taux_vacance": 18.92,
+      "nb_log_vacant": 95
+    },
+    {
+      "code_insee": "23130",
+      "nom": "M�asnes",
+      "slug": "m-asnes-23130",
+      "taux_vacance": 18.82,
+      "nb_log_vacant": 89
+    },
+    {
+      "code_insee": "23100",
+      "nom": "Jarnages",
+      "slug": "jarnages-23100",
+      "taux_vacance": 18.73,
+      "nb_log_vacant": 50
+    }
+  ]
+}

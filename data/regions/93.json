@@ -1,0 +1,55 @@
+{
+  "code": "93",
+  "nom": "Provence-Alpes-C�te d'Azur",
+  "slug": "provence-alpes-c-te-d-azur",
+  "nb_communes": 961,
+  "nb_log_prive": 2901659,
+  "nb_log_vacant": 196964,
+  "nb_log_vacant_2ans": 100909,
+  "taux_vacance": 6.79,
+  "taux_vacance_2ans": 3.48,
+  "departements": [
+    {
+      "code": "04",
+      "nom": "Alpes-de-Haute-Provence",
+      "slug": "alpes-de-haute-provence-04",
+      "taux_vacance": 9.4,
+      "nb_log_vacant": 10028
+    },
+    {
+      "code": "84",
+      "nom": "Vaucluse",
+      "slug": "vaucluse-84",
+      "taux_vacance": 8.36,
+      "nb_log_vacant": 22841
+    },
+    {
+      "code": "13",
+      "nom": "Bouches-du-Rh�ne",
+      "slug": "bouches-du-rh-ne-13",
+      "taux_vacance": 6.93,
+      "nb_log_vacant": 65370
+    },
+    {
+      "code": "05",
+      "nom": "Hautes-Alpes",
+      "slug": "hautes-alpes-05",
+      "taux_vacance": 6.57,
+      "nb_log_vacant": 7487
+    },
+    {
+      "code": "06",
+      "nom": "Alpes-Maritimes",
+      "slug": "alpes-maritimes-06",
+      "taux_vacance": 6.41,
+      "nb_log_vacant": 48728
+    },
+    {
+      "code": "83",
+      "nom": "Var",
+      "slug": "var-83",
+      "taux_vacance": 6.04,
+      "nb_log_vacant": 42510
+    }
+  ]
+}

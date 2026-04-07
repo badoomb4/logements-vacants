@@ -1,0 +1,155 @@
+{
+  "code": "39",
+  "nom": "Jura",
+  "slug": "jura-39",
+  "code_region": "27",
+  "nom_region": "Bourgogne-Franche-Comt�",
+  "nb_communes": 492,
+  "nb_log_prive": 97277,
+  "nb_log_vacant": 10120,
+  "nb_log_vacant_2ans": 5640,
+  "taux_vacance": 10.4,
+  "taux_vacance_2ans": 5.8,
+  "top_communes": [
+    {
+      "code_insee": "39500",
+      "nom": "Salins-les-Bains",
+      "slug": "salins-les-bains-39500",
+      "taux_vacance": 21.64,
+      "nb_log_vacant": 387
+    },
+    {
+      "code_insee": "39368",
+      "nom": "Hauts de Bienne",
+      "slug": "hauts-de-bienne-39368",
+      "taux_vacance": 19.2,
+      "nb_log_vacant": 560
+    },
+    {
+      "code_insee": "39478",
+      "nom": "Saint-Claude",
+      "slug": "saint-claude-39478",
+      "taux_vacance": 19.11,
+      "nb_log_vacant": 931
+    },
+    {
+      "code_insee": "39508",
+      "nom": "Selli�res",
+      "slug": "selli-res-39508",
+      "taux_vacance": 17.13,
+      "nb_log_vacant": 86
+    },
+    {
+      "code_insee": "39510",
+      "nom": "Septmoncel les Molunes",
+      "slug": "septmoncel-les-molunes-39510",
+      "taux_vacance": 16.94,
+      "nb_log_vacant": 126
+    },
+    {
+      "code_insee": "39084",
+      "nom": "Cernans",
+      "slug": "cernans-39084",
+      "taux_vacance": 16.88,
+      "nb_log_vacant": 13
+    },
+    {
+      "code_insee": "39227",
+      "nom": "Foncine-le-Bas",
+      "slug": "foncine-le-bas-39227",
+      "taux_vacance": 16.36,
+      "nb_log_vacant": 35
+    },
+    {
+      "code_insee": "39485",
+      "nom": "Val Suran",
+      "slug": "val-suran-39485",
+      "taux_vacance": 14.54,
+      "nb_log_vacant": 81
+    },
+    {
+      "code_insee": "39475",
+      "nom": "Saint-Amour",
+      "slug": "saint-amour-39475",
+      "taux_vacance": 14.16,
+      "nb_log_vacant": 179
+    },
+    {
+      "code_insee": "39273",
+      "nom": "Montlainsia",
+      "slug": "montlainsia-39273",
+      "taux_vacance": 13.95,
+      "nb_log_vacant": 30
+    },
+    {
+      "code_insee": "39333",
+      "nom": "Moirans-en-Montagne",
+      "slug": "moirans-en-montagne-39333",
+      "taux_vacance": 13.7,
+      "nb_log_vacant": 148
+    },
+    {
+      "code_insee": "39397",
+      "nom": "Orgelet",
+      "slug": "orgelet-39397",
+      "taux_vacance": 13.57,
+      "nb_log_vacant": 120
+    },
+    {
+      "code_insee": "39104",
+      "nom": "Chapelle-Voland",
+      "slug": "chapelle-voland-39104",
+      "taux_vacance": 13.44,
+      "nb_log_vacant": 57
+    },
+    {
+      "code_insee": "39124",
+      "nom": "Chaumergy",
+      "slug": "chaumergy-39124",
+      "taux_vacance": 13.33,
+      "nb_log_vacant": 40
+    },
+    {
+      "code_insee": "39016",
+      "nom": "Arinthod",
+      "slug": "arinthod-39016",
+      "taux_vacance": 13.09,
+      "nb_log_vacant": 83
+    },
+    {
+      "code_insee": "39373",
+      "nom": "Les Moussi�res",
+      "slug": "les-moussi-res-39373",
+      "taux_vacance": 13.04,
+      "nb_log_vacant": 24
+    },
+    {
+      "code_insee": "39434",
+      "nom": "Poligny",
+      "slug": "poligny-39434",
+      "taux_vacance": 12.75,
+      "nb_log_vacant": 289
+    },
+    {
+      "code_insee": "39013",
+      "nom": "Arbois",
+      "slug": "arbois-39013",
+      "taux_vacance": 12.58,
+      "nb_log_vacant": 267
+    },
+    {
+      "code_insee": "39396",
+      "nom": "Orchamps",
+      "slug": "orchamps-39396",
+      "taux_vacance": 12.55,
+      "nb_log_vacant": 68
+    },
+    {
+      "code_insee": "39489",
+      "nom": "Saint-Lothain",
+      "slug": "saint-lothain-39489",
+      "taux_vacance": 12.5,
+      "nb_log_vacant": 37
+    }
+  ]
+}

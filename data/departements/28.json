@@ -1,0 +1,155 @@
+{
+  "code": "28",
+  "nom": "Eure-et-Loir",
+  "slug": "eure-et-loir-28",
+  "code_region": "24",
+  "nom_region": "Centre-Val de Loire",
+  "nb_communes": 363,
+  "nb_log_prive": 143183,
+  "nb_log_vacant": 10944,
+  "nb_log_vacant_2ans": 5639,
+  "taux_vacance": 7.64,
+  "taux_vacance_2ans": 3.94,
+  "top_communes": [
+    {
+      "code_insee": "28202",
+      "nom": "Lamblore",
+      "slug": "lamblore-28202",
+      "taux_vacance": 17.65,
+      "nb_log_vacant": 36
+    },
+    {
+      "code_insee": "28214",
+      "nom": "La Loupe",
+      "slug": "la-loupe-28214",
+      "taux_vacance": 12.82,
+      "nb_log_vacant": 211
+    },
+    {
+      "code_insee": "28117",
+      "nom": "Cr�cy-Couv�",
+      "slug": "cr-cy-couv-28117",
+      "taux_vacance": 12.5,
+      "nb_log_vacant": 19
+    },
+    {
+      "code_insee": "28149",
+      "nom": "La Fert�-Vidame",
+      "slug": "la-fert-vidame-28149",
+      "taux_vacance": 12.28,
+      "nb_log_vacant": 49
+    },
+    {
+      "code_insee": "28134",
+      "nom": "Dreux",
+      "slug": "dreux-28134",
+      "taux_vacance": 12.18,
+      "nb_log_vacant": 1265
+    },
+    {
+      "code_insee": "28387",
+      "nom": "Thiron-Gardais",
+      "slug": "thiron-gardais-28387",
+      "taux_vacance": 12.08,
+      "nb_log_vacant": 47
+    },
+    {
+      "code_insee": "28071",
+      "nom": "Champrond-en-G�tine",
+      "slug": "champrond-en-g-tine-28071",
+      "taux_vacance": 11.93,
+      "nb_log_vacant": 42
+    },
+    {
+      "code_insee": "28027",
+      "nom": "La Bazoche-Gouet",
+      "slug": "la-bazoche-gouet-28027",
+      "taux_vacance": 11.69,
+      "nb_log_vacant": 94
+    },
+    {
+      "code_insee": "28161",
+      "nom": "Fraz�",
+      "slug": "fraz-28161",
+      "taux_vacance": 11.59,
+      "nb_log_vacant": 38
+    },
+    {
+      "code_insee": "28012",
+      "nom": "Vald'Yerre",
+      "slug": "vald-yerre-28012",
+      "taux_vacance": 11.43,
+      "nb_log_vacant": 269
+    },
+    {
+      "code_insee": "28364",
+      "nom": "Sancheville",
+      "slug": "sancheville-28364",
+      "taux_vacance": 11.34,
+      "nb_log_vacant": 45
+    },
+    {
+      "code_insee": "28061",
+      "nom": "Brou",
+      "slug": "brou-28061",
+      "taux_vacance": 11.06,
+      "nb_log_vacant": 205
+    },
+    {
+      "code_insee": "28280",
+      "nom": "Nogent-le-Rotrou",
+      "slug": "nogent-le-rotrou-28280",
+      "taux_vacance": 11.02,
+      "nb_log_vacant": 524
+    },
+    {
+      "code_insee": "28127",
+      "nom": "Dangeau",
+      "slug": "dangeau-28127",
+      "taux_vacance": 10.96,
+      "nb_log_vacant": 82
+    },
+    {
+      "code_insee": "28033",
+      "nom": "Belhomert-Gu�houville",
+      "slug": "belhomert-gu-houville-28033",
+      "taux_vacance": 10.82,
+      "nb_log_vacant": 46
+    },
+    {
+      "code_insee": "28398",
+      "nom": "Unverre",
+      "slug": "unverre-28398",
+      "taux_vacance": 10.45,
+      "nb_log_vacant": 76
+    },
+    {
+      "code_insee": "28088",
+      "nom": "Ch�teaudun",
+      "slug": "ch-teaudun-28088",
+      "taux_vacance": 10.29,
+      "nb_log_vacant": 503
+    },
+    {
+      "code_insee": "28167",
+      "nom": "Frunc�",
+      "slug": "frunc-28167",
+      "taux_vacance": 10.29,
+      "nb_log_vacant": 18
+    },
+    {
+      "code_insee": "28031",
+      "nom": "Beaumont-les-Autels",
+      "slug": "beaumont-les-autels-28031",
+      "taux_vacance": 10.22,
+      "nb_log_vacant": 28
+    },
+    {
+      "code_insee": "28196",
+      "nom": "Illiers-Combray",
+      "slug": "illiers-combray-28196",
+      "taux_vacance": 10.22,
+      "nb_log_vacant": 159
+    }
+  ]
+}

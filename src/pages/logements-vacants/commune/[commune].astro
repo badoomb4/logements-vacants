@@ -1,0 +1,208 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import Breadcrumb from '../../../components/Breadcrumb.astro';
+import StatCard from '../../../components/StatCard.astro';
+import deptList from '../../../../data/departements-list.json';
+import meta from '../../../../data/meta.json';
+import fs from 'fs';
+import path from 'path';
+
+export function getStaticPaths() {
+  const paths = [];
+  for (const dept of deptList) {
+    const filePath = path.join(process.cwd(), `data/communes/${dept.code}.json`);
+    if (!fs.existsSync(filePath)) continue;
+    const communes = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
+    for (const c of communes) {
+      // Vague 1 : uniquement communes > 10 000 habitants (parc prive comme proxy)
+      if (c.nb_log_prive === null || c.nb_log_prive < 4000) continue;
+      paths.push({
+        params: { commune: c.slug },
+        props: { commune: c, deptCode: dept.code },
+      });
+    }
+  }
+  return paths;
+}
+
+const { commune, deptCode } = Astro.props;
+
+// Load department data for comparison
+const deptData = JSON.parse(
+  fs.readFileSync(path.join(process.cwd(), `data/departements/${deptCode}.json`), 'utf-8')
+);
+
+// Load sibling communes for "nearby" section
+const allCommunes = JSON.parse(
+  fs.readFileSync(path.join(process.cwd(), `data/communes/${deptCode}.json`), 'utf-8')
+);
+const siblings = allCommunes
+  .filter((c) => c.code_insee !== commune.code_insee && c.nb_log_prive !== null)
+  .slice(0, 6);
+
+const regionSlug = commune.nom_region
+  ? commune.nom_region.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().replace(/[^a-z0-9]/g, '-').replace(/-+/g, '-').replace(/^-|-$/g, '')
+  : '';
+
+// Comparison text
+const isAboveNational = commune.taux_vacance !== null && commune.taux_vacance > meta.taux_vacance;
+const isAboveDept = commune.taux_vacance !== null && commune.taux_vacance > deptData.taux_vacance;
+const compWord = isAboveNational ? 'au-dessus' : 'en-dessous';
+
+const schema = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    {
+      '@type': 'Dataset',
+      name: `Logements vacants à ${commune.nom}`,
+      description: `Statistiques LOVAC ${meta.millesime} sur les logements vacants à ${commune.nom} (${commune.code_insee}).`,
+      creator: { '@type': 'Organization', name: 'Cerema' },
+      license: 'https://www.etalab.gouv.fr/licence-ouverte-open-licence/',
+    },
+    {
+      '@type': 'WebPage',
+      name: `Logements vacants à ${commune.nom}`,
+      about: { '@type': 'Place', name: commune.nom },
+    },
+    {
+      '@type': 'BreadcrumbList',
+      itemListElement: [
+        { '@type': 'ListItem', position: 1, name: 'Accueil', item: 'https://logementsvacants.fr/' },
+        { '@type': 'ListItem', position: 2, name: commune.nom_region, item: `https://logementsvacants.fr/logements-vacants/region/${regionSlug}/` },
+        { '@type': 'ListItem', position: 3, name: `${commune.nom_departement} (${deptCode})`, item: `https://logementsvacants.fr/logements-vacants/departement/${deptData.slug}/` },
+        { '@type': 'ListItem', position: 4, name: commune.nom },
+      ],
+    },
+  ],
+};
+---
+
+<BaseLayout
+  title={`Logements vacants à ${commune.nom} (${commune.code_insee}) — LOVAC ${meta.millesime}`}
+  description={commune.taux_vacance !== null
+    ? `${commune.nb_log_vacant} logements vacants à ${commune.nom} (${commune.code_insee}), taux de vacance ${commune.taux_vacance}%. Données LOVAC ${meta.millesime}, comparaison département et France.`
+    : `Statistiques des logements vacants à ${commune.nom} (${commune.code_insee}) — données LOVAC ${meta.millesime}.`}
+  schema={schema}
+>
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+    <Breadcrumb items={[
+      { label: 'Accueil', href: '/' },
+      { label: commune.nom_region, href: `/logements-vacants/region/${regionSlug}/` },
+      { label: `${commune.nom_departement} (${deptCode})`, href: `/logements-vacants/departement/${deptData.slug}/` },
+      { label: commune.nom },
+    ]} />
+
+    <h1 class="text-3xl font-bold text-gray-900 mb-6">
+      Logements vacants à {commune.nom} ({commune.code_insee}) — {meta.millesime}
+    </h1>
+
+    {commune.taux_vacance !== null ? (
+      <>
+        <!-- Stats -->
+        <div class="grid grid-cols-2 md:grid-cols-4 gap-4 mb-8">
+          <StatCard label="Parc privé" value={commune.nb_log_prive} color="blue" />
+          <StatCard label="Logements vacants" value={commune.nb_log_vacant} color="orange" />
+          <StatCard label="Vacants + 2 ans" value={commune.nb_log_vacant_2ans} subtitle="Vacance structurelle" color="red" />
+          <StatCard
+            label="Taux de vacance"
+            value={`${commune.taux_vacance}%`}
+            subtitle={`Dept: ${deptData.taux_vacance}% · France: ${meta.taux_vacance}%`}
+            color={isAboveNational ? 'red' : 'green'}
+          />
+        </div>
+
+        <!-- Gauge -->
+        <div class="bg-white rounded-lg p-6 shadow-sm mb-8">
+          <h2 class="text-lg font-semibold mb-4">Comparaison du taux de vacance</h2>
+          <div class="space-y-3">
+            <div>
+              <div class="flex justify-between text-sm mb-1">
+                <span>{commune.nom}</span>
+                <span class="font-bold">{commune.taux_vacance}%</span>
+              </div>
+              <div class="w-full bg-gray-200 rounded-full h-4">
+                <div class={`h-4 rounded-full ${isAboveNational ? 'bg-orange-500' : 'bg-green-500'}`} style={`width: ${Math.min(commune.taux_vacance * 3, 100)}%`}></div>
+              </div>
+            </div>
+            <div>
+              <div class="flex justify-between text-sm mb-1">
+                <span>{commune.nom_departement}</span>
+                <span class="font-bold">{deptData.taux_vacance}%</span>
+              </div>
+              <div class="w-full bg-gray-200 rounded-full h-4">
+                <div class="bg-blue-400 h-4 rounded-full" style={`width: ${Math.min(deptData.taux_vacance * 3, 100)}%`}></div>
+              </div>
+            </div>
+            <div>
+              <div class="flex justify-between text-sm mb-1">
+                <span>France</span>
+                <span class="font-bold">{meta.taux_vacance}%</span>
+              </div>
+              <div class="w-full bg-gray-200 rounded-full h-4">
+                <div class="bg-gray-400 h-4 rounded-full" style={`width: ${Math.min(meta.taux_vacance * 3, 100)}%`}></div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Analysis text -->
+        <div class="bg-blue-50 border border-blue-200 rounded-lg p-6 mb-8">
+          <h2 class="text-lg font-semibold text-blue-900 mb-2">Analyse</h2>
+          <p class="text-blue-800">
+            {commune.nom} affiche un taux de vacance de {commune.taux_vacance}%, soit {compWord} de la moyenne
+            de {commune.nom_departement} ({deptData.taux_vacance}%) et {compWord} de la moyenne nationale ({meta.taux_vacance}%).
+            Avec {commune.nb_log_vacant?.toLocaleString('fr-FR')} logements vacants
+            {commune.nb_log_vacant_2ans !== null && ` dont ${commune.nb_log_vacant_2ans?.toLocaleString('fr-FR')} depuis plus de 2 ans`},
+            la commune se classe {commune.rang_dept ? `${commune.rang_dept}e sur ${commune.total_communes_dept}` : ''} communes du département.
+          </p>
+        </div>
+      </>
+    ) : (
+      <div class="bg-yellow-50 border border-yellow-200 rounded-lg p-6 mb-8">
+        <p class="text-yellow-800">
+          <strong>Données non disponibles</strong> — Cette commune compte moins de 11 logements dans la catégorie concernée.
+          Les données sont masquées pour respecter le secret statistique.
+        </p>
+      </div>
+    )}
+
+    <!-- What to do -->
+    <div class="bg-white rounded-lg p-6 shadow-sm mb-8">
+      <h2 class="text-xl font-bold mb-3">Que faire d'un logement vacant ?</h2>
+      <p class="text-gray-600 mb-3">
+        Si vous êtes propriétaire d'un logement vacant ou si vous souhaitez signaler un logement inoccupé,
+        plusieurs dispositifs existent pour remettre ces biens sur le marché :
+      </p>
+      <ul class="list-disc list-inside text-gray-600 space-y-1">
+        <li><strong>Zéro Logement Vacant</strong> — programme gouvernemental d'accompagnement des propriétaires</li>
+        <li><strong>Dispositif Denormandie</strong> — réduction d'impôt pour rénovation dans certaines zones</li>
+        <li><strong>Aides ANAH</strong> — subventions pour la rénovation énergétique</li>
+        <li><strong>Bail réhabilitation</strong> — confier la rénovation et la gestion à un organisme agréé</li>
+      </ul>
+      <a href="/blog/que-faire-logement-vacant/" class="inline-block mt-3 text-blue-700 hover:underline font-medium">
+        Lire notre guide complet →
+      </a>
+    </div>
+
+    <!-- Nearby communes -->
+    {siblings.length > 0 && (
+      <section>
+        <h2 class="text-xl font-bold mb-4">Autres communes du {commune.nom_departement}</h2>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+          {siblings.map((s) => (
+            <a href={`/logements-vacants/commune/${s.slug}/`}
+               class="bg-white rounded-lg border border-gray-200 p-4 hover:shadow-md hover:border-blue-300 transition-all">
+              <h3 class="font-medium text-gray-900">{s.nom}</h3>
+              <div class="flex justify-between text-sm mt-1">
+                <span class="text-gray-500">Taux vacance</span>
+                <span class="font-semibold text-orange-600">
+                  {s.taux_vacance !== null ? `${s.taux_vacance}%` : 'n/d'}
+                </span>
+              </div>
+            </a>
+          ))}
+        </div>
+      </section>
+    )}
+  </div>
+</BaseLayout>

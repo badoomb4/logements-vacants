@@ -1,0 +1,155 @@
+{
+  "code": "72",
+  "nom": "Sarthe",
+  "slug": "sarthe-72",
+  "code_region": "52",
+  "nom_region": "Pays de la Loire",
+  "nb_communes": 352,
+  "nb_log_prive": 224136,
+  "nb_log_vacant": 15269,
+  "nb_log_vacant_2ans": 7636,
+  "taux_vacance": 6.81,
+  "taux_vacance_2ans": 3.41,
+  "top_communes": [
+    {
+      "code_insee": "72351",
+      "nom": "Tennie",
+      "slug": "tennie-72351",
+      "taux_vacance": 16.02,
+      "nb_log_vacant": 78
+    },
+    {
+      "code_insee": "72269",
+      "nom": "Saint-Calais",
+      "slug": "saint-calais-72269",
+      "taux_vacance": 15.97,
+      "nb_log_vacant": 272
+    },
+    {
+      "code_insee": "72334",
+      "nom": "Sill�-le-Guillaume",
+      "slug": "sill-le-guillaume-72334",
+      "taux_vacance": 15.4,
+      "nb_log_vacant": 197
+    },
+    {
+      "code_insee": "72278",
+      "nom": "Saint-Denis-d'Orques",
+      "slug": "saint-denis-d-orques-72278",
+      "taux_vacance": 15,
+      "nb_log_vacant": 69
+    },
+    {
+      "code_insee": "72035",
+      "nom": "Bess�-sur-Braye",
+      "slug": "bess-sur-braye-72035",
+      "taux_vacance": 14.34,
+      "nb_log_vacant": 180
+    },
+    {
+      "code_insee": "72211",
+      "nom": "Mont-Saint-Jean",
+      "slug": "mont-saint-jean-72211",
+      "taux_vacance": 13.46,
+      "nb_log_vacant": 56
+    },
+    {
+      "code_insee": "72138",
+      "nom": "Fresnay-sur-Sarthe",
+      "slug": "fresnay-sur-sarthe-72138",
+      "taux_vacance": 13.28,
+      "nb_log_vacant": 212
+    },
+    {
+      "code_insee": "72118",
+      "nom": "Dollon",
+      "slug": "dollon-72118",
+      "taux_vacance": 13.25,
+      "nb_log_vacant": 108
+    },
+    {
+      "code_insee": "72068",
+      "nom": "La Chartre-sur-le-Loir",
+      "slug": "la-chartre-sur-le-loir-72068",
+      "taux_vacance": 12.21,
+      "nb_log_vacant": 112
+    },
+    {
+      "code_insee": "72180",
+      "nom": "Mamers",
+      "slug": "mamers-72180",
+      "taux_vacance": 12.12,
+      "nb_log_vacant": 279
+    },
+    {
+      "code_insee": "72029",
+      "nom": "Beaumont-sur-Sarthe",
+      "slug": "beaumont-sur-sarthe-72029",
+      "taux_vacance": 12.11,
+      "nb_log_vacant": 123
+    },
+    {
+      "code_insee": "72052",
+      "nom": "Chahaignes",
+      "slug": "chahaignes-72052",
+      "taux_vacance": 12.02,
+      "nb_log_vacant": 63
+    },
+    {
+      "code_insee": "72220",
+      "nom": "Nogent-le-Bernard",
+      "slug": "nogent-le-bernard-72220",
+      "taux_vacance": 11.93,
+      "nb_log_vacant": 60
+    },
+    {
+      "code_insee": "72060",
+      "nom": "La Chapelle-aux-Choux",
+      "slug": "la-chapelle-aux-choux-72060",
+      "taux_vacance": 11.92,
+      "nb_log_vacant": 23
+    },
+    {
+      "code_insee": "72104",
+      "nom": "Courgains",
+      "slug": "courgains-72104",
+      "taux_vacance": 11.6,
+      "nb_log_vacant": 34
+    },
+    {
+      "code_insee": "72143",
+      "nom": "Le Grand-Luc�",
+      "slug": "le-grand-luc-72143",
+      "taux_vacance": 11.51,
+      "nb_log_vacant": 107
+    },
+    {
+      "code_insee": "72189",
+      "nom": "Marolles-les-Braults",
+      "slug": "marolles-les-braults-72189",
+      "taux_vacance": 11.4,
+      "nb_log_vacant": 118
+    },
+    {
+      "code_insee": "72074",
+      "nom": "Chemir�-en-Charnie",
+      "slug": "chemir-en-charnie-72074",
+      "taux_vacance": 11.27,
+      "nb_log_vacant": 16
+    },
+    {
+      "code_insee": "72208",
+      "nom": "Montmirail",
+      "slug": "montmirail-72208",
+      "taux_vacance": 11.06,
+      "nb_log_vacant": 23
+    },
+    {
+      "code_insee": "72182",
+      "nom": "Mansign�",
+      "slug": "mansign-72182",
+      "taux_vacance": 11.03,
+      "nb_log_vacant": 93
+    }
+  ]
+}

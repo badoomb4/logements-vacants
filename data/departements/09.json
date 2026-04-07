@@ -1,0 +1,155 @@
+{
+  "code": "09",
+  "nom": "Ari�ge",
+  "slug": "ari-ge-09",
+  "code_region": "76",
+  "nom_region": "Occitanie",
+  "nb_communes": 324,
+  "nb_log_prive": 72784,
+  "nb_log_vacant": 6985,
+  "nb_log_vacant_2ans": 3956,
+  "taux_vacance": 9.6,
+  "taux_vacance_2ans": 5.44,
+  "top_communes": [
+    {
+      "code_insee": "09261",
+      "nom": "Saint-Girons",
+      "slug": "saint-girons-09261",
+      "taux_vacance": 14.74,
+      "nb_log_vacant": 673
+    },
+    {
+      "code_insee": "09285",
+      "nom": "Seix",
+      "slug": "seix-09285",
+      "taux_vacance": 14.74,
+      "nb_log_vacant": 135
+    },
+    {
+      "code_insee": "09085",
+      "nom": "Castillon-en-Couserans",
+      "slug": "castillon-en-couserans-09085",
+      "taux_vacance": 14.53,
+      "nb_log_vacant": 68
+    },
+    {
+      "code_insee": "09182",
+      "nom": "Massat",
+      "slug": "massat-09182",
+      "taux_vacance": 14.33,
+      "nb_log_vacant": 154
+    },
+    {
+      "code_insee": "09306",
+      "nom": "Tarascon-sur-Ari�ge",
+      "slug": "tarascon-sur-ari-ge-09306",
+      "taux_vacance": 13.18,
+      "nb_log_vacant": 237
+    },
+    {
+      "code_insee": "09062",
+      "nom": "Bordes-Uchentein",
+      "slug": "bordes-uchentein-09062",
+      "taux_vacance": 12.5,
+      "nb_log_vacant": 49
+    },
+    {
+      "code_insee": "09047",
+      "nom": "B�lesta",
+      "slug": "b-lesta-09047",
+      "taux_vacance": 12.16,
+      "nb_log_vacant": 106
+    },
+    {
+      "code_insee": "09181",
+      "nom": "Le Mas-d'Azil",
+      "slug": "le-mas-d-azil-09181",
+      "taux_vacance": 12.13,
+      "nb_log_vacant": 98
+    },
+    {
+      "code_insee": "09082",
+      "nom": "Castelnau-Durban",
+      "slug": "castelnau-durban-09082",
+      "taux_vacance": 12.01,
+      "nb_log_vacant": 43
+    },
+    {
+      "code_insee": "09217",
+      "nom": "Niaux",
+      "slug": "niaux-09217",
+      "taux_vacance": 11.89,
+      "nb_log_vacant": 17
+    },
+    {
+      "code_insee": "09277",
+      "nom": "Saint-Ybars",
+      "slug": "saint-ybars-09277",
+      "taux_vacance": 11.84,
+      "nb_log_vacant": 47
+    },
+    {
+      "code_insee": "09225",
+      "nom": "Pamiers",
+      "slug": "pamiers-09225",
+      "taux_vacance": 11.66,
+      "nb_log_vacant": 941
+    },
+    {
+      "code_insee": "09221",
+      "nom": "Ornolac-Ussat-les-Bains",
+      "slug": "ornolac-ussat-les-bains-09221",
+      "taux_vacance": 11.44,
+      "nb_log_vacant": 23
+    },
+    {
+      "code_insee": "09235",
+      "nom": "Prat-Bonrepaux",
+      "slug": "prat-bonrepaux-09235",
+      "taux_vacance": 11.42,
+      "nb_log_vacant": 62
+    },
+    {
+      "code_insee": "09176",
+      "nom": "Luzenac",
+      "slug": "luzenac-09176",
+      "taux_vacance": 11.31,
+      "nb_log_vacant": 38
+    },
+    {
+      "code_insee": "09160",
+      "nom": "Lavelanet",
+      "slug": "lavelanet-09160",
+      "taux_vacance": 11.21,
+      "nb_log_vacant": 418
+    },
+    {
+      "code_insee": "09042",
+      "nom": "La Bastide-de-S�rou",
+      "slug": "la-bastide-de-s-rou-09042",
+      "taux_vacance": 11.18,
+      "nb_log_vacant": 71
+    },
+    {
+      "code_insee": "09043",
+      "nom": "La Bastide-sur-l'Hers",
+      "slug": "la-bastide-sur-l-hers-09043",
+      "taux_vacance": 11.13,
+      "nb_log_vacant": 55
+    },
+    {
+      "code_insee": "09105",
+      "nom": "Daumazan-sur-Arize",
+      "slug": "daumazan-sur-arize-09105",
+      "taux_vacance": 11.13,
+      "nb_log_vacant": 70
+    },
+    {
+      "code_insee": "09161",
+      "nom": "L�ran",
+      "slug": "l-ran-09161",
+      "taux_vacance": 10.97,
+      "nb_log_vacant": 51
+    }
+  ]
+}

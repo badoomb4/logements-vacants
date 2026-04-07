@@ -1,0 +1,155 @@
+{
+  "code": "76",
+  "nom": "Seine-Maritime",
+  "slug": "seine-maritime-76",
+  "code_region": "28",
+  "nom_region": "Normandie",
+  "nb_communes": 707,
+  "nb_log_prive": 433017,
+  "nb_log_vacant": 30854,
+  "nb_log_vacant_2ans": 14020,
+  "taux_vacance": 7.13,
+  "taux_vacance_2ans": 3.24,
+  "top_communes": [
+    {
+      "code_insee": "76231",
+      "nom": "Elbeuf",
+      "slug": "elbeuf-76231",
+      "taux_vacance": 17.38,
+      "nb_log_vacant": 1256
+    },
+    {
+      "code_insee": "76131",
+      "nom": "La Bouille",
+      "slug": "la-bouille-76131",
+      "taux_vacance": 12.98,
+      "nb_log_vacant": 37
+    },
+    {
+      "code_insee": "76035",
+      "nom": "Aumale",
+      "slug": "aumale-76035",
+      "taux_vacance": 12.64,
+      "nb_log_vacant": 123
+    },
+    {
+      "code_insee": "76312",
+      "nom": "Gournay-en-Bray",
+      "slug": "gournay-en-bray-76312",
+      "taux_vacance": 12.15,
+      "nb_log_vacant": 308
+    },
+    {
+      "code_insee": "76276",
+      "nom": "Forges-les-Eaux",
+      "slug": "forges-les-eaux-76276",
+      "taux_vacance": 11.3,
+      "nb_log_vacant": 217
+    },
+    {
+      "code_insee": "76278",
+      "nom": "Foucarmont",
+      "slug": "foucarmont-76278",
+      "taux_vacance": 11.28,
+      "nb_log_vacant": 44
+    },
+    {
+      "code_insee": "76460",
+      "nom": "Nesle-Normandeuse",
+      "slug": "nesle-normandeuse-76460",
+      "taux_vacance": 11.19,
+      "nb_log_vacant": 30
+    },
+    {
+      "code_insee": "76295",
+      "nom": "Gaillefontaine",
+      "slug": "gaillefontaine-76295",
+      "taux_vacance": 11.13,
+      "nb_log_vacant": 59
+    },
+    {
+      "code_insee": "76664",
+      "nom": "Sasseville",
+      "slug": "sasseville-76664",
+      "taux_vacance": 11.11,
+      "nb_log_vacant": 12
+    },
+    {
+      "code_insee": "76217",
+      "nom": "Dieppe",
+      "slug": "dieppe-76217",
+      "taux_vacance": 10.93,
+      "nb_log_vacant": 1556
+    },
+    {
+      "code_insee": "76540",
+      "nom": "Rouen",
+      "slug": "rouen-76540",
+      "taux_vacance": 10.63,
+      "nb_log_vacant": 6548
+    },
+    {
+      "code_insee": "76165",
+      "nom": "Caudebec-l�s-Elbeuf",
+      "slug": "caudebec-l-s-elbeuf-76165",
+      "taux_vacance": 10.5,
+      "nb_log_vacant": 443
+    },
+    {
+      "code_insee": "76346",
+      "nom": "Hautot-l'Auvray",
+      "slug": "hautot-l-auvray-76346",
+      "taux_vacance": 10.29,
+      "nb_log_vacant": 18
+    },
+    {
+      "code_insee": "76462",
+      "nom": "Neufch�tel-en-Bray",
+      "slug": "neufch-tel-en-bray-76462",
+      "taux_vacance": 10.05,
+      "nb_log_vacant": 212
+    },
+    {
+      "code_insee": "76739",
+      "nom": "Vieux-Rouen-sur-Bresle",
+      "slug": "vieux-rouen-sur-bresle-76739",
+      "taux_vacance": 9.77,
+      "nb_log_vacant": 30
+    },
+    {
+      "code_insee": "76219",
+      "nom": "Doudeville",
+      "slug": "doudeville-76219",
+      "taux_vacance": 9.72,
+      "nb_log_vacant": 110
+    },
+    {
+      "code_insee": "76492",
+      "nom": "Ouville-la-Rivi�re",
+      "slug": "ouville-la-rivi-re-76492",
+      "taux_vacance": 9.41,
+      "nb_log_vacant": 24
+    },
+    {
+      "code_insee": "76655",
+      "nom": "Saint-Valery-en-Caux",
+      "slug": "saint-valery-en-caux-76655",
+      "taux_vacance": 9.39,
+      "nb_log_vacant": 240
+    },
+    {
+      "code_insee": "76025",
+      "nom": "Argueil",
+      "slug": "argueil-76025",
+      "taux_vacance": 9.38,
+      "nb_log_vacant": 18
+    },
+    {
+      "code_insee": "76597",
+      "nom": "Saint-Laurent-en-Caux",
+      "slug": "saint-laurent-en-caux-76597",
+      "taux_vacance": 9.34,
+      "nb_log_vacant": 31
+    }
+  ]
+}

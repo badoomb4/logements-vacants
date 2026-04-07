@@ -1,0 +1,155 @@
+{
+  "code": "89",
+  "nom": "Yonne",
+  "slug": "yonne-89",
+  "code_region": "27",
+  "nom_region": "Bourgogne-Franche-Comt�",
+  "nb_communes": 423,
+  "nb_log_prive": 129045,
+  "nb_log_vacant": 13634,
+  "nb_log_vacant_2ans": 7512,
+  "taux_vacance": 10.57,
+  "taux_vacance_2ans": 5.82,
+  "top_communes": [
+    {
+      "code_insee": "89418",
+      "nom": "Tonnerre",
+      "slug": "tonnerre-89418",
+      "taux_vacance": 22.72,
+      "nb_log_vacant": 525
+    },
+    {
+      "code_insee": "89204",
+      "nom": "L'Isle-sur-Serein",
+      "slug": "l-isle-sur-serein-89204",
+      "taux_vacance": 21.15,
+      "nb_log_vacant": 81
+    },
+    {
+      "code_insee": "89005",
+      "nom": "Ancy-le-Franc",
+      "slug": "ancy-le-franc-89005",
+      "taux_vacance": 21.12,
+      "nb_log_vacant": 136
+    },
+    {
+      "code_insee": "89004",
+      "nom": "Aisy-sur-Arman�on",
+      "slug": "aisy-sur-arman-on-89004",
+      "taux_vacance": 20.77,
+      "nb_log_vacant": 38
+    },
+    {
+      "code_insee": "89321",
+      "nom": "Ravi�res",
+      "slug": "ravi-res-89321",
+      "taux_vacance": 20.51,
+      "nb_log_vacant": 112
+    },
+    {
+      "code_insee": "89393",
+      "nom": "Serrigny",
+      "slug": "serrigny-89393",
+      "taux_vacance": 19.57,
+      "nb_log_vacant": 18
+    },
+    {
+      "code_insee": "89220",
+      "nom": "Lavau",
+      "slug": "lavau-89220",
+      "taux_vacance": 19.17,
+      "nb_log_vacant": 65
+    },
+    {
+      "code_insee": "89177",
+      "nom": "Fontenay-sous-Fouronnes",
+      "slug": "fontenay-sous-fouronnes-89177",
+      "taux_vacance": 18.67,
+      "nb_log_vacant": 14
+    },
+    {
+      "code_insee": "89039",
+      "nom": "B�ru",
+      "slug": "b-ru-89039",
+      "taux_vacance": 18.06,
+      "nb_log_vacant": 13
+    },
+    {
+      "code_insee": "89277",
+      "nom": "Nitry",
+      "slug": "nitry-89277",
+      "taux_vacance": 18,
+      "nb_log_vacant": 45
+    },
+    {
+      "code_insee": "89461",
+      "nom": "Villeneuve-l'Archev�que",
+      "slug": "villeneuve-l-archev-que-89461",
+      "taux_vacance": 17.5,
+      "nb_log_vacant": 122
+    },
+    {
+      "code_insee": "89084",
+      "nom": "Charentenay",
+      "slug": "charentenay-89084",
+      "taux_vacance": 17.42,
+      "nb_log_vacant": 31
+    },
+    {
+      "code_insee": "89131",
+      "nom": "Cruzy-le-Ch�tel",
+      "slug": "cruzy-le-ch-tel-89131",
+      "taux_vacance": 17.27,
+      "nb_log_vacant": 43
+    },
+    {
+      "code_insee": "89312",
+      "nom": "Pr�cy-le-Sec",
+      "slug": "pr-cy-le-sec-89312",
+      "taux_vacance": 16.37,
+      "nb_log_vacant": 28
+    },
+    {
+      "code_insee": "89206",
+      "nom": "Joigny",
+      "slug": "joigny-89206",
+      "taux_vacance": 16.28,
+      "nb_log_vacant": 696
+    },
+    {
+      "code_insee": "89020",
+      "nom": "Asni�res-sous-Bois",
+      "slug": "asni-res-sous-bois-89020",
+      "taux_vacance": 16.27,
+      "nb_log_vacant": 27
+    },
+    {
+      "code_insee": "89246",
+      "nom": "Massangis",
+      "slug": "massangis-89246",
+      "taux_vacance": 15.79,
+      "nb_log_vacant": 54
+    },
+    {
+      "code_insee": "89426",
+      "nom": "Val-de-Mercy",
+      "slug": "val-de-mercy-89426",
+      "taux_vacance": 15.74,
+      "nb_log_vacant": 31
+    },
+    {
+      "code_insee": "89482",
+      "nom": "Viviers",
+      "slug": "viviers-89482",
+      "taux_vacance": 15.74,
+      "nb_log_vacant": 17
+    },
+    {
+      "code_insee": "89025",
+      "nom": "Avallon",
+      "slug": "avallon-89025",
+      "taux_vacance": 15.73,
+      "nb_log_vacant": 515
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "code": "2B",
+  "nom": "Haute-Corse",
+  "slug": "haute-corse-2B",
+  "code_region": "94",
+  "nom_region": "Corse",
+  "nb_communes": 236,
+  "nb_log_prive": 90034,
+  "nb_log_vacant": 8021,
+  "nb_log_vacant_2ans": 4713,
+  "taux_vacance": 8.91,
+  "taux_vacance_2ans": 5.23,
+  "top_communes": [
+    {
+      "code_insee": "2B053",
+      "nom": "Campi",
+      "slug": "campi-2B053",
+      "taux_vacance": 26.09,
+      "nb_log_vacant": 12
+    },
+    {
+      "code_insee": "2B243",
+      "nom": "Polveroso",
+      "slug": "polveroso-2B243",
+      "taux_vacance": 24.56,
+      "nb_log_vacant": 14
+    },
+    {
+      "code_insee": "2B214",
+      "nom": "Piano",
+      "slug": "piano-2B214",
+      "taux_vacance": 21.57,
+      "nb_log_vacant": 11
+    },
+    {
+      "code_insee": "2B321",
+      "nom": "Tarrano",
+      "slug": "tarrano-2B321",
+      "taux_vacance": 19.3,
+      "nb_log_vacant": 11
+    },
+    {
+      "code_insee": "2B354",
+      "nom": "Vivario",
+      "slug": "vivario-2B354",
+      "taux_vacance": 18.14,
+      "nb_log_vacant": 74
+    },
+    {
+      "code_insee": "2B201",
+      "nom": "Pancheraccia",
+      "slug": "pancheraccia-2B201",
+      "taux_vacance": 16.57,
+      "nb_log_vacant": 29
+    },
+    {
+      "code_insee": "2B318",
+      "nom": "Taglio-Isolaccio",
+      "slug": "taglio-isolaccio-2B318",
+      "taux_vacance": 16,
+      "nb_log_vacant": 80
+    },
+    {
+      "code_insee": "2B075",
+      "nom": "Casevecchie",
+      "slug": "casevecchie-2B075",
+      "taux_vacance": 15.94,
+      "nb_log_vacant": 11
+    },
+    {
+      "code_insee": "2B274",
+      "nom": "Scolca",
+      "slug": "scolca-2B274",
+      "taux_vacance": 15.65,
+      "nb_log_vacant": 18
+    },
+    {
+      "code_insee": "2B162",
+      "nom": "Moltifao",
+      "slug": "moltifao-2B162",
+      "taux_vacance": 15.4,
+      "nb_log_vacant": 95
+    },
+    {
+      "code_insee": "2B096",
+      "nom": "Corte",
+      "slug": "corte-2B096",
+      "taux_vacance": 14.34,
+      "nb_log_vacant": 710
+    },
+    {
+      "code_insee": "2B260",
+      "nom": "Riventosa",
+      "slug": "riventosa-2B260",
+      "taux_vacance": 13.64,
+      "nb_log_vacant": 21
+    },
+    {
+      "code_insee": "2B238",
+      "nom": "Poggio-di-Venaco",
+      "slug": "poggio-di-venaco-2B238",
+      "taux_vacance": 13.41,
+      "nb_log_vacant": 24
+    },
+    {
+      "code_insee": "2B350",
+      "nom": "Vignale",
+      "slug": "vignale-2B350",
+      "taux_vacance": 13.27,
+      "nb_log_vacant": 26
+    },
+    {
+      "code_insee": "2B172",
+      "nom": "Murato",
+      "slug": "murato-2B172",
+      "taux_vacance": 13.09,
+      "nb_log_vacant": 64
+    },
+    {
+      "code_insee": "2B016",
+      "nom": "Antisanti",
+      "slug": "antisanti-2B016",
+      "taux_vacance": 13.01,
+      "nb_log_vacant": 57
+    },
+    {
+      "code_insee": "2B173",
+      "nom": "Muro",
+      "slug": "muro-2B173",
+      "taux_vacance": 12.78,
+      "nb_log_vacant": 45
+    },
+    {
+      "code_insee": "2B135",
+      "nom": "Isolaccio-di-Fiumorbo",
+      "slug": "isolaccio-di-fiumorbo-2B135",
+      "taux_vacance": 12.68,
+      "nb_log_vacant": 60
+    },
+    {
+      "code_insee": "2B169",
+      "nom": "Morosaglia",
+      "slug": "morosaglia-2B169",
+      "taux_vacance": 12.62,
+      "nb_log_vacant": 90
+    },
+    {
+      "code_insee": "2B123",
+      "nom": "Ghisonaccia",
+      "slug": "ghisonaccia-2B123",
+      "taux_vacance": 12.5,
+      "nb_log_vacant": 306
+    }
+  ]
+}

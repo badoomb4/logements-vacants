@@ -1,0 +1,155 @@
+{
+  "code": "85",
+  "nom": "Vend�e",
+  "slug": "vend-e-85",
+  "code_region": "52",
+  "nom_region": "Pays de la Loire",
+  "nb_communes": 253,
+  "nb_log_prive": 424082,
+  "nb_log_vacant": 18148,
+  "nb_log_vacant_2ans": 7649,
+  "taux_vacance": 4.28,
+  "taux_vacance_2ans": 1.8,
+  "top_communes": [
+    {
+      "code_insee": "85235",
+      "nom": "Saint-Juire-Champgillon",
+      "slug": "saint-juire-champgillon-85235",
+      "taux_vacance": 12.55,
+      "nb_log_vacant": 34
+    },
+    {
+      "code_insee": "85205",
+      "nom": "Saint-Cyr-des-G�ts",
+      "slug": "saint-cyr-des-g-ts-85205",
+      "taux_vacance": 11.72,
+      "nb_log_vacant": 34
+    },
+    {
+      "code_insee": "85143",
+      "nom": "Mervent",
+      "slug": "mervent-85143",
+      "taux_vacance": 11.41,
+      "nb_log_vacant": 81
+    },
+    {
+      "code_insee": "85264",
+      "nom": "Saint-Pierre-du-Chemin",
+      "slug": "saint-pierre-du-chemin-85264",
+      "taux_vacance": 10.74,
+      "nb_log_vacant": 71
+    },
+    {
+      "code_insee": "85220",
+      "nom": "Saint-Germain-de-Prin�ay",
+      "slug": "saint-germain-de-prin-ay-85220",
+      "taux_vacance": 10.36,
+      "nb_log_vacant": 75
+    },
+    {
+      "code_insee": "85094",
+      "nom": "Foussais-Payr�",
+      "slug": "foussais-payr-85094",
+      "taux_vacance": 9.59,
+      "nb_log_vacant": 65
+    },
+    {
+      "code_insee": "85149",
+      "nom": "Moreilles",
+      "slug": "moreilles-85149",
+      "taux_vacance": 9.36,
+      "nb_log_vacant": 16
+    },
+    {
+      "code_insee": "85059",
+      "nom": "La Ch�taigneraie",
+      "slug": "la-ch-taigneraie-85059",
+      "taux_vacance": 9.24,
+      "nb_log_vacant": 116
+    },
+    {
+      "code_insee": "85092",
+      "nom": "Fontenay-le-Comte",
+      "slug": "fontenay-le-comte-85092",
+      "taux_vacance": 9.18,
+      "nb_log_vacant": 647
+    },
+    {
+      "code_insee": "85229",
+      "nom": "Saint-Hilaire-de-Voust",
+      "slug": "saint-hilaire-de-voust-85229",
+      "taux_vacance": 9.17,
+      "nb_log_vacant": 32
+    },
+    {
+      "code_insee": "85078",
+      "nom": "Damvix",
+      "slug": "damvix-85078",
+      "taux_vacance": 9.14,
+      "nb_log_vacant": 50
+    },
+    {
+      "code_insee": "85132",
+      "nom": "Maill�",
+      "slug": "maill-85132",
+      "taux_vacance": 9.03,
+      "nb_log_vacant": 43
+    },
+    {
+      "code_insee": "85305",
+      "nom": "Vouvant",
+      "slug": "vouvant-85305",
+      "taux_vacance": 8.86,
+      "nb_log_vacant": 52
+    },
+    {
+      "code_insee": "85017",
+      "nom": "Beaurepaire",
+      "slug": "beaurepaire-85017",
+      "taux_vacance": 8.61,
+      "nb_log_vacant": 89
+    },
+    {
+      "code_insee": "85110",
+      "nom": "L'Hermenault",
+      "slug": "l-hermenault-85110",
+      "taux_vacance": 8.58,
+      "nb_log_vacant": 38
+    },
+    {
+      "code_insee": "85111",
+      "nom": "L'�le-d'Elle",
+      "slug": "l-le-d-elle-85111",
+      "taux_vacance": 8.54,
+      "nb_log_vacant": 74
+    },
+    {
+      "code_insee": "85040",
+      "nom": "La Caill�re-Saint-Hilaire",
+      "slug": "la-caill-re-saint-hilaire-85040",
+      "taux_vacance": 8.32,
+      "nb_log_vacant": 52
+    },
+    {
+      "code_insee": "85133",
+      "nom": "Maillezais",
+      "slug": "maillezais-85133",
+      "taux_vacance": 8.32,
+      "nb_log_vacant": 42
+    },
+    {
+      "code_insee": "85142",
+      "nom": "La Merlati�re",
+      "slug": "la-merlati-re-85142",
+      "taux_vacance": 8.06,
+      "nb_log_vacant": 34
+    },
+    {
+      "code_insee": "85036",
+      "nom": "La Bretonni�re-la-Claye",
+      "slug": "la-bretonni-re-la-claye-85036",
+      "taux_vacance": 7.92,
+      "nb_log_vacant": 27
+    }
+  ]
+}

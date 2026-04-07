@@ -1,0 +1,155 @@
+{
+  "code": "74",
+  "nom": "Haute-Savoie",
+  "slug": "haute-savoie-74",
+  "code_region": "84",
+  "nom_region": "Auvergne-Rh�ne-Alpes",
+  "nb_communes": 279,
+  "nb_log_prive": 494007,
+  "nb_log_vacant": 28884,
+  "nb_log_vacant_2ans": 14360,
+  "taux_vacance": 5.85,
+  "taux_vacance_2ans": 2.91,
+  "top_communes": [
+    {
+      "code_insee": "74060",
+      "nom": "La Chapelle-Saint-Maurice",
+      "slug": "la-chapelle-saint-maurice-74060",
+      "taux_vacance": 18.33,
+      "nb_log_vacant": 11
+    },
+    {
+      "code_insee": "74030",
+      "nom": "La Baume",
+      "slug": "la-baume-74030",
+      "taux_vacance": 14.76,
+      "nb_log_vacant": 31
+    },
+    {
+      "code_insee": "74287",
+      "nom": "Vailly",
+      "slug": "vailly-74287",
+      "taux_vacance": 13.9,
+      "nb_log_vacant": 77
+    },
+    {
+      "code_insee": "74273",
+      "nom": "Sixt-Fer-�-Cheval",
+      "slug": "sixt-fer-cheval-74273",
+      "taux_vacance": 11.99,
+      "nb_log_vacant": 120
+    },
+    {
+      "code_insee": "74271",
+      "nom": "Seytroux",
+      "slug": "seytroux-74271",
+      "taux_vacance": 11.64,
+      "nb_log_vacant": 44
+    },
+    {
+      "code_insee": "74155",
+      "nom": "Lullin",
+      "slug": "lullin-74155",
+      "taux_vacance": 11.63,
+      "nb_log_vacant": 65
+    },
+    {
+      "code_insee": "74045",
+      "nom": "Le Bouchet-Mont-Charvin",
+      "slug": "le-bouchet-mont-charvin-74045",
+      "taux_vacance": 11.57,
+      "nb_log_vacant": 28
+    },
+    {
+      "code_insee": "74295",
+      "nom": "La Vernaz",
+      "slug": "la-vernaz-74295",
+      "taux_vacance": 11.46,
+      "nb_log_vacant": 18
+    },
+    {
+      "code_insee": "74175",
+      "nom": "Meillerie",
+      "slug": "meillerie-74175",
+      "taux_vacance": 11.38,
+      "nb_log_vacant": 43
+    },
+    {
+      "code_insee": "74001",
+      "nom": "Abondance",
+      "slug": "abondance-74001",
+      "taux_vacance": 11.17,
+      "nb_log_vacant": 223
+    },
+    {
+      "code_insee": "74308",
+      "nom": "Vinzier",
+      "slug": "vinzier-74308",
+      "taux_vacance": 9.96,
+      "nb_log_vacant": 49
+    },
+    {
+      "code_insee": "74188",
+      "nom": "Montriond",
+      "slug": "montriond-74188",
+      "taux_vacance": 9.92,
+      "nb_log_vacant": 117
+    },
+    {
+      "code_insee": "74183",
+      "nom": "Mieussy",
+      "slug": "mieussy-74183",
+      "taux_vacance": 9.87,
+      "nb_log_vacant": 186
+    },
+    {
+      "code_insee": "74174",
+      "nom": "M�gevette",
+      "slug": "m-gevette-74174",
+      "taux_vacance": 9.64,
+      "nb_log_vacant": 45
+    },
+    {
+      "code_insee": "74127",
+      "nom": "F�ternes",
+      "slug": "f-ternes-74127",
+      "taux_vacance": 9.63,
+      "nb_log_vacant": 76
+    },
+    {
+      "code_insee": "74081",
+      "nom": "Cluses",
+      "slug": "cluses-74081",
+      "taux_vacance": 9.5,
+      "nb_log_vacant": 714
+    },
+    {
+      "code_insee": "74159",
+      "nom": "Magland",
+      "slug": "magland-74159",
+      "taux_vacance": 9.46,
+      "nb_log_vacant": 166
+    },
+    {
+      "code_insee": "74284",
+      "nom": "La Tour",
+      "slug": "la-tour-74284",
+      "taux_vacance": 9.43,
+      "nb_log_vacant": 53
+    },
+    {
+      "code_insee": "74114",
+      "nom": "Essert-Romand",
+      "slug": "essert-romand-74114",
+      "taux_vacance": 9.33,
+      "nb_log_vacant": 39
+    },
+    {
+      "code_insee": "74301",
+      "nom": "Villard",
+      "slug": "villard-74301",
+      "taux_vacance": 9.13,
+      "nb_log_vacant": 48
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "code": "24",
+  "nom": "Centre-Val de Loire",
+  "slug": "centre-val-de-loire",
+  "nb_communes": 1754,
+  "nb_log_prive": 1086443,
+  "nb_log_vacant": 89138,
+  "nb_log_vacant_2ans": 47226,
+  "taux_vacance": 8.2,
+  "taux_vacance_2ans": 4.35,
+  "departements": [
+    {
+      "code": "36",
+      "nom": "Indre",
+      "slug": "indre-36",
+      "taux_vacance": 11.86,
+      "nb_log_vacant": 12775
+    },
+    {
+      "code": "18",
+      "nom": "Cher",
+      "slug": "cher-18",
+      "taux_vacance": 11.33,
+      "nb_log_vacant": 14908
+    },
+    {
+      "code": "41",
+      "nom": "Loir-et-Cher",
+      "slug": "loir-et-cher-41",
+      "taux_vacance": 8.3,
+      "nb_log_vacant": 12126
+    },
+    {
+      "code": "28",
+      "nom": "Eure-et-Loir",
+      "slug": "eure-et-loir-28",
+      "taux_vacance": 7.64,
+      "nb_log_vacant": 10944
+    },
+    {
+      "code": "45",
+      "nom": "Loiret",
+      "slug": "loiret-45",
+      "taux_vacance": 7.17,
+      "nb_log_vacant": 20443
+    },
+    {
+      "code": "37",
+      "nom": "Indre-et-Loire",
+      "slug": "indre-et-loire-37",
+      "taux_vacance": 6.58,
+      "nb_log_vacant": 17942
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "code": "69",
+  "nom": "Rh�ne",
+  "slug": "rh-ne-69",
+  "code_region": "84",
+  "nom_region": "Auvergne-Rh�ne-Alpes",
+  "nb_communes": 274,
+  "nb_log_prive": 801428,
+  "nb_log_vacant": 44713,
+  "nb_log_vacant_2ans": 19739,
+  "taux_vacance": 5.58,
+  "taux_vacance_2ans": 2.46,
+  "top_communes": [
+    {
+      "code_insee": "69248",
+      "nom": "Thizy-les-Bourgs",
+      "slug": "thizy-les-bourgs-69248",
+      "taux_vacance": 20.45,
+      "nb_log_vacant": 683
+    },
+    {
+      "code_insee": "69066",
+      "nom": "Cours",
+      "slug": "cours-69066",
+      "taux_vacance": 18.02,
+      "nb_log_vacant": 487
+    },
+    {
+      "code_insee": "69145",
+      "nom": "Odenas",
+      "slug": "odenas-69145",
+      "taux_vacance": 17.92,
+      "nb_log_vacant": 88
+    },
+    {
+      "code_insee": "69084",
+      "nom": "Fleurie",
+      "slug": "fleurie-69084",
+      "taux_vacance": 15.97,
+      "nb_log_vacant": 133
+    },
+    {
+      "code_insee": "69053",
+      "nom": "Ch�nas",
+      "slug": "ch-nas-69053",
+      "taux_vacance": 15.76,
+      "nb_log_vacant": 49
+    },
+    {
+      "code_insee": "69014",
+      "nom": "Aveize",
+      "slug": "aveize-69014",
+      "taux_vacance": 15.06,
+      "nb_log_vacant": 75
+    },
+    {
+      "code_insee": "69018",
+      "nom": "Beaujeu",
+      "slug": "beaujeu-69018",
+      "taux_vacance": 14.99,
+      "nb_log_vacant": 189
+    },
+    {
+      "code_insee": "69124",
+      "nom": "Marchampt",
+      "slug": "marchampt-69124",
+      "taux_vacance": 14.56,
+      "nb_log_vacant": 46
+    },
+    {
+      "code_insee": "69267",
+      "nom": "Villi�-Morgon",
+      "slug": "villi-morgon-69267",
+      "taux_vacance": 14.22,
+      "nb_log_vacant": 165
+    },
+    {
+      "code_insee": "69060",
+      "nom": "Claveisolles",
+      "slug": "claveisolles-69060",
+      "taux_vacance": 13.25,
+      "nb_log_vacant": 51
+    },
+    {
+      "code_insee": "69209",
+      "nom": "Saint-Igny-de-Vers",
+      "slug": "saint-igny-de-vers-69209",
+      "taux_vacance": 13.02,
+      "nb_log_vacant": 56
+    },
+    {
+      "code_insee": "69198",
+      "nom": "Saint-�tienne-la-Varenne",
+      "slug": "saint-tienne-la-varenne-69198",
+      "taux_vacance": 12.9,
+      "nb_log_vacant": 52
+    },
+    {
+      "code_insee": "69229",
+      "nom": "Saint-Nizier-d'Azergues",
+      "slug": "saint-nizier-d-azergues-69229",
+      "taux_vacance": 12.37,
+      "nb_log_vacant": 59
+    },
+    {
+      "code_insee": "69182",
+      "nom": "Saint-Bonnet-des-Bruy�res",
+      "slug": "saint-bonnet-des-bruy-res-69182",
+      "taux_vacance": 11.99,
+      "nb_log_vacant": 32
+    },
+    {
+      "code_insee": "69243",
+      "nom": "Tarare",
+      "slug": "tarare-69243",
+      "taux_vacance": 11.92,
+      "nb_log_vacant": 526
+    },
+    {
+      "code_insee": "69162",
+      "nom": "Quinci�-en-Beaujolais",
+      "slug": "quinci-en-beaujolais-69162",
+      "taux_vacance": 11.88,
+      "nb_log_vacant": 99
+    },
+    {
+      "code_insee": "69254",
+      "nom": "Valsonne",
+      "slug": "valsonne-69254",
+      "taux_vacance": 11.88,
+      "nb_log_vacant": 57
+    },
+    {
+      "code_insee": "69103",
+      "nom": "Juli�nas",
+      "slug": "juli-nas-69103",
+      "taux_vacance": 11.87,
+      "nb_log_vacant": 66
+    },
+    {
+      "code_insee": "69006",
+      "nom": "Amplepuis",
+      "slug": "amplepuis-69006",
+      "taux_vacance": 11.68,
+      "nb_log_vacant": 286
+    },
+    {
+      "code_insee": "69161",
+      "nom": "Propi�res",
+      "slug": "propi-res-69161",
+      "taux_vacance": 11.64,
+      "nb_log_vacant": 37
+    }
+  ]
+}

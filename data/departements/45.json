@@ -1,0 +1,155 @@
+{
+  "code": "45",
+  "nom": "Loiret",
+  "slug": "loiret-45",
+  "code_region": "24",
+  "nom_region": "Centre-Val de Loire",
+  "nb_communes": 325,
+  "nb_log_prive": 285082,
+  "nb_log_vacant": 20443,
+  "nb_log_vacant_2ans": 9891,
+  "taux_vacance": 7.17,
+  "taux_vacance_2ans": 3.47,
+  "top_communes": [
+    {
+      "code_insee": "45141",
+      "nom": "Faverelles",
+      "slug": "faverelles-45141",
+      "taux_vacance": 21.85,
+      "nb_log_vacant": 26
+    },
+    {
+      "code_insee": "45323",
+      "nom": "Thou",
+      "slug": "thou-45323",
+      "taux_vacance": 21.02,
+      "nb_log_vacant": 33
+    },
+    {
+      "code_insee": "45040",
+      "nom": "Bonny-sur-Loire",
+      "slug": "bonny-sur-loire-45040",
+      "taux_vacance": 16.51,
+      "nb_log_vacant": 191
+    },
+    {
+      "code_insee": "45107",
+      "nom": "Coudroy",
+      "slug": "coudroy-45107",
+      "taux_vacance": 15.38,
+      "nb_log_vacant": 28
+    },
+    {
+      "code_insee": "45208",
+      "nom": "Montargis",
+      "slug": "montargis-45208",
+      "taux_vacance": 14.42,
+      "nb_log_vacant": 988
+    },
+    {
+      "code_insee": "45252",
+      "nom": "Pithiviers",
+      "slug": "pithiviers-45252",
+      "taux_vacance": 14.31,
+      "nb_log_vacant": 463
+    },
+    {
+      "code_insee": "45063",
+      "nom": "Cerdon",
+      "slug": "cerdon-45063",
+      "taux_vacance": 14.12,
+      "nb_log_vacant": 97
+    },
+    {
+      "code_insee": "45278",
+      "nom": "Sainte-Genevi�ve-des-Bois",
+      "slug": "sainte-genevi-ve-des-bois-45278",
+      "taux_vacance": 13.8,
+      "nb_log_vacant": 85
+    },
+    {
+      "code_insee": "45087",
+      "nom": "Ch�tillon-sur-Loire",
+      "slug": "ch-tillon-sur-loire-45087",
+      "taux_vacance": 13.41,
+      "nb_log_vacant": 229
+    },
+    {
+      "code_insee": "45083",
+      "nom": "Ch�teau-Renard",
+      "slug": "ch-teau-renard-45083",
+      "taux_vacance": 13.31,
+      "nb_log_vacant": 165
+    },
+    {
+      "code_insee": "45095",
+      "nom": "Chilleurs-aux-Bois",
+      "slug": "chilleurs-aux-bois-45095",
+      "taux_vacance": 13.26,
+      "nb_log_vacant": 140
+    },
+    {
+      "code_insee": "45030",
+      "nom": "Beaune-la-Rolande",
+      "slug": "beaune-la-rolande-45030",
+      "taux_vacance": 12.89,
+      "nb_log_vacant": 124
+    },
+    {
+      "code_insee": "45245",
+      "nom": "Ouzouer-sur-Tr�z�e",
+      "slug": "ouzouer-sur-tr-z-e-45245",
+      "taux_vacance": 12.74,
+      "nb_log_vacant": 87
+    },
+    {
+      "code_insee": "45340",
+      "nom": "Villemurlin",
+      "slug": "villemurlin-45340",
+      "taux_vacance": 12.65,
+      "nb_log_vacant": 41
+    },
+    {
+      "code_insee": "45029",
+      "nom": "Beaulieu-sur-Loire",
+      "slug": "beaulieu-sur-loire-45029",
+      "taux_vacance": 12.27,
+      "nb_log_vacant": 133
+    },
+    {
+      "code_insee": "45016",
+      "nom": "Autry-le-Ch�tel",
+      "slug": "autry-le-ch-tel-45016",
+      "taux_vacance": 12.25,
+      "nb_log_vacant": 67
+    },
+    {
+      "code_insee": "45315",
+      "nom": "Sully-sur-Loire",
+      "slug": "sully-sur-loire-45315",
+      "taux_vacance": 12.23,
+      "nb_log_vacant": 282
+    },
+    {
+      "code_insee": "45073",
+      "nom": "Chantecoq",
+      "slug": "chantecoq-45073",
+      "taux_vacance": 11.95,
+      "nb_log_vacant": 38
+    },
+    {
+      "code_insee": "45108",
+      "nom": "Coullons",
+      "slug": "coullons-45108",
+      "taux_vacance": 11.92,
+      "nb_log_vacant": 146
+    },
+    {
+      "code_insee": "45292",
+      "nom": "Saint-Maurice-sur-Aveyron",
+      "slug": "saint-maurice-sur-aveyron-45292",
+      "taux_vacance": 11.88,
+      "nb_log_vacant": 67
+    }
+  ]
+}

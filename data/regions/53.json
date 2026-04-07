@@ -1,0 +1,41 @@
+{
+  "code": "53",
+  "nom": "Bretagne",
+  "slug": "bretagne",
+  "nb_communes": 1200,
+  "nb_log_prive": 1817108,
+  "nb_log_vacant": 112718,
+  "nb_log_vacant_2ans": 59080,
+  "taux_vacance": 6.2,
+  "taux_vacance_2ans": 3.25,
+  "departements": [
+    {
+      "code": "22",
+      "nom": "C�tes-d'Armor",
+      "slug": "c-tes-d-armor-22",
+      "taux_vacance": 6.95,
+      "nb_log_vacant": 23788
+    },
+    {
+      "code": "29",
+      "nom": "Finist�re",
+      "slug": "finist-re-29",
+      "taux_vacance": 6.74,
+      "nb_log_vacant": 34807
+    },
+    {
+      "code": "56",
+      "nom": "Morbihan",
+      "slug": "morbihan-56",
+      "taux_vacance": 5.98,
+      "nb_log_vacant": 26611
+    },
+    {
+      "code": "35",
+      "nom": "Ille-et-Vilaine",
+      "slug": "ille-et-vilaine-35",
+      "taux_vacance": 5.36,
+      "nb_log_vacant": 27512
+    }
+  ]
+}

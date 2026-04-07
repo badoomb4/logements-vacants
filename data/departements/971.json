@@ -1,0 +1,155 @@
+{
+  "code": "971",
+  "nom": "Guadeloupe",
+  "slug": "guadeloupe-971",
+  "code_region": "01",
+  "nom_region": "Guadeloupe",
+  "nb_communes": 33,
+  "nb_log_prive": 212346,
+  "nb_log_vacant": 19840,
+  "nb_log_vacant_2ans": 16392,
+  "taux_vacance": 9.34,
+  "taux_vacance_2ans": 7.72,
+  "top_communes": [
+    {
+      "code_insee": "97120",
+      "nom": "Pointe-�-Pitre",
+      "slug": "pointe-pitre-97120",
+      "taux_vacance": 19.51,
+      "nb_log_vacant": 1303
+    },
+    {
+      "code_insee": "97105",
+      "nom": "Basse-Terre",
+      "slug": "basse-terre-97105",
+      "taux_vacance": 18.61,
+      "nb_log_vacant": 889
+    },
+    {
+      "code_insee": "97106",
+      "nom": "Bouillante",
+      "slug": "bouillante-97106",
+      "taux_vacance": 15.32,
+      "nb_log_vacant": 627
+    },
+    {
+      "code_insee": "97112",
+      "nom": "Grand-Bourg",
+      "slug": "grand-bourg-97112",
+      "taux_vacance": 14.98,
+      "nb_log_vacant": 509
+    },
+    {
+      "code_insee": "97108",
+      "nom": "Capesterre-de-Marie-Galante",
+      "slug": "capesterre-de-marie-galante-97108",
+      "taux_vacance": 13.27,
+      "nb_log_vacant": 247
+    },
+    {
+      "code_insee": "97104",
+      "nom": "Baillif",
+      "slug": "baillif-97104",
+      "taux_vacance": 13,
+      "nb_log_vacant": 390
+    },
+    {
+      "code_insee": "97107",
+      "nom": "Capesterre-Belle-Eau",
+      "slug": "capesterre-belle-eau-97107",
+      "taux_vacance": 12.85,
+      "nb_log_vacant": 1224
+    },
+    {
+      "code_insee": "97126",
+      "nom": "Saint-Louis",
+      "slug": "saint-louis-97126",
+      "taux_vacance": 12.77,
+      "nb_log_vacant": 228
+    },
+    {
+      "code_insee": "97113",
+      "nom": "Le Gosier",
+      "slug": "le-gosier-97113",
+      "taux_vacance": 12.3,
+      "nb_log_vacant": 1833
+    },
+    {
+      "code_insee": "97121",
+      "nom": "Pointe-Noire",
+      "slug": "pointe-noire-97121",
+      "taux_vacance": 12.22,
+      "nb_log_vacant": 484
+    },
+    {
+      "code_insee": "97125",
+      "nom": "Saint-Fran�ois",
+      "slug": "saint-fran-ois-97125",
+      "taux_vacance": 12.18,
+      "nb_log_vacant": 1223
+    },
+    {
+      "code_insee": "97124",
+      "nom": "Saint-Claude",
+      "slug": "saint-claude-97124",
+      "taux_vacance": 11.95,
+      "nb_log_vacant": 585
+    },
+    {
+      "code_insee": "97102",
+      "nom": "Anse-Bertrand",
+      "slug": "anse-bertrand-97102",
+      "taux_vacance": 11.38,
+      "nb_log_vacant": 289
+    },
+    {
+      "code_insee": "97109",
+      "nom": "Gourbeyre",
+      "slug": "gourbeyre-97109",
+      "taux_vacance": 11.11,
+      "nb_log_vacant": 410
+    },
+    {
+      "code_insee": "97122",
+      "nom": "Port-Louis",
+      "slug": "port-louis-97122",
+      "taux_vacance": 10.72,
+      "nb_log_vacant": 328
+    },
+    {
+      "code_insee": "97116",
+      "nom": "Morne-�-l'Eau",
+      "slug": "morne-l-eau-97116",
+      "taux_vacance": 10.57,
+      "nb_log_vacant": 809
+    },
+    {
+      "code_insee": "97117",
+      "nom": "Le Moule",
+      "slug": "le-moule-97117",
+      "taux_vacance": 10.44,
+      "nb_log_vacant": 1167
+    },
+    {
+      "code_insee": "97111",
+      "nom": "Deshaies",
+      "slug": "deshaies-97111",
+      "taux_vacance": 10.22,
+      "nb_log_vacant": 246
+    },
+    {
+      "code_insee": "97118",
+      "nom": "Petit-Bourg",
+      "slug": "petit-bourg-97118",
+      "taux_vacance": 9.89,
+      "nb_log_vacant": 1103
+    },
+    {
+      "code_insee": "97114",
+      "nom": "Goyave",
+      "slug": "goyave-97114",
+      "taux_vacance": 9.41,
+      "nb_log_vacant": 289
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "code": "81",
+  "nom": "Tarn",
+  "slug": "tarn-81",
+  "code_region": "76",
+  "nom_region": "Occitanie",
+  "nb_communes": 314,
+  "nb_log_prive": 163028,
+  "nb_log_vacant": 14054,
+  "nb_log_vacant_2ans": 7677,
+  "taux_vacance": 8.62,
+  "taux_vacance_2ans": 4.71,
+  "top_communes": [
+    {
+      "code_insee": "81303",
+      "nom": "Tr�bas",
+      "slug": "tr-bas-81303",
+      "taux_vacance": 20,
+      "nb_log_vacant": 88
+    },
+    {
+      "code_insee": "81115",
+      "nom": "Labastide-Rouairoux",
+      "slug": "labastide-rouairoux-81115",
+      "taux_vacance": 19.42,
+      "nb_log_vacant": 220
+    },
+    {
+      "code_insee": "81095",
+      "nom": "Frausseilles",
+      "slug": "frausseilles-81095",
+      "taux_vacance": 19.35,
+      "nb_log_vacant": 12
+    },
+    {
+      "code_insee": "81089",
+      "nom": "Faussergues",
+      "slug": "faussergues-81089",
+      "taux_vacance": 18.56,
+      "nb_log_vacant": 18
+    },
+    {
+      "code_insee": "81203",
+      "nom": "Paulinet",
+      "slug": "paulinet-81203",
+      "taux_vacance": 16.91,
+      "nb_log_vacant": 69
+    },
+    {
+      "code_insee": "81069",
+      "nom": "Cordes-sur-Ciel",
+      "slug": "cordes-sur-ciel-81069",
+      "taux_vacance": 16.82,
+      "nb_log_vacant": 132
+    },
+    {
+      "code_insee": "81314",
+      "nom": "Viane",
+      "slug": "viane-81314",
+      "taux_vacance": 16.28,
+      "nb_log_vacant": 92
+    },
+    {
+      "code_insee": "81034",
+      "nom": "Boissezon",
+      "slug": "boissezon-81034",
+      "taux_vacance": 15.85,
+      "nb_log_vacant": 45
+    },
+    {
+      "code_insee": "81125",
+      "nom": "Lacaze",
+      "slug": "lacaze-81125",
+      "taux_vacance": 14.92,
+      "nb_log_vacant": 54
+    },
+    {
+      "code_insee": "81295",
+      "nom": "Teillet",
+      "slug": "teillet-81295",
+      "taux_vacance": 14.86,
+      "nb_log_vacant": 44
+    },
+    {
+      "code_insee": "81305",
+      "nom": "Vabre",
+      "slug": "vabre-81305",
+      "taux_vacance": 13.99,
+      "nb_log_vacant": 88
+    },
+    {
+      "code_insee": "81163",
+      "nom": "Mazamet",
+      "slug": "mazamet-81163",
+      "taux_vacance": 13.66,
+      "nb_log_vacant": 842
+    },
+    {
+      "code_insee": "81124",
+      "nom": "Lacaune",
+      "slug": "lacaune-81124",
+      "taux_vacance": 12.53,
+      "nb_log_vacant": 210
+    },
+    {
+      "code_insee": "81308",
+      "nom": "Valence-d'Albigeois",
+      "slug": "valence-d-albigeois-81308",
+      "taux_vacance": 12.46,
+      "nb_log_vacant": 80
+    },
+    {
+      "code_insee": "81062",
+      "nom": "Fontrieu",
+      "slug": "fontrieu-81062",
+      "taux_vacance": 12.3,
+      "nb_log_vacant": 122
+    },
+    {
+      "code_insee": "81267",
+      "nom": "Saint-Pierre-de-Trivisy",
+      "slug": "saint-pierre-de-trivisy-81267",
+      "taux_vacance": 12.26,
+      "nb_log_vacant": 52
+    },
+    {
+      "code_insee": "81037",
+      "nom": "Brassac",
+      "slug": "brassac-81037",
+      "taux_vacance": 12.21,
+      "nb_log_vacant": 111
+    },
+    {
+      "code_insee": "81309",
+      "nom": "Vaour",
+      "slug": "vaour-81309",
+      "taux_vacance": 12.21,
+      "nb_log_vacant": 26
+    },
+    {
+      "code_insee": "81045",
+      "nom": "Les Cabannes",
+      "slug": "les-cabannes-81045",
+      "taux_vacance": 12.06,
+      "nb_log_vacant": 31
+    },
+    {
+      "code_insee": "81192",
+      "nom": "Murat-sur-V�bre",
+      "slug": "murat-sur-v-bre-81192",
+      "taux_vacance": 11.76,
+      "nb_log_vacant": 98
+    }
+  ]
+}

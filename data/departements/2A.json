@@ -1,0 +1,155 @@
+{
+  "code": "2A",
+  "nom": "Corse-du-Sud",
+  "slug": "corse-du-sud-2A",
+  "code_region": "94",
+  "nom_region": "Corse",
+  "nb_communes": 124,
+  "nb_log_prive": 91325,
+  "nb_log_vacant": 7820,
+  "nb_log_vacant_2ans": 4768,
+  "taux_vacance": 8.56,
+  "taux_vacance_2ans": 5.22,
+  "top_communes": [
+    {
+      "code_insee": "2A131",
+      "nom": "Guagno",
+      "slug": "guagno-2A131",
+      "taux_vacance": 17.8,
+      "nb_log_vacant": 55
+    },
+    {
+      "code_insee": "2A232",
+      "nom": "Pila-Canale",
+      "slug": "pila-canale-2A232",
+      "taux_vacance": 16.77,
+      "nb_log_vacant": 53
+    },
+    {
+      "code_insee": "2A198",
+      "nom": "Ota",
+      "slug": "ota-2A198",
+      "taux_vacance": 16.64,
+      "nb_log_vacant": 94
+    },
+    {
+      "code_insee": "2A308",
+      "nom": "Sainte-Lucie-de-Tallano",
+      "slug": "sainte-lucie-de-tallano-2A308",
+      "taux_vacance": 15.71,
+      "nb_log_vacant": 96
+    },
+    {
+      "code_insee": "2A142",
+      "nom": "Levie",
+      "slug": "levie-2A142",
+      "taux_vacance": 15.47,
+      "nb_log_vacant": 125
+    },
+    {
+      "code_insee": "2A322",
+      "nom": "Tasso",
+      "slug": "tasso-2A322",
+      "taux_vacance": 15.31,
+      "nb_log_vacant": 30
+    },
+    {
+      "code_insee": "2A031",
+      "nom": "Bastelica",
+      "slug": "bastelica-2A031",
+      "taux_vacance": 15.17,
+      "nb_log_vacant": 125
+    },
+    {
+      "code_insee": "2A133",
+      "nom": "Guitera-les-Bains",
+      "slug": "guitera-les-bains-2A133",
+      "taux_vacance": 14.95,
+      "nb_log_vacant": 29
+    },
+    {
+      "code_insee": "2A174",
+      "nom": "Murzo",
+      "slug": "murzo-2A174",
+      "taux_vacance": 14.91,
+      "nb_log_vacant": 24
+    },
+    {
+      "code_insee": "2A040",
+      "nom": "Bocognano",
+      "slug": "bocognano-2A040",
+      "taux_vacance": 13.95,
+      "nb_log_vacant": 83
+    },
+    {
+      "code_insee": "2A108",
+      "nom": "�visa",
+      "slug": "visa-2A108",
+      "taux_vacance": 13.79,
+      "nb_log_vacant": 52
+    },
+    {
+      "code_insee": "2A100",
+      "nom": "Cristinacce",
+      "slug": "cristinacce-2A100",
+      "taux_vacance": 13.68,
+      "nb_log_vacant": 16
+    },
+    {
+      "code_insee": "2A254",
+      "nom": "Quenza",
+      "slug": "quenza-2A254",
+      "taux_vacance": 13.67,
+      "nb_log_vacant": 99
+    },
+    {
+      "code_insee": "2A117",
+      "nom": "Forciolo",
+      "slug": "forciolo-2A117",
+      "taux_vacance": 13.48,
+      "nb_log_vacant": 12
+    },
+    {
+      "code_insee": "2A272",
+      "nom": "Sart�ne",
+      "slug": "sart-ne-2A272",
+      "taux_vacance": 13.33,
+      "nb_log_vacant": 344
+    },
+    {
+      "code_insee": "2A359",
+      "nom": "Zicavo",
+      "slug": "zicavo-2A359",
+      "taux_vacance": 13.31,
+      "nb_log_vacant": 43
+    },
+    {
+      "code_insee": "2A284",
+      "nom": "Sollacaro",
+      "slug": "sollacaro-2A284",
+      "taux_vacance": 12.6,
+      "nb_log_vacant": 63
+    },
+    {
+      "code_insee": "2A348",
+      "nom": "Vico",
+      "slug": "vico-2A348",
+      "taux_vacance": 12.58,
+      "nb_log_vacant": 161
+    },
+    {
+      "code_insee": "2A269",
+      "nom": "Sari-Solenzara",
+      "slug": "sari-solenzara-2A269",
+      "taux_vacance": 12.28,
+      "nb_log_vacant": 169
+    },
+    {
+      "code_insee": "2A270",
+      "nom": "Sari-d'Orcino",
+      "slug": "sari-d-orcino-2A270",
+      "taux_vacance": 12.25,
+      "nb_log_vacant": 37
+    }
+  ]
+}

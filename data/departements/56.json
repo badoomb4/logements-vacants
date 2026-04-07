@@ -1,0 +1,155 @@
+{
+  "code": "56",
+  "nom": "Morbihan",
+  "slug": "morbihan-56",
+  "code_region": "53",
+  "nom_region": "Bretagne",
+  "nb_communes": 249,
+  "nb_log_prive": 445017,
+  "nb_log_vacant": 26611,
+  "nb_log_vacant_2ans": 14432,
+  "taux_vacance": 5.98,
+  "taux_vacance_2ans": 3.24,
+  "top_communes": [
+    {
+      "code_insee": "56073",
+      "nom": "Gu�men�-sur-Scorff",
+      "slug": "gu-men-sur-scorff-56073",
+      "taux_vacance": 16.88,
+      "nb_log_vacant": 118
+    },
+    {
+      "code_insee": "56129",
+      "nom": "M�n�ac",
+      "slug": "m-n-ac-56129",
+      "taux_vacance": 16.47,
+      "nb_log_vacant": 180
+    },
+    {
+      "code_insee": "56257",
+      "nom": "La Trinit�-Porho�t",
+      "slug": "la-trinit-porho-t-56257",
+      "taux_vacance": 15.56,
+      "nb_log_vacant": 75
+    },
+    {
+      "code_insee": "56099",
+      "nom": "Lango�lan",
+      "slug": "lango-lan-56099",
+      "taux_vacance": 14.13,
+      "nb_log_vacant": 51
+    },
+    {
+      "code_insee": "56230",
+      "nom": "Saint-Nicolas-du-Tertre",
+      "slug": "saint-nicolas-du-tertre-56230",
+      "taux_vacance": 13.86,
+      "nb_log_vacant": 46
+    },
+    {
+      "code_insee": "56081",
+      "nom": "Guiscriff",
+      "slug": "guiscriff-56081",
+      "taux_vacance": 13.74,
+      "nb_log_vacant": 223
+    },
+    {
+      "code_insee": "56170",
+      "nom": "Plouray",
+      "slug": "plouray-56170",
+      "taux_vacance": 13.62,
+      "nb_log_vacant": 103
+    },
+    {
+      "code_insee": "56080",
+      "nom": "Guilliers",
+      "slug": "guilliers-56080",
+      "taux_vacance": 13.54,
+      "nb_log_vacant": 120
+    },
+    {
+      "code_insee": "56035",
+      "nom": "Caro",
+      "slug": "caro-56035",
+      "taux_vacance": 13.47,
+      "nb_log_vacant": 92
+    },
+    {
+      "code_insee": "56134",
+      "nom": "Mohon",
+      "slug": "mohon-56134",
+      "taux_vacance": 13.33,
+      "nb_log_vacant": 92
+    },
+    {
+      "code_insee": "56182",
+      "nom": "Priziac",
+      "slug": "priziac-56182",
+      "taux_vacance": 13.23,
+      "nb_log_vacant": 95
+    },
+    {
+      "code_insee": "56199",
+      "nom": "Roudouallec",
+      "slug": "roudouallec-56199",
+      "taux_vacance": 13.11,
+      "nb_log_vacant": 64
+    },
+    {
+      "code_insee": "56163",
+      "nom": "Plo�rdut",
+      "slug": "plo-rdut-56163",
+      "taux_vacance": 13.02,
+      "nb_log_vacant": 121
+    },
+    {
+      "code_insee": "56242",
+      "nom": "S�glien",
+      "slug": "s-glien-56242",
+      "taux_vacance": 12.85,
+      "nb_log_vacant": 64
+    },
+    {
+      "code_insee": "56110",
+      "nom": "Lignol",
+      "slug": "lignol-56110",
+      "taux_vacance": 12.75,
+      "nb_log_vacant": 83
+    },
+    {
+      "code_insee": "56204",
+      "nom": "Saint-Allouestre",
+      "slug": "saint-allouestre-56204",
+      "taux_vacance": 12.72,
+      "nb_log_vacant": 44
+    },
+    {
+      "code_insee": "56145",
+      "nom": "N�ant-sur-Yvel",
+      "slug": "n-ant-sur-yvel-56145",
+      "taux_vacance": 12.56,
+      "nb_log_vacant": 83
+    },
+    {
+      "code_insee": "56105",
+      "nom": "Lanv�n�gen",
+      "slug": "lanv-n-gen-56105",
+      "taux_vacance": 12.51,
+      "nb_log_vacant": 108
+    },
+    {
+      "code_insee": "56128",
+      "nom": "Melrand",
+      "slug": "melrand-56128",
+      "taux_vacance": 12.39,
+      "nb_log_vacant": 155
+    },
+    {
+      "code_insee": "56127",
+      "nom": "Mauron",
+      "slug": "mauron-56127",
+      "taux_vacance": 12.3,
+      "nb_log_vacant": 235
+    }
+  ]
+}

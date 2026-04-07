@@ -1,0 +1,155 @@
+{
+  "code": "46",
+  "nom": "Lot",
+  "slug": "lot-46",
+  "code_region": "76",
+  "nom_region": "Occitanie",
+  "nb_communes": 312,
+  "nb_log_prive": 74578,
+  "nb_log_vacant": 7763,
+  "nb_log_vacant_2ans": 4416,
+  "taux_vacance": 10.41,
+  "taux_vacance_2ans": 5.92,
+  "top_communes": [
+    {
+      "code_insee": "46160",
+      "nom": "Latronqui�re",
+      "slug": "latronqui-re-46160",
+      "taux_vacance": 18.24,
+      "nb_log_vacant": 60
+    },
+    {
+      "code_insee": "46240",
+      "nom": "Rocamadour",
+      "slug": "rocamadour-46240",
+      "taux_vacance": 16.46,
+      "nb_log_vacant": 91
+    },
+    {
+      "code_insee": "46163",
+      "nom": "Laval-de-C�re",
+      "slug": "laval-de-c-re-46163",
+      "taux_vacance": 16.25,
+      "nb_log_vacant": 46
+    },
+    {
+      "code_insee": "46062",
+      "nom": "Castelfranc",
+      "slug": "castelfranc-46062",
+      "taux_vacance": 16.17,
+      "nb_log_vacant": 49
+    },
+    {
+      "code_insee": "46201",
+      "nom": "Montcuq-en-Quercy-Blanc",
+      "slug": "montcuq-en-quercy-blanc-46201",
+      "taux_vacance": 15.91,
+      "nb_log_vacant": 214
+    },
+    {
+      "code_insee": "46139",
+      "nom": "Labathude",
+      "slug": "labathude-46139",
+      "taux_vacance": 15.79,
+      "nb_log_vacant": 21
+    },
+    {
+      "code_insee": "46125",
+      "nom": "Gorses",
+      "slug": "gorses-46125",
+      "taux_vacance": 14.63,
+      "nb_log_vacant": 42
+    },
+    {
+      "code_insee": "46012",
+      "nom": "Aynac",
+      "slug": "aynac-46012",
+      "taux_vacance": 14.46,
+      "nb_log_vacant": 60
+    },
+    {
+      "code_insee": "46262",
+      "nom": "Lendou-en-Quercy",
+      "slug": "lendou-en-quercy-46262",
+      "taux_vacance": 14.05,
+      "nb_log_vacant": 69
+    },
+    {
+      "code_insee": "46311",
+      "nom": "Sousceyrac-en-Quercy",
+      "slug": "sousceyrac-en-quercy-46311",
+      "taux_vacance": 13.83,
+      "nb_log_vacant": 153
+    },
+    {
+      "code_insee": "46231",
+      "nom": "Puy-l'�v�que",
+      "slug": "puy-l-v-que-46231",
+      "taux_vacance": 13.37,
+      "nb_log_vacant": 191
+    },
+    {
+      "code_insee": "46143",
+      "nom": "Lacapelle-Marival",
+      "slug": "lacapelle-marival-46143",
+      "taux_vacance": 13.15,
+      "nb_log_vacant": 103
+    },
+    {
+      "code_insee": "46170",
+      "nom": "Leyme",
+      "slug": "leyme-46170",
+      "taux_vacance": 12.95,
+      "nb_log_vacant": 61
+    },
+    {
+      "code_insee": "46309",
+      "nom": "Souillac",
+      "slug": "souillac-46309",
+      "taux_vacance": 12.72,
+      "nb_log_vacant": 299
+    },
+    {
+      "code_insee": "46196",
+      "nom": "Montamel",
+      "slug": "montamel-46196",
+      "taux_vacance": 12.64,
+      "nb_log_vacant": 11
+    },
+    {
+      "code_insee": "46251",
+      "nom": "Saint-C�r�",
+      "slug": "saint-c-r-46251",
+      "taux_vacance": 12.46,
+      "nb_log_vacant": 304
+    },
+    {
+      "code_insee": "46321",
+      "nom": "Touzac",
+      "slug": "touzac-46321",
+      "taux_vacance": 12.33,
+      "nb_log_vacant": 27
+    },
+    {
+      "code_insee": "46195",
+      "nom": "Moli�res",
+      "slug": "moli-res-46195",
+      "taux_vacance": 12.22,
+      "nb_log_vacant": 27
+    },
+    {
+      "code_insee": "46038",
+      "nom": "Bretenoux",
+      "slug": "bretenoux-46038",
+      "taux_vacance": 12.21,
+      "nb_log_vacant": 110
+    },
+    {
+      "code_insee": "46045",
+      "nom": "Cajarc",
+      "slug": "cajarc-46045",
+      "taux_vacance": 12.08,
+      "nb_log_vacant": 118
+    }
+  ]
+}

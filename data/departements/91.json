@@ -1,0 +1,155 @@
+{
+  "code": "91",
+  "nom": "Essonne",
+  "slug": "essonne-91",
+  "code_region": "11",
+  "nom_region": "�le-de-France",
+  "nb_communes": 194,
+  "nb_log_prive": 451871,
+  "nb_log_vacant": 22142,
+  "nb_log_vacant_2ans": 9993,
+  "taux_vacance": 4.9,
+  "taux_vacance_2ans": 2.21,
+  "top_communes": [
+    {
+      "code_insee": "91599",
+      "nom": "Soisy-sur-�cole",
+      "slug": "soisy-sur-cole-91599",
+      "taux_vacance": 35.24,
+      "nb_log_vacant": 333
+    },
+    {
+      "code_insee": "91223",
+      "nom": "�tampes",
+      "slug": "tampes-91223",
+      "taux_vacance": 9.39,
+      "nb_log_vacant": 923
+    },
+    {
+      "code_insee": "91200",
+      "nom": "Dourdan",
+      "slug": "dourdan-91200",
+      "taux_vacance": 8.17,
+      "nb_log_vacant": 321
+    },
+    {
+      "code_insee": "91511",
+      "nom": "Pussay",
+      "slug": "pussay-91511",
+      "taux_vacance": 7.93,
+      "nb_log_vacant": 85
+    },
+    {
+      "code_insee": "91174",
+      "nom": "Corbeil-Essonnes",
+      "slug": "corbeil-essonnes-91174",
+      "taux_vacance": 7.85,
+      "nb_log_vacant": 1464
+    },
+    {
+      "code_insee": "91662",
+      "nom": "Villeconin",
+      "slug": "villeconin-91662",
+      "taux_vacance": 7.54,
+      "nb_log_vacant": 27
+    },
+    {
+      "code_insee": "91069",
+      "nom": "Boigneville",
+      "slug": "boigneville-91069",
+      "taux_vacance": 7.33,
+      "nb_log_vacant": 17
+    },
+    {
+      "code_insee": "91243",
+      "nom": "Fontenay-l�s-Briis",
+      "slug": "fontenay-l-s-briis-91243",
+      "taux_vacance": 7.32,
+      "nb_log_vacant": 69
+    },
+    {
+      "code_insee": "91016",
+      "nom": "Angerville",
+      "slug": "angerville-91016",
+      "taux_vacance": 7.28,
+      "nb_log_vacant": 129
+    },
+    {
+      "code_insee": "91021",
+      "nom": "Arpajon",
+      "slug": "arpajon-91021",
+      "taux_vacance": 7.14,
+      "nb_log_vacant": 363
+    },
+    {
+      "code_insee": "91099",
+      "nom": "Boutigny-sur-Essonne",
+      "slug": "boutigny-sur-essonne-91099",
+      "taux_vacance": 7.05,
+      "nb_log_vacant": 103
+    },
+    {
+      "code_insee": "91514",
+      "nom": "Quincy-sous-S�nart",
+      "slug": "quincy-sous-s-nart-91514",
+      "taux_vacance": 7.05,
+      "nb_log_vacant": 252
+    },
+    {
+      "code_insee": "91425",
+      "nom": "Montlh�ry",
+      "slug": "montlh-ry-91425",
+      "taux_vacance": 6.9,
+      "nb_log_vacant": 269
+    },
+    {
+      "code_insee": "91405",
+      "nom": "Milly-la-For�t",
+      "slug": "milly-la-for-t-91405",
+      "taux_vacance": 6.79,
+      "nb_log_vacant": 167
+    },
+    {
+      "code_insee": "91560",
+      "nom": "Saint-Jean-de-Beauregard",
+      "slug": "saint-jean-de-beauregard-91560",
+      "taux_vacance": 6.77,
+      "nb_log_vacant": 13
+    },
+    {
+      "code_insee": "91286",
+      "nom": "Grigny",
+      "slug": "grigny-91286",
+      "taux_vacance": 6.59,
+      "nb_log_vacant": 340
+    },
+    {
+      "code_insee": "91047",
+      "nom": "Baulne",
+      "slug": "baulne-91047",
+      "taux_vacance": 6.57,
+      "nb_log_vacant": 47
+    },
+    {
+      "code_insee": "91390",
+      "nom": "Le M�r�villois",
+      "slug": "le-m-r-villois-91390",
+      "taux_vacance": 6.56,
+      "nb_log_vacant": 109
+    },
+    {
+      "code_insee": "91180",
+      "nom": "Courances",
+      "slug": "courances-91180",
+      "taux_vacance": 6.4,
+      "nb_log_vacant": 13
+    },
+    {
+      "code_insee": "91326",
+      "nom": "Juvisy-sur-Orge",
+      "slug": "juvisy-sur-orge-91326",
+      "taux_vacance": 6.13,
+      "nb_log_vacant": 469
+    }
+  ]
+}

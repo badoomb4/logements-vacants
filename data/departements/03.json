@@ -1,0 +1,155 @@
+{
+  "code": "03",
+  "nom": "Allier",
+  "slug": "allier-03",
+  "code_region": "84",
+  "nom_region": "Auvergne-Rh�ne-Alpes",
+  "nb_communes": 317,
+  "nb_log_prive": 167308,
+  "nb_log_vacant": 21339,
+  "nb_log_vacant_2ans": 12360,
+  "taux_vacance": 12.75,
+  "taux_vacance_2ans": 7.39,
+  "top_communes": [
+    {
+      "code_insee": "03139",
+      "nom": "Laprugne",
+      "slug": "laprugne-03139",
+      "taux_vacance": 27.74,
+      "nb_log_vacant": 114
+    },
+    {
+      "code_insee": "03206",
+      "nom": "La Petite-Marche",
+      "slug": "la-petite-marche-03206",
+      "taux_vacance": 22.35,
+      "nb_log_vacant": 38
+    },
+    {
+      "code_insee": "03077",
+      "nom": "Chirat-l'�glise",
+      "slug": "chirat-l-glise-03077",
+      "taux_vacance": 21.82,
+      "nb_log_vacant": 24
+    },
+    {
+      "code_insee": "03214",
+      "nom": "Rocles",
+      "slug": "rocles-03214",
+      "taux_vacance": 21.47,
+      "nb_log_vacant": 35
+    },
+    {
+      "code_insee": "03134",
+      "nom": "Laf�line",
+      "slug": "laf-line-03134",
+      "taux_vacance": 21.31,
+      "nb_log_vacant": 26
+    },
+    {
+      "code_insee": "03108",
+      "nom": "�chassi�res",
+      "slug": "chassi-res-03108",
+      "taux_vacance": 20.66,
+      "nb_log_vacant": 56
+    },
+    {
+      "code_insee": "03275",
+      "nom": "Souvigny",
+      "slug": "souvigny-03275",
+      "taux_vacance": 20.42,
+      "nb_log_vacant": 232
+    },
+    {
+      "code_insee": "03006",
+      "nom": "Arfeuilles",
+      "slug": "arfeuilles-03006",
+      "taux_vacance": 20.09,
+      "nb_log_vacant": 141
+    },
+    {
+      "code_insee": "03103",
+      "nom": "Le Donjon",
+      "slug": "le-donjon-03103",
+      "taux_vacance": 19.97,
+      "nb_log_vacant": 133
+    },
+    {
+      "code_insee": "03260",
+      "nom": "Saint-Sornin",
+      "slug": "saint-sornin-03260",
+      "taux_vacance": 19.85,
+      "nb_log_vacant": 27
+    },
+    {
+      "code_insee": "03293",
+      "nom": "Ur�ay",
+      "slug": "ur-ay-03293",
+      "taux_vacance": 19.35,
+      "nb_log_vacant": 48
+    },
+    {
+      "code_insee": "03297",
+      "nom": "Vallon-en-Sully",
+      "slug": "vallon-en-sully-03297",
+      "taux_vacance": 19.05,
+      "nb_log_vacant": 208
+    },
+    {
+      "code_insee": "03279",
+      "nom": "Teillet-Argenty",
+      "slug": "teillet-argenty-03279",
+      "taux_vacance": 18.67,
+      "nb_log_vacant": 62
+    },
+    {
+      "code_insee": "03191",
+      "nom": "Murat",
+      "slug": "murat-03191",
+      "taux_vacance": 18.58,
+      "nb_log_vacant": 34
+    },
+    {
+      "code_insee": "03147",
+      "nom": "Loddes",
+      "slug": "loddes-03147",
+      "taux_vacance": 18.44,
+      "nb_log_vacant": 26
+    },
+    {
+      "code_insee": "03225",
+      "nom": "Saint-D�sir�",
+      "slug": "saint-d-sir-03225",
+      "taux_vacance": 18.4,
+      "nb_log_vacant": 62
+    },
+    {
+      "code_insee": "03292",
+      "nom": "Tronget",
+      "slug": "tronget-03292",
+      "taux_vacance": 18.3,
+      "nb_log_vacant": 95
+    },
+    {
+      "code_insee": "03185",
+      "nom": "Montlu�on",
+      "slug": "montlu-on-03185",
+      "taux_vacance": 18.07,
+      "nb_log_vacant": 3727
+    },
+    {
+      "code_insee": "03161",
+      "nom": "Marcillat-en-Combraille",
+      "slug": "marcillat-en-combraille-03161",
+      "taux_vacance": 18.02,
+      "nb_log_vacant": 113
+    },
+    {
+      "code_insee": "03005",
+      "nom": "Archignat",
+      "slug": "archignat-03005",
+      "taux_vacance": 17.96,
+      "nb_log_vacant": 37
+    }
+  ]
+}

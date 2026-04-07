@@ -1,0 +1,155 @@
+{
+  "code": "32",
+  "nom": "Gers",
+  "slug": "gers-32",
+  "code_region": "76",
+  "nom_region": "Occitanie",
+  "nb_communes": 458,
+  "nb_log_prive": 68879,
+  "nb_log_vacant": 7037,
+  "nb_log_vacant_2ans": 3950,
+  "taux_vacance": 10.22,
+  "taux_vacance_2ans": 5.73,
+  "top_communes": [
+    {
+      "code_insee": "32024",
+      "nom": "Ayguetinte",
+      "slug": "ayguetinte-32024",
+      "taux_vacance": 17.59,
+      "nb_log_vacant": 19
+    },
+    {
+      "code_insee": "32335",
+      "nom": "Puycasquier",
+      "slug": "puycasquier-32335",
+      "taux_vacance": 16.32,
+      "nb_log_vacant": 39
+    },
+    {
+      "code_insee": "32125",
+      "nom": "Espas",
+      "slug": "espas-32125",
+      "taux_vacance": 16.09,
+      "nb_log_vacant": 14
+    },
+    {
+      "code_insee": "32032",
+      "nom": "Bassoues",
+      "slug": "bassoues-32032",
+      "taux_vacance": 14.73,
+      "nb_log_vacant": 38
+    },
+    {
+      "code_insee": "32107",
+      "nom": "Condom",
+      "slug": "condom-32107",
+      "taux_vacance": 14.66,
+      "nb_log_vacant": 593
+    },
+    {
+      "code_insee": "32096",
+      "nom": "Cazaubon",
+      "slug": "cazaubon-32096",
+      "taux_vacance": 14.56,
+      "nb_log_vacant": 269
+    },
+    {
+      "code_insee": "32102",
+      "nom": "C�zan",
+      "slug": "c-zan-32102",
+      "taux_vacance": 14.52,
+      "nb_log_vacant": 18
+    },
+    {
+      "code_insee": "32253",
+      "nom": "Miradoux",
+      "slug": "miradoux-32253",
+      "taux_vacance": 14.5,
+      "nb_log_vacant": 49
+    },
+    {
+      "code_insee": "32191",
+      "nom": "Lanne-Soubiran",
+      "slug": "lanne-soubiran-32191",
+      "taux_vacance": 14.47,
+      "nb_log_vacant": 11
+    },
+    {
+      "code_insee": "32407",
+      "nom": "Saint-Soulan",
+      "slug": "saint-soulan-32407",
+      "taux_vacance": 13.98,
+      "nb_log_vacant": 13
+    },
+    {
+      "code_insee": "32269",
+      "nom": "Monfort",
+      "slug": "monfort-32269",
+      "taux_vacance": 13.91,
+      "nb_log_vacant": 47
+    },
+    {
+      "code_insee": "32252",
+      "nom": "Mi�lan",
+      "slug": "mi-lan-32252",
+      "taux_vacance": 13.55,
+      "nb_log_vacant": 106
+    },
+    {
+      "code_insee": "32001",
+      "nom": "Aignan",
+      "slug": "aignan-32001",
+      "taux_vacance": 13.52,
+      "nb_log_vacant": 63
+    },
+    {
+      "code_insee": "32079",
+      "nom": "Castelnau d'Auzan Labarr�re",
+      "slug": "castelnau-d-auzan-labarr-re-32079",
+      "taux_vacance": 13.5,
+      "nb_log_vacant": 111
+    },
+    {
+      "code_insee": "32127",
+      "nom": "Estang",
+      "slug": "estang-32127",
+      "taux_vacance": 13.43,
+      "nb_log_vacant": 67
+    },
+    {
+      "code_insee": "32155",
+      "nom": "Le Houga",
+      "slug": "le-houga-32155",
+      "taux_vacance": 13.32,
+      "nb_log_vacant": 83
+    },
+    {
+      "code_insee": "32433",
+      "nom": "Simorre",
+      "slug": "simorre-32433",
+      "taux_vacance": 13.16,
+      "nb_log_vacant": 60
+    },
+    {
+      "code_insee": "32256",
+      "nom": "Mirande",
+      "slug": "mirande-32256",
+      "taux_vacance": 12.93,
+      "nb_log_vacant": 261
+    },
+    {
+      "code_insee": "32029",
+      "nom": "Barran",
+      "slug": "barran-32029",
+      "taux_vacance": 12.81,
+      "nb_log_vacant": 52
+    },
+    {
+      "code_insee": "32442",
+      "nom": "Terraube",
+      "slug": "terraube-32442",
+      "taux_vacance": 12.56,
+      "nb_log_vacant": 26
+    }
+  ]
+}

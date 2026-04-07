@@ -1,0 +1,146 @@
+[
+  {
+    "code": "01",
+    "nom": "Guadeloupe",
+    "slug": "guadeloupe",
+    "taux_vacance": 9.34,
+    "nb_log_vacant": 19840,
+    "nb_departements": 1
+  },
+  {
+    "code": "02",
+    "nom": "Martinique",
+    "slug": "martinique",
+    "taux_vacance": 11.6,
+    "nb_log_vacant": 22966,
+    "nb_departements": 1
+  },
+  {
+    "code": "03",
+    "nom": "Guyane",
+    "slug": "guyane",
+    "taux_vacance": 14.57,
+    "nb_log_vacant": 10363,
+    "nb_departements": 1
+  },
+  {
+    "code": "04",
+    "nom": "La R�union",
+    "slug": "la-r-union",
+    "taux_vacance": 6.3,
+    "nb_log_vacant": 20255,
+    "nb_departements": 1
+  },
+  {
+    "code": "06",
+    "nom": "Mayotte",
+    "slug": "mayotte",
+    "taux_vacance": 11.01,
+    "nb_log_vacant": 3341,
+    "nb_departements": 1
+  },
+  {
+    "code": "11",
+    "nom": "�le-de-France",
+    "slug": "le-de-france",
+    "taux_vacance": 5.83,
+    "nb_log_vacant": 267825,
+    "nb_departements": 8
+  },
+  {
+    "code": "24",
+    "nom": "Centre-Val de Loire",
+    "slug": "centre-val-de-loire",
+    "taux_vacance": 8.2,
+    "nb_log_vacant": 89138,
+    "nb_departements": 6
+  },
+  {
+    "code": "27",
+    "nom": "Bourgogne-Franche-Comt�",
+    "slug": "bourgogne-franche-comt",
+    "taux_vacance": 9.51,
+    "nb_log_vacant": 100072,
+    "nb_departements": 8
+  },
+  {
+    "code": "28",
+    "nom": "Normandie",
+    "slug": "normandie",
+    "taux_vacance": 7.11,
+    "nb_log_vacant": 88851,
+    "nb_departements": 5
+  },
+  {
+    "code": "32",
+    "nom": "Hauts-de-France",
+    "slug": "hauts-de-france",
+    "taux_vacance": 6.98,
+    "nb_log_vacant": 139824,
+    "nb_departements": 5
+  },
+  {
+    "code": "44",
+    "nom": "Grand Est",
+    "slug": "grand-est",
+    "taux_vacance": 8.28,
+    "nb_log_vacant": 165929,
+    "nb_departements": 10
+  },
+  {
+    "code": "52",
+    "nom": "Pays de la Loire",
+    "slug": "pays-de-la-loire",
+    "taux_vacance": 5.18,
+    "nb_log_vacant": 94774,
+    "nb_departements": 5
+  },
+  {
+    "code": "53",
+    "nom": "Bretagne",
+    "slug": "bretagne",
+    "taux_vacance": 6.2,
+    "nb_log_vacant": 112718,
+    "nb_departements": 4
+  },
+  {
+    "code": "75",
+    "nom": "Nouvelle-Aquitaine",
+    "slug": "nouvelle-aquitaine",
+    "taux_vacance": 7.54,
+    "nb_log_vacant": 212778,
+    "nb_departements": 12
+  },
+  {
+    "code": "76",
+    "nom": "Occitanie",
+    "slug": "occitanie",
+    "taux_vacance": 7.61,
+    "nb_log_vacant": 228469,
+    "nb_departements": 13
+  },
+  {
+    "code": "84",
+    "nom": "Auvergne-Rh�ne-Alpes",
+    "slug": "auvergne-rh-ne-alpes",
+    "taux_vacance": 7.4,
+    "nb_log_vacant": 283839,
+    "nb_departements": 12
+  },
+  {
+    "code": "93",
+    "nom": "Provence-Alpes-C�te d'Azur",
+    "slug": "provence-alpes-c-te-d-azur",
+    "taux_vacance": 6.79,
+    "nb_log_vacant": 196964,
+    "nb_departements": 6
+  },
+  {
+    "code": "94",
+    "nom": "Corse",
+    "slug": "corse",
+    "taux_vacance": 8.73,
+    "nb_log_vacant": 15841,
+    "nb_departements": 2
+  }
+]

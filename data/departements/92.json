@@ -1,0 +1,155 @@
+{
+  "code": "92",
+  "nom": "Hauts-de-Seine",
+  "slug": "hauts-de-seine-92",
+  "code_region": "11",
+  "nom_region": "�le-de-France",
+  "nb_communes": 36,
+  "nb_log_prive": 640801,
+  "nb_log_vacant": 35976,
+  "nb_log_vacant_2ans": 14656,
+  "taux_vacance": 5.61,
+  "taux_vacance_2ans": 2.29,
+  "top_communes": [
+    {
+      "code_insee": "92036",
+      "nom": "Gennevilliers",
+      "slug": "gennevilliers-92036",
+      "taux_vacance": 7.73,
+      "nb_log_vacant": 648
+    },
+    {
+      "code_insee": "92024",
+      "nom": "Clichy",
+      "slug": "clichy-92024",
+      "taux_vacance": 7.41,
+      "nb_log_vacant": 1819
+    },
+    {
+      "code_insee": "92046",
+      "nom": "Malakoff",
+      "slug": "malakoff-92046",
+      "taux_vacance": 6.77,
+      "nb_log_vacant": 635
+    },
+    {
+      "code_insee": "92004",
+      "nom": "Asni�res-sur-Seine",
+      "slug": "asni-res-sur-seine-92004",
+      "taux_vacance": 6.42,
+      "nb_log_vacant": 2524
+    },
+    {
+      "code_insee": "92044",
+      "nom": "Levallois-Perret",
+      "slug": "levallois-perret-92044",
+      "taux_vacance": 6.17,
+      "nb_log_vacant": 1911
+    },
+    {
+      "code_insee": "92051",
+      "nom": "Neuilly-sur-Seine",
+      "slug": "neuilly-sur-seine-92051",
+      "taux_vacance": 5.89,
+      "nb_log_vacant": 1950
+    },
+    {
+      "code_insee": "92062",
+      "nom": "Puteaux",
+      "slug": "puteaux-92062",
+      "taux_vacance": 5.85,
+      "nb_log_vacant": 1141
+    },
+    {
+      "code_insee": "92040",
+      "nom": "Issy-les-Moulineaux",
+      "slug": "issy-les-moulineaux-92040",
+      "taux_vacance": 5.81,
+      "nb_log_vacant": 1744
+    },
+    {
+      "code_insee": "92025",
+      "nom": "Colombes",
+      "slug": "colombes-92025",
+      "taux_vacance": 5.8,
+      "nb_log_vacant": 1728
+    },
+    {
+      "code_insee": "92073",
+      "nom": "Suresnes",
+      "slug": "suresnes-92073",
+      "taux_vacance": 5.78,
+      "nb_log_vacant": 1000
+    },
+    {
+      "code_insee": "92075",
+      "nom": "Vanves",
+      "slug": "vanves-92075",
+      "taux_vacance": 5.78,
+      "nb_log_vacant": 710
+    },
+    {
+      "code_insee": "92071",
+      "nom": "Sceaux",
+      "slug": "sceaux-92071",
+      "taux_vacance": 5.69,
+      "nb_log_vacant": 438
+    },
+    {
+      "code_insee": "92007",
+      "nom": "Bagneux",
+      "slug": "bagneux-92007",
+      "taux_vacance": 5.66,
+      "nb_log_vacant": 530
+    },
+    {
+      "code_insee": "92049",
+      "nom": "Montrouge",
+      "slug": "montrouge-92049",
+      "taux_vacance": 5.59,
+      "nb_log_vacant": 1248
+    },
+    {
+      "code_insee": "92022",
+      "nom": "Chaville",
+      "slug": "chaville-92022",
+      "taux_vacance": 5.49,
+      "nb_log_vacant": 459
+    },
+    {
+      "code_insee": "92064",
+      "nom": "Saint-Cloud",
+      "slug": "saint-cloud-92064",
+      "taux_vacance": 5.49,
+      "nb_log_vacant": 676
+    },
+    {
+      "code_insee": "92026",
+      "nom": "Courbevoie",
+      "slug": "courbevoie-92026",
+      "taux_vacance": 5.41,
+      "nb_log_vacant": 2055
+    },
+    {
+      "code_insee": "92012",
+      "nom": "Boulogne-Billancourt",
+      "slug": "boulogne-billancourt-92012",
+      "taux_vacance": 5.39,
+      "nb_log_vacant": 3265
+    },
+    {
+      "code_insee": "92048",
+      "nom": "Meudon",
+      "slug": "meudon-92048",
+      "taux_vacance": 5.39,
+      "nb_log_vacant": 933
+    },
+    {
+      "code_insee": "92063",
+      "nom": "Rueil-Malmaison",
+      "slug": "rueil-malmaison-92063",
+      "taux_vacance": 5.31,
+      "nb_log_vacant": 1710
+    }
+  ]
+}

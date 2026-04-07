@@ -1,0 +1,69 @@
+{
+  "code": "27",
+  "nom": "Bourgogne-Franche-Comt�",
+  "slug": "bourgogne-franche-comt",
+  "nb_communes": 3685,
+  "nb_log_prive": 1052472,
+  "nb_log_vacant": 100072,
+  "nb_log_vacant_2ans": 53208,
+  "taux_vacance": 9.51,
+  "taux_vacance_2ans": 5.06,
+  "departements": [
+    {
+      "code": "58",
+      "nom": "Ni�vre",
+      "slug": "ni-vre-58",
+      "taux_vacance": 13.38,
+      "nb_log_vacant": 11769
+    },
+    {
+      "code": "70",
+      "nom": "Haute-Sa�ne",
+      "slug": "haute-sa-ne-70",
+      "taux_vacance": 11.15,
+      "nb_log_vacant": 7955
+    },
+    {
+      "code": "89",
+      "nom": "Yonne",
+      "slug": "yonne-89",
+      "taux_vacance": 10.57,
+      "nb_log_vacant": 13634
+    },
+    {
+      "code": "39",
+      "nom": "Jura",
+      "slug": "jura-39",
+      "taux_vacance": 10.4,
+      "nb_log_vacant": 10120
+    },
+    {
+      "code": "90",
+      "nom": "Territoire de Belfort",
+      "slug": "territoire-de-belfort-90",
+      "taux_vacance": 9.65,
+      "nb_log_vacant": 4826
+    },
+    {
+      "code": "71",
+      "nom": "Sa�ne-et-Loire",
+      "slug": "sa-ne-et-loire-71",
+      "taux_vacance": 9.64,
+      "nb_log_vacant": 21356
+    },
+    {
+      "code": "21",
+      "nom": "C�te-d'Or",
+      "slug": "c-te-d-or-21",
+      "taux_vacance": 7.77,
+      "nb_log_vacant": 15274
+    },
+    {
+      "code": "25",
+      "nom": "Doubs",
+      "slug": "doubs-25",
+      "taux_vacance": 7.62,
+      "nb_log_vacant": 15138
+    }
+  ]
+}

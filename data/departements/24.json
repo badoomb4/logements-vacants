@@ -1,0 +1,155 @@
+{
+  "code": "24",
+  "nom": "Dordogne",
+  "slug": "dordogne-24",
+  "code_region": "75",
+  "nom_region": "Nouvelle-Aquitaine",
+  "nb_communes": 503,
+  "nb_log_prive": 183483,
+  "nb_log_vacant": 17483,
+  "nb_log_vacant_2ans": 9755,
+  "taux_vacance": 9.53,
+  "taux_vacance_2ans": 5.32,
+  "top_communes": [
+    {
+      "code_insee": "24071",
+      "nom": "Bussi�re-Badil",
+      "slug": "bussi-re-badil-24071",
+      "taux_vacance": 20.87,
+      "nb_log_vacant": 77
+    },
+    {
+      "code_insee": "24529",
+      "nom": "Segonzac",
+      "slug": "segonzac-24529",
+      "taux_vacance": 20.72,
+      "nb_log_vacant": 23
+    },
+    {
+      "code_insee": "24306",
+      "nom": "Nastringues",
+      "slug": "nastringues-24306",
+      "taux_vacance": 19.54,
+      "nb_log_vacant": 17
+    },
+    {
+      "code_insee": "24353",
+      "nom": "La Rochebeaucourt-et-Argentine",
+      "slug": "la-rochebeaucourt-et-argentine-24353",
+      "taux_vacance": 15.74,
+      "nb_log_vacant": 48
+    },
+    {
+      "code_insee": "24585",
+      "nom": "Villefranche-du-P�rigord",
+      "slug": "villefranche-du-p-rigord-24585",
+      "taux_vacance": 15.21,
+      "nb_log_vacant": 89
+    },
+    {
+      "code_insee": "24263",
+      "nom": "Mazeyrolles",
+      "slug": "mazeyrolles-24263",
+      "taux_vacance": 15.11,
+      "nb_log_vacant": 34
+    },
+    {
+      "code_insee": "24511",
+      "nom": "Saint-Vincent-Jalmoutiers",
+      "slug": "saint-vincent-jalmoutiers-24511",
+      "taux_vacance": 15,
+      "nb_log_vacant": 24
+    },
+    {
+      "code_insee": "24311",
+      "nom": "Nontron",
+      "slug": "nontron-24311",
+      "taux_vacance": 14.86,
+      "nb_log_vacant": 297
+    },
+    {
+      "code_insee": "24352",
+      "nom": "Rib�rac",
+      "slug": "rib-rac-24352",
+      "taux_vacance": 14.46,
+      "nb_log_vacant": 334
+    },
+    {
+      "code_insee": "24396",
+      "nom": "Saint-Cyprien",
+      "slug": "saint-cyprien-24396",
+      "taux_vacance": 14.24,
+      "nb_log_vacant": 171
+    },
+    {
+      "code_insee": "24220",
+      "nom": "Lacropte",
+      "slug": "lacropte-24220",
+      "taux_vacance": 14.13,
+      "nb_log_vacant": 53
+    },
+    {
+      "code_insee": "24551",
+      "nom": "Thiviers",
+      "slug": "thiviers-24551",
+      "taux_vacance": 14.1,
+      "nb_log_vacant": 265
+    },
+    {
+      "code_insee": "24035",
+      "nom": "Pays de Belv�s",
+      "slug": "pays-de-belv-s-24035",
+      "taux_vacance": 14,
+      "nb_log_vacant": 153
+    },
+    {
+      "code_insee": "24227",
+      "nom": "Lanouaille",
+      "slug": "lanouaille-24227",
+      "taux_vacance": 13.86,
+      "nb_log_vacant": 84
+    },
+    {
+      "code_insee": "24199",
+      "nom": "Gout-Rossignol",
+      "slug": "gout-rossignol-24199",
+      "taux_vacance": 13.79,
+      "nb_log_vacant": 28
+    },
+    {
+      "code_insee": "24253",
+      "nom": "Mareuil en P�rigord",
+      "slug": "mareuil-en-p-rigord-24253",
+      "taux_vacance": 13.62,
+      "nb_log_vacant": 251
+    },
+    {
+      "code_insee": "24280",
+      "nom": "Monpazier",
+      "slug": "monpazier-24280",
+      "taux_vacance": 13.6,
+      "nb_log_vacant": 54
+    },
+    {
+      "code_insee": "24164",
+      "nom": "Excideuil",
+      "slug": "excideuil-24164",
+      "taux_vacance": 13.53,
+      "nb_log_vacant": 103
+    },
+    {
+      "code_insee": "24133",
+      "nom": "La Coquille",
+      "slug": "la-coquille-24133",
+      "taux_vacance": 13.5,
+      "nb_log_vacant": 122
+    },
+    {
+      "code_insee": "24040",
+      "nom": "Beynac-et-Cazenac",
+      "slug": "beynac-et-cazenac-24040",
+      "taux_vacance": 13.37,
+      "nb_log_vacant": 54
+    }
+  ]
+}

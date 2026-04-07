@@ -1,0 +1,155 @@
+{
+  "code": "27",
+  "nom": "Eure",
+  "slug": "eure-27",
+  "code_region": "28",
+  "nom_region": "Normandie",
+  "nb_communes": 585,
+  "nb_log_prive": 179063,
+  "nb_log_vacant": 12652,
+  "nb_log_vacant_2ans": 6179,
+  "taux_vacance": 7.07,
+  "taux_vacance_2ans": 3.45,
+  "top_communes": [
+    {
+      "code_insee": "27431",
+      "nom": "La Neuve-Lyre",
+      "slug": "la-neuve-lyre-27431",
+      "taux_vacance": 17.42,
+      "nb_log_vacant": 62
+    },
+    {
+      "code_insee": "27485",
+      "nom": "Quillebeuf-sur-Seine",
+      "slug": "quillebeuf-sur-seine-27485",
+      "taux_vacance": 17.41,
+      "nb_log_vacant": 82
+    },
+    {
+      "code_insee": "27683",
+      "nom": "V�zillon",
+      "slug": "v-zillon-27683",
+      "taux_vacance": 15.5,
+      "nb_log_vacant": 20
+    },
+    {
+      "code_insee": "27020",
+      "nom": "Arni�res-sur-Iton",
+      "slug": "arni-res-sur-iton-27020",
+      "taux_vacance": 13.44,
+      "nb_log_vacant": 111
+    },
+    {
+      "code_insee": "27170",
+      "nom": "Cormeilles",
+      "slug": "cormeilles-27170",
+      "taux_vacance": 12.42,
+      "nb_log_vacant": 93
+    },
+    {
+      "code_insee": "27502",
+      "nom": "Rugles",
+      "slug": "rugles-27502",
+      "taux_vacance": 12.35,
+      "nb_log_vacant": 146
+    },
+    {
+      "code_insee": "27117",
+      "nom": "Broglie",
+      "slug": "broglie-27117",
+      "taux_vacance": 12.12,
+      "nb_log_vacant": 68
+    },
+    {
+      "code_insee": "27438",
+      "nom": "Nonancourt",
+      "slug": "nonancourt-27438",
+      "taux_vacance": 11.86,
+      "nb_log_vacant": 121
+    },
+    {
+      "code_insee": "27467",
+      "nom": "Pont-Audemer",
+      "slug": "pont-audemer-27467",
+      "taux_vacance": 11.18,
+      "nb_log_vacant": 460
+    },
+    {
+      "code_insee": "27116",
+      "nom": "Brionne",
+      "slug": "brionne-27116",
+      "taux_vacance": 10.96,
+      "nb_log_vacant": 208
+    },
+    {
+      "code_insee": "27229",
+      "nom": "�vreux",
+      "slug": "vreux-27229",
+      "taux_vacance": 10.94,
+      "nb_log_vacant": 1806
+    },
+    {
+      "code_insee": "27019",
+      "nom": "Armenti�res-sur-Avre",
+      "slug": "armenti-res-sur-avre-27019",
+      "taux_vacance": 10.81,
+      "nb_log_vacant": 12
+    },
+    {
+      "code_insee": "27377",
+      "nom": "Lyons-la-For�t",
+      "slug": "lyons-la-for-t-27377",
+      "taux_vacance": 10.56,
+      "nb_log_vacant": 51
+    },
+    {
+      "code_insee": "27470",
+      "nom": "Pont-Saint-Pierre",
+      "slug": "pont-saint-pierre-27470",
+      "taux_vacance": 10.42,
+      "nb_log_vacant": 60
+    },
+    {
+      "code_insee": "27051",
+      "nom": "Beaumont-le-Roger",
+      "slug": "beaumont-le-roger-27051",
+      "taux_vacance": 10.34,
+      "nb_log_vacant": 142
+    },
+    {
+      "code_insee": "27056",
+      "nom": "Bernay",
+      "slug": "bernay-27056",
+      "taux_vacance": 10.28,
+      "nb_log_vacant": 497
+    },
+    {
+      "code_insee": "27323",
+      "nom": "La Haye-Saint-Sylvestre",
+      "slug": "la-haye-saint-sylvestre-27323",
+      "taux_vacance": 10.18,
+      "nb_log_vacant": 17
+    },
+    {
+      "code_insee": "27468",
+      "nom": "Pont-Authou",
+      "slug": "pont-authou-27468",
+      "taux_vacance": 10.13,
+      "nb_log_vacant": 24
+    },
+    {
+      "code_insee": "27643",
+      "nom": "Tilli�res-sur-Avre",
+      "slug": "tilli-res-sur-avre-27643",
+      "taux_vacance": 9.84,
+      "nb_log_vacant": 55
+    },
+    {
+      "code_insee": "27414",
+      "nom": "Montreuil-l'Argill�",
+      "slug": "montreuil-l-argill-27414",
+      "taux_vacance": 9.59,
+      "nb_log_vacant": 42
+    }
+  ]
+}

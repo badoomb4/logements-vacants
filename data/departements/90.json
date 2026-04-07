@@ -1,0 +1,155 @@
+{
+  "code": "90",
+  "nom": "Territoire de Belfort",
+  "slug": "territoire-de-belfort-90",
+  "code_region": "27",
+  "nom_region": "Bourgogne-Franche-Comt�",
+  "nb_communes": 101,
+  "nb_log_prive": 50002,
+  "nb_log_vacant": 4826,
+  "nb_log_vacant_2ans": 2327,
+  "taux_vacance": 9.65,
+  "taux_vacance_2ans": 4.65,
+  "top_communes": [
+    {
+      "code_insee": "90072",
+      "nom": "Morvillars",
+      "slug": "morvillars-90072",
+      "taux_vacance": 14.26,
+      "nb_log_vacant": 79
+    },
+    {
+      "code_insee": "90010",
+      "nom": "Belfort",
+      "slug": "belfort-90010",
+      "taux_vacance": 12.95,
+      "nb_log_vacant": 2418
+    },
+    {
+      "code_insee": "90052",
+      "nom": "Giromagny",
+      "slug": "giromagny-90052",
+      "taux_vacance": 11.14,
+      "nb_log_vacant": 158
+    },
+    {
+      "code_insee": "90005",
+      "nom": "Auxelles-Bas",
+      "slug": "auxelles-bas-90005",
+      "taux_vacance": 10.79,
+      "nb_log_vacant": 26
+    },
+    {
+      "code_insee": "90065",
+      "nom": "Lepuix",
+      "slug": "lepuix-90065",
+      "taux_vacance": 10.77,
+      "nb_log_vacant": 67
+    },
+    {
+      "code_insee": "90009",
+      "nom": "Beaucourt",
+      "slug": "beaucourt-90009",
+      "taux_vacance": 10.71,
+      "nb_log_vacant": 225
+    },
+    {
+      "code_insee": "90033",
+      "nom": "Delle",
+      "slug": "delle-90033",
+      "taux_vacance": 10.03,
+      "nb_log_vacant": 223
+    },
+    {
+      "code_insee": "90089",
+      "nom": "Rougemont-le-Ch�teau",
+      "slug": "rougemont-le-ch-teau-90089",
+      "taux_vacance": 9.96,
+      "nb_log_vacant": 70
+    },
+    {
+      "code_insee": "90011",
+      "nom": "Bermont",
+      "slug": "bermont-90011",
+      "taux_vacance": 9.94,
+      "nb_log_vacant": 16
+    },
+    {
+      "code_insee": "90081",
+      "nom": "R�ch�sy",
+      "slug": "r-ch-sy-90081",
+      "taux_vacance": 9.44,
+      "nb_log_vacant": 37
+    },
+    {
+      "code_insee": "90053",
+      "nom": "Grandvillars",
+      "slug": "grandvillars-90053",
+      "taux_vacance": 9.36,
+      "nb_log_vacant": 137
+    },
+    {
+      "code_insee": "90051",
+      "nom": "Froidefontaine",
+      "slug": "froidefontaine-90051",
+      "taux_vacance": 9,
+      "nb_log_vacant": 19
+    },
+    {
+      "code_insee": "90099",
+      "nom": "Valdoie",
+      "slug": "valdoie-90099",
+      "taux_vacance": 8.96,
+      "nb_log_vacant": 208
+    },
+    {
+      "code_insee": "90058",
+      "nom": "Lachapelle-sous-Rougemont",
+      "slug": "lachapelle-sous-rougemont-90058",
+      "taux_vacance": 8.86,
+      "nb_log_vacant": 24
+    },
+    {
+      "code_insee": "90097",
+      "nom": "Tr�venans",
+      "slug": "tr-venans-90097",
+      "taux_vacance": 8.43,
+      "nb_log_vacant": 51
+    },
+    {
+      "code_insee": "90069",
+      "nom": "M�zir�",
+      "slug": "m-zir-90069",
+      "taux_vacance": 8.35,
+      "nb_log_vacant": 54
+    },
+    {
+      "code_insee": "90032",
+      "nom": "Danjoutin",
+      "slug": "danjoutin-90032",
+      "taux_vacance": 7.88,
+      "nb_log_vacant": 128
+    },
+    {
+      "code_insee": "90008",
+      "nom": "Bavilliers",
+      "slug": "bavilliers-90008",
+      "taux_vacance": 7.77,
+      "nb_log_vacant": 132
+    },
+    {
+      "code_insee": "90067",
+      "nom": "Menoncourt",
+      "slug": "menoncourt-90067",
+      "taux_vacance": 7.45,
+      "nb_log_vacant": 14
+    },
+    {
+      "code_insee": "90087",
+      "nom": "Roppe",
+      "slug": "roppe-90087",
+      "taux_vacance": 7.38,
+      "nb_log_vacant": 35
+    }
+  ]
+}

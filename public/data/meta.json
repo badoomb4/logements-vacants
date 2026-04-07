@@ -1,0 +1,82 @@
+{
+  "millesime": 2025,
+  "date_mise_a_jour": "2026-04-07",
+  "nb_communes": 34912,
+  "nb_log_prive": 29216215,
+  "nb_log_vacant": 2073787,
+  "nb_log_vacant_2ans": 1073697,
+  "taux_vacance": 7.1,
+  "taux_vacance_2ans": 3.68,
+  "top_departements": [
+    {
+      "code": "23",
+      "nom": "Creuse",
+      "slug": "creuse-23",
+      "taux_vacance": 15.25,
+      "nb_log_vacant": 9031
+    },
+    {
+      "code": "973",
+      "nom": "Guyane",
+      "slug": "guyane-973",
+      "taux_vacance": 14.57,
+      "nb_log_vacant": 10363
+    },
+    {
+      "code": "58",
+      "nom": "Ni�vre",
+      "slug": "ni-vre-58",
+      "taux_vacance": 13.38,
+      "nb_log_vacant": 11769
+    },
+    {
+      "code": "03",
+      "nom": "Allier",
+      "slug": "allier-03",
+      "taux_vacance": 12.75,
+      "nb_log_vacant": 21339
+    },
+    {
+      "code": "36",
+      "nom": "Indre",
+      "slug": "indre-36",
+      "taux_vacance": 11.86,
+      "nb_log_vacant": 12775
+    },
+    {
+      "code": "55",
+      "nom": "Meuse",
+      "slug": "meuse-55",
+      "taux_vacance": 11.79,
+      "nb_log_vacant": 6699
+    },
+    {
+      "code": "52",
+      "nom": "Haute-Marne",
+      "slug": "haute-marne-52",
+      "taux_vacance": 11.69,
+      "nb_log_vacant": 6937
+    },
+    {
+      "code": "972",
+      "nom": "Martinique",
+      "slug": "martinique-972",
+      "taux_vacance": 11.6,
+      "nb_log_vacant": 22966
+    },
+    {
+      "code": "12",
+      "nom": "Aveyron",
+      "slug": "aveyron-12",
+      "taux_vacance": 11.54,
+      "nb_log_vacant": 17312
+    },
+    {
+      "code": "08",
+      "nom": "Ardennes",
+      "slug": "ardennes-08",
+      "taux_vacance": 11.48,
+      "nb_log_vacant": 10004
+    }
+  ]
+}

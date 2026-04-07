@@ -1,0 +1,155 @@
+{
+  "code": "78",
+  "nom": "Yvelines",
+  "slug": "yvelines-78",
+  "code_region": "11",
+  "nom_region": "�le-de-France",
+  "nb_communes": 259,
+  "nb_log_prive": 500968,
+  "nb_log_vacant": 24494,
+  "nb_log_vacant_2ans": 9991,
+  "taux_vacance": 4.89,
+  "taux_vacance_2ans": 1.99,
+  "top_communes": [
+    {
+      "code_insee": "78439",
+      "nom": "Mulcent",
+      "slug": "mulcent-78439",
+      "taux_vacance": 18.64,
+      "nb_log_vacant": 11
+    },
+    {
+      "code_insee": "78528",
+      "nom": "Rolleboise",
+      "slug": "rolleboise-78528",
+      "taux_vacance": 11.41,
+      "nb_log_vacant": 21
+    },
+    {
+      "code_insee": "78401",
+      "nom": "Meulan-en-Yvelines",
+      "slug": "meulan-en-yvelines-78401",
+      "taux_vacance": 9.35,
+      "nb_log_vacant": 332
+    },
+    {
+      "code_insee": "78281",
+      "nom": "Goussonville",
+      "slug": "goussonville-78281",
+      "taux_vacance": 9.12,
+      "nb_log_vacant": 28
+    },
+    {
+      "code_insee": "78361",
+      "nom": "Mantes-la-Jolie",
+      "slug": "mantes-la-jolie-78361",
+      "taux_vacance": 9.03,
+      "nb_log_vacant": 1041
+    },
+    {
+      "code_insee": "78310",
+      "nom": "Houdan",
+      "slug": "houdan-78310",
+      "taux_vacance": 8.12,
+      "nb_log_vacant": 155
+    },
+    {
+      "code_insee": "78089",
+      "nom": "Bonni�res-sur-Seine",
+      "slug": "bonni-res-sur-seine-78089",
+      "taux_vacance": 7.98,
+      "nb_log_vacant": 125
+    },
+    {
+      "code_insee": "78668",
+      "nom": "La Villeneuve-en-Chevrie",
+      "slug": "la-villeneuve-en-chevrie-78668",
+      "taux_vacance": 7.96,
+      "nb_log_vacant": 25
+    },
+    {
+      "code_insee": "78291",
+      "nom": "Guerville",
+      "slug": "guerville-78291",
+      "taux_vacance": 7.89,
+      "nb_log_vacant": 75
+    },
+    {
+      "code_insee": "78417",
+      "nom": "Montchauvet",
+      "slug": "montchauvet-78417",
+      "taux_vacance": 7.65,
+      "nb_log_vacant": 14
+    },
+    {
+      "code_insee": "78591",
+      "nom": "Septeuil",
+      "slug": "septeuil-78591",
+      "taux_vacance": 7.5,
+      "nb_log_vacant": 80
+    },
+    {
+      "code_insee": "78420",
+      "nom": "Montfort-l'Amaury",
+      "slug": "montfort-l-amaury-78420",
+      "taux_vacance": 7.43,
+      "nb_log_vacant": 102
+    },
+    {
+      "code_insee": "78640",
+      "nom": "V�lizy-Villacoublay",
+      "slug": "v-lizy-villacoublay-78640",
+      "taux_vacance": 7.13,
+      "nb_log_vacant": 652
+    },
+    {
+      "code_insee": "78575",
+      "nom": "Saint-R�my-l�s-Chevreuse",
+      "slug": "saint-r-my-l-s-chevreuse-78575",
+      "taux_vacance": 6.83,
+      "nb_log_vacant": 232
+    },
+    {
+      "code_insee": "78193",
+      "nom": "Dampierre-en-Yvelines",
+      "slug": "dampierre-en-yvelines-78193",
+      "taux_vacance": 6.82,
+      "nb_log_vacant": 36
+    },
+    {
+      "code_insee": "78322",
+      "nom": "Jouy-en-Josas",
+      "slug": "jouy-en-josas-78322",
+      "taux_vacance": 6.82,
+      "nb_log_vacant": 205
+    },
+    {
+      "code_insee": "78551",
+      "nom": "Saint-Germain-en-Laye",
+      "slug": "saint-germain-en-laye-78551",
+      "taux_vacance": 6.75,
+      "nb_log_vacant": 1160
+    },
+    {
+      "code_insee": "78090",
+      "nom": "Bouafle",
+      "slug": "bouafle-78090",
+      "taux_vacance": 6.69,
+      "nb_log_vacant": 67
+    },
+    {
+      "code_insee": "78163",
+      "nom": "Civry-la-For�t",
+      "slug": "civry-la-for-t-78163",
+      "taux_vacance": 6.63,
+      "nb_log_vacant": 11
+    },
+    {
+      "code_insee": "78569",
+      "nom": "Sainte-Mesme",
+      "slug": "sainte-mesme-78569",
+      "taux_vacance": 6.62,
+      "nb_log_vacant": 27
+    }
+  ]
+}

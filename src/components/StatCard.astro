@@ -1,0 +1,36 @@
+---
+interface Props {
+  label: string;
+  value: string | number | null;
+  subtitle?: string;
+  color?: 'blue' | 'orange' | 'red' | 'green';
+}
+
+const { label, value, subtitle, color = 'blue' } = Astro.props;
+
+const colorClasses = {
+  blue: 'border-blue-200 bg-blue-50',
+  orange: 'border-orange-200 bg-orange-50',
+  red: 'border-red-200 bg-red-50',
+  green: 'border-green-200 bg-green-50',
+};
+
+const valueColors = {
+  blue: 'text-blue-700',
+  orange: 'text-orange-700',
+  red: 'text-red-700',
+  green: 'text-green-700',
+};
+---
+
+<div class={`rounded-lg border p-4 ${colorClasses[color]}`}>
+  <p class="text-sm text-gray-600 mb-1">{label}</p>
+  {value !== null ? (
+    <p class={`text-2xl font-bold ${valueColors[color]}`}>
+      {typeof value === 'number' ? value.toLocaleString('fr-FR') : value}
+    </p>
+  ) : (
+    <p class="text-lg text-gray-400 italic">Non disponible</p>
+  )}
+  {subtitle && <p class="text-xs text-gray-500 mt-1">{subtitle}</p>}
+</div>

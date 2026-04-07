@@ -1,0 +1,155 @@
+{
+  "code": "77",
+  "nom": "Seine-et-Marne",
+  "slug": "seine-et-marne-77",
+  "code_region": "11",
+  "nom_region": "�le-de-France",
+  "nb_communes": 507,
+  "nb_log_prive": 471552,
+  "nb_log_vacant": 25623,
+  "nb_log_vacant_2ans": 12948,
+  "taux_vacance": 5.43,
+  "taux_vacance_2ans": 2.75,
+  "top_communes": [
+    {
+      "code_insee": "77462",
+      "nom": "Thieux",
+      "slug": "thieux-77462",
+      "taux_vacance": 15.02,
+      "nb_log_vacant": 64
+    },
+    {
+      "code_insee": "77481",
+      "nom": "Vanvill�",
+      "slug": "vanvill-77481",
+      "taux_vacance": 14.94,
+      "nb_log_vacant": 13
+    },
+    {
+      "code_insee": "77127",
+      "nom": "Coubert",
+      "slug": "coubert-77127",
+      "taux_vacance": 11.85,
+      "nb_log_vacant": 91
+    },
+    {
+      "code_insee": "77072",
+      "nom": "Chalautre-la-Grande",
+      "slug": "chalautre-la-grande-77072",
+      "taux_vacance": 11.71,
+      "nb_log_vacant": 37
+    },
+    {
+      "code_insee": "77305",
+      "nom": "Montereau-Fault-Yonne",
+      "slug": "montereau-fault-yonne-77305",
+      "taux_vacance": 11.55,
+      "nb_log_vacant": 628
+    },
+    {
+      "code_insee": "77511",
+      "nom": "Villeneuve-sous-Dammartin",
+      "slug": "villeneuve-sous-dammartin-77511",
+      "taux_vacance": 11.3,
+      "nb_log_vacant": 34
+    },
+    {
+      "code_insee": "77182",
+      "nom": "La Fert�-Gaucher",
+      "slug": "la-fert-gaucher-77182",
+      "taux_vacance": 11.27,
+      "nb_log_vacant": 210
+    },
+    {
+      "code_insee": "77051",
+      "nom": "Bray-sur-Seine",
+      "slug": "bray-sur-seine-77051",
+      "taux_vacance": 11.04,
+      "nb_log_vacant": 105
+    },
+    {
+      "code_insee": "77027",
+      "nom": "Beaumont-du-G�tinais",
+      "slug": "beaumont-du-g-tinais-77027",
+      "taux_vacance": 11.03,
+      "nb_log_vacant": 64
+    },
+    {
+      "code_insee": "77018",
+      "nom": "Bailly-Romainvilliers",
+      "slug": "bailly-romainvilliers-77018",
+      "taux_vacance": 10.73,
+      "nb_log_vacant": 272
+    },
+    {
+      "code_insee": "77261",
+      "nom": "Lorrez-le-Bocage-Pr�aux",
+      "slug": "lorrez-le-bocage-pr-aux-77261",
+      "taux_vacance": 10.7,
+      "nb_log_vacant": 67
+    },
+    {
+      "code_insee": "77458",
+      "nom": "Souppes-sur-Loing",
+      "slug": "souppes-sur-loing-77458",
+      "taux_vacance": 10.7,
+      "nb_log_vacant": 242
+    },
+    {
+      "code_insee": "77523",
+      "nom": "Villuis",
+      "slug": "villuis-77523",
+      "taux_vacance": 10.56,
+      "nb_log_vacant": 15
+    },
+    {
+      "code_insee": "77379",
+      "nom": "Provins",
+      "slug": "provins-77379",
+      "taux_vacance": 10.54,
+      "nb_log_vacant": 502
+    },
+    {
+      "code_insee": "77333",
+      "nom": "Nemours",
+      "slug": "nemours-77333",
+      "taux_vacance": 10.39,
+      "nb_log_vacant": 469
+    },
+    {
+      "code_insee": "77099",
+      "nom": "Ch�teau-Landon",
+      "slug": "ch-teau-landon-77099",
+      "taux_vacance": 10.21,
+      "nb_log_vacant": 171
+    },
+    {
+      "code_insee": "77186",
+      "nom": "Fontainebleau",
+      "slug": "fontainebleau-77186",
+      "taux_vacance": 10.02,
+      "nb_log_vacant": 812
+    },
+    {
+      "code_insee": "77117",
+      "nom": "Citry",
+      "slug": "citry-77117",
+      "taux_vacance": 9.76,
+      "nb_log_vacant": 44
+    },
+    {
+      "code_insee": "77297",
+      "nom": "Mondreville",
+      "slug": "mondreville-77297",
+      "taux_vacance": 9.73,
+      "nb_log_vacant": 18
+    },
+    {
+      "code_insee": "77208",
+      "nom": "Gouaix",
+      "slug": "gouaix-77208",
+      "taux_vacance": 9.72,
+      "nb_log_vacant": 63
+    }
+  ]
+}

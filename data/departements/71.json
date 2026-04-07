@@ -1,0 +1,155 @@
+{
+  "code": "71",
+  "nom": "Sa�ne-et-Loire",
+  "slug": "sa-ne-et-loire-71",
+  "code_region": "27",
+  "nom_region": "Bourgogne-Franche-Comt�",
+  "nb_communes": 563,
+  "nb_log_prive": 221610,
+  "nb_log_vacant": 21356,
+  "nb_log_vacant_2ans": 11326,
+  "taux_vacance": 9.64,
+  "taux_vacance_2ans": 5.11,
+  "top_communes": [
+    {
+      "code_insee": "71152",
+      "nom": "Cressy-sur-Somme",
+      "slug": "cressy-sur-somme-71152",
+      "taux_vacance": 22.96,
+      "nb_log_vacant": 31
+    },
+    {
+      "code_insee": "71155",
+      "nom": "Cronat",
+      "slug": "cronat-71155",
+      "taux_vacance": 21.1,
+      "nb_log_vacant": 73
+    },
+    {
+      "code_insee": "71566",
+      "nom": "Verdun-Ciel",
+      "slug": "verdun-ciel-71566",
+      "taux_vacance": 19.08,
+      "nb_log_vacant": 212
+    },
+    {
+      "code_insee": "71273",
+      "nom": "Maltat",
+      "slug": "maltat-71273",
+      "taux_vacance": 17.2,
+      "nb_log_vacant": 32
+    },
+    {
+      "code_insee": "71156",
+      "nom": "Cruzille",
+      "slug": "cruzille-71156",
+      "taux_vacance": 16.57,
+      "nb_log_vacant": 28
+    },
+    {
+      "code_insee": "71030",
+      "nom": "Bergesserin",
+      "slug": "bergesserin-71030",
+      "taux_vacance": 16.38,
+      "nb_log_vacant": 19
+    },
+    {
+      "code_insee": "71149",
+      "nom": "Couches",
+      "slug": "couches-71149",
+      "taux_vacance": 16.26,
+      "nb_log_vacant": 134
+    },
+    {
+      "code_insee": "71212",
+      "nom": "G�nelard",
+      "slug": "g-nelard-71212",
+      "taux_vacance": 15.9,
+      "nb_log_vacant": 121
+    },
+    {
+      "code_insee": "71320",
+      "nom": "Mont-Saint-Vincent",
+      "slug": "mont-saint-vincent-71320",
+      "taux_vacance": 15.79,
+      "nb_log_vacant": 30
+    },
+    {
+      "code_insee": "71106",
+      "nom": "Charolles",
+      "slug": "charolles-71106",
+      "taux_vacance": 15.74,
+      "nb_log_vacant": 217
+    },
+    {
+      "code_insee": "71133",
+      "nom": "La Clayette",
+      "slug": "la-clayette-71133",
+      "taux_vacance": 15.65,
+      "nb_log_vacant": 157
+    },
+    {
+      "code_insee": "71275",
+      "nom": "Marcigny",
+      "slug": "marcigny-71275",
+      "taux_vacance": 15.53,
+      "nb_log_vacant": 167
+    },
+    {
+      "code_insee": "71123",
+      "nom": "Chenay-le-Ch�tel",
+      "slug": "chenay-le-ch-tel-71123",
+      "taux_vacance": 14.52,
+      "nb_log_vacant": 35
+    },
+    {
+      "code_insee": "71239",
+      "nom": "Issy-l'�v�que",
+      "slug": "issy-l-v-que-71239",
+      "taux_vacance": 14.47,
+      "nb_log_vacant": 69
+    },
+    {
+      "code_insee": "71077",
+      "nom": "Chambilly",
+      "slug": "chambilly-71077",
+      "taux_vacance": 14.43,
+      "nb_log_vacant": 42
+    },
+    {
+      "code_insee": "71543",
+      "nom": "Tournus",
+      "slug": "tournus-71543",
+      "taux_vacance": 14.28,
+      "nb_log_vacant": 471
+    },
+    {
+      "code_insee": "71176",
+      "nom": "Digoin",
+      "slug": "digoin-71176",
+      "taux_vacance": 14.06,
+      "nb_log_vacant": 578
+    },
+    {
+      "code_insee": "71014",
+      "nom": "Autun",
+      "slug": "autun-71014",
+      "taux_vacance": 13.94,
+      "nb_log_vacant": 834
+    },
+    {
+      "code_insee": "71329",
+      "nom": "Navilly",
+      "slug": "navilly-71329",
+      "taux_vacance": 13.92,
+      "nb_log_vacant": 38
+    },
+    {
+      "code_insee": "71158",
+      "nom": "Cuisery",
+      "slug": "cuisery-71158",
+      "taux_vacance": 13.8,
+      "nb_log_vacant": 129
+    }
+  ]
+}

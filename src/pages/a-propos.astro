@@ -1,0 +1,54 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout
+  title="À propos — LogementsVacants.fr"
+  description="Mentions légales, sources des données et informations sur LogementsVacants.fr."
+>
+  <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+    <h1 class="text-3xl font-bold text-gray-900 mb-8">À propos de LogementsVacants.fr</h1>
+
+    <section class="prose prose-gray max-w-none">
+      <h2>Source des données</h2>
+      <p>
+        Les données présentées sur ce site proviennent du fichier <strong>LOVAC</strong> (Logements Vacants),
+        produit par le <a href="https://www.cerema.fr" target="_blank" rel="noopener">Cerema</a> pour le compte
+        du Ministère de la Transition écologique. Ce fichier est publié en open data sur
+        <a href="https://www.data.gouv.fr" target="_blank" rel="noopener">data.gouv.fr</a> sous
+        <a href="https://www.etalab.gouv.fr/licence-ouverte-open-licence/" target="_blank" rel="noopener">Licence Ouverte</a>.
+      </p>
+
+      <h2>Méthodologie</h2>
+      <p>
+        Le fichier LOVAC est construit par croisement des fichiers fonciers (DGFiP) et des fichiers
+        de la taxe d'habitation. Un logement est considéré comme vacant s'il est inoccupé au 1er janvier
+        de l'année de référence. La vacance structurelle correspond aux logements vacants depuis plus de 2 ans.
+      </p>
+      <p>
+        Le <strong>taux de vacance</strong> est calculé comme le ratio entre le nombre de logements vacants
+        et le nombre total de logements du parc privé. Les communes comptant moins de 11 logements dans une
+        catégorie donnée voient leurs données masquées (secret statistique, valeur « s »).
+      </p>
+
+      <h2>Éditeur</h2>
+      <p>
+        LogementsVacants.fr est un site indépendant à vocation informative. Il n'est affilié à aucun
+        organisme gouvernemental.
+      </p>
+
+      <h2>Contact</h2>
+      <p>
+        Pour toute question ou signalement d'erreur, vous pouvez nous contacter à
+        <strong>contact@logementsvacants.fr</strong>.
+      </p>
+
+      <h2>Liens utiles</h2>
+      <ul>
+        <li><a href="https://zerologementvacant.beta.gouv.fr" target="_blank" rel="noopener">Zéro Logement Vacant</a> — programme gouvernemental</li>
+        <li><a href="https://www.data.gouv.fr" target="_blank" rel="noopener">data.gouv.fr</a> — portail des données ouvertes</li>
+        <li><a href="https://www.cerema.fr" target="_blank" rel="noopener">Cerema</a> — producteur des données LOVAC</li>
+      </ul>
+    </section>
+  </div>
+</BaseLayout>

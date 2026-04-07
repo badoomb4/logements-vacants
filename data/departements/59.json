@@ -1,0 +1,155 @@
+{
+  "code": "59",
+  "nom": "Nord",
+  "slug": "nord-59",
+  "code_region": "32",
+  "nom_region": "Hauts-de-France",
+  "nb_communes": 647,
+  "nb_log_prive": 947866,
+  "nb_log_vacant": 64330,
+  "nb_log_vacant_2ans": 32498,
+  "taux_vacance": 6.79,
+  "taux_vacance_2ans": 3.43,
+  "top_communes": [
+    {
+      "code_insee": "59036",
+      "nom": "Avesnes-sur-Helpe",
+      "slug": "avesnes-sur-helpe-59036",
+      "taux_vacance": 20.5,
+      "nb_log_vacant": 401
+    },
+    {
+      "code_insee": "59652",
+      "nom": "Wavrechain-sous-Faulx",
+      "slug": "wavrechain-sous-faulx-59652",
+      "taux_vacance": 14.8,
+      "nb_log_vacant": 33
+    },
+    {
+      "code_insee": "59226",
+      "nom": "Felleries",
+      "slug": "felleries-59226",
+      "taux_vacance": 14.58,
+      "nb_log_vacant": 100
+    },
+    {
+      "code_insee": "59136",
+      "nom": "Le Cateau-Cambr�sis",
+      "slug": "le-cateau-cambr-sis-59136",
+      "taux_vacance": 14.11,
+      "nb_log_vacant": 449
+    },
+    {
+      "code_insee": "59172",
+      "nom": "Denain",
+      "slug": "denain-59172",
+      "taux_vacance": 13.4,
+      "nb_log_vacant": 884
+    },
+    {
+      "code_insee": "59157",
+      "nom": "Cousolre",
+      "slug": "cousolre-59157",
+      "taux_vacance": 12.78,
+      "nb_log_vacant": 146
+    },
+    {
+      "code_insee": "59659",
+      "nom": "Wignehies",
+      "slug": "wignehies-59659",
+      "taux_vacance": 12.74,
+      "nb_log_vacant": 161
+    },
+    {
+      "code_insee": "59532",
+      "nom": "Saint-Georges-sur-l'Aa",
+      "slug": "saint-georges-sur-l-aa-59532",
+      "taux_vacance": 12.5,
+      "nb_log_vacant": 14
+    },
+    {
+      "code_insee": "59624",
+      "nom": "Villers-Outr�aux",
+      "slug": "villers-outr-aux-59624",
+      "taux_vacance": 12.42,
+      "nb_log_vacant": 119
+    },
+    {
+      "code_insee": "59606",
+      "nom": "Valenciennes",
+      "slug": "valenciennes-59606",
+      "taux_vacance": 12.35,
+      "nb_log_vacant": 2662
+    },
+    {
+      "code_insee": "59365",
+      "nom": "Louvroil",
+      "slug": "louvroil-59365",
+      "taux_vacance": 11.89,
+      "nb_log_vacant": 238
+    },
+    {
+      "code_insee": "59153",
+      "nom": "Cond�-sur-l'Escaut",
+      "slug": "cond-sur-l-escaut-59153",
+      "taux_vacance": 11.88,
+      "nb_log_vacant": 316
+    },
+    {
+      "code_insee": "59474",
+      "nom": "Prisches",
+      "slug": "prisches-59474",
+      "taux_vacance": 11.71,
+      "nb_log_vacant": 54
+    },
+    {
+      "code_insee": "59178",
+      "nom": "Douai",
+      "slug": "douai-59178",
+      "taux_vacance": 11.47,
+      "nb_log_vacant": 1751
+    },
+    {
+      "code_insee": "59395",
+      "nom": "Mazinghien",
+      "slug": "mazinghien-59395",
+      "taux_vacance": 11.43,
+      "nb_log_vacant": 16
+    },
+    {
+      "code_insee": "59122",
+      "nom": "Cambrai",
+      "slug": "cambrai-59122",
+      "taux_vacance": 11.39,
+      "nb_log_vacant": 1751
+    },
+    {
+      "code_insee": "59555",
+      "nom": "Sars-Poteries",
+      "slug": "sars-poteries-59555",
+      "taux_vacance": 11.36,
+      "nb_log_vacant": 77
+    },
+    {
+      "code_insee": "59076",
+      "nom": "Bettignies",
+      "slug": "bettignies-59076",
+      "taux_vacance": 11.32,
+      "nb_log_vacant": 12
+    },
+    {
+      "code_insee": "59014",
+      "nom": "Anzin",
+      "slug": "anzin-59014",
+      "taux_vacance": 11.23,
+      "nb_log_vacant": 540
+    },
+    {
+      "code_insee": "59512",
+      "nom": "Roubaix",
+      "slug": "roubaix-59512",
+      "taux_vacance": 11.22,
+      "nb_log_vacant": 3342
+    }
+  ]
+}

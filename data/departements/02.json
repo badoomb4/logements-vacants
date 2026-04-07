@@ -1,0 +1,155 @@
+{
+  "code": "02",
+  "nom": "Aisne",
+  "slug": "aisne-02",
+  "code_region": "32",
+  "nom_region": "Hauts-de-France",
+  "nb_communes": 797,
+  "nb_log_prive": 149301,
+  "nb_log_vacant": 14362,
+  "nb_log_vacant_2ans": 7188,
+  "taux_vacance": 9.62,
+  "taux_vacance_2ans": 4.81,
+  "top_communes": [
+    {
+      "code_insee": "02304",
+      "nom": "La F�re",
+      "slug": "la-f-re-02304",
+      "taux_vacance": 22.55,
+      "nb_log_vacant": 248
+    },
+    {
+      "code_insee": "02361",
+      "nom": "Guise",
+      "slug": "guise-02361",
+      "taux_vacance": 20.16,
+      "nb_log_vacant": 478
+    },
+    {
+      "code_insee": "02284",
+      "nom": "Erloy",
+      "slug": "erloy-02284",
+      "taux_vacance": 17.72,
+      "nb_log_vacant": 14
+    },
+    {
+      "code_insee": "02789",
+      "nom": "Vervins",
+      "slug": "vervins-02789",
+      "taux_vacance": 16.13,
+      "nb_log_vacant": 159
+    },
+    {
+      "code_insee": "02553",
+      "nom": "Nizy-le-Comte",
+      "slug": "nizy-le-comte-02553",
+      "taux_vacance": 15.97,
+      "nb_log_vacant": 19
+    },
+    {
+      "code_insee": "02274",
+      "nom": "�bouleau",
+      "slug": "bouleau-02274",
+      "taux_vacance": 15.73,
+      "nb_log_vacant": 14
+    },
+    {
+      "code_insee": "02264",
+      "nom": "Dizy-le-Gros",
+      "slug": "dizy-le-gros-02264",
+      "taux_vacance": 15.65,
+      "nb_log_vacant": 59
+    },
+    {
+      "code_insee": "02510",
+      "nom": "Monthurel",
+      "slug": "monthurel-02510",
+      "taux_vacance": 14.46,
+      "nb_log_vacant": 12
+    },
+    {
+      "code_insee": "02666",
+      "nom": "Rozoy-sur-Serre",
+      "slug": "rozoy-sur-serre-02666",
+      "taux_vacance": 14.29,
+      "nb_log_vacant": 64
+    },
+    {
+      "code_insee": "02381",
+      "nom": "Hirson",
+      "slug": "hirson-02381",
+      "taux_vacance": 14.25,
+      "nb_log_vacant": 551
+    },
+    {
+      "code_insee": "02095",
+      "nom": "Bohain-en-Vermandois",
+      "slug": "bohain-en-vermandois-02095",
+      "taux_vacance": 13.83,
+      "nb_log_vacant": 364
+    },
+    {
+      "code_insee": "02209",
+      "nom": "Cond�-en-Brie",
+      "slug": "cond-en-brie-02209",
+      "taux_vacance": 13.75,
+      "nb_log_vacant": 48
+    },
+    {
+      "code_insee": "02502",
+      "nom": "Montcornet",
+      "slug": "montcornet-02502",
+      "taux_vacance": 13.54,
+      "nb_log_vacant": 78
+    },
+    {
+      "code_insee": "02468",
+      "nom": "Marle",
+      "slug": "marle-02468",
+      "taux_vacance": 13.07,
+      "nb_log_vacant": 124
+    },
+    {
+      "code_insee": "02031",
+      "nom": "Aubenton",
+      "slug": "aubenton-02031",
+      "taux_vacance": 13,
+      "nb_log_vacant": 49
+    },
+    {
+      "code_insee": "02470",
+      "nom": "Martigny",
+      "slug": "martigny-02470",
+      "taux_vacance": 12.87,
+      "nb_log_vacant": 26
+    },
+    {
+      "code_insee": "02119",
+      "nom": "Br�cy",
+      "slug": "br-cy-02119",
+      "taux_vacance": 12.28,
+      "nb_log_vacant": 21
+    },
+    {
+      "code_insee": "02101",
+      "nom": "Bosmont-sur-Serre",
+      "slug": "bosmont-sur-serre-02101",
+      "taux_vacance": 12.22,
+      "nb_log_vacant": 11
+    },
+    {
+      "code_insee": "02414",
+      "nom": "Lavaqueresse",
+      "slug": "lavaqueresse-02414",
+      "taux_vacance": 12.17,
+      "nb_log_vacant": 14
+    },
+    {
+      "code_insee": "02691",
+      "nom": "Saint-Quentin",
+      "slug": "saint-quentin-02691",
+      "taux_vacance": 12.16,
+      "nb_log_vacant": 2835
+    }
+  ]
+}

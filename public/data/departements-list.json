@@ -1,0 +1,911 @@
+[
+  {
+    "code": "01",
+    "nom": "Ain",
+    "slug": "ain-01",
+    "code_region": "84",
+    "nom_region": "Auvergne-Rh�ne-Alpes",
+    "taux_vacance": 6.78,
+    "nb_log_vacant": 18292
+  },
+  {
+    "code": "02",
+    "nom": "Aisne",
+    "slug": "aisne-02",
+    "code_region": "32",
+    "nom_region": "Hauts-de-France",
+    "taux_vacance": 9.62,
+    "nb_log_vacant": 14362
+  },
+  {
+    "code": "03",
+    "nom": "Allier",
+    "slug": "allier-03",
+    "code_region": "84",
+    "nom_region": "Auvergne-Rh�ne-Alpes",
+    "taux_vacance": 12.75,
+    "nb_log_vacant": 21339
+  },
+  {
+    "code": "04",
+    "nom": "Alpes-de-Haute-Provence",
+    "slug": "alpes-de-haute-provence-04",
+    "code_region": "93",
+    "nom_region": "Provence-Alpes-C�te d'Azur",
+    "taux_vacance": 9.4,
+    "nb_log_vacant": 10028
+  },
+  {
+    "code": "05",
+    "nom": "Hautes-Alpes",
+    "slug": "hautes-alpes-05",
+    "code_region": "93",
+    "nom_region": "Provence-Alpes-C�te d'Azur",
+    "taux_vacance": 6.57,
+    "nb_log_vacant": 7487
+  },
+  {
+    "code": "06",
+    "nom": "Alpes-Maritimes",
+    "slug": "alpes-maritimes-06",
+    "code_region": "93",
+    "nom_region": "Provence-Alpes-C�te d'Azur",
+    "taux_vacance": 6.41,
+    "nb_log_vacant": 48728
+  },
+  {
+    "code": "07",
+    "nom": "Ard�che",
+    "slug": "ard-che-07",
+    "code_region": "84",
+    "nom_region": "Auvergne-Rh�ne-Alpes",
+    "taux_vacance": 10.17,
+    "nb_log_vacant": 17435
+  },
+  {
+    "code": "08",
+    "nom": "Ardennes",
+    "slug": "ardennes-08",
+    "code_region": "44",
+    "nom_region": "Grand Est",
+    "taux_vacance": 11.48,
+    "nb_log_vacant": 10004
+  },
+  {
+    "code": "09",
+    "nom": "Ari�ge",
+    "slug": "ari-ge-09",
+    "code_region": "76",
+    "nom_region": "Occitanie",
+    "taux_vacance": 9.6,
+    "nb_log_vacant": 6985
+  },
+  {
+    "code": "10",
+    "nom": "Aube",
+    "slug": "aube-10",
+    "code_region": "44",
+    "nom_region": "Grand Est",
+    "taux_vacance": 10.69,
+    "nb_log_vacant": 10952
+  },
+  {
+    "code": "11",
+    "nom": "Aude",
+    "slug": "aude-11",
+    "code_region": "76",
+    "nom_region": "Occitanie",
+    "taux_vacance": 8.49,
+    "nb_log_vacant": 17924
+  },
+  {
+    "code": "12",
+    "nom": "Aveyron",
+    "slug": "aveyron-12",
+    "code_region": "76",
+    "nom_region": "Occitanie",
+    "taux_vacance": 11.54,
+    "nb_log_vacant": 17312
+  },
+  {
+    "code": "13",
+    "nom": "Bouches-du-Rh�ne",
+    "slug": "bouches-du-rh-ne-13",
+    "code_region": "93",
+    "nom_region": "Provence-Alpes-C�te d'Azur",
+    "taux_vacance": 6.93,
+    "nb_log_vacant": 65370
+  },
+  {
+    "code": "14",
+    "nom": "Calvados",
+    "slug": "calvados-14",
+    "code_region": "28",
+    "nom_region": "Normandie",
+    "taux_vacance": 5.87,
+    "nb_log_vacant": 18211
+  },
+  {
+    "code": "15",
+    "nom": "Cantal",
+    "slug": "cantal-15",
+    "code_region": "84",
+    "nom_region": "Auvergne-Rh�ne-Alpes",
+    "taux_vacance": 11.31,
+    "nb_log_vacant": 8533
+  },
+  {
+    "code": "16",
+    "nom": "Charente",
+    "slug": "charente-16",
+    "code_region": "75",
+    "nom_region": "Nouvelle-Aquitaine",
+    "taux_vacance": 9.12,
+    "nb_log_vacant": 12277
+  },
+  {
+    "code": "17",
+    "nom": "Charente-Maritime",
+    "slug": "charente-maritime-17",
+    "code_region": "75",
+    "nom_region": "Nouvelle-Aquitaine",
+    "taux_vacance": 5.9,
+    "nb_log_vacant": 20609
+  },
+  {
+    "code": "18",
+    "nom": "Cher",
+    "slug": "cher-18",
+    "code_region": "24",
+    "nom_region": "Centre-Val de Loire",
+    "taux_vacance": 11.33,
+    "nb_log_vacant": 14908
+  },
+  {
+    "code": "19",
+    "nom": "Corr�ze",
+    "slug": "corr-ze-19",
+    "code_region": "75",
+    "nom_region": "Nouvelle-Aquitaine",
+    "taux_vacance": 11.21,
+    "nb_log_vacant": 13549
+  },
+  {
+    "code": "21",
+    "nom": "C�te-d'Or",
+    "slug": "c-te-d-or-21",
+    "code_region": "27",
+    "nom_region": "Bourgogne-Franche-Comt�",
+    "taux_vacance": 7.77,
+    "nb_log_vacant": 15274
+  },
+  {
+    "code": "22",
+    "nom": "C�tes-d'Armor",
+    "slug": "c-tes-d-armor-22",
+    "code_region": "53",
+    "nom_region": "Bretagne",
+    "taux_vacance": 6.95,
+    "nb_log_vacant": 23788
+  },
+  {
+    "code": "23",
+    "nom": "Creuse",
+    "slug": "creuse-23",
+    "code_region": "75",
+    "nom_region": "Nouvelle-Aquitaine",
+    "taux_vacance": 15.25,
+    "nb_log_vacant": 9031
+  },
+  {
+    "code": "24",
+    "nom": "Dordogne",
+    "slug": "dordogne-24",
+    "code_region": "75",
+    "nom_region": "Nouvelle-Aquitaine",
+    "taux_vacance": 9.53,
+    "nb_log_vacant": 17483
+  },
+  {
+    "code": "25",
+    "nom": "Doubs",
+    "slug": "doubs-25",
+    "code_region": "27",
+    "nom_region": "Bourgogne-Franche-Comt�",
+    "taux_vacance": 7.62,
+    "nb_log_vacant": 15138
+  },
+  {
+    "code": "26",
+    "nom": "Dr�me",
+    "slug": "dr-me-26",
+    "code_region": "84",
+    "nom_region": "Auvergne-Rh�ne-Alpes",
+    "taux_vacance": 7.24,
+    "nb_log_vacant": 17205
+  },
+  {
+    "code": "27",
+    "nom": "Eure",
+    "slug": "eure-27",
+    "code_region": "28",
+    "nom_region": "Normandie",
+    "taux_vacance": 7.07,
+    "nb_log_vacant": 12652
+  },
+  {
+    "code": "28",
+    "nom": "Eure-et-Loir",
+    "slug": "eure-et-loir-28",
+    "code_region": "24",
+    "nom_region": "Centre-Val de Loire",
+    "taux_vacance": 7.64,
+    "nb_log_vacant": 10944
+  },
+  {
+    "code": "29",
+    "nom": "Finist�re",
+    "slug": "finist-re-29",
+    "code_region": "53",
+    "nom_region": "Bretagne",
+    "taux_vacance": 6.74,
+    "nb_log_vacant": 34807
+  },
+  {
+    "code": "2A",
+    "nom": "Corse-du-Sud",
+    "slug": "corse-du-sud-2A",
+    "code_region": "94",
+    "nom_region": "Corse",
+    "taux_vacance": 8.56,
+    "nb_log_vacant": 7820
+  },
+  {
+    "code": "2B",
+    "nom": "Haute-Corse",
+    "slug": "haute-corse-2B",
+    "code_region": "94",
+    "nom_region": "Corse",
+    "taux_vacance": 8.91,
+    "nb_log_vacant": 8021
+  },
+  {
+    "code": "30",
+    "nom": "Gard",
+    "slug": "gard-30",
+    "code_region": "76",
+    "nom_region": "Occitanie",
+    "taux_vacance": 7.68,
+    "nb_log_vacant": 27368
+  },
+  {
+    "code": "31",
+    "nom": "Haute-Garonne",
+    "slug": "haute-garonne-31",
+    "code_region": "76",
+    "nom_region": "Occitanie",
+    "taux_vacance": 5.89,
+    "nb_log_vacant": 37827
+  },
+  {
+    "code": "32",
+    "nom": "Gers",
+    "slug": "gers-32",
+    "code_region": "76",
+    "nom_region": "Occitanie",
+    "taux_vacance": 10.22,
+    "nb_log_vacant": 7037
+  },
+  {
+    "code": "33",
+    "nom": "Gironde",
+    "slug": "gironde-33",
+    "code_region": "75",
+    "nom_region": "Nouvelle-Aquitaine",
+    "taux_vacance": 5.8,
+    "nb_log_vacant": 43918
+  },
+  {
+    "code": "34",
+    "nom": "H�rault",
+    "slug": "h-rault-34",
+    "code_region": "76",
+    "nom_region": "Occitanie",
+    "taux_vacance": 6.4,
+    "nb_log_vacant": 43214
+  },
+  {
+    "code": "35",
+    "nom": "Ille-et-Vilaine",
+    "slug": "ille-et-vilaine-35",
+    "code_region": "53",
+    "nom_region": "Bretagne",
+    "taux_vacance": 5.36,
+    "nb_log_vacant": 27512
+  },
+  {
+    "code": "36",
+    "nom": "Indre",
+    "slug": "indre-36",
+    "code_region": "24",
+    "nom_region": "Centre-Val de Loire",
+    "taux_vacance": 11.86,
+    "nb_log_vacant": 12775
+  },
+  {
+    "code": "37",
+    "nom": "Indre-et-Loire",
+    "slug": "indre-et-loire-37",
+    "code_region": "24",
+    "nom_region": "Centre-Val de Loire",
+    "taux_vacance": 6.58,
+    "nb_log_vacant": 17942
+  },
+  {
+    "code": "38",
+    "nom": "Is�re",
+    "slug": "is-re-38",
+    "code_region": "84",
+    "nom_region": "Auvergne-Rh�ne-Alpes",
+    "taux_vacance": 6.14,
+    "nb_log_vacant": 34335
+  },
+  {
+    "code": "39",
+    "nom": "Jura",
+    "slug": "jura-39",
+    "code_region": "27",
+    "nom_region": "Bourgogne-Franche-Comt�",
+    "taux_vacance": 10.4,
+    "nb_log_vacant": 10120
+  },
+  {
+    "code": "40",
+    "nom": "Landes",
+    "slug": "landes-40",
+    "code_region": "75",
+    "nom_region": "Nouvelle-Aquitaine",
+    "taux_vacance": 6.32,
+    "nb_log_vacant": 13864
+  },
+  {
+    "code": "41",
+    "nom": "Loir-et-Cher",
+    "slug": "loir-et-cher-41",
+    "code_region": "24",
+    "nom_region": "Centre-Val de Loire",
+    "taux_vacance": 8.3,
+    "nb_log_vacant": 12126
+  },
+  {
+    "code": "42",
+    "nom": "Loire",
+    "slug": "loire-42",
+    "code_region": "84",
+    "nom_region": "Auvergne-Rh�ne-Alpes",
+    "taux_vacance": 9.21,
+    "nb_log_vacant": 30527
+  },
+  {
+    "code": "43",
+    "nom": "Haute-Loire",
+    "slug": "haute-loire-43",
+    "code_region": "84",
+    "nom_region": "Auvergne-Rh�ne-Alpes",
+    "taux_vacance": 11.38,
+    "nb_log_vacant": 13268
+  },
+  {
+    "code": "44",
+    "nom": "Loire-Atlantique",
+    "slug": "loire-atlantique-44",
+    "code_region": "52",
+    "nom_region": "Pays de la Loire",
+    "taux_vacance": 4.64,
+    "nb_log_vacant": 32832
+  },
+  {
+    "code": "45",
+    "nom": "Loiret",
+    "slug": "loiret-45",
+    "code_region": "24",
+    "nom_region": "Centre-Val de Loire",
+    "taux_vacance": 7.17,
+    "nb_log_vacant": 20443
+  },
+  {
+    "code": "46",
+    "nom": "Lot",
+    "slug": "lot-46",
+    "code_region": "76",
+    "nom_region": "Occitanie",
+    "taux_vacance": 10.41,
+    "nb_log_vacant": 7763
+  },
+  {
+    "code": "47",
+    "nom": "Lot-et-Garonne",
+    "slug": "lot-et-garonne-47",
+    "code_region": "75",
+    "nom_region": "Nouvelle-Aquitaine",
+    "taux_vacance": 10.75,
+    "nb_log_vacant": 14599
+  },
+  {
+    "code": "48",
+    "nom": "Loz�re",
+    "slug": "loz-re-48",
+    "code_region": "76",
+    "nom_region": "Occitanie",
+    "taux_vacance": 11.29,
+    "nb_log_vacant": 5268
+  },
+  {
+    "code": "49",
+    "nom": "Maine-et-Loire",
+    "slug": "maine-et-loire-49",
+    "code_region": "52",
+    "nom_region": "Pays de la Loire",
+    "taux_vacance": 5.38,
+    "nb_log_vacant": 18674
+  },
+  {
+    "code": "50",
+    "nom": "Manche",
+    "slug": "manche-50",
+    "code_region": "28",
+    "nom_region": "Normandie",
+    "taux_vacance": 7.21,
+    "nb_log_vacant": 15389
+  },
+  {
+    "code": "51",
+    "nom": "Marne",
+    "slug": "marne-51",
+    "code_region": "44",
+    "nom_region": "Grand Est",
+    "taux_vacance": 9.03,
+    "nb_log_vacant": 16051
+  },
+  {
+    "code": "52",
+    "nom": "Haute-Marne",
+    "slug": "haute-marne-52",
+    "code_region": "44",
+    "nom_region": "Grand Est",
+    "taux_vacance": 11.69,
+    "nb_log_vacant": 6937
+  },
+  {
+    "code": "53",
+    "nom": "Mayenne",
+    "slug": "mayenne-53",
+    "code_region": "52",
+    "nom_region": "Pays de la Loire",
+    "taux_vacance": 7.67,
+    "nb_log_vacant": 9851
+  },
+  {
+    "code": "54",
+    "nom": "Meurthe-et-Moselle",
+    "slug": "meurthe-et-moselle-54",
+    "code_region": "44",
+    "nom_region": "Grand Est",
+    "taux_vacance": 8.06,
+    "nb_log_vacant": 22076
+  },
+  {
+    "code": "55",
+    "nom": "Meuse",
+    "slug": "meuse-55",
+    "code_region": "44",
+    "nom_region": "Grand Est",
+    "taux_vacance": 11.79,
+    "nb_log_vacant": 6699
+  },
+  {
+    "code": "56",
+    "nom": "Morbihan",
+    "slug": "morbihan-56",
+    "code_region": "53",
+    "nom_region": "Bretagne",
+    "taux_vacance": 5.98,
+    "nb_log_vacant": 26611
+  },
+  {
+    "code": "57",
+    "nom": "Moselle",
+    "slug": "moselle-57",
+    "code_region": "44",
+    "nom_region": "Grand Est",
+    "taux_vacance": 7.67,
+    "nb_log_vacant": 28230
+  },
+  {
+    "code": "58",
+    "nom": "Ni�vre",
+    "slug": "ni-vre-58",
+    "code_region": "27",
+    "nom_region": "Bourgogne-Franche-Comt�",
+    "taux_vacance": 13.38,
+    "nb_log_vacant": 11769
+  },
+  {
+    "code": "59",
+    "nom": "Nord",
+    "slug": "nord-59",
+    "code_region": "32",
+    "nom_region": "Hauts-de-France",
+    "taux_vacance": 6.79,
+    "nb_log_vacant": 64330
+  },
+  {
+    "code": "60",
+    "nom": "Oise",
+    "slug": "oise-60",
+    "code_region": "32",
+    "nom_region": "Hauts-de-France",
+    "taux_vacance": 6.56,
+    "nb_log_vacant": 15473
+  },
+  {
+    "code": "61",
+    "nom": "Orne",
+    "slug": "orne-61",
+    "code_region": "28",
+    "nom_region": "Normandie",
+    "taux_vacance": 10.33,
+    "nb_log_vacant": 11745
+  },
+  {
+    "code": "62",
+    "nom": "Pas-de-Calais",
+    "slug": "pas-de-calais-62",
+    "code_region": "32",
+    "nom_region": "Hauts-de-France",
+    "taux_vacance": 6.41,
+    "nb_log_vacant": 31438
+  },
+  {
+    "code": "63",
+    "nom": "Puy-de-D�me",
+    "slug": "puy-de-d-me-63",
+    "code_region": "84",
+    "nom_region": "Auvergne-Rh�ne-Alpes",
+    "taux_vacance": 9.72,
+    "nb_log_vacant": 29862
+  },
+  {
+    "code": "64",
+    "nom": "Pyr�n�es-Atlantiques",
+    "slug": "pyr-n-es-atlantiques-64",
+    "code_region": "75",
+    "nom_region": "Nouvelle-Aquitaine",
+    "taux_vacance": 6.54,
+    "nb_log_vacant": 21639
+  },
+  {
+    "code": "65",
+    "nom": "Hautes-Pyr�n�es",
+    "slug": "hautes-pyr-n-es-65",
+    "code_region": "76",
+    "nom_region": "Occitanie",
+    "taux_vacance": 10.14,
+    "nb_log_vacant": 10927
+  },
+  {
+    "code": "66",
+    "nom": "Pyr�n�es-Orientales",
+    "slug": "pyr-n-es-orientales-66",
+    "code_region": "76",
+    "nom_region": "Occitanie",
+    "taux_vacance": 7.48,
+    "nb_log_vacant": 24181
+  },
+  {
+    "code": "67",
+    "nom": "Bas-Rhin",
+    "slug": "bas-rhin-67",
+    "code_region": "44",
+    "nom_region": "Grand Est",
+    "taux_vacance": 6.04,
+    "nb_log_vacant": 26675
+  },
+  {
+    "code": "68",
+    "nom": "Haut-Rhin",
+    "slug": "haut-rhin-68",
+    "code_region": "44",
+    "nom_region": "Grand Est",
+    "taux_vacance": 7.96,
+    "nb_log_vacant": 22947
+  },
+  {
+    "code": "69",
+    "nom": "Rh�ne",
+    "slug": "rh-ne-69",
+    "code_region": "84",
+    "nom_region": "Auvergne-Rh�ne-Alpes",
+    "taux_vacance": 5.58,
+    "nb_log_vacant": 44713
+  },
+  {
+    "code": "70",
+    "nom": "Haute-Sa�ne",
+    "slug": "haute-sa-ne-70",
+    "code_region": "27",
+    "nom_region": "Bourgogne-Franche-Comt�",
+    "taux_vacance": 11.15,
+    "nb_log_vacant": 7955
+  },
+  {
+    "code": "71",
+    "nom": "Sa�ne-et-Loire",
+    "slug": "sa-ne-et-loire-71",
+    "code_region": "27",
+    "nom_region": "Bourgogne-Franche-Comt�",
+    "taux_vacance": 9.64,
+    "nb_log_vacant": 21356
+  },
+  {
+    "code": "72",
+    "nom": "Sarthe",
+    "slug": "sarthe-72",
+    "code_region": "52",
+    "nom_region": "Pays de la Loire",
+    "taux_vacance": 6.81,
+    "nb_log_vacant": 15269
+  },
+  {
+    "code": "73",
+    "nom": "Savoie",
+    "slug": "savoie-73",
+    "code_region": "84",
+    "nom_region": "Auvergne-Rh�ne-Alpes",
+    "taux_vacance": 6.39,
+    "nb_log_vacant": 19446
+  },
+  {
+    "code": "74",
+    "nom": "Haute-Savoie",
+    "slug": "haute-savoie-74",
+    "code_region": "84",
+    "nom_region": "Auvergne-Rh�ne-Alpes",
+    "taux_vacance": 5.85,
+    "nb_log_vacant": 28884
+  },
+  {
+    "code": "75",
+    "nom": "Paris",
+    "slug": "paris-75",
+    "code_region": "11",
+    "nom_region": "�le-de-France",
+    "taux_vacance": 6.73,
+    "nb_log_vacant": 75774
+  },
+  {
+    "code": "76",
+    "nom": "Seine-Maritime",
+    "slug": "seine-maritime-76",
+    "code_region": "28",
+    "nom_region": "Normandie",
+    "taux_vacance": 7.13,
+    "nb_log_vacant": 30854
+  },
+  {
+    "code": "77",
+    "nom": "Seine-et-Marne",
+    "slug": "seine-et-marne-77",
+    "code_region": "11",
+    "nom_region": "�le-de-France",
+    "taux_vacance": 5.43,
+    "nb_log_vacant": 25623
+  },
+  {
+    "code": "78",
+    "nom": "Yvelines",
+    "slug": "yvelines-78",
+    "code_region": "11",
+    "nom_region": "�le-de-France",
+    "taux_vacance": 4.89,
+    "nb_log_vacant": 24494
+  },
+  {
+    "code": "79",
+    "nom": "Deux-S�vres",
+    "slug": "deux-s-vres-79",
+    "code_region": "75",
+    "nom_region": "Nouvelle-Aquitaine",
+    "taux_vacance": 7.4,
+    "nb_log_vacant": 11623
+  },
+  {
+    "code": "80",
+    "nom": "Somme",
+    "slug": "somme-80",
+    "code_region": "32",
+    "nom_region": "Hauts-de-France",
+    "taux_vacance": 7.87,
+    "nb_log_vacant": 14221
+  },
+  {
+    "code": "81",
+    "nom": "Tarn",
+    "slug": "tarn-81",
+    "code_region": "76",
+    "nom_region": "Occitanie",
+    "taux_vacance": 8.62,
+    "nb_log_vacant": 14054
+  },
+  {
+    "code": "82",
+    "nom": "Tarn-et-Garonne",
+    "slug": "tarn-et-garonne-82",
+    "code_region": "76",
+    "nom_region": "Occitanie",
+    "taux_vacance": 7.81,
+    "nb_log_vacant": 8609
+  },
+  {
+    "code": "83",
+    "nom": "Var",
+    "slug": "var-83",
+    "code_region": "93",
+    "nom_region": "Provence-Alpes-C�te d'Azur",
+    "taux_vacance": 6.04,
+    "nb_log_vacant": 42510
+  },
+  {
+    "code": "84",
+    "nom": "Vaucluse",
+    "slug": "vaucluse-84",
+    "code_region": "93",
+    "nom_region": "Provence-Alpes-C�te d'Azur",
+    "taux_vacance": 8.36,
+    "nb_log_vacant": 22841
+  },
+  {
+    "code": "85",
+    "nom": "Vend�e",
+    "slug": "vend-e-85",
+    "code_region": "52",
+    "nom_region": "Pays de la Loire",
+    "taux_vacance": 4.28,
+    "nb_log_vacant": 18148
+  },
+  {
+    "code": "86",
+    "nom": "Vienne",
+    "slug": "vienne-86",
+    "code_region": "75",
+    "nom_region": "Nouvelle-Aquitaine",
+    "taux_vacance": 8.34,
+    "nb_log_vacant": 16807
+  },
+  {
+    "code": "87",
+    "nom": "Haute-Vienne",
+    "slug": "haute-vienne-87",
+    "code_region": "75",
+    "nom_region": "Nouvelle-Aquitaine",
+    "taux_vacance": 10.07,
+    "nb_log_vacant": 17379
+  },
+  {
+    "code": "88",
+    "nom": "Vosges",
+    "slug": "vosges-88",
+    "code_region": "44",
+    "nom_region": "Grand Est",
+    "taux_vacance": 10.23,
+    "nb_log_vacant": 15358
+  },
+  {
+    "code": "89",
+    "nom": "Yonne",
+    "slug": "yonne-89",
+    "code_region": "27",
+    "nom_region": "Bourgogne-Franche-Comt�",
+    "taux_vacance": 10.57,
+    "nb_log_vacant": 13634
+  },
+  {
+    "code": "90",
+    "nom": "Territoire de Belfort",
+    "slug": "territoire-de-belfort-90",
+    "code_region": "27",
+    "nom_region": "Bourgogne-Franche-Comt�",
+    "taux_vacance": 9.65,
+    "nb_log_vacant": 4826
+  },
+  {
+    "code": "91",
+    "nom": "Essonne",
+    "slug": "essonne-91",
+    "code_region": "11",
+    "nom_region": "�le-de-France",
+    "taux_vacance": 4.9,
+    "nb_log_vacant": 22142
+  },
+  {
+    "code": "92",
+    "nom": "Hauts-de-Seine",
+    "slug": "hauts-de-seine-92",
+    "code_region": "11",
+    "nom_region": "�le-de-France",
+    "taux_vacance": 5.61,
+    "nb_log_vacant": 35976
+  },
+  {
+    "code": "93",
+    "nom": "Seine-Saint-Denis",
+    "slug": "seine-saint-denis-93",
+    "code_region": "11",
+    "nom_region": "�le-de-France",
+    "taux_vacance": 7.07,
+    "nb_log_vacant": 34920
+  },
+  {
+    "code": "94",
+    "nom": "Val-de-Marne",
+    "slug": "val-de-marne-94",
+    "code_region": "11",
+    "nom_region": "�le-de-France",
+    "taux_vacance": 5.71,
+    "nb_log_vacant": 29080
+  },
+  {
+    "code": "95",
+    "nom": "Val-d'Oise",
+    "slug": "val-d-oise-95",
+    "code_region": "11",
+    "nom_region": "�le-de-France",
+    "taux_vacance": 4.95,
+    "nb_log_vacant": 19816
+  },
+  {
+    "code": "971",
+    "nom": "Guadeloupe",
+    "slug": "guadeloupe-971",
+    "code_region": "01",
+    "nom_region": "Guadeloupe",
+    "taux_vacance": 9.34,
+    "nb_log_vacant": 19840
+  },
+  {
+    "code": "972",
+    "nom": "Martinique",
+    "slug": "martinique-972",
+    "code_region": "02",
+    "nom_region": "Martinique",
+    "taux_vacance": 11.6,
+    "nb_log_vacant": 22966
+  },
+  {
+    "code": "973",
+    "nom": "Guyane",
+    "slug": "guyane-973",
+    "code_region": "03",
+    "nom_region": "Guyane",
+    "taux_vacance": 14.57,
+    "nb_log_vacant": 10363
+  },
+  {
+    "code": "974",
+    "nom": "La R�union",
+    "slug": "la-r-union-974",
+    "code_region": "04",
+    "nom_region": "La R�union",
+    "taux_vacance": 6.3,
+    "nb_log_vacant": 20255
+  },
+  {
+    "code": "976",
+    "nom": "Mayotte",
+    "slug": "mayotte-976",
+    "code_region": "06",
+    "nom_region": "Mayotte",
+    "taux_vacance": 11.01,
+    "nb_log_vacant": 3341
+  }
+]

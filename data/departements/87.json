@@ -1,0 +1,155 @@
+{
+  "code": "87",
+  "nom": "Haute-Vienne",
+  "slug": "haute-vienne-87",
+  "code_region": "75",
+  "nom_region": "Nouvelle-Aquitaine",
+  "nb_communes": 195,
+  "nb_log_prive": 172573,
+  "nb_log_vacant": 17379,
+  "nb_log_vacant_2ans": 10077,
+  "taux_vacance": 10.07,
+  "taux_vacance_2ans": 5.84,
+  "top_communes": [
+    {
+      "code_insee": "87149",
+      "nom": "Saint-Hilaire-la-Treille",
+      "slug": "saint-hilaire-la-treille-87149",
+      "taux_vacance": 22.26,
+      "nb_log_vacant": 67
+    },
+    {
+      "code_insee": "87083",
+      "nom": "Lauri�re",
+      "slug": "lauri-re-87083",
+      "taux_vacance": 20,
+      "nb_log_vacant": 83
+    },
+    {
+      "code_insee": "87087",
+      "nom": "Lussac-les-�glises",
+      "slug": "lussac-les-glises-87087",
+      "taux_vacance": 19.09,
+      "nb_log_vacant": 92
+    },
+    {
+      "code_insee": "87180",
+      "nom": "Saint-Sornin-Leulac",
+      "slug": "saint-sornin-leulac-87180",
+      "taux_vacance": 18.29,
+      "nb_log_vacant": 79
+    },
+    {
+      "code_insee": "87018",
+      "nom": "Blond",
+      "slug": "blond-87018",
+      "taux_vacance": 18,
+      "nb_log_vacant": 99
+    },
+    {
+      "code_insee": "87190",
+      "nom": "Sauviat-sur-Vige",
+      "slug": "sauviat-sur-vige-87190",
+      "taux_vacance": 17.74,
+      "nb_log_vacant": 102
+    },
+    {
+      "code_insee": "87199",
+      "nom": "Vayres",
+      "slug": "vayres-87199",
+      "taux_vacance": 17.49,
+      "nb_log_vacant": 110
+    },
+    {
+      "code_insee": "87059",
+      "nom": "Le Dorat",
+      "slug": "le-dorat-87059",
+      "taux_vacance": 17.43,
+      "nb_log_vacant": 193
+    },
+    {
+      "code_insee": "87064",
+      "nom": "Eymoutiers",
+      "slug": "eymoutiers-87064",
+      "taux_vacance": 17.37,
+      "nb_log_vacant": 259
+    },
+    {
+      "code_insee": "87189",
+      "nom": "Les Salles-Lavauguyon",
+      "slug": "les-salles-lavauguyon-87189",
+      "taux_vacance": 17.34,
+      "nb_log_vacant": 30
+    },
+    {
+      "code_insee": "87060",
+      "nom": "Dournazac",
+      "slug": "dournazac-87060",
+      "taux_vacance": 17.21,
+      "nb_log_vacant": 111
+    },
+    {
+      "code_insee": "87032",
+      "nom": "Ch�lus",
+      "slug": "ch-lus-87032",
+      "taux_vacance": 17.1,
+      "nb_log_vacant": 205
+    },
+    {
+      "code_insee": "87104",
+      "nom": "Nedde",
+      "slug": "nedde-87104",
+      "taux_vacance": 16.97,
+      "nb_log_vacant": 74
+    },
+    {
+      "code_insee": "87028",
+      "nom": "Val-d'Oire-et-Gartempe",
+      "slug": "val-d-oire-et-gartempe-87028",
+      "taux_vacance": 16.61,
+      "nb_log_vacant": 266
+    },
+    {
+      "code_insee": "87011",
+      "nom": "Bellac",
+      "slug": "bellac-87011",
+      "taux_vacance": 16.36,
+      "nb_log_vacant": 344
+    },
+    {
+      "code_insee": "87079",
+      "nom": "La Jonch�re-Saint-Maurice",
+      "slug": "la-jonch-re-saint-maurice-87079",
+      "taux_vacance": 16.17,
+      "nb_log_vacant": 86
+    },
+    {
+      "code_insee": "87089",
+      "nom": "Magnac-Laval",
+      "slug": "magnac-laval-87089",
+      "taux_vacance": 16.04,
+      "nb_log_vacant": 179
+    },
+    {
+      "code_insee": "87158",
+      "nom": "Saint-Laurent-sur-Gorre",
+      "slug": "saint-laurent-sur-gorre-87158",
+      "taux_vacance": 15.9,
+      "nb_log_vacant": 142
+    },
+    {
+      "code_insee": "87146",
+      "nom": "Saint-Germain-les-Belles",
+      "slug": "saint-germain-les-belles-87146",
+      "taux_vacance": 15.51,
+      "nb_log_vacant": 107
+    },
+    {
+      "code_insee": "87111",
+      "nom": "Oradour-sur-Vayres",
+      "slug": "oradour-sur-vayres-87111",
+      "taux_vacance": 15.31,
+      "nb_log_vacant": 185
+    }
+  ]
+}

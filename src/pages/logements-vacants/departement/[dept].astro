@@ -1,0 +1,107 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import Breadcrumb from '../../../components/Breadcrumb.astro';
+import StatCard from '../../../components/StatCard.astro';
+import deptList from '../../../../data/departements-list.json';
+import meta from '../../../../data/meta.json';
+import fs from 'fs';
+import path from 'path';
+
+export function getStaticPaths() {
+  return deptList.map((d) => ({
+    params: { dept: d.slug },
+    props: { deptInfo: d },
+  }));
+}
+
+const { deptInfo } = Astro.props;
+const deptData = JSON.parse(
+  fs.readFileSync(path.join(process.cwd(), `data/departements/${deptInfo.code}.json`), 'utf-8')
+);
+const communes = JSON.parse(
+  fs.readFileSync(path.join(process.cwd(), `data/communes/${deptInfo.code}.json`), 'utf-8')
+);
+
+const regionSlug = deptData.nom_region ? deptData.nom_region.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().replace(/[^a-z0-9]/g, '-').replace(/-+/g, '-').replace(/^-|-$/g, '') : '';
+
+const schema = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Accueil', item: 'https://logementsvacants.fr/' },
+    { '@type': 'ListItem', position: 2, name: deptData.nom_region, item: `https://logementsvacants.fr/logements-vacants/region/${regionSlug}/` },
+    { '@type': 'ListItem', position: 3, name: `${deptData.nom} (${deptData.code})` },
+  ],
+};
+---
+
+<BaseLayout
+  title={`Logements vacants dans le ${deptData.nom} (${deptData.code}) — LOVAC ${meta.millesime}`}
+  description={`${deptData.nb_log_vacant?.toLocaleString('fr-FR')} logements vacants dans le ${deptData.nom} (${deptData.code}), taux de vacance ${deptData.taux_vacance}%. Classement des ${deptData.nb_communes} communes — données LOVAC ${meta.millesime}.`}
+  schema={schema}
+>
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+    <Breadcrumb items={[
+      { label: 'Accueil', href: '/' },
+      { label: deptData.nom_region, href: `/logements-vacants/region/${regionSlug}/` },
+      { label: `${deptData.nom} (${deptData.code})` },
+    ]} />
+
+    <h1 class="text-3xl font-bold text-gray-900 mb-6">
+      Logements vacants dans le {deptData.nom} ({deptData.code}) — {meta.millesime}
+    </h1>
+
+    <div class="grid grid-cols-2 md:grid-cols-4 gap-4 mb-8">
+      <StatCard label="Logements vacants" value={deptData.nb_log_vacant} color="orange" />
+      <StatCard label="Vacants + 2 ans" value={deptData.nb_log_vacant_2ans} subtitle="Vacance structurelle" color="red" />
+      <StatCard label="Taux de vacance" value={`${deptData.taux_vacance}%`} subtitle={`France : ${meta.taux_vacance}%`} color="blue" />
+      <StatCard label="Communes" value={deptData.nb_communes} color="green" />
+    </div>
+
+    <!-- Map placeholder -->
+    <div id="map-dept" class="w-full h-80 rounded-lg border border-gray-200 bg-gray-100 mb-8" data-dept={deptData.code}></div>
+
+    <!-- Communes table -->
+    <h2 class="text-2xl font-bold mb-4">Communes du {deptData.nom} par taux de vacance</h2>
+    <div class="bg-white rounded-lg shadow overflow-x-auto">
+      <table class="w-full">
+        <thead class="bg-gray-50">
+          <tr>
+            <th class="px-4 py-3 text-left text-sm font-semibold text-gray-700">#</th>
+            <th class="px-4 py-3 text-left text-sm font-semibold text-gray-700">Commune</th>
+            <th class="px-4 py-3 text-right text-sm font-semibold text-gray-700">Taux vacance</th>
+            <th class="px-4 py-3 text-right text-sm font-semibold text-gray-700">Logements vacants</th>
+            <th class="px-4 py-3 text-right text-sm font-semibold text-gray-700">Parc privé</th>
+          </tr>
+        </thead>
+        <tbody class="divide-y divide-gray-100">
+          {communes.slice(0, 50).map((c, i) => (
+            <tr class="hover:bg-gray-50">
+              <td class="px-4 py-2 text-sm text-gray-500">{i + 1}</td>
+              <td class="px-4 py-2">
+                <a href={`/logements-vacants/commune/${c.slug}/`} class="text-blue-700 hover:underline font-medium">
+                  {c.nom}
+                </a>
+                <span class="text-xs text-gray-400 ml-1">{c.code_insee}</span>
+              </td>
+              <td class="px-4 py-2 text-right font-semibold text-orange-600">
+                {c.taux_vacance !== null ? `${c.taux_vacance}%` : 's'}
+              </td>
+              <td class="px-4 py-2 text-right text-gray-700">
+                {c.nb_log_vacant !== null ? c.nb_log_vacant.toLocaleString('fr-FR') : 's'}
+              </td>
+              <td class="px-4 py-2 text-right text-gray-500">
+                {c.nb_log_prive !== null ? c.nb_log_prive.toLocaleString('fr-FR') : 's'}
+              </td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+    {communes.length > 50 && (
+      <p class="text-sm text-gray-500 mt-3 text-center">
+        Affichage des 50 premières communes sur {communes.length} — triées par taux de vacance décroissant
+      </p>
+    )}
+  </div>
+</BaseLayout>

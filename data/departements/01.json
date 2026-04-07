@@ -1,0 +1,155 @@
+{
+  "code": "01",
+  "nom": "Ain",
+  "slug": "ain-01",
+  "code_region": "84",
+  "nom_region": "Auvergne-Rh�ne-Alpes",
+  "nb_communes": 391,
+  "nb_log_prive": 269820,
+  "nb_log_vacant": 18292,
+  "nb_log_vacant_2ans": 9278,
+  "taux_vacance": 6.78,
+  "taux_vacance_2ans": 3.44,
+  "top_communes": [
+    {
+      "code_insee": "01416",
+      "nom": "Tenay",
+      "slug": "tenay-01416",
+      "taux_vacance": 21.89,
+      "nb_log_vacant": 162
+    },
+    {
+      "code_insee": "01104",
+      "nom": "Ch�zery-Forens",
+      "slug": "ch-zery-forens-01104",
+      "taux_vacance": 19.46,
+      "nb_log_vacant": 79
+    },
+    {
+      "code_insee": "01269",
+      "nom": "Nantua",
+      "slug": "nantua-01269",
+      "taux_vacance": 19.16,
+      "nb_log_vacant": 321
+    },
+    {
+      "code_insee": "01017",
+      "nom": "Argis",
+      "slug": "argis-01017",
+      "taux_vacance": 17.96,
+      "nb_log_vacant": 58
+    },
+    {
+      "code_insee": "01082",
+      "nom": "Chanay",
+      "slug": "chanay-01082",
+      "taux_vacance": 17.43,
+      "nb_log_vacant": 57
+    },
+    {
+      "code_insee": "01357",
+      "nom": "Saint-Germain-de-Joux",
+      "slug": "saint-germain-de-joux-01357",
+      "taux_vacance": 16.67,
+      "nb_log_vacant": 46
+    },
+    {
+      "code_insee": "01067",
+      "nom": "Ceignes",
+      "slug": "ceignes-01067",
+      "taux_vacance": 16,
+      "nb_log_vacant": 20
+    },
+    {
+      "code_insee": "01068",
+      "nom": "Cerdon",
+      "slug": "cerdon-01068",
+      "taux_vacance": 15.74,
+      "nb_log_vacant": 74
+    },
+    {
+      "code_insee": "01282",
+      "nom": "Outriaz",
+      "slug": "outriaz-01282",
+      "taux_vacance": 15.11,
+      "nb_log_vacant": 21
+    },
+    {
+      "code_insee": "01076",
+      "nom": "Chaley",
+      "slug": "chaley-01076",
+      "taux_vacance": 15,
+      "nb_log_vacant": 21
+    },
+    {
+      "code_insee": "01087",
+      "nom": "Charix",
+      "slug": "charix-01087",
+      "taux_vacance": 13.79,
+      "nb_log_vacant": 24
+    },
+    {
+      "code_insee": "01380",
+      "nom": "Saint-Nizier-le-Bouchoux",
+      "slug": "saint-nizier-le-bouchoux-01380",
+      "taux_vacance": 13.26,
+      "nb_log_vacant": 50
+    },
+    {
+      "code_insee": "01329",
+      "nom": "Rossillon",
+      "slug": "rossillon-01329",
+      "taux_vacance": 13.24,
+      "nb_log_vacant": 18
+    },
+    {
+      "code_insee": "01384",
+      "nom": "Saint-Rambert-en-Bugey",
+      "slug": "saint-rambert-en-bugey-01384",
+      "taux_vacance": 13.2,
+      "nb_log_vacant": 167
+    },
+    {
+      "code_insee": "01079",
+      "nom": "Champagne-en-Valromey",
+      "slug": "champagne-en-valromey-01079",
+      "taux_vacance": 13.05,
+      "nb_log_vacant": 53
+    },
+    {
+      "code_insee": "01407",
+      "nom": "Seyssel",
+      "slug": "seyssel-01407",
+      "taux_vacance": 12.75,
+      "nb_log_vacant": 78
+    },
+    {
+      "code_insee": "01283",
+      "nom": "Oyonnax",
+      "slug": "oyonnax-01283",
+      "taux_vacance": 12.74,
+      "nb_log_vacant": 923
+    },
+    {
+      "code_insee": "01187",
+      "nom": "Haut Valromey",
+      "slug": "haut-valromey-01187",
+      "taux_vacance": 12.55,
+      "nb_log_vacant": 94
+    },
+    {
+      "code_insee": "01370",
+      "nom": "Saint-Laurent-sur-Sa�ne",
+      "slug": "saint-laurent-sur-sa-ne-01370",
+      "taux_vacance": 12.47,
+      "nb_log_vacant": 110
+    },
+    {
+      "code_insee": "01139",
+      "nom": "Curciat-Dongalon",
+      "slug": "curciat-dongalon-01139",
+      "taux_vacance": 12.41,
+      "nb_log_vacant": 34
+    }
+  ]
+}

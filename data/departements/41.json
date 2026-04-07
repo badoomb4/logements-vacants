@@ -1,0 +1,155 @@
+{
+  "code": "41",
+  "nom": "Loir-et-Cher",
+  "slug": "loir-et-cher-41",
+  "code_region": "24",
+  "nom_region": "Centre-Val de Loire",
+  "nb_communes": 267,
+  "nb_log_prive": 146015,
+  "nb_log_vacant": 12126,
+  "nb_log_vacant_2ans": 6591,
+  "taux_vacance": 8.3,
+  "taux_vacance_2ans": 4.51,
+  "top_communes": [
+    {
+      "code_insee": "41118",
+      "nom": "Loreux",
+      "slug": "loreux-41118",
+      "taux_vacance": 20,
+      "nb_log_vacant": 33
+    },
+    {
+      "code_insee": "41098",
+      "nom": "Gombergean",
+      "slug": "gombergean-41098",
+      "taux_vacance": 14.89,
+      "nb_log_vacant": 14
+    },
+    {
+      "code_insee": "41022",
+      "nom": "Bouffry",
+      "slug": "bouffry-41022",
+      "taux_vacance": 14.73,
+      "nb_log_vacant": 19
+    },
+    {
+      "code_insee": "41068",
+      "nom": "Courmemin",
+      "slug": "courmemin-41068",
+      "taux_vacance": 14.6,
+      "nb_log_vacant": 40
+    },
+    {
+      "code_insee": "41135",
+      "nom": "Mennetou-sur-Cher",
+      "slug": "mennetou-sur-cher-41135",
+      "taux_vacance": 14.33,
+      "nb_log_vacant": 87
+    },
+    {
+      "code_insee": "41151",
+      "nom": "Montrichard Val de Cher",
+      "slug": "montrichard-val-de-cher-41151",
+      "taux_vacance": 13.8,
+      "nb_log_vacant": 355
+    },
+    {
+      "code_insee": "41122",
+      "nom": "Maray",
+      "slug": "maray-41122",
+      "taux_vacance": 13.73,
+      "nb_log_vacant": 21
+    },
+    {
+      "code_insee": "41176",
+      "nom": "Pierrefitte-sur-Sauldre",
+      "slug": "pierrefitte-sur-sauldre-41176",
+      "taux_vacance": 13.69,
+      "nb_log_vacant": 86
+    },
+    {
+      "code_insee": "41171",
+      "nom": "Oucques La Nouvelle",
+      "slug": "oucques-la-nouvelle-41171",
+      "taux_vacance": 13.67,
+      "nb_log_vacant": 124
+    },
+    {
+      "code_insee": "41256",
+      "nom": "Theillay",
+      "slug": "theillay-41256",
+      "taux_vacance": 13.48,
+      "nb_log_vacant": 114
+    },
+    {
+      "code_insee": "41198",
+      "nom": "Saint-Aignan",
+      "slug": "saint-aignan-41198",
+      "taux_vacance": 12.89,
+      "nb_log_vacant": 218
+    },
+    {
+      "code_insee": "41071",
+      "nom": "Crouy-sur-Cosson",
+      "slug": "crouy-sur-cosson-41071",
+      "taux_vacance": 12.62,
+      "nb_log_vacant": 39
+    },
+    {
+      "code_insee": "41143",
+      "nom": "Mondoubleau",
+      "slug": "mondoubleau-41143",
+      "taux_vacance": 12.61,
+      "nb_log_vacant": 99
+    },
+    {
+      "code_insee": "41238",
+      "nom": "Savigny-sur-Braye",
+      "slug": "savigny-sur-braye-41238",
+      "taux_vacance": 12.53,
+      "nb_log_vacant": 150
+    },
+    {
+      "code_insee": "41242",
+      "nom": "Selles-sur-Cher",
+      "slug": "selles-sur-cher-41242",
+      "taux_vacance": 12.42,
+      "nb_log_vacant": 307
+    },
+    {
+      "code_insee": "41274",
+      "nom": "Villavard",
+      "slug": "villavard-41274",
+      "taux_vacance": 12.4,
+      "nb_log_vacant": 15
+    },
+    {
+      "code_insee": "41248",
+      "nom": "Cou�tron-au-Perche",
+      "slug": "cou-tron-au-perche-41248",
+      "taux_vacance": 12.33,
+      "nb_log_vacant": 99
+    },
+    {
+      "code_insee": "41099",
+      "nom": "Gy-en-Sologne",
+      "slug": "gy-en-sologne-41099",
+      "taux_vacance": 12,
+      "nb_log_vacant": 39
+    },
+    {
+      "code_insee": "41139",
+      "nom": "Meusnes",
+      "slug": "meusnes-41139",
+      "taux_vacance": 11.94,
+      "nb_log_vacant": 85
+    },
+    {
+      "code_insee": "41290",
+      "nom": "Villeromain",
+      "slug": "villeromain-41290",
+      "taux_vacance": 11.86,
+      "nb_log_vacant": 14
+    }
+  ]
+}

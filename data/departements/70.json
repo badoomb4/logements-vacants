@@ -1,0 +1,155 @@
+{
+  "code": "70",
+  "nom": "Haute-Sa�ne",
+  "slug": "haute-sa-ne-70",
+  "code_region": "27",
+  "nom_region": "Bourgogne-Franche-Comt�",
+  "nb_communes": 536,
+  "nb_log_prive": 71352,
+  "nb_log_vacant": 7955,
+  "nb_log_vacant_2ans": 4387,
+  "taux_vacance": 11.15,
+  "taux_vacance_2ans": 6.15,
+  "top_communes": [
+    {
+      "code_insee": "70202",
+      "nom": "Demangevelle",
+      "slug": "demangevelle-70202",
+      "taux_vacance": 38.37,
+      "nb_log_vacant": 99
+    },
+    {
+      "code_insee": "70404",
+      "nom": "Passavant-la-Roch�re",
+      "slug": "passavant-la-roch-re-70404",
+      "taux_vacance": 23.5,
+      "nb_log_vacant": 102
+    },
+    {
+      "code_insee": "70373",
+      "nom": "La Roche-Morey",
+      "slug": "la-roche-morey-70373",
+      "taux_vacance": 22.92,
+      "nb_log_vacant": 58
+    },
+    {
+      "code_insee": "70311",
+      "nom": "Luxeuil-les-Bains",
+      "slug": "luxeuil-les-bains-70311",
+      "taux_vacance": 20.54,
+      "nb_log_vacant": 766
+    },
+    {
+      "code_insee": "70183",
+      "nom": "Courtesoult-et-Gatey",
+      "slug": "courtesoult-et-gatey-70183",
+      "taux_vacance": 19.64,
+      "nb_log_vacant": 11
+    },
+    {
+      "code_insee": "70292",
+      "nom": "Jussey",
+      "slug": "jussey-70292",
+      "taux_vacance": 19.46,
+      "nb_log_vacant": 211
+    },
+    {
+      "code_insee": "70467",
+      "nom": "Saint-Loup-sur-Semouse",
+      "slug": "saint-loup-sur-semouse-70467",
+      "taux_vacance": 19.05,
+      "nb_log_vacant": 250
+    },
+    {
+      "code_insee": "70122",
+      "nom": "Champlitte",
+      "slug": "champlitte-70122",
+      "taux_vacance": 17.97,
+      "nb_log_vacant": 230
+    },
+    {
+      "code_insee": "70227",
+      "nom": "Faucogney-et-la-Mer",
+      "slug": "faucogney-et-la-mer-70227",
+      "taux_vacance": 17.84,
+      "nb_log_vacant": 66
+    },
+    {
+      "code_insee": "70279",
+      "nom": "Gray",
+      "slug": "gray-70279",
+      "taux_vacance": 17.72,
+      "nb_log_vacant": 466
+    },
+    {
+      "code_insee": "70414",
+      "nom": "Plancher-les-Mines",
+      "slug": "plancher-les-mines-70414",
+      "taux_vacance": 17.64,
+      "nb_log_vacant": 97
+    },
+    {
+      "code_insee": "70283",
+      "nom": "Haut-du-Them-Ch�teau-Lambert",
+      "slug": "haut-du-them-ch-teau-lambert-70283",
+      "taux_vacance": 16.62,
+      "nb_log_vacant": 59
+    },
+    {
+      "code_insee": "70168",
+      "nom": "Conflans-sur-Lanterne",
+      "slug": "conflans-sur-lanterne-70168",
+      "taux_vacance": 16.07,
+      "nb_log_vacant": 58
+    },
+    {
+      "code_insee": "70245",
+      "nom": "Fougerolles-Saint-Valbert",
+      "slug": "fougerolles-saint-valbert-70245",
+      "taux_vacance": 16.02,
+      "nb_log_vacant": 352
+    },
+    {
+      "code_insee": "70006",
+      "nom": "Aillevillers-et-Lyaumont",
+      "slug": "aillevillers-et-lyaumont-70006",
+      "taux_vacance": 15.92,
+      "nb_log_vacant": 143
+    },
+    {
+      "code_insee": "70228",
+      "nom": "Faverney",
+      "slug": "faverney-70228",
+      "taux_vacance": 15.66,
+      "nb_log_vacant": 93
+    },
+    {
+      "code_insee": "70526",
+      "nom": "Vauvillers",
+      "slug": "vauvillers-70526",
+      "taux_vacance": 15.25,
+      "nb_log_vacant": 63
+    },
+    {
+      "code_insee": "70572",
+      "nom": "Vitrey-sur-Mance",
+      "slug": "vitrey-sur-mance-70572",
+      "taux_vacance": 15.07,
+      "nb_log_vacant": 33
+    },
+    {
+      "code_insee": "70263",
+      "nom": "Genevrey",
+      "slug": "genevrey-70263",
+      "taux_vacance": 15,
+      "nb_log_vacant": 21
+    },
+    {
+      "code_insee": "70561",
+      "nom": "Villersexel",
+      "slug": "villersexel-70561",
+      "taux_vacance": 14.82,
+      "nb_log_vacant": 95
+    }
+  ]
+}

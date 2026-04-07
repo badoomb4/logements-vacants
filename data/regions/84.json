@@ -1,0 +1,97 @@
+{
+  "code": "84",
+  "nom": "Auvergne-Rh�ne-Alpes",
+  "slug": "auvergne-rh-ne-alpes",
+  "nb_communes": 4033,
+  "nb_log_prive": 3836139,
+  "nb_log_vacant": 283839,
+  "nb_log_vacant_2ans": 147826,
+  "taux_vacance": 7.4,
+  "taux_vacance_2ans": 3.85,
+  "departements": [
+    {
+      "code": "03",
+      "nom": "Allier",
+      "slug": "allier-03",
+      "taux_vacance": 12.75,
+      "nb_log_vacant": 21339
+    },
+    {
+      "code": "43",
+      "nom": "Haute-Loire",
+      "slug": "haute-loire-43",
+      "taux_vacance": 11.38,
+      "nb_log_vacant": 13268
+    },
+    {
+      "code": "15",
+      "nom": "Cantal",
+      "slug": "cantal-15",
+      "taux_vacance": 11.31,
+      "nb_log_vacant": 8533
+    },
+    {
+      "code": "07",
+      "nom": "Ard�che",
+      "slug": "ard-che-07",
+      "taux_vacance": 10.17,
+      "nb_log_vacant": 17435
+    },
+    {
+      "code": "63",
+      "nom": "Puy-de-D�me",
+      "slug": "puy-de-d-me-63",
+      "taux_vacance": 9.72,
+      "nb_log_vacant": 29862
+    },
+    {
+      "code": "42",
+      "nom": "Loire",
+      "slug": "loire-42",
+      "taux_vacance": 9.21,
+      "nb_log_vacant": 30527
+    },
+    {
+      "code": "26",
+      "nom": "Dr�me",
+      "slug": "dr-me-26",
+      "taux_vacance": 7.24,
+      "nb_log_vacant": 17205
+    },
+    {
+      "code": "01",
+      "nom": "Ain",
+      "slug": "ain-01",
+      "taux_vacance": 6.78,
+      "nb_log_vacant": 18292
+    },
+    {
+      "code": "73",
+      "nom": "Savoie",
+      "slug": "savoie-73",
+      "taux_vacance": 6.39,
+      "nb_log_vacant": 19446
+    },
+    {
+      "code": "38",
+      "nom": "Is�re",
+      "slug": "is-re-38",
+      "taux_vacance": 6.14,
+      "nb_log_vacant": 34335
+    },
+    {
+      "code": "74",
+      "nom": "Haute-Savoie",
+      "slug": "haute-savoie-74",
+      "taux_vacance": 5.85,
+      "nb_log_vacant": 28884
+    },
+    {
+      "code": "69",
+      "nom": "Rh�ne",
+      "slug": "rh-ne-69",
+      "taux_vacance": 5.58,
+      "nb_log_vacant": 44713
+    }
+  ]
+}

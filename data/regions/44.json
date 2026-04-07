@@ -1,0 +1,83 @@
+{
+  "code": "44",
+  "nom": "Grand Est",
+  "slug": "grand-est",
+  "nb_communes": 5112,
+  "nb_log_prive": 2004794,
+  "nb_log_vacant": 165929,
+  "nb_log_vacant_2ans": 87952,
+  "taux_vacance": 8.28,
+  "taux_vacance_2ans": 4.39,
+  "departements": [
+    {
+      "code": "55",
+      "nom": "Meuse",
+      "slug": "meuse-55",
+      "taux_vacance": 11.79,
+      "nb_log_vacant": 6699
+    },
+    {
+      "code": "52",
+      "nom": "Haute-Marne",
+      "slug": "haute-marne-52",
+      "taux_vacance": 11.69,
+      "nb_log_vacant": 6937
+    },
+    {
+      "code": "08",
+      "nom": "Ardennes",
+      "slug": "ardennes-08",
+      "taux_vacance": 11.48,
+      "nb_log_vacant": 10004
+    },
+    {
+      "code": "10",
+      "nom": "Aube",
+      "slug": "aube-10",
+      "taux_vacance": 10.69,
+      "nb_log_vacant": 10952
+    },
+    {
+      "code": "88",
+      "nom": "Vosges",
+      "slug": "vosges-88",
+      "taux_vacance": 10.23,
+      "nb_log_vacant": 15358
+    },
+    {
+      "code": "51",
+      "nom": "Marne",
+      "slug": "marne-51",
+      "taux_vacance": 9.03,
+      "nb_log_vacant": 16051
+    },
+    {
+      "code": "54",
+      "nom": "Meurthe-et-Moselle",
+      "slug": "meurthe-et-moselle-54",
+      "taux_vacance": 8.06,
+      "nb_log_vacant": 22076
+    },
+    {
+      "code": "68",
+      "nom": "Haut-Rhin",
+      "slug": "haut-rhin-68",
+      "taux_vacance": 7.96,
+      "nb_log_vacant": 22947
+    },
+    {
+      "code": "57",
+      "nom": "Moselle",
+      "slug": "moselle-57",
+      "taux_vacance": 7.67,
+      "nb_log_vacant": 28230
+    },
+    {
+      "code": "67",
+      "nom": "Bas-Rhin",
+      "slug": "bas-rhin-67",
+      "taux_vacance": 6.04,
+      "nb_log_vacant": 26675
+    }
+  ]
+}

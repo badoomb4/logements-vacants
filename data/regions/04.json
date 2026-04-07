@@ -1,0 +1,20 @@
+{
+  "code": "04",
+  "nom": "La R�union",
+  "slug": "la-r-union",
+  "nb_communes": 24,
+  "nb_log_prive": 321295,
+  "nb_log_vacant": 20255,
+  "nb_log_vacant_2ans": 13171,
+  "taux_vacance": 6.3,
+  "taux_vacance_2ans": 4.1,
+  "departements": [
+    {
+      "code": "974",
+      "nom": "La R�union",
+      "slug": "la-r-union-974",
+      "taux_vacance": 6.3,
+      "nb_log_vacant": 20255
+    }
+  ]
+}

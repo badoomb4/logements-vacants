@@ -1,0 +1,155 @@
+{
+  "code": "84",
+  "nom": "Vaucluse",
+  "slug": "vaucluse-84",
+  "code_region": "93",
+  "nom_region": "Provence-Alpes-C�te d'Azur",
+  "nb_communes": 151,
+  "nb_log_prive": 273246,
+  "nb_log_vacant": 22841,
+  "nb_log_vacant_2ans": 13091,
+  "taux_vacance": 8.36,
+  "taux_vacance_2ans": 4.79,
+  "top_communes": [
+    {
+      "code_insee": "84107",
+      "nom": "Saint-Christol",
+      "slug": "saint-christol-84107",
+      "taux_vacance": 20.16,
+      "nb_log_vacant": 78
+    },
+    {
+      "code_insee": "84123",
+      "nom": "Sault",
+      "slug": "sault-84123",
+      "taux_vacance": 16.55,
+      "nb_log_vacant": 185
+    },
+    {
+      "code_insee": "84066",
+      "nom": "Lioux",
+      "slug": "lioux-84066",
+      "taux_vacance": 16.44,
+      "nb_log_vacant": 37
+    },
+    {
+      "code_insee": "84037",
+      "nom": "Ch�teauneuf-du-Pape",
+      "slug": "ch-teauneuf-du-pape-84037",
+      "taux_vacance": 15.93,
+      "nb_log_vacant": 184
+    },
+    {
+      "code_insee": "84003",
+      "nom": "Apt",
+      "slug": "apt-84003",
+      "taux_vacance": 14.8,
+      "nb_log_vacant": 933
+    },
+    {
+      "code_insee": "84079",
+      "nom": "Monieux",
+      "slug": "monieux-84079",
+      "taux_vacance": 13.72,
+      "nb_log_vacant": 38
+    },
+    {
+      "code_insee": "84100",
+      "nom": "La Roque-Alric",
+      "slug": "la-roque-alric-84100",
+      "taux_vacance": 13.58,
+      "nb_log_vacant": 11
+    },
+    {
+      "code_insee": "84022",
+      "nom": "Buisson",
+      "slug": "buisson-84022",
+      "taux_vacance": 12.02,
+      "nb_log_vacant": 28
+    },
+    {
+      "code_insee": "84136",
+      "nom": "Vacqueyras",
+      "slug": "vacqueyras-84136",
+      "taux_vacance": 11.94,
+      "nb_log_vacant": 83
+    },
+    {
+      "code_insee": "84085",
+      "nom": "Murs",
+      "slug": "murs-84085",
+      "taux_vacance": 11.83,
+      "nb_log_vacant": 46
+    },
+    {
+      "code_insee": "84069",
+      "nom": "Malauc�ne",
+      "slug": "malauc-ne-84069",
+      "taux_vacance": 11.35,
+      "nb_log_vacant": 242
+    },
+    {
+      "code_insee": "84139",
+      "nom": "Fontaine-de-Vaucluse",
+      "slug": "fontaine-de-vaucluse-84139",
+      "taux_vacance": 11.19,
+      "nb_log_vacant": 47
+    },
+    {
+      "code_insee": "84061",
+      "nom": "Lagarde-Par�ol",
+      "slug": "lagarde-par-ol-84061",
+      "taux_vacance": 11.17,
+      "nb_log_vacant": 20
+    },
+    {
+      "code_insee": "84105",
+      "nom": "Saignon",
+      "slug": "saignon-84105",
+      "taux_vacance": 10.58,
+      "nb_log_vacant": 84
+    },
+    {
+      "code_insee": "84051",
+      "nom": "Goult",
+      "slug": "goult-84051",
+      "taux_vacance": 10.37,
+      "nb_log_vacant": 102
+    },
+    {
+      "code_insee": "84007",
+      "nom": "Avignon",
+      "slug": "avignon-84007",
+      "taux_vacance": 10.29,
+      "nb_log_vacant": 4514
+    },
+    {
+      "code_insee": "84020",
+      "nom": "Bonnieux",
+      "slug": "bonnieux-84020",
+      "taux_vacance": 10.27,
+      "nb_log_vacant": 147
+    },
+    {
+      "code_insee": "84068",
+      "nom": "Lourmarin",
+      "slug": "lourmarin-84068",
+      "taux_vacance": 10.19,
+      "nb_log_vacant": 108
+    },
+    {
+      "code_insee": "84117",
+      "nom": "Saint-Roman-de-Malegarde",
+      "slug": "saint-roman-de-malegarde-84117",
+      "taux_vacance": 10.18,
+      "nb_log_vacant": 23
+    },
+    {
+      "code_insee": "84019",
+      "nom": "Boll�ne",
+      "slug": "boll-ne-84019",
+      "taux_vacance": 10.14,
+      "nb_log_vacant": 685
+    }
+  ]
+}

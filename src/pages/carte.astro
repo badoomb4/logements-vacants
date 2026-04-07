@@ -1,0 +1,87 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout
+  title="Carte des logements vacants en France — LogementsVacants.fr"
+  description="Carte interactive des logements vacants en France. Visualisez le taux de vacance par département grâce aux données LOVAC."
+>
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+    <h1 class="text-3xl font-bold text-gray-900 mb-6">Carte des logements vacants en France</h1>
+    <p class="text-gray-600 mb-6">
+      Cliquez sur un département pour consulter le détail des logements vacants par commune.
+    </p>
+    <div id="map-full" class="w-full h-[70vh] rounded-lg border border-gray-200 bg-gray-100"></div>
+    <div class="flex items-center gap-4 mt-4 text-sm text-gray-600">
+      <span>Taux de vacance :</span>
+      <span class="flex items-center gap-1"><span class="w-4 h-4 rounded bg-green-500"></span> &lt; 3%</span>
+      <span class="flex items-center gap-1"><span class="w-4 h-4 rounded bg-yellow-400"></span> 3-6%</span>
+      <span class="flex items-center gap-1"><span class="w-4 h-4 rounded bg-orange-500"></span> 6-10%</span>
+      <span class="flex items-center gap-1"><span class="w-4 h-4 rounded bg-red-600"></span> &gt; 10%</span>
+    </div>
+  </div>
+
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <script>
+    import L from 'leaflet';
+
+    async function initMap() {
+      const map = L.map('map-full').setView([46.5, 2.5], 6);
+      L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        attribution: '&copy; OpenStreetMap contributors',
+        maxZoom: 18,
+      }).addTo(map);
+
+      try {
+        const resp = await fetch('/geo/departements.geojson');
+        const geojson = await resp.json();
+
+        // Load department stats
+        const metaResp = await fetch('/data/meta.json');
+        const metaData = await metaResp.json();
+        const deptListResp = await fetch('/data/departements-list.json');
+        const deptList = await deptListResp.json();
+        const deptMap = Object.fromEntries(deptList.map((d: any) => [d.code, d]));
+
+        function getColor(taux: number) {
+          if (taux > 10) return '#dc2626';
+          if (taux > 6) return '#f97316';
+          if (taux > 3) return '#facc15';
+          return '#22c55e';
+        }
+
+        L.geoJSON(geojson, {
+          style: (feature) => {
+            const code = feature?.properties?.code;
+            const dept = deptMap[code];
+            const taux = dept?.taux_vacance || 0;
+            return {
+              fillColor: getColor(taux),
+              weight: 1,
+              opacity: 1,
+              color: '#666',
+              fillOpacity: 0.6,
+            };
+          },
+          onEachFeature: (feature, layer) => {
+            const code = feature.properties?.code;
+            const dept = deptMap[code];
+            if (dept) {
+              layer.bindTooltip(
+                `<strong>${dept.nom} (${dept.code})</strong><br>Taux: ${dept.taux_vacance}%<br>${dept.nb_log_vacant?.toLocaleString('fr-FR')} vacants`,
+                { sticky: true }
+              );
+              layer.on('click', () => {
+                window.location.href = `/logements-vacants/departement/${dept.slug}/`;
+              });
+            }
+          },
+        }).addTo(map);
+      } catch (e) {
+        console.warn('GeoJSON not available yet:', e);
+      }
+    }
+
+    initMap();
+  </script>
+</BaseLayout>

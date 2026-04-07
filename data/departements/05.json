@@ -1,0 +1,155 @@
+{
+  "code": "05",
+  "nom": "Hautes-Alpes",
+  "slug": "hautes-alpes-05",
+  "code_region": "93",
+  "nom_region": "Provence-Alpes-C�te d'Azur",
+  "nb_communes": 162,
+  "nb_log_prive": 113990,
+  "nb_log_vacant": 7487,
+  "nb_log_vacant_2ans": 3992,
+  "taux_vacance": 6.57,
+  "taux_vacance_2ans": 3.5,
+  "top_communes": [
+    {
+      "code_insee": "05126",
+      "nom": "Rosans",
+      "slug": "rosans-05126",
+      "taux_vacance": 14.43,
+      "nb_log_vacant": 57
+    },
+    {
+      "code_insee": "05078",
+      "nom": "Mon�tier-Allemont",
+      "slug": "mon-tier-allemont-05078",
+      "taux_vacance": 14.05,
+      "nb_log_vacant": 26
+    },
+    {
+      "code_insee": "05128",
+      "nom": "Saint-Andr�-d'Embrun",
+      "slug": "saint-andr-d-embrun-05128",
+      "taux_vacance": 13.92,
+      "nb_log_vacant": 77
+    },
+    {
+      "code_insee": "05115",
+      "nom": "Remollon",
+      "slug": "remollon-05115",
+      "taux_vacance": 12.7,
+      "nb_log_vacant": 40
+    },
+    {
+      "code_insee": "05165",
+      "nom": "Savournon",
+      "slug": "savournon-05165",
+      "taux_vacance": 12.43,
+      "nb_log_vacant": 23
+    },
+    {
+      "code_insee": "05166",
+      "nom": "Serres",
+      "slug": "serres-05166",
+      "taux_vacance": 12.43,
+      "nb_log_vacant": 127
+    },
+    {
+      "code_insee": "05024",
+      "nom": "Valdoule",
+      "slug": "valdoule-05024",
+      "taux_vacance": 12.41,
+      "nb_log_vacant": 34
+    },
+    {
+      "code_insee": "05103",
+      "nom": "Le Po�t",
+      "slug": "le-po-t-05103",
+      "taux_vacance": 12.34,
+      "nb_log_vacant": 59
+    },
+    {
+      "code_insee": "05038",
+      "nom": "Ch�teau-Ville-Vieille",
+      "slug": "ch-teau-ville-vieille-05038",
+      "taux_vacance": 12.18,
+      "nb_log_vacant": 58
+    },
+    {
+      "code_insee": "05055",
+      "nom": "La Faurie",
+      "slug": "la-faurie-05055",
+      "taux_vacance": 11.49,
+      "nb_log_vacant": 34
+    },
+    {
+      "code_insee": "05140",
+      "nom": "Saint-�tienne-le-Laus",
+      "slug": "saint-tienne-le-laus-05140",
+      "taux_vacance": 11.48,
+      "nb_log_vacant": 24
+    },
+    {
+      "code_insee": "05008",
+      "nom": "Aspremont",
+      "slug": "aspremont-05008",
+      "taux_vacance": 11.45,
+      "nb_log_vacant": 34
+    },
+    {
+      "code_insee": "05118",
+      "nom": "Val Bu�ch-M�ouge",
+      "slug": "val-bu-ch-m-ouge-05118",
+      "taux_vacance": 11.41,
+      "nb_log_vacant": 117
+    },
+    {
+      "code_insee": "05039",
+      "nom": "Aubessagne",
+      "slug": "aubessagne-05039",
+      "taux_vacance": 10.47,
+      "nb_log_vacant": 64
+    },
+    {
+      "code_insee": "05064",
+      "nom": "La Chapelle-en-Valgaud�mar",
+      "slug": "la-chapelle-en-valgaud-mar-05064",
+      "taux_vacance": 10.22,
+      "nb_log_vacant": 23
+    },
+    {
+      "code_insee": "05070",
+      "nom": "Laragne-Mont�glin",
+      "slug": "laragne-mont-glin-05070",
+      "taux_vacance": 9.88,
+      "nb_log_vacant": 211
+    },
+    {
+      "code_insee": "05050",
+      "nom": "Espinasses",
+      "slug": "espinasses-05050",
+      "taux_vacance": 9.82,
+      "nb_log_vacant": 33
+    },
+    {
+      "code_insee": "05012",
+      "nom": "Baratier",
+      "slug": "baratier-05012",
+      "taux_vacance": 9.72,
+      "nb_log_vacant": 59
+    },
+    {
+      "code_insee": "05010",
+      "nom": "Aspres-sur-Bu�ch",
+      "slug": "aspres-sur-bu-ch-05010",
+      "taux_vacance": 9.64,
+      "nb_log_vacant": 59
+    },
+    {
+      "code_insee": "05173",
+      "nom": "Upaix",
+      "slug": "upaix-05173",
+      "taux_vacance": 9.51,
+      "nb_log_vacant": 31
+    }
+  ]
+}

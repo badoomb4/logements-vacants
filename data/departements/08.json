@@ -1,0 +1,155 @@
+{
+  "code": "08",
+  "nom": "Ardennes",
+  "slug": "ardennes-08",
+  "code_region": "44",
+  "nom_region": "Grand Est",
+  "nb_communes": 447,
+  "nb_log_prive": 87155,
+  "nb_log_vacant": 10004,
+  "nb_log_vacant_2ans": 5650,
+  "taux_vacance": 11.48,
+  "taux_vacance_2ans": 6.48,
+  "top_communes": [
+    {
+      "code_insee": "08049",
+      "nom": "Bar-l�s-Buzancy",
+      "slug": "bar-l-s-buzancy-08049",
+      "taux_vacance": 21.62,
+      "nb_log_vacant": 16
+    },
+    {
+      "code_insee": "08409",
+      "nom": "Sedan",
+      "slug": "sedan-08409",
+      "taux_vacance": 20.44,
+      "nb_log_vacant": 1418
+    },
+    {
+      "code_insee": "08218",
+      "nom": "Les Hautes-Rivi�res",
+      "slug": "les-hautes-rivi-res-08218",
+      "taux_vacance": 19.5,
+      "nb_log_vacant": 157
+    },
+    {
+      "code_insee": "08198",
+      "nom": "Grandpr�",
+      "slug": "grandpr-08198",
+      "taux_vacance": 18.45,
+      "nb_log_vacant": 62
+    },
+    {
+      "code_insee": "08354",
+      "nom": "Raucourt-et-Flaba",
+      "slug": "raucourt-et-flaba-08354",
+      "taux_vacance": 16.79,
+      "nb_log_vacant": 66
+    },
+    {
+      "code_insee": "08113",
+      "nom": "Chaumont-Porcien",
+      "slug": "chaumont-porcien-08113",
+      "taux_vacance": 16.1,
+      "nb_log_vacant": 43
+    },
+    {
+      "code_insee": "08057",
+      "nom": "Belleville-et-Ch�tillon-sur-Bar",
+      "slug": "belleville-et-ch-tillon-sur-bar-08057",
+      "taux_vacance": 16.07,
+      "nb_log_vacant": 18
+    },
+    {
+      "code_insee": "08185",
+      "nom": "Fumay",
+      "slug": "fumay-08185",
+      "taux_vacance": 15.95,
+      "nb_log_vacant": 262
+    },
+    {
+      "code_insee": "08282",
+      "nom": "Maubert-Fontaine",
+      "slug": "maubert-fontaine-08282",
+      "taux_vacance": 15.51,
+      "nb_log_vacant": 78
+    },
+    {
+      "code_insee": "08486",
+      "nom": "Vireux-Molhain",
+      "slug": "vireux-molhain-08486",
+      "taux_vacance": 15.5,
+      "nb_log_vacant": 120
+    },
+    {
+      "code_insee": "08276",
+      "nom": "Margut",
+      "slug": "margut-08276",
+      "taux_vacance": 15.43,
+      "nb_log_vacant": 54
+    },
+    {
+      "code_insee": "08089",
+      "nom": "Buzancy",
+      "slug": "buzancy-08089",
+      "taux_vacance": 14.95,
+      "nb_log_vacant": 32
+    },
+    {
+      "code_insee": "08139",
+      "nom": "Deville",
+      "slug": "deville-08139",
+      "taux_vacance": 14.87,
+      "nb_log_vacant": 76
+    },
+    {
+      "code_insee": "08036",
+      "nom": "Autry",
+      "slug": "autry-08036",
+      "taux_vacance": 14.77,
+      "nb_log_vacant": 13
+    },
+    {
+      "code_insee": "08363",
+      "nom": "Revin",
+      "slug": "revin-08363",
+      "taux_vacance": 14.76,
+      "nb_log_vacant": 429
+    },
+    {
+      "code_insee": "08211",
+      "nom": "Haraucourt",
+      "slug": "haraucourt-08211",
+      "taux_vacance": 14.72,
+      "nb_log_vacant": 53
+    },
+    {
+      "code_insee": "08190",
+      "nom": "Givet",
+      "slug": "givet-08190",
+      "taux_vacance": 14.55,
+      "nb_log_vacant": 438
+    },
+    {
+      "code_insee": "08366",
+      "nom": "Rocquigny",
+      "slug": "rocquigny-08366",
+      "taux_vacance": 14.45,
+      "nb_log_vacant": 61
+    },
+    {
+      "code_insee": "08025",
+      "nom": "Attigny",
+      "slug": "attigny-08025",
+      "taux_vacance": 14.41,
+      "nb_log_vacant": 85
+    },
+    {
+      "code_insee": "08357",
+      "nom": "Remilly-Aillicourt",
+      "slug": "remilly-aillicourt-08357",
+      "taux_vacance": 14.39,
+      "nb_log_vacant": 58
+    }
+  ]
+}

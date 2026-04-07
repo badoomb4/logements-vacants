@@ -1,0 +1,48 @@
+{
+  "code": "32",
+  "nom": "Hauts-de-France",
+  "slug": "hauts-de-france",
+  "nb_communes": 3782,
+  "nb_log_prive": 2003948,
+  "nb_log_vacant": 139824,
+  "nb_log_vacant_2ans": 69387,
+  "taux_vacance": 6.98,
+  "taux_vacance_2ans": 3.46,
+  "departements": [
+    {
+      "code": "02",
+      "nom": "Aisne",
+      "slug": "aisne-02",
+      "taux_vacance": 9.62,
+      "nb_log_vacant": 14362
+    },
+    {
+      "code": "80",
+      "nom": "Somme",
+      "slug": "somme-80",
+      "taux_vacance": 7.87,
+      "nb_log_vacant": 14221
+    },
+    {
+      "code": "59",
+      "nom": "Nord",
+      "slug": "nord-59",
+      "taux_vacance": 6.79,
+      "nb_log_vacant": 64330
+    },
+    {
+      "code": "60",
+      "nom": "Oise",
+      "slug": "oise-60",
+      "taux_vacance": 6.56,
+      "nb_log_vacant": 15473
+    },
+    {
+      "code": "62",
+      "nom": "Pas-de-Calais",
+      "slug": "pas-de-calais-62",
+      "taux_vacance": 6.41,
+      "nb_log_vacant": 31438
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "code": "80",
+  "nom": "Somme",
+  "slug": "somme-80",
+  "code_region": "32",
+  "nom_region": "Hauts-de-France",
+  "nb_communes": 771,
+  "nb_log_prive": 180597,
+  "nb_log_vacant": 14221,
+  "nb_log_vacant_2ans": 6783,
+  "taux_vacance": 7.87,
+  "taux_vacance_2ans": 3.76,
+  "top_communes": [
+    {
+      "code_insee": "80538",
+      "nom": "Mesnil-en-Arrouaise",
+      "slug": "mesnil-en-arrouaise-80538",
+      "taux_vacance": 17.65,
+      "nb_log_vacant": 12
+    },
+    {
+      "code_insee": "80484",
+      "nom": "Liomer",
+      "slug": "liomer-80484",
+      "taux_vacance": 12.42,
+      "nb_log_vacant": 19
+    },
+    {
+      "code_insee": "80695",
+      "nom": "Sailly-Saillisel",
+      "slug": "sailly-saillisel-80695",
+      "taux_vacance": 12.06,
+      "nb_log_vacant": 24
+    },
+    {
+      "code_insee": "80663",
+      "nom": "Rambures",
+      "slug": "rambures-80663",
+      "taux_vacance": 11.7,
+      "nb_log_vacant": 22
+    },
+    {
+      "code_insee": "80445",
+      "nom": "Humbercourt",
+      "slug": "humbercourt-80445",
+      "taux_vacance": 11.36,
+      "nb_log_vacant": 15
+    },
+    {
+      "code_insee": "80585",
+      "nom": "Nesle",
+      "slug": "nesle-80585",
+      "taux_vacance": 11.32,
+      "nb_log_vacant": 114
+    },
+    {
+      "code_insee": "80711",
+      "nom": "Saint-Ouen",
+      "slug": "saint-ouen-80711",
+      "taux_vacance": 11.32,
+      "nb_log_vacant": 97
+    },
+    {
+      "code_insee": "80606",
+      "nom": "Oisemont",
+      "slug": "oisemont-80606",
+      "taux_vacance": 11.18,
+      "nb_log_vacant": 58
+    },
+    {
+      "code_insee": "80285",
+      "nom": "Essertaux",
+      "slug": "essertaux-80285",
+      "taux_vacance": 11.11,
+      "nb_log_vacant": 13
+    },
+    {
+      "code_insee": "80495",
+      "nom": "Lucheux",
+      "slug": "lucheux-80495",
+      "taux_vacance": 11.11,
+      "nb_log_vacant": 30
+    },
+    {
+      "code_insee": "80241",
+      "nom": "Domart-en-Ponthieu",
+      "slug": "domart-en-ponthieu-80241",
+      "taux_vacance": 10.94,
+      "nb_log_vacant": 57
+    },
+    {
+      "code_insee": "80519",
+      "nom": "Matigny",
+      "slug": "matigny-80519",
+      "taux_vacance": 10.81,
+      "nb_log_vacant": 24
+    },
+    {
+      "code_insee": "80410",
+      "nom": "Ham",
+      "slug": "ham-80410",
+      "taux_vacance": 10.76,
+      "nb_log_vacant": 185
+    },
+    {
+      "code_insee": "80253",
+      "nom": "Doullens",
+      "slug": "doullens-80253",
+      "taux_vacance": 10.75,
+      "nb_log_vacant": 284
+    },
+    {
+      "code_insee": "80509",
+      "nom": "March�lepot-Misery",
+      "slug": "march-lepot-misery-80509",
+      "taux_vacance": 10.4,
+      "nb_log_vacant": 26
+    },
+    {
+      "code_insee": "80062",
+      "nom": "Beaucamps-le-Vieux",
+      "slug": "beaucamps-le-vieux-80062",
+      "taux_vacance": 10.38,
+      "nb_log_vacant": 66
+    },
+    {
+      "code_insee": "80318",
+      "nom": "Flixecourt",
+      "slug": "flixecourt-80318",
+      "taux_vacance": 10.34,
+      "nb_log_vacant": 130
+    },
+    {
+      "code_insee": "80373",
+      "nom": "Gamaches",
+      "slug": "gamaches-80373",
+      "taux_vacance": 10.34,
+      "nb_log_vacant": 120
+    },
+    {
+      "code_insee": "80001",
+      "nom": "Abbeville",
+      "slug": "abbeville-80001",
+      "taux_vacance": 10.29,
+      "nb_log_vacant": 950
+    },
+    {
+      "code_insee": "80093",
+      "nom": "Berteaucourt-les-Dames",
+      "slug": "berteaucourt-les-dames-80093",
+      "taux_vacance": 10.18,
+      "nb_log_vacant": 51
+    }
+  ]
+}

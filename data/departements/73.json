@@ -1,0 +1,155 @@
+{
+  "code": "73",
+  "nom": "Savoie",
+  "slug": "savoie-73",
+  "code_region": "84",
+  "nom_region": "Auvergne-Rh�ne-Alpes",
+  "nb_communes": 273,
+  "nb_log_prive": 304306,
+  "nb_log_vacant": 19446,
+  "nb_log_vacant_2ans": 10216,
+  "taux_vacance": 6.39,
+  "taux_vacance_2ans": 3.36,
+  "top_communes": [
+    {
+      "code_insee": "73119",
+      "nom": "Freney",
+      "slug": "freney-73119",
+      "taux_vacance": 16.09,
+      "nb_log_vacant": 14
+    },
+    {
+      "code_insee": "73181",
+      "nom": "Mo�tiers",
+      "slug": "mo-tiers-73181",
+      "taux_vacance": 14.7,
+      "nb_log_vacant": 262
+    },
+    {
+      "code_insee": "73117",
+      "nom": "Fourneaux",
+      "slug": "fourneaux-73117",
+      "taux_vacance": 13.94,
+      "nb_log_vacant": 63
+    },
+    {
+      "code_insee": "73187",
+      "nom": "La L�ch�re",
+      "slug": "la-l-ch-re-73187",
+      "taux_vacance": 13.39,
+      "nb_log_vacant": 304
+    },
+    {
+      "code_insee": "73261",
+      "nom": "Saint-Michel-de-Maurienne",
+      "slug": "saint-michel-de-maurienne-73261",
+      "taux_vacance": 13.19,
+      "nb_log_vacant": 217
+    },
+    {
+      "code_insee": "73256",
+      "nom": "Saint-Martin-d'Arc",
+      "slug": "saint-martin-d-arc-73256",
+      "taux_vacance": 12.76,
+      "nb_log_vacant": 31
+    },
+    {
+      "code_insee": "73048",
+      "nom": "Bonvillard",
+      "slug": "bonvillard-73048",
+      "taux_vacance": 12.38,
+      "nb_log_vacant": 26
+    },
+    {
+      "code_insee": "73259",
+      "nom": "Saint-Martin-sur-la-Chambre",
+      "slug": "saint-martin-sur-la-chambre-73259",
+      "taux_vacance": 12.32,
+      "nb_log_vacant": 44
+    },
+    {
+      "code_insee": "73212",
+      "nom": "Val-d'Arc",
+      "slug": "val-d-arc-73212",
+      "taux_vacance": 11.9,
+      "nb_log_vacant": 123
+    },
+    {
+      "code_insee": "73058",
+      "nom": "La Bridoire",
+      "slug": "la-bridoire-73058",
+      "taux_vacance": 11.67,
+      "nb_log_vacant": 70
+    },
+    {
+      "code_insee": "73194",
+      "nom": "Orelle",
+      "slug": "orelle-73194",
+      "taux_vacance": 11.56,
+      "nb_log_vacant": 71
+    },
+    {
+      "code_insee": "73253",
+      "nom": "Saint-Marcel",
+      "slug": "saint-marcel-73253",
+      "taux_vacance": 11.49,
+      "nb_log_vacant": 37
+    },
+    {
+      "code_insee": "73268",
+      "nom": "Saint-Paul-sur-Is�re",
+      "slug": "saint-paul-sur-is-re-73268",
+      "taux_vacance": 11.33,
+      "nb_log_vacant": 46
+    },
+    {
+      "code_insee": "73231",
+      "nom": "Saint-�tienne-de-Cuines",
+      "slug": "saint-tienne-de-cuines-73231",
+      "taux_vacance": 11.28,
+      "nb_log_vacant": 94
+    },
+    {
+      "code_insee": "73248",
+      "nom": "Saint-Jean-de-Maurienne",
+      "slug": "saint-jean-de-maurienne-73248",
+      "taux_vacance": 11.25,
+      "nb_log_vacant": 411
+    },
+    {
+      "code_insee": "73110",
+      "nom": "Esserts-Blay",
+      "slug": "esserts-blay-73110",
+      "taux_vacance": 11.24,
+      "nb_log_vacant": 57
+    },
+    {
+      "code_insee": "73250",
+      "nom": "Saint-Julien-Mont-Denis",
+      "slug": "saint-julien-mont-denis-73250",
+      "taux_vacance": 11.11,
+      "nb_log_vacant": 112
+    },
+    {
+      "code_insee": "73188",
+      "nom": "Notre-Dame-des-Milli�res",
+      "slug": "notre-dame-des-milli-res-73188",
+      "taux_vacance": 10.98,
+      "nb_log_vacant": 55
+    },
+    {
+      "code_insee": "73262",
+      "nom": "Saint-Nicolas-la-Chapelle",
+      "slug": "saint-nicolas-la-chapelle-73262",
+      "taux_vacance": 10.98,
+      "nb_log_vacant": 63
+    },
+    {
+      "code_insee": "73063",
+      "nom": "Cevins",
+      "slug": "cevins-73063",
+      "taux_vacance": 10.94,
+      "nb_log_vacant": 51
+    }
+  ]
+}

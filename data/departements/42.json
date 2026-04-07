@@ -1,0 +1,155 @@
+{
+  "code": "42",
+  "nom": "Loire",
+  "slug": "loire-42",
+  "code_region": "84",
+  "nom_region": "Auvergne-Rh�ne-Alpes",
+  "nb_communes": 320,
+  "nb_log_prive": 331438,
+  "nb_log_vacant": 30527,
+  "nb_log_vacant_2ans": 16871,
+  "taux_vacance": 9.21,
+  "taux_vacance_2ans": 5.09,
+  "top_communes": [
+    {
+      "code_insee": "42245",
+      "nom": "V�tre-sur-Anzon",
+      "slug": "v-tre-sur-anzon-42245",
+      "taux_vacance": 22.88,
+      "nb_log_vacant": 100
+    },
+    {
+      "code_insee": "42204",
+      "nom": "Saint-Bonnet-le-Ch�teau",
+      "slug": "saint-bonnet-le-ch-teau-42204",
+      "taux_vacance": 21.2,
+      "nb_log_vacant": 216
+    },
+    {
+      "code_insee": "42119",
+      "nom": "Leigneux",
+      "slug": "leigneux-42119",
+      "taux_vacance": 18.31,
+      "nb_log_vacant": 39
+    },
+    {
+      "code_insee": "42106",
+      "nom": "Gr�zolles",
+      "slug": "gr-zolles-42106",
+      "taux_vacance": 17.78,
+      "nb_log_vacant": 32
+    },
+    {
+      "code_insee": "42181",
+      "nom": "R�gny",
+      "slug": "r-gny-42181",
+      "taux_vacance": 17.15,
+      "nb_log_vacant": 141
+    },
+    {
+      "code_insee": "42084",
+      "nom": "Solore-en-Forez",
+      "slug": "solore-en-forez-42084",
+      "taux_vacance": 16.81,
+      "nb_log_vacant": 60
+    },
+    {
+      "code_insee": "42257",
+      "nom": "Saint-Martin-d'Estr�aux",
+      "slug": "saint-martin-d-estr-aux-42257",
+      "taux_vacance": 16.3,
+      "nb_log_vacant": 90
+    },
+    {
+      "code_insee": "42248",
+      "nom": "Saint-Just-en-Chevalet",
+      "slug": "saint-just-en-chevalet-42248",
+      "taux_vacance": 16.22,
+      "nb_log_vacant": 122
+    },
+    {
+      "code_insee": "42238",
+      "nom": "Saint-Jean-la-V�tre",
+      "slug": "saint-jean-la-v-tre-42238",
+      "taux_vacance": 15.75,
+      "nb_log_vacant": 40
+    },
+    {
+      "code_insee": "42039",
+      "nom": "Chalmazel-Jeansagni�re",
+      "slug": "chalmazel-jeansagni-re-42039",
+      "taux_vacance": 15.67,
+      "nb_log_vacant": 94
+    },
+    {
+      "code_insee": "42260",
+      "nom": "Saint-Martin-la-Sauvet�",
+      "slug": "saint-martin-la-sauvet-42260",
+      "taux_vacance": 15.38,
+      "nb_log_vacant": 80
+    },
+    {
+      "code_insee": "42205",
+      "nom": "Saint-Bonnet-le-Courreau",
+      "slug": "saint-bonnet-le-courreau-42205",
+      "taux_vacance": 15.3,
+      "nb_log_vacant": 80
+    },
+    {
+      "code_insee": "42246",
+      "nom": "Saint-Julien-Molin-Molette",
+      "slug": "saint-julien-molin-molette-42246",
+      "taux_vacance": 15.21,
+      "nb_log_vacant": 110
+    },
+    {
+      "code_insee": "42287",
+      "nom": "Saint-Sauveur-en-Rue",
+      "slug": "saint-sauveur-en-rue-42287",
+      "taux_vacance": 15.2,
+      "nb_log_vacant": 95
+    },
+    {
+      "code_insee": "42195",
+      "nom": "Sail-sous-Couzan",
+      "slug": "sail-sous-couzan-42195",
+      "taux_vacance": 14.82,
+      "nb_log_vacant": 95
+    },
+    {
+      "code_insee": "42217",
+      "nom": "La C�te-Saint-Didier",
+      "slug": "la-c-te-saint-didier-42217",
+      "taux_vacance": 14.79,
+      "nb_log_vacant": 67
+    },
+    {
+      "code_insee": "42116",
+      "nom": "Jur�",
+      "slug": "jur-42116",
+      "taux_vacance": 14.75,
+      "nb_log_vacant": 27
+    },
+    {
+      "code_insee": "42318",
+      "nom": "Usson-en-Forez",
+      "slug": "usson-en-forez-42318",
+      "taux_vacance": 14.36,
+      "nb_log_vacant": 173
+    },
+    {
+      "code_insee": "42078",
+      "nom": "Le Crozet",
+      "slug": "le-crozet-42078",
+      "taux_vacance": 14.29,
+      "nb_log_vacant": 24
+    },
+    {
+      "code_insee": "42241",
+      "nom": "Saint-Jodard",
+      "slug": "saint-jodard-42241",
+      "taux_vacance": 14.21,
+      "nb_log_vacant": 27
+    }
+  ]
+}

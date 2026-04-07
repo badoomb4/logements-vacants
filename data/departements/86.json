@@ -1,0 +1,155 @@
+{
+  "code": "86",
+  "nom": "Vienne",
+  "slug": "vienne-86",
+  "code_region": "75",
+  "nom_region": "Nouvelle-Aquitaine",
+  "nb_communes": 265,
+  "nb_log_prive": 201515,
+  "nb_log_vacant": 16807,
+  "nb_log_vacant_2ans": 8959,
+  "taux_vacance": 8.34,
+  "taux_vacance_2ans": 4.45,
+  "top_communes": [
+    {
+      "code_insee": "86246",
+      "nom": "Saint-Savin",
+      "slug": "saint-savin-86246",
+      "taux_vacance": 19.84,
+      "nb_log_vacant": 125
+    },
+    {
+      "code_insee": "86001",
+      "nom": "Adriers",
+      "slug": "adriers-86001",
+      "taux_vacance": 17.93,
+      "nb_log_vacant": 90
+    },
+    {
+      "code_insee": "86108",
+      "nom": "La Grimaudi�re",
+      "slug": "la-grimaudi-re-86108",
+      "taux_vacance": 17.51,
+      "nb_log_vacant": 45
+    },
+    {
+      "code_insee": "86288",
+      "nom": "Vicq-sur-Gartempe",
+      "slug": "vicq-sur-gartempe-86288",
+      "taux_vacance": 16.93,
+      "nb_log_vacant": 95
+    },
+    {
+      "code_insee": "86118",
+      "nom": "Journet",
+      "slug": "journet-86118",
+      "taux_vacance": 16.9,
+      "nb_log_vacant": 48
+    },
+    {
+      "code_insee": "86273",
+      "nom": "La Trimouille",
+      "slug": "la-trimouille-86273",
+      "taux_vacance": 16.76,
+      "nb_log_vacant": 117
+    },
+    {
+      "code_insee": "86229",
+      "nom": "Saint-L�ger-de-Montbrillais",
+      "slug": "saint-l-ger-de-montbrillais-86229",
+      "taux_vacance": 16.67,
+      "nb_log_vacant": 44
+    },
+    {
+      "code_insee": "86097",
+      "nom": "La Ferri�re-Airoux",
+      "slug": "la-ferri-re-airoux-86097",
+      "taux_vacance": 16.36,
+      "nb_log_vacant": 27
+    },
+    {
+      "code_insee": "86120",
+      "nom": "Lathus-Saint-R�my",
+      "slug": "lathus-saint-r-my-86120",
+      "taux_vacance": 16.35,
+      "nb_log_vacant": 154
+    },
+    {
+      "code_insee": "86289",
+      "nom": "Le Vigeant",
+      "slug": "le-vigeant-86289",
+      "taux_vacance": 16.14,
+      "nb_log_vacant": 86
+    },
+    {
+      "code_insee": "86248",
+      "nom": "Saint-Secondin",
+      "slug": "saint-secondin-86248",
+      "taux_vacance": 15.63,
+      "nb_log_vacant": 53
+    },
+    {
+      "code_insee": "86159",
+      "nom": "Millac",
+      "slug": "millac-86159",
+      "taux_vacance": 15.58,
+      "nb_log_vacant": 60
+    },
+    {
+      "code_insee": "86253",
+      "nom": "Sanxay",
+      "slug": "sanxay-86253",
+      "taux_vacance": 15.54,
+      "nb_log_vacant": 60
+    },
+    {
+      "code_insee": "86234",
+      "nom": "Saint-Martin-l'Ars",
+      "slug": "saint-martin-l-ars-86234",
+      "taux_vacance": 15.24,
+      "nb_log_vacant": 48
+    },
+    {
+      "code_insee": "86236",
+      "nom": "Saint-Pierre-de-Maill�",
+      "slug": "saint-pierre-de-maill-86236",
+      "taux_vacance": 14.9,
+      "nb_log_vacant": 93
+    },
+    {
+      "code_insee": "86078",
+      "nom": "Civray",
+      "slug": "civray-86078",
+      "taux_vacance": 14.75,
+      "nb_log_vacant": 236
+    },
+    {
+      "code_insee": "86276",
+      "nom": "Usson-du-Poitou",
+      "slug": "usson-du-poitou-86276",
+      "taux_vacance": 14.44,
+      "nb_log_vacant": 109
+    },
+    {
+      "code_insee": "86064",
+      "nom": "Ch�teau-Garnier",
+      "slug": "ch-teau-garnier-86064",
+      "taux_vacance": 14.36,
+      "nb_log_vacant": 52
+    },
+    {
+      "code_insee": "86189",
+      "nom": "Payroux",
+      "slug": "payroux-86189",
+      "taux_vacance": 14.34,
+      "nb_log_vacant": 38
+    },
+    {
+      "code_insee": "86061",
+      "nom": "Charroux",
+      "slug": "charroux-86061",
+      "taux_vacance": 14.3,
+      "nb_log_vacant": 106
+    }
+  ]
+}

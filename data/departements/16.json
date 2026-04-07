@@ -1,0 +1,155 @@
+{
+  "code": "16",
+  "nom": "Charente",
+  "slug": "charente-16",
+  "code_region": "75",
+  "nom_region": "Nouvelle-Aquitaine",
+  "nb_communes": 359,
+  "nb_log_prive": 134687,
+  "nb_log_vacant": 12277,
+  "nb_log_vacant_2ans": 6659,
+  "taux_vacance": 9.12,
+  "taux_vacance_2ans": 4.94,
+  "top_communes": [
+    {
+      "code_insee": "16270",
+      "nom": "Pressignac",
+      "slug": "pressignac-16270",
+      "taux_vacance": 22.65,
+      "nb_log_vacant": 82
+    },
+    {
+      "code_insee": "16041",
+      "nom": "Bessac",
+      "slug": "bessac-16041",
+      "taux_vacance": 20.43,
+      "nb_log_vacant": 19
+    },
+    {
+      "code_insee": "16212",
+      "nom": "Massignac",
+      "slug": "massignac-16212",
+      "taux_vacance": 19.4,
+      "nb_log_vacant": 58
+    },
+    {
+      "code_insee": "16301",
+      "nom": "Saint-Aulais-la-Chapelle",
+      "slug": "saint-aulais-la-chapelle-16301",
+      "taux_vacance": 18.12,
+      "nb_log_vacant": 25
+    },
+    {
+      "code_insee": "16073",
+      "nom": "Chalais",
+      "slug": "chalais-16073",
+      "taux_vacance": 17.78,
+      "nb_log_vacant": 215
+    },
+    {
+      "code_insee": "16132",
+      "nom": "�tagnac",
+      "slug": "tagnac-16132",
+      "taux_vacance": 17.39,
+      "nb_log_vacant": 96
+    },
+    {
+      "code_insee": "16362",
+      "nom": "Salles-Lavalette",
+      "slug": "salles-lavalette-16362",
+      "taux_vacance": 17.11,
+      "nb_log_vacant": 45
+    },
+    {
+      "code_insee": "16182",
+      "nom": "Lesterps",
+      "slug": "lesterps-16182",
+      "taux_vacance": 17,
+      "nb_log_vacant": 59
+    },
+    {
+      "code_insee": "16001",
+      "nom": "Abzac",
+      "slug": "abzac-16001",
+      "taux_vacance": 16.99,
+      "nb_log_vacant": 61
+    },
+    {
+      "code_insee": "16205",
+      "nom": "Manot",
+      "slug": "manot-16205",
+      "taux_vacance": 16.71,
+      "nb_log_vacant": 63
+    },
+    {
+      "code_insee": "16116",
+      "nom": "Criteuil-la-Magdeleine",
+      "slug": "criteuil-la-magdeleine-16116",
+      "taux_vacance": 16.24,
+      "nb_log_vacant": 38
+    },
+    {
+      "code_insee": "16175",
+      "nom": "Val des Vignes",
+      "slug": "val-des-vignes-16175",
+      "taux_vacance": 16.16,
+      "nb_log_vacant": 118
+    },
+    {
+      "code_insee": "16225",
+      "nom": "Montemb�uf",
+      "slug": "montemb-uf-16225",
+      "taux_vacance": 16.14,
+      "nb_log_vacant": 67
+    },
+    {
+      "code_insee": "16268",
+      "nom": "Poursac",
+      "slug": "poursac-16268",
+      "taux_vacance": 15.79,
+      "nb_log_vacant": 27
+    },
+    {
+      "code_insee": "16375",
+      "nom": "Suaux",
+      "slug": "suaux-16375",
+      "taux_vacance": 15.77,
+      "nb_log_vacant": 35
+    },
+    {
+      "code_insee": "16020",
+      "nom": "Aubeterre-sur-Dronne",
+      "slug": "aubeterre-sur-dronne-16020",
+      "taux_vacance": 15.38,
+      "nb_log_vacant": 38
+    },
+    {
+      "code_insee": "16409",
+      "nom": "Villefagnan",
+      "slug": "villefagnan-16409",
+      "taux_vacance": 15.34,
+      "nb_log_vacant": 81
+    },
+    {
+      "code_insee": "16046",
+      "nom": "Coteaux-du-Blanzacais",
+      "slug": "coteaux-du-blanzacais-16046",
+      "taux_vacance": 15.2,
+      "nb_log_vacant": 93
+    },
+    {
+      "code_insee": "16076",
+      "nom": "Champagne-Mouton",
+      "slug": "champagne-mouton-16076",
+      "taux_vacance": 14.56,
+      "nb_log_vacant": 83
+    },
+    {
+      "code_insee": "16106",
+      "nom": "Confolens",
+      "slug": "confolens-16106",
+      "taux_vacance": 14.56,
+      "nb_log_vacant": 239
+    }
+  ]
+}

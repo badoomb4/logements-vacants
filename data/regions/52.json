@@ -1,0 +1,48 @@
+{
+  "code": "52",
+  "nom": "Pays de la Loire",
+  "slug": "pays-de-la-loire",
+  "nb_communes": 1228,
+  "nb_log_prive": 1831269,
+  "nb_log_vacant": 94774,
+  "nb_log_vacant_2ans": 42954,
+  "taux_vacance": 5.18,
+  "taux_vacance_2ans": 2.35,
+  "departements": [
+    {
+      "code": "53",
+      "nom": "Mayenne",
+      "slug": "mayenne-53",
+      "taux_vacance": 7.67,
+      "nb_log_vacant": 9851
+    },
+    {
+      "code": "72",
+      "nom": "Sarthe",
+      "slug": "sarthe-72",
+      "taux_vacance": 6.81,
+      "nb_log_vacant": 15269
+    },
+    {
+      "code": "49",
+      "nom": "Maine-et-Loire",
+      "slug": "maine-et-loire-49",
+      "taux_vacance": 5.38,
+      "nb_log_vacant": 18674
+    },
+    {
+      "code": "44",
+      "nom": "Loire-Atlantique",
+      "slug": "loire-atlantique-44",
+      "taux_vacance": 4.64,
+      "nb_log_vacant": 32832
+    },
+    {
+      "code": "85",
+      "nom": "Vend�e",
+      "slug": "vend-e-85",
+      "taux_vacance": 4.28,
+      "nb_log_vacant": 18148
+    }
+  ]
+}

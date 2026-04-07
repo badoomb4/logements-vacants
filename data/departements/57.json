@@ -1,0 +1,155 @@
+{
+  "code": "57",
+  "nom": "Moselle",
+  "slug": "moselle-57",
+  "code_region": "44",
+  "nom_region": "Grand Est",
+  "nb_communes": 725,
+  "nb_log_prive": 367964,
+  "nb_log_vacant": 28230,
+  "nb_log_vacant_2ans": 15508,
+  "taux_vacance": 7.67,
+  "taux_vacance_2ans": 4.21,
+  "top_communes": [
+    {
+      "code_insee": "57619",
+      "nom": "Saint-Louis-l�s-Bitche",
+      "slug": "saint-louis-l-s-bitche-57619",
+      "taux_vacance": 19.18,
+      "nb_log_vacant": 56
+    },
+    {
+      "code_insee": "57058",
+      "nom": "Behren-l�s-Forbach",
+      "slug": "behren-l-s-forbach-57058",
+      "taux_vacance": 18.93,
+      "nb_log_vacant": 532
+    },
+    {
+      "code_insee": "57210",
+      "nom": "F�n�trange",
+      "slug": "f-n-trange-57210",
+      "taux_vacance": 17.26,
+      "nb_log_vacant": 68
+    },
+    {
+      "code_insee": "57106",
+      "nom": "Bouzonville",
+      "slug": "bouzonville-57106",
+      "taux_vacance": 16.72,
+      "nb_log_vacant": 321
+    },
+    {
+      "code_insee": "57089",
+      "nom": "Bitche",
+      "slug": "bitche-57089",
+      "taux_vacance": 16.38,
+      "nb_log_vacant": 366
+    },
+    {
+      "code_insee": "57427",
+      "nom": "Lutzelbourg",
+      "slug": "lutzelbourg-57427",
+      "taux_vacance": 16.22,
+      "nb_log_vacant": 55
+    },
+    {
+      "code_insee": "57414",
+      "nom": "Lorquin",
+      "slug": "lorquin-57414",
+      "taux_vacance": 16.05,
+      "nb_log_vacant": 91
+    },
+    {
+      "code_insee": "57483",
+      "nom": "Morhange",
+      "slug": "morhange-57483",
+      "taux_vacance": 15.78,
+      "nb_log_vacant": 265
+    },
+    {
+      "code_insee": "57741",
+      "nom": "Walschbronn",
+      "slug": "walschbronn-57741",
+      "taux_vacance": 15.19,
+      "nb_log_vacant": 41
+    },
+    {
+      "code_insee": "57564",
+      "nom": "R�chicourt-le-Ch�teau",
+      "slug": "r-chicourt-le-ch-teau-57564",
+      "taux_vacance": 14.67,
+      "nb_log_vacant": 49
+    },
+    {
+      "code_insee": "57448",
+      "nom": "Marsal",
+      "slug": "marsal-57448",
+      "taux_vacance": 14.62,
+      "nb_log_vacant": 19
+    },
+    {
+      "code_insee": "57177",
+      "nom": "Dieuze",
+      "slug": "dieuze-57177",
+      "taux_vacance": 13.91,
+      "nb_log_vacant": 206
+    },
+    {
+      "code_insee": "57623",
+      "nom": "Saint-Quirin",
+      "slug": "saint-quirin-57623",
+      "taux_vacance": 13.72,
+      "nb_log_vacant": 55
+    },
+    {
+      "code_insee": "57132",
+      "nom": "Ch�teau-Salins",
+      "slug": "ch-teau-salins-57132",
+      "taux_vacance": 13.5,
+      "nb_log_vacant": 157
+    },
+    {
+      "code_insee": "57346",
+      "nom": "Insming",
+      "slug": "insming-57346",
+      "taux_vacance": 13.44,
+      "nb_log_vacant": 41
+    },
+    {
+      "code_insee": "57712",
+      "nom": "Vic-sur-Seille",
+      "slug": "vic-sur-seille-57712",
+      "taux_vacance": 13.22,
+      "nb_log_vacant": 83
+    },
+    {
+      "code_insee": "57332",
+      "nom": "Hombourg-Haut",
+      "slug": "hombourg-haut-57332",
+      "taux_vacance": 13,
+      "nb_log_vacant": 401
+    },
+    {
+      "code_insee": "57412",
+      "nom": "Longeville-l�s-Metz",
+      "slug": "longeville-l-s-metz-57412",
+      "taux_vacance": 12.69,
+      "nb_log_vacant": 322
+    },
+    {
+      "code_insee": "57596",
+      "nom": "Rosbruck",
+      "slug": "rosbruck-57596",
+      "taux_vacance": 12.6,
+      "nb_log_vacant": 46
+    },
+    {
+      "code_insee": "57434",
+      "nom": "Maizi�res-l�s-Vic",
+      "slug": "maizi-res-l-s-vic-57434",
+      "taux_vacance": 12.28,
+      "nb_log_vacant": 28
+    }
+  ]
+}

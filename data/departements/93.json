@@ -1,0 +1,155 @@
+{
+  "code": "93",
+  "nom": "Seine-Saint-Denis",
+  "slug": "seine-saint-denis-93",
+  "code_region": "11",
+  "nom_region": "�le-de-France",
+  "nb_communes": 39,
+  "nb_log_prive": 494074,
+  "nb_log_vacant": 34920,
+  "nb_log_vacant_2ans": 19849,
+  "taux_vacance": 7.07,
+  "taux_vacance_2ans": 4.02,
+  "top_communes": [
+    {
+      "code_insee": "93066",
+      "nom": "Saint-Denis",
+      "slug": "saint-denis-93066",
+      "taux_vacance": 10.92,
+      "nb_log_vacant": 4058
+    },
+    {
+      "code_insee": "93001",
+      "nom": "Aubervilliers",
+      "slug": "aubervilliers-93001",
+      "taux_vacance": 10.11,
+      "nb_log_vacant": 2362
+    },
+    {
+      "code_insee": "93006",
+      "nom": "Bagnolet",
+      "slug": "bagnolet-93006",
+      "taux_vacance": 10.06,
+      "nb_log_vacant": 1234
+    },
+    {
+      "code_insee": "93013",
+      "nom": "Le Bourget",
+      "slug": "le-bourget-93013",
+      "taux_vacance": 9.32,
+      "nb_log_vacant": 540
+    },
+    {
+      "code_insee": "93055",
+      "nom": "Pantin",
+      "slug": "pantin-93055",
+      "taux_vacance": 8.93,
+      "nb_log_vacant": 1643
+    },
+    {
+      "code_insee": "93070",
+      "nom": "Saint-Ouen-sur-Seine",
+      "slug": "saint-ouen-sur-seine-93070",
+      "taux_vacance": 8.88,
+      "nb_log_vacant": 1829
+    },
+    {
+      "code_insee": "93027",
+      "nom": "La Courneuve",
+      "slug": "la-courneuve-93027",
+      "taux_vacance": 8.69,
+      "nb_log_vacant": 752
+    },
+    {
+      "code_insee": "93061",
+      "nom": "Le Pr�-Saint-Gervais",
+      "slug": "le-pr-saint-gervais-93061",
+      "taux_vacance": 8.37,
+      "nb_log_vacant": 459
+    },
+    {
+      "code_insee": "93053",
+      "nom": "Noisy-le-Sec",
+      "slug": "noisy-le-sec-93053",
+      "taux_vacance": 8.03,
+      "nb_log_vacant": 1007
+    },
+    {
+      "code_insee": "93039",
+      "nom": "L'�le-Saint-Denis",
+      "slug": "l-le-saint-denis-93039",
+      "taux_vacance": 7.99,
+      "nb_log_vacant": 131
+    },
+    {
+      "code_insee": "93057",
+      "nom": "Les Pavillons-sous-Bois",
+      "slug": "les-pavillons-sous-bois-93057",
+      "taux_vacance": 7.37,
+      "nb_log_vacant": 699
+    },
+    {
+      "code_insee": "93008",
+      "nom": "Bobigny",
+      "slug": "bobigny-93008",
+      "taux_vacance": 7.29,
+      "nb_log_vacant": 868
+    },
+    {
+      "code_insee": "93063",
+      "nom": "Romainville",
+      "slug": "romainville-93063",
+      "taux_vacance": 7.15,
+      "nb_log_vacant": 780
+    },
+    {
+      "code_insee": "93072",
+      "nom": "Stains",
+      "slug": "stains-93072",
+      "taux_vacance": 7.09,
+      "nb_log_vacant": 519
+    },
+    {
+      "code_insee": "93062",
+      "nom": "Le Raincy",
+      "slug": "le-raincy-93062",
+      "taux_vacance": 7.06,
+      "nb_log_vacant": 523
+    },
+    {
+      "code_insee": "93031",
+      "nom": "�pinay-sur-Seine",
+      "slug": "pinay-sur-seine-93031",
+      "taux_vacance": 6.96,
+      "nb_log_vacant": 899
+    },
+    {
+      "code_insee": "93048",
+      "nom": "Montreuil",
+      "slug": "montreuil-93048",
+      "taux_vacance": 6.91,
+      "nb_log_vacant": 2628
+    },
+    {
+      "code_insee": "93046",
+      "nom": "Livry-Gargan",
+      "slug": "livry-gargan-93046",
+      "taux_vacance": 6.69,
+      "nb_log_vacant": 1178
+    },
+    {
+      "code_insee": "93079",
+      "nom": "Villetaneuse",
+      "slug": "villetaneuse-93079",
+      "taux_vacance": 6.59,
+      "nb_log_vacant": 113
+    },
+    {
+      "code_insee": "93029",
+      "nom": "Drancy",
+      "slug": "drancy-93029",
+      "taux_vacance": 6.52,
+      "nb_log_vacant": 1488
+    }
+  ]
+}

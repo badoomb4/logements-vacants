@@ -1,0 +1,155 @@
+{
+  "code": "94",
+  "nom": "Val-de-Marne",
+  "slug": "val-de-marne-94",
+  "code_region": "11",
+  "nom_region": "�le-de-France",
+  "nb_communes": 47,
+  "nb_log_prive": 509088,
+  "nb_log_vacant": 29080,
+  "nb_log_vacant_2ans": 13711,
+  "taux_vacance": 5.71,
+  "taux_vacance_2ans": 2.69,
+  "top_communes": [
+    {
+      "code_insee": "94078",
+      "nom": "Villeneuve-Saint-Georges",
+      "slug": "villeneuve-saint-georges-94078",
+      "taux_vacance": 8.33,
+      "nb_log_vacant": 705
+    },
+    {
+      "code_insee": "94021",
+      "nom": "Chevilly-Larue",
+      "slug": "chevilly-larue-94021",
+      "taux_vacance": 7.46,
+      "nb_log_vacant": 458
+    },
+    {
+      "code_insee": "94037",
+      "nom": "Gentilly",
+      "slug": "gentilly-94037",
+      "taux_vacance": 7.13,
+      "nb_log_vacant": 409
+    },
+    {
+      "code_insee": "94041",
+      "nom": "Ivry-sur-Seine",
+      "slug": "ivry-sur-seine-94041",
+      "taux_vacance": 7.07,
+      "nb_log_vacant": 1965
+    },
+    {
+      "code_insee": "94003",
+      "nom": "Arcueil",
+      "slug": "arcueil-94003",
+      "taux_vacance": 6.96,
+      "nb_log_vacant": 487
+    },
+    {
+      "code_insee": "94076",
+      "nom": "Villejuif",
+      "slug": "villejuif-94076",
+      "taux_vacance": 6.91,
+      "nb_log_vacant": 1399
+    },
+    {
+      "code_insee": "94022",
+      "nom": "Choisy-le-Roi",
+      "slug": "choisy-le-roi-94022",
+      "taux_vacance": 6.9,
+      "nb_log_vacant": 1025
+    },
+    {
+      "code_insee": "94043",
+      "nom": "Le Kremlin-Bic�tre",
+      "slug": "le-kremlin-bic-tre-94043",
+      "taux_vacance": 6.8,
+      "nb_log_vacant": 674
+    },
+    {
+      "code_insee": "94077",
+      "nom": "Villeneuve-le-Roi",
+      "slug": "villeneuve-le-roi-94077",
+      "taux_vacance": 6.76,
+      "nb_log_vacant": 511
+    },
+    {
+      "code_insee": "94002",
+      "nom": "Alfortville",
+      "slug": "alfortville-94002",
+      "taux_vacance": 6.34,
+      "nb_log_vacant": 1005
+    },
+    {
+      "code_insee": "94052",
+      "nom": "Nogent-sur-Marne",
+      "slug": "nogent-sur-marne-94052",
+      "taux_vacance": 6.33,
+      "nb_log_vacant": 1012
+    },
+    {
+      "code_insee": "94016",
+      "nom": "Cachan",
+      "slug": "cachan-94016",
+      "taux_vacance": 6.3,
+      "nb_log_vacant": 658
+    },
+    {
+      "code_insee": "94069",
+      "nom": "Saint-Maurice",
+      "slug": "saint-maurice-94069",
+      "taux_vacance": 6.09,
+      "nb_log_vacant": 351
+    },
+    {
+      "code_insee": "94081",
+      "nom": "Vitry-sur-Seine",
+      "slug": "vitry-sur-seine-94081",
+      "taux_vacance": 6.02,
+      "nb_log_vacant": 1616
+    },
+    {
+      "code_insee": "94004",
+      "nom": "Boissy-Saint-L�ger",
+      "slug": "boissy-saint-l-ger-94004",
+      "taux_vacance": 5.94,
+      "nb_log_vacant": 302
+    },
+    {
+      "code_insee": "94068",
+      "nom": "Saint-Maur-des-Foss�s",
+      "slug": "saint-maur-des-foss-s-94068",
+      "taux_vacance": 5.88,
+      "nb_log_vacant": 2226
+    },
+    {
+      "code_insee": "94033",
+      "nom": "Fontenay-sous-Bois",
+      "slug": "fontenay-sous-bois-94033",
+      "taux_vacance": 5.84,
+      "nb_log_vacant": 1037
+    },
+    {
+      "code_insee": "94017",
+      "nom": "Champigny-sur-Marne",
+      "slug": "champigny-sur-marne-94017",
+      "taux_vacance": 5.79,
+      "nb_log_vacant": 1307
+    },
+    {
+      "code_insee": "94011",
+      "nom": "Bonneuil-sur-Marne",
+      "slug": "bonneuil-sur-marne-94011",
+      "taux_vacance": 5.78,
+      "nb_log_vacant": 191
+    },
+    {
+      "code_insee": "94015",
+      "nom": "Bry-sur-Marne",
+      "slug": "bry-sur-marne-94015",
+      "taux_vacance": 5.68,
+      "nb_log_vacant": 408
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "code": "48",
+  "nom": "Loz�re",
+  "slug": "loz-re-48",
+  "code_region": "76",
+  "nom_region": "Occitanie",
+  "nb_communes": 152,
+  "nb_log_prive": 46659,
+  "nb_log_vacant": 5268,
+  "nb_log_vacant_2ans": 3010,
+  "taux_vacance": 11.29,
+  "taux_vacance_2ans": 6.45,
+  "top_communes": [
+    {
+      "code_insee": "48092",
+      "nom": "Marvejols",
+      "slug": "marvejols-48092",
+      "taux_vacance": 18.29,
+      "nb_log_vacant": 572
+    },
+    {
+      "code_insee": "48198",
+      "nom": "Villefort",
+      "slug": "villefort-48198",
+      "taux_vacance": 17.79,
+      "nb_log_vacant": 108
+    },
+    {
+      "code_insee": "48188",
+      "nom": "Serverette",
+      "slug": "serverette-48188",
+      "taux_vacance": 17.78,
+      "nb_log_vacant": 48
+    },
+    {
+      "code_insee": "48043",
+      "nom": "Ch�teauneuf-de-Randon",
+      "slug": "ch-teauneuf-de-randon-48043",
+      "taux_vacance": 16.54,
+      "nb_log_vacant": 44
+    },
+    {
+      "code_insee": "48168",
+      "nom": "Saint-L�ger-de-Peyre",
+      "slug": "saint-l-ger-de-peyre-48168",
+      "taux_vacance": 15.58,
+      "nb_log_vacant": 24
+    },
+    {
+      "code_insee": "48080",
+      "nom": "Langogne",
+      "slug": "langogne-48080",
+      "taux_vacance": 15.52,
+      "nb_log_vacant": 356
+    },
+    {
+      "code_insee": "48174",
+      "nom": "Saint-Paul-le-Froid",
+      "slug": "saint-paul-le-froid-48174",
+      "taux_vacance": 15.29,
+      "nb_log_vacant": 24
+    },
+    {
+      "code_insee": "48019",
+      "nom": "Barre-des-C�vennes",
+      "slug": "barre-des-c-vennes-48019",
+      "taux_vacance": 15.09,
+      "nb_log_vacant": 35
+    },
+    {
+      "code_insee": "48073",
+      "nom": "Les Hermaux",
+      "slug": "les-hermaux-48073",
+      "taux_vacance": 15.04,
+      "nb_log_vacant": 20
+    },
+    {
+      "code_insee": "48190",
+      "nom": "Termes",
+      "slug": "termes-48190",
+      "taux_vacance": 15.03,
+      "nb_log_vacant": 26
+    },
+    {
+      "code_insee": "48087",
+      "nom": "Prinsu�jols-Malbouzon",
+      "slug": "prinsu-jols-malbouzon-48087",
+      "taux_vacance": 14.35,
+      "nb_log_vacant": 34
+    },
+    {
+      "code_insee": "48012",
+      "nom": "Les Monts-Verts",
+      "slug": "les-monts-verts-48012",
+      "taux_vacance": 14.34,
+      "nb_log_vacant": 36
+    },
+    {
+      "code_insee": "48034",
+      "nom": "La Canourgue",
+      "slug": "la-canourgue-48034",
+      "taux_vacance": 13.57,
+      "nb_log_vacant": 204
+    },
+    {
+      "code_insee": "48132",
+      "nom": "Saint-Alban-sur-Limagnole",
+      "slug": "saint-alban-sur-limagnole-48132",
+      "taux_vacance": 13.07,
+      "nb_log_vacant": 131
+    },
+    {
+      "code_insee": "48148",
+      "nom": "Saint-�tienne-Vall�e-Fran�aise",
+      "slug": "saint-tienne-vall-e-fran-aise-48148",
+      "taux_vacance": 12.99,
+      "nb_log_vacant": 70
+    },
+    {
+      "code_insee": "48140",
+      "nom": "Saint-Ch�ly-d'Apcher",
+      "slug": "saint-ch-ly-d-apcher-48140",
+      "taux_vacance": 12.93,
+      "nb_log_vacant": 330
+    },
+    {
+      "code_insee": "48127",
+      "nom": "Monts-de-Randon",
+      "slug": "monts-de-randon-48127",
+      "taux_vacance": 12.73,
+      "nb_log_vacant": 133
+    },
+    {
+      "code_insee": "48090",
+      "nom": "Le Malzieu-Ville",
+      "slug": "le-malzieu-ville-48090",
+      "taux_vacance": 12.67,
+      "nb_log_vacant": 92
+    },
+    {
+      "code_insee": "48053",
+      "nom": "Cubi�res",
+      "slug": "cubi-res-48053",
+      "taux_vacance": 12.57,
+      "nb_log_vacant": 45
+    },
+    {
+      "code_insee": "48104",
+      "nom": "Nasbinals",
+      "slug": "nasbinals-48104",
+      "taux_vacance": 12.17,
+      "nb_log_vacant": 55
+    }
+  ]
+}

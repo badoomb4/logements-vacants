@@ -1,0 +1,155 @@
+{
+  "code": "47",
+  "nom": "Lot-et-Garonne",
+  "slug": "lot-et-garonne-47",
+  "code_region": "75",
+  "nom_region": "Nouvelle-Aquitaine",
+  "nb_communes": 319,
+  "nb_log_prive": 135800,
+  "nb_log_vacant": 14599,
+  "nb_log_vacant_2ans": 8720,
+  "taux_vacance": 10.75,
+  "taux_vacance_2ans": 6.42,
+  "top_communes": [
+    {
+      "code_insee": "47302",
+      "nom": "Sos",
+      "slug": "sos-47302",
+      "taux_vacance": 23.06,
+      "nb_log_vacant": 119
+    },
+    {
+      "code_insee": "47242",
+      "nom": "Saint-Front-sur-L�mance",
+      "slug": "saint-front-sur-l-mance-47242",
+      "taux_vacance": 18.26,
+      "nb_log_vacant": 65
+    },
+    {
+      "code_insee": "47173",
+      "nom": "Monclar",
+      "slug": "monclar-47173",
+      "taux_vacance": 17.77,
+      "nb_log_vacant": 94
+    },
+    {
+      "code_insee": "47193",
+      "nom": "Moulinet",
+      "slug": "moulinet-47193",
+      "taux_vacance": 17.54,
+      "nb_log_vacant": 20
+    },
+    {
+      "code_insee": "47043",
+      "nom": "Buzet-sur-Ba�se",
+      "slug": "buzet-sur-ba-se-47043",
+      "taux_vacance": 17.37,
+      "nb_log_vacant": 124
+    },
+    {
+      "code_insee": "47167",
+      "nom": "M�zin",
+      "slug": "m-zin-47167",
+      "taux_vacance": 17.08,
+      "nb_log_vacant": 159
+    },
+    {
+      "code_insee": "47106",
+      "nom": "Fumel",
+      "slug": "fumel-47106",
+      "taux_vacance": 15.71,
+      "nb_log_vacant": 450
+    },
+    {
+      "code_insee": "47318",
+      "nom": "Vianne",
+      "slug": "vianne-47318",
+      "taux_vacance": 15.66,
+      "nb_log_vacant": 96
+    },
+    {
+      "code_insee": "47057",
+      "nom": "Castillonn�s",
+      "slug": "castillonn-s-47057",
+      "taux_vacance": 15.59,
+      "nb_log_vacant": 140
+    },
+    {
+      "code_insee": "47292",
+      "nom": "Sauveterre-la-L�mance",
+      "slug": "sauveterre-la-l-mance-47292",
+      "taux_vacance": 14.62,
+      "nb_log_vacant": 63
+    },
+    {
+      "code_insee": "47324",
+      "nom": "Viller�al",
+      "slug": "viller-al-47324",
+      "taux_vacance": 14.55,
+      "nb_log_vacant": 135
+    },
+    {
+      "code_insee": "47065",
+      "nom": "Clairac",
+      "slug": "clairac-47065",
+      "taux_vacance": 14.53,
+      "nb_log_vacant": 214
+    },
+    {
+      "code_insee": "47312",
+      "nom": "Tournon-d'Agenais",
+      "slug": "tournon-d-agenais-47312",
+      "taux_vacance": 14.44,
+      "nb_log_vacant": 65
+    },
+    {
+      "code_insee": "47048",
+      "nom": "Cancon",
+      "slug": "cancon-47048",
+      "taux_vacance": 14.36,
+      "nb_log_vacant": 111
+    },
+    {
+      "code_insee": "47317",
+      "nom": "Verteuil-d'Agenais",
+      "slug": "verteuil-d-agenais-47317",
+      "taux_vacance": 14.08,
+      "nb_log_vacant": 39
+    },
+    {
+      "code_insee": "47089",
+      "nom": "Esclottes",
+      "slug": "esclottes-47089",
+      "taux_vacance": 13.86,
+      "nb_log_vacant": 14
+    },
+    {
+      "code_insee": "47078",
+      "nom": "Damazan",
+      "slug": "damazan-47078",
+      "taux_vacance": 13.82,
+      "nb_log_vacant": 110
+    },
+    {
+      "code_insee": "47025",
+      "nom": "Beauville",
+      "slug": "beauville-47025",
+      "taux_vacance": 13.7,
+      "nb_log_vacant": 50
+    },
+    {
+      "code_insee": "47165",
+      "nom": "Meilhan-sur-Garonne",
+      "slug": "meilhan-sur-garonne-47165",
+      "taux_vacance": 13.7,
+      "nb_log_vacant": 97
+    },
+    {
+      "code_insee": "47147",
+      "nom": "L�vignac-de-Guyenne",
+      "slug": "l-vignac-de-guyenne-47147",
+      "taux_vacance": 13.59,
+      "nb_log_vacant": 61
+    }
+  ]
+}

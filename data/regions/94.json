@@ -1,0 +1,27 @@
+{
+  "code": "94",
+  "nom": "Corse",
+  "slug": "corse",
+  "nb_communes": 360,
+  "nb_log_prive": 181359,
+  "nb_log_vacant": 15841,
+  "nb_log_vacant_2ans": 9481,
+  "taux_vacance": 8.73,
+  "taux_vacance_2ans": 5.23,
+  "departements": [
+    {
+      "code": "2B",
+      "nom": "Haute-Corse",
+      "slug": "haute-corse-2B",
+      "taux_vacance": 8.91,
+      "nb_log_vacant": 8021
+    },
+    {
+      "code": "2A",
+      "nom": "Corse-du-Sud",
+      "slug": "corse-du-sud-2A",
+      "taux_vacance": 8.56,
+      "nb_log_vacant": 7820
+    }
+  ]
+}

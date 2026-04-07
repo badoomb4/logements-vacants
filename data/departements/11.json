@@ -1,0 +1,155 @@
+{
+  "code": "11",
+  "nom": "Aude",
+  "slug": "aude-11",
+  "code_region": "76",
+  "nom_region": "Occitanie",
+  "nb_communes": 433,
+  "nb_log_prive": 211151,
+  "nb_log_vacant": 17924,
+  "nb_log_vacant_2ans": 10231,
+  "taux_vacance": 8.49,
+  "taux_vacance_2ans": 4.85,
+  "top_communes": [
+    {
+      "code_insee": "11386",
+      "nom": "Talairan",
+      "slug": "talairan-11386",
+      "taux_vacance": 20.24,
+      "nb_log_vacant": 67
+    },
+    {
+      "code_insee": "11021",
+      "nom": "Axat",
+      "slug": "axat-11021",
+      "taux_vacance": 20,
+      "nb_log_vacant": 93
+    },
+    {
+      "code_insee": "11310",
+      "nom": "Rennes-les-Bains",
+      "slug": "rennes-les-bains-11310",
+      "taux_vacance": 18.53,
+      "nb_log_vacant": 53
+    },
+    {
+      "code_insee": "11222",
+      "nom": "Mas-Cabard�s",
+      "slug": "mas-cabard-s-11222",
+      "taux_vacance": 18.5,
+      "nb_log_vacant": 37
+    },
+    {
+      "code_insee": "11393",
+      "nom": "Tourouzelle",
+      "slug": "tourouzelle-11393",
+      "taux_vacance": 17.74,
+      "nb_log_vacant": 66
+    },
+    {
+      "code_insee": "11091",
+      "nom": "Chalabre",
+      "slug": "chalabre-11091",
+      "taux_vacance": 17.27,
+      "nb_log_vacant": 143
+    },
+    {
+      "code_insee": "11407",
+      "nom": "Verdun-en-Lauragais",
+      "slug": "verdun-en-lauragais-11407",
+      "taux_vacance": 16,
+      "nb_log_vacant": 32
+    },
+    {
+      "code_insee": "11196",
+      "nom": "Laurac",
+      "slug": "laurac-11196",
+      "taux_vacance": 15.91,
+      "nb_log_vacant": 21
+    },
+    {
+      "code_insee": "11194",
+      "nom": "Lastours",
+      "slug": "lastours-11194",
+      "taux_vacance": 15.38,
+      "nb_log_vacant": 16
+    },
+    {
+      "code_insee": "11434",
+      "nom": "Villepinte",
+      "slug": "villepinte-11434",
+      "taux_vacance": 15.3,
+      "nb_log_vacant": 108
+    },
+    {
+      "code_insee": "11367",
+      "nom": "Saissac",
+      "slug": "saissac-11367",
+      "taux_vacance": 15.28,
+      "nb_log_vacant": 90
+    },
+    {
+      "code_insee": "11008",
+      "nom": "Alet-les-Bains",
+      "slug": "alet-les-bains-11008",
+      "taux_vacance": 15.14,
+      "nb_log_vacant": 58
+    },
+    {
+      "code_insee": "11251",
+      "nom": "Val-de-Dagne",
+      "slug": "val-de-dagne-11251",
+      "taux_vacance": 14.93,
+      "nb_log_vacant": 89
+    },
+    {
+      "code_insee": "11372",
+      "nom": "Salsigne",
+      "slug": "salsigne-11372",
+      "taux_vacance": 14.17,
+      "nb_log_vacant": 35
+    },
+    {
+      "code_insee": "11010",
+      "nom": "Antugnac",
+      "slug": "antugnac-11010",
+      "taux_vacance": 13.95,
+      "nb_log_vacant": 30
+    },
+    {
+      "code_insee": "11436",
+      "nom": "Villes�que-des-Corbi�res",
+      "slug": "villes-que-des-corbi-res-11436",
+      "taux_vacance": 13.61,
+      "nb_log_vacant": 46
+    },
+    {
+      "code_insee": "11076",
+      "nom": "Castelnaudary",
+      "slug": "castelnaudary-11076",
+      "taux_vacance": 13.5,
+      "nb_log_vacant": 782
+    },
+    {
+      "code_insee": "11146",
+      "nom": "Floure",
+      "slug": "floure-11146",
+      "taux_vacance": 13.45,
+      "nb_log_vacant": 23
+    },
+    {
+      "code_insee": "11130",
+      "nom": "Espezel",
+      "slug": "espezel-11130",
+      "taux_vacance": 13.41,
+      "nb_log_vacant": 37
+    },
+    {
+      "code_insee": "11276",
+      "nom": "Paziols",
+      "slug": "paziols-11276",
+      "taux_vacance": 13.33,
+      "nb_log_vacant": 60
+    }
+  ]
+}

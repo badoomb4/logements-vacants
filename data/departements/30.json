@@ -1,0 +1,155 @@
+{
+  "code": "30",
+  "nom": "Gard",
+  "slug": "gard-30",
+  "code_region": "76",
+  "nom_region": "Occitanie",
+  "nb_communes": 350,
+  "nb_log_prive": 356568,
+  "nb_log_vacant": 27368,
+  "nb_log_vacant_2ans": 14786,
+  "taux_vacance": 7.68,
+  "taux_vacance_2ans": 4.15,
+  "top_communes": [
+    {
+      "code_insee": "30037",
+      "nom": "Bess�ges",
+      "slug": "bess-ges-30037",
+      "taux_vacance": 23.28,
+      "nb_log_vacant": 550
+    },
+    {
+      "code_insee": "30171",
+      "nom": "Moli�res-sur-C�ze",
+      "slug": "moli-res-sur-c-ze-30171",
+      "taux_vacance": 19.02,
+      "nb_log_vacant": 152
+    },
+    {
+      "code_insee": "30132",
+      "nom": "La Grand-Combe",
+      "slug": "la-grand-combe-30132",
+      "taux_vacance": 18.81,
+      "nb_log_vacant": 413
+    },
+    {
+      "code_insee": "30264",
+      "nom": "Saint-Jean-de-Ceyrargues",
+      "slug": "saint-jean-de-ceyrargues-30264",
+      "taux_vacance": 17.7,
+      "nb_log_vacant": 20
+    },
+    {
+      "code_insee": "30009",
+      "nom": "Alzon",
+      "slug": "alzon-30009",
+      "taux_vacance": 17.52,
+      "nb_log_vacant": 55
+    },
+    {
+      "code_insee": "30159",
+      "nom": "Le Martinet",
+      "slug": "le-martinet-30159",
+      "taux_vacance": 17.19,
+      "nb_log_vacant": 104
+    },
+    {
+      "code_insee": "30227",
+      "nom": "Saint-Ambroix",
+      "slug": "saint-ambroix-30227",
+      "taux_vacance": 16.23,
+      "nb_log_vacant": 407
+    },
+    {
+      "code_insee": "30253",
+      "nom": "Saint-Florent-sur-Auzonnet",
+      "slug": "saint-florent-sur-auzonnet-30253",
+      "taux_vacance": 15.84,
+      "nb_log_vacant": 131
+    },
+    {
+      "code_insee": "30268",
+      "nom": "Saint-Jean-de-Val�riscle",
+      "slug": "saint-jean-de-val-riscle-30268",
+      "taux_vacance": 15.78,
+      "nb_log_vacant": 77
+    },
+    {
+      "code_insee": "30350",
+      "nom": "Le Vigan",
+      "slug": "le-vigan-30350",
+      "taux_vacance": 15.65,
+      "nb_log_vacant": 440
+    },
+    {
+      "code_insee": "30307",
+      "nom": "Les Salles-du-Gardon",
+      "slug": "les-salles-du-gardon-30307",
+      "taux_vacance": 14,
+      "nb_log_vacant": 162
+    },
+    {
+      "code_insee": "30229",
+      "nom": "Saint-Andr�-de-Majencoules",
+      "slug": "saint-andr-de-majencoules-30229",
+      "taux_vacance": 13.73,
+      "nb_log_vacant": 92
+    },
+    {
+      "code_insee": "30231",
+      "nom": "Saint-Andr�-de-Valborgne",
+      "slug": "saint-andr-de-valborgne-30231",
+      "taux_vacance": 13.04,
+      "nb_log_vacant": 78
+    },
+    {
+      "code_insee": "30016",
+      "nom": "Arre",
+      "slug": "arre-30016",
+      "taux_vacance": 12.8,
+      "nb_log_vacant": 32
+    },
+    {
+      "code_insee": "30288",
+      "nom": "Saint-Nazaire",
+      "slug": "saint-nazaire-30288",
+      "taux_vacance": 12.63,
+      "nb_log_vacant": 72
+    },
+    {
+      "code_insee": "30212",
+      "nom": "Remoulins",
+      "slug": "remoulins-30212",
+      "taux_vacance": 12.43,
+      "nb_log_vacant": 170
+    },
+    {
+      "code_insee": "30216",
+      "nom": "Robiac-Rochessadoule",
+      "slug": "robiac-rochessadoule-30216",
+      "taux_vacance": 12.07,
+      "nb_log_vacant": 88
+    },
+    {
+      "code_insee": "30172",
+      "nom": "Monoblet",
+      "slug": "monoblet-30172",
+      "taux_vacance": 12.03,
+      "nb_log_vacant": 61
+    },
+    {
+      "code_insee": "30181",
+      "nom": "Montmirat",
+      "slug": "montmirat-30181",
+      "taux_vacance": 12.02,
+      "nb_log_vacant": 25
+    },
+    {
+      "code_insee": "30130",
+      "nom": "G�nolhac",
+      "slug": "g-nolhac-30130",
+      "taux_vacance": 11.97,
+      "nb_log_vacant": 111
+    }
+  ]
+}

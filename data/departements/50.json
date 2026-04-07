@@ -1,0 +1,155 @@
+{
+  "code": "50",
+  "nom": "Manche",
+  "slug": "manche-50",
+  "code_region": "28",
+  "nom_region": "Normandie",
+  "nb_communes": 445,
+  "nb_log_prive": 213407,
+  "nb_log_vacant": 15389,
+  "nb_log_vacant_2ans": 8037,
+  "taux_vacance": 7.21,
+  "taux_vacance_2ans": 3.77,
+  "top_communes": [
+    {
+      "code_insee": "50029",
+      "nom": "Barenton",
+      "slug": "barenton-50029",
+      "taux_vacance": 17.19,
+      "nb_log_vacant": 120
+    },
+    {
+      "code_insee": "50570",
+      "nom": "Savigny-le-Vieux",
+      "slug": "savigny-le-vieux-50570",
+      "taux_vacance": 16.55,
+      "nb_log_vacant": 49
+    },
+    {
+      "code_insee": "50474",
+      "nom": "Saint-Georges-de-Rouelley",
+      "slug": "saint-georges-de-rouelley-50474",
+      "taux_vacance": 16.19,
+      "nb_log_vacant": 57
+    },
+    {
+      "code_insee": "50144",
+      "nom": "Coulouvray-Boisben�tre",
+      "slug": "coulouvray-boisben-tre-50144",
+      "taux_vacance": 15.95,
+      "nb_log_vacant": 56
+    },
+    {
+      "code_insee": "50437",
+      "nom": "Roncey",
+      "slug": "roncey-50437",
+      "taux_vacance": 15.72,
+      "nb_log_vacant": 64
+    },
+    {
+      "code_insee": "50227",
+      "nom": "Le Ham",
+      "slug": "le-ham-50227",
+      "taux_vacance": 15.71,
+      "nb_log_vacant": 22
+    },
+    {
+      "code_insee": "50200",
+      "nom": "Ger",
+      "slug": "ger-50200",
+      "taux_vacance": 15.13,
+      "nb_log_vacant": 82
+    },
+    {
+      "code_insee": "50591",
+      "nom": "Le Teilleul",
+      "slug": "le-teilleul-50591",
+      "taux_vacance": 15.12,
+      "nb_log_vacant": 166
+    },
+    {
+      "code_insee": "50090",
+      "nom": "Buais-Les-Monts",
+      "slug": "buais-les-monts-50090",
+      "taux_vacance": 15.03,
+      "nb_log_vacant": 72
+    },
+    {
+      "code_insee": "50525",
+      "nom": "Saint-Michel-de-Montjoie",
+      "slug": "saint-michel-de-montjoie-50525",
+      "taux_vacance": 14.93,
+      "nb_log_vacant": 40
+    },
+    {
+      "code_insee": "50456",
+      "nom": "Saint-Cl�ment-Rancoudray",
+      "slug": "saint-cl-ment-rancoudray-50456",
+      "taux_vacance": 14.44,
+      "nb_log_vacant": 52
+    },
+    {
+      "code_insee": "50158",
+      "nom": "Cuves",
+      "slug": "cuves-50158",
+      "taux_vacance": 13.87,
+      "nb_log_vacant": 24
+    },
+    {
+      "code_insee": "50152",
+      "nom": "Les Cresnays",
+      "slug": "les-cresnays-50152",
+      "taux_vacance": 13.64,
+      "nb_log_vacant": 21
+    },
+    {
+      "code_insee": "50359",
+      "nom": "Mortain-Bocage",
+      "slug": "mortain-bocage-50359",
+      "taux_vacance": 13.25,
+      "nb_log_vacant": 231
+    },
+    {
+      "code_insee": "50553",
+      "nom": "Saint-Senier-de-Beuvron",
+      "slug": "saint-senier-de-beuvron-50553",
+      "taux_vacance": 13.25,
+      "nb_log_vacant": 22
+    },
+    {
+      "code_insee": "50260",
+      "nom": "Juvigny les Vall�es",
+      "slug": "juvigny-les-vall-es-50260",
+      "taux_vacance": 13.21,
+      "nb_log_vacant": 142
+    },
+    {
+      "code_insee": "50542",
+      "nom": "Saint-Pois",
+      "slug": "saint-pois-50542",
+      "taux_vacance": 13.04,
+      "nb_log_vacant": 36
+    },
+    {
+      "code_insee": "50484",
+      "nom": "Saint-Hilaire-du-Harcou�t",
+      "slug": "saint-hilaire-du-harcou-t-50484",
+      "taux_vacance": 12.66,
+      "nb_log_vacant": 436
+    },
+    {
+      "code_insee": "50256",
+      "nom": "Isigny-le-Buat",
+      "slug": "isigny-le-buat-50256",
+      "taux_vacance": 12.24,
+      "nb_log_vacant": 216
+    },
+    {
+      "code_insee": "50371",
+      "nom": "Le Neufbourg",
+      "slug": "le-neufbourg-50371",
+      "taux_vacance": 12.22,
+      "nb_log_vacant": 33
+    }
+  ]
+}

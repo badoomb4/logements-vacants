@@ -1,0 +1,155 @@
+{
+  "code": "34",
+  "nom": "H�rault",
+  "slug": "h-rault-34",
+  "code_region": "76",
+  "nom_region": "Occitanie",
+  "nb_communes": 341,
+  "nb_log_prive": 675482,
+  "nb_log_vacant": 43214,
+  "nb_log_vacant_2ans": 21472,
+  "taux_vacance": 6.4,
+  "taux_vacance_2ans": 3.18,
+  "top_communes": [
+    {
+      "code_insee": "34284",
+      "nom": "Saint-Pons-de-Thomi�res",
+      "slug": "saint-pons-de-thomi-res-34284",
+      "taux_vacance": 23.72,
+      "nb_log_vacant": 339
+    },
+    {
+      "code_insee": "34117",
+      "nom": "Graissessac",
+      "slug": "graissessac-34117",
+      "taux_vacance": 19.82,
+      "nb_log_vacant": 130
+    },
+    {
+      "code_insee": "34260",
+      "nom": "Saint-Gervais-sur-Mare",
+      "slug": "saint-gervais-sur-mare-34260",
+      "taux_vacance": 17.91,
+      "nb_log_vacant": 144
+    },
+    {
+      "code_insee": "34187",
+      "nom": "Olargues",
+      "slug": "olargues-34187",
+      "taux_vacance": 16.89,
+      "nb_log_vacant": 89
+    },
+    {
+      "code_insee": "34028",
+      "nom": "B�darieux",
+      "slug": "b-darieux-34028",
+      "taux_vacance": 16.63,
+      "nb_log_vacant": 710
+    },
+    {
+      "code_insee": "34252",
+      "nom": "Saint-�tienne-Estr�choux",
+      "slug": "saint-tienne-estr-choux-34252",
+      "taux_vacance": 16.42,
+      "nb_log_vacant": 45
+    },
+    {
+      "code_insee": "34038",
+      "nom": "Le Bousquet-d'Orb",
+      "slug": "le-bousquet-d-orb-34038",
+      "taux_vacance": 14.62,
+      "nb_log_vacant": 157
+    },
+    {
+      "code_insee": "34071",
+      "nom": "Ceilhes-et-Rocozels",
+      "slug": "ceilhes-et-rocozels-34071",
+      "taux_vacance": 14.55,
+      "nb_log_vacant": 48
+    },
+    {
+      "code_insee": "34245",
+      "nom": "Saint-Chinian",
+      "slug": "saint-chinian-34245",
+      "taux_vacance": 14.28,
+      "nb_log_vacant": 194
+    },
+    {
+      "code_insee": "34141",
+      "nom": "La Livini�re",
+      "slug": "la-livini-re-34141",
+      "taux_vacance": 13.85,
+      "nb_log_vacant": 68
+    },
+    {
+      "code_insee": "34111",
+      "nom": "Ganges",
+      "slug": "ganges-34111",
+      "taux_vacance": 13.76,
+      "nb_log_vacant": 367
+    },
+    {
+      "code_insee": "34019",
+      "nom": "Av�ne",
+      "slug": "av-ne-34019",
+      "taux_vacance": 13.09,
+      "nb_log_vacant": 64
+    },
+    {
+      "code_insee": "34142",
+      "nom": "Lod�ve",
+      "slug": "lod-ve-34142",
+      "taux_vacance": 12.98,
+      "nb_log_vacant": 588
+    },
+    {
+      "code_insee": "34189",
+      "nom": "Olonzac",
+      "slug": "olonzac-34189",
+      "taux_vacance": 12.95,
+      "nb_log_vacant": 156
+    },
+    {
+      "code_insee": "34055",
+      "nom": "Castanet-le-Haut",
+      "slug": "castanet-le-haut-34055",
+      "taux_vacance": 12.62,
+      "nb_log_vacant": 27
+    },
+    {
+      "code_insee": "34199",
+      "nom": "P�zenas",
+      "slug": "p-zenas-34199",
+      "taux_vacance": 12.6,
+      "nb_log_vacant": 638
+    },
+    {
+      "code_insee": "34097",
+      "nom": "F�lines-Minervois",
+      "slug": "f-lines-minervois-34097",
+      "taux_vacance": 12.5,
+      "nb_log_vacant": 48
+    },
+    {
+      "code_insee": "34109",
+      "nom": "Gabian",
+      "slug": "gabian-34109",
+      "taux_vacance": 12.32,
+      "nb_log_vacant": 76
+    },
+    {
+      "code_insee": "34032",
+      "nom": "B�ziers",
+      "slug": "b-ziers-34032",
+      "taux_vacance": 11.98,
+      "nb_log_vacant": 5232
+    },
+    {
+      "code_insee": "34186",
+      "nom": "Octon",
+      "slug": "octon-34186",
+      "taux_vacance": 11.42,
+      "nb_log_vacant": 41
+    }
+  ]
+}

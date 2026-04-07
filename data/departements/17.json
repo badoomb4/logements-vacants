@@ -1,0 +1,155 @@
+{
+  "code": "17",
+  "nom": "Charente-Maritime",
+  "slug": "charente-maritime-17",
+  "code_region": "75",
+  "nom_region": "Nouvelle-Aquitaine",
+  "nb_communes": 462,
+  "nb_log_prive": 349227,
+  "nb_log_vacant": 20609,
+  "nb_log_vacant_2ans": 9588,
+  "taux_vacance": 5.9,
+  "taux_vacance_2ans": 2.75,
+  "top_communes": [
+    {
+      "code_insee": "17215",
+      "nom": "Lussac",
+      "slug": "lussac-17215",
+      "taux_vacance": 32.43,
+      "nb_log_vacant": 12
+    },
+    {
+      "code_insee": "17301",
+      "nom": "Romazi�res",
+      "slug": "romazi-res-17301",
+      "taux_vacance": 17.11,
+      "nb_log_vacant": 13
+    },
+    {
+      "code_insee": "17473",
+      "nom": "Villemorin",
+      "slug": "villemorin-17473",
+      "taux_vacance": 17,
+      "nb_log_vacant": 17
+    },
+    {
+      "code_insee": "17343",
+      "nom": "Saint-Gr�goire-d'Ardennes",
+      "slug": "saint-gr-goire-d-ardennes-17343",
+      "taux_vacance": 16.05,
+      "nb_log_vacant": 13
+    },
+    {
+      "code_insee": "17037",
+      "nom": "Beauvais-sur-Matha",
+      "slug": "beauvais-sur-matha-17037",
+      "taux_vacance": 15.63,
+      "nb_log_vacant": 58
+    },
+    {
+      "code_insee": "17312",
+      "nom": "Saint-Bonnet-sur-Gironde",
+      "slug": "saint-bonnet-sur-gironde-17312",
+      "taux_vacance": 14.87,
+      "nb_log_vacant": 80
+    },
+    {
+      "code_insee": "17377",
+      "nom": "Saint-Ouen-la-Th�ne",
+      "slug": "saint-ouen-la-th-ne-17377",
+      "taux_vacance": 14.61,
+      "nb_log_vacant": 13
+    },
+    {
+      "code_insee": "17325",
+      "nom": "Saint-Dizant-du-Gua",
+      "slug": "saint-dizant-du-gua-17325",
+      "taux_vacance": 14.39,
+      "nb_log_vacant": 59
+    },
+    {
+      "code_insee": "17362",
+      "nom": "Saint-Martial-de-Mirambeau",
+      "slug": "saint-martial-de-mirambeau-17362",
+      "taux_vacance": 14.19,
+      "nb_log_vacant": 21
+    },
+    {
+      "code_insee": "17257",
+      "nom": "N�r�",
+      "slug": "n-r-17257",
+      "taux_vacance": 13.81,
+      "nb_log_vacant": 62
+    },
+    {
+      "code_insee": "17243",
+      "nom": "Montlieu-la-Garde",
+      "slug": "montlieu-la-garde-17243",
+      "taux_vacance": 13.53,
+      "nb_log_vacant": 89
+    },
+    {
+      "code_insee": "17236",
+      "nom": "Mirambeau",
+      "slug": "mirambeau-17236",
+      "taux_vacance": 13.09,
+      "nb_log_vacant": 131
+    },
+    {
+      "code_insee": "17110",
+      "nom": "Cl�rac",
+      "slug": "cl-rac-17110",
+      "taux_vacance": 12.81,
+      "nb_log_vacant": 77
+    },
+    {
+      "code_insee": "17115",
+      "nom": "Colombiers",
+      "slug": "colombiers-17115",
+      "taux_vacance": 12.78,
+      "nb_log_vacant": 23
+    },
+    {
+      "code_insee": "17197",
+      "nom": "Jonzac",
+      "slug": "jonzac-17197",
+      "taux_vacance": 12.65,
+      "nb_log_vacant": 386
+    },
+    {
+      "code_insee": "17260",
+      "nom": "Neuvicq",
+      "slug": "neuvicq-17260",
+      "taux_vacance": 12.55,
+      "nb_log_vacant": 30
+    },
+    {
+      "code_insee": "17355",
+      "nom": "Sainte-Lheurine",
+      "slug": "sainte-lheurine-17355",
+      "taux_vacance": 12.55,
+      "nb_log_vacant": 33
+    },
+    {
+      "code_insee": "17240",
+      "nom": "Montendre",
+      "slug": "montendre-17240",
+      "taux_vacance": 12.33,
+      "nb_log_vacant": 252
+    },
+    {
+      "code_insee": "17347",
+      "nom": "Saint-Jean-d'Ang�ly",
+      "slug": "saint-jean-d-ang-ly-17347",
+      "taux_vacance": 11.93,
+      "nb_log_vacant": 526
+    },
+    {
+      "code_insee": "17241",
+      "nom": "Montguyon",
+      "slug": "montguyon-17241",
+      "taux_vacance": 11.76,
+      "nb_log_vacant": 104
+    }
+  ]
+}

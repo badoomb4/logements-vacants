@@ -1,0 +1,155 @@
+{
+  "code": "40",
+  "nom": "Landes",
+  "slug": "landes-40",
+  "code_region": "75",
+  "nom_region": "Nouvelle-Aquitaine",
+  "nb_communes": 327,
+  "nb_log_prive": 219502,
+  "nb_log_vacant": 13864,
+  "nb_log_vacant_2ans": 7050,
+  "taux_vacance": 6.32,
+  "taux_vacance_2ans": 3.21,
+  "top_communes": [
+    {
+      "code_insee": "40158",
+      "nom": "Losse",
+      "slug": "losse-40158",
+      "taux_vacance": 21.2,
+      "nb_log_vacant": 46
+    },
+    {
+      "code_insee": "40297",
+      "nom": "Le Sen",
+      "slug": "le-sen-40297",
+      "taux_vacance": 19.59,
+      "nb_log_vacant": 19
+    },
+    {
+      "code_insee": "40164",
+      "nom": "Retjons",
+      "slug": "retjons-40164",
+      "taux_vacance": 19.39,
+      "nb_log_vacant": 38
+    },
+    {
+      "code_insee": "40131",
+      "nom": "Labastide-d'Armagnac",
+      "slug": "labastide-d-armagnac-40131",
+      "taux_vacance": 16.12,
+      "nb_log_vacant": 74
+    },
+    {
+      "code_insee": "40221",
+      "nom": "Perquie",
+      "slug": "perquie-40221",
+      "taux_vacance": 14.2,
+      "nb_log_vacant": 25
+    },
+    {
+      "code_insee": "40267",
+      "nom": "Saint-Justin",
+      "slug": "saint-justin-40267",
+      "taux_vacance": 13.81,
+      "nb_log_vacant": 78
+    },
+    {
+      "code_insee": "40068",
+      "nom": "Cassen",
+      "slug": "cassen-40068",
+      "taux_vacance": 13.58,
+      "nb_log_vacant": 58
+    },
+    {
+      "code_insee": "40087",
+      "nom": "Cr�on-d'Armagnac",
+      "slug": "cr-on-d-armagnac-40087",
+      "taux_vacance": 13.33,
+      "nb_log_vacant": 24
+    },
+    {
+      "code_insee": "40303",
+      "nom": "Solf�rino",
+      "slug": "solf-rino-40303",
+      "taux_vacance": 13.18,
+      "nb_log_vacant": 29
+    },
+    {
+      "code_insee": "40100",
+      "nom": "Le Fr�che",
+      "slug": "le-fr-che-40100",
+      "taux_vacance": 13.12,
+      "nb_log_vacant": 29
+    },
+    {
+      "code_insee": "40327",
+      "nom": "Vielle-Soubiran",
+      "slug": "vielle-soubiran-40327",
+      "taux_vacance": 13.01,
+      "nb_log_vacant": 16
+    },
+    {
+      "code_insee": "40167",
+      "nom": "Luxey",
+      "slug": "luxey-40167",
+      "taux_vacance": 12.89,
+      "nb_log_vacant": 58
+    },
+    {
+      "code_insee": "40149",
+      "nom": "Lencouacq",
+      "slug": "lencouacq-40149",
+      "taux_vacance": 12.03,
+      "nb_log_vacant": 32
+    },
+    {
+      "code_insee": "40006",
+      "nom": "Arengosse",
+      "slug": "arengosse-40006",
+      "taux_vacance": 11.65,
+      "nb_log_vacant": 46
+    },
+    {
+      "code_insee": "40246",
+      "nom": "Sabres",
+      "slug": "sabres-40246",
+      "taux_vacance": 11.6,
+      "nb_log_vacant": 79
+    },
+    {
+      "code_insee": "40102",
+      "nom": "Gabarret",
+      "slug": "gabarret-40102",
+      "taux_vacance": 11.49,
+      "nb_log_vacant": 90
+    },
+    {
+      "code_insee": "40060",
+      "nom": "Callen",
+      "slug": "callen-40060",
+      "taux_vacance": 11.21,
+      "nb_log_vacant": 13
+    },
+    {
+      "code_insee": "40118",
+      "nom": "Habas",
+      "slug": "habas-40118",
+      "taux_vacance": 11.04,
+      "nb_log_vacant": 88
+    },
+    {
+      "code_insee": "40200",
+      "nom": "Moustey",
+      "slug": "moustey-40200",
+      "taux_vacance": 10.69,
+      "nb_log_vacant": 42
+    },
+    {
+      "code_insee": "40224",
+      "nom": "Peyrehorade",
+      "slug": "peyrehorade-40224",
+      "taux_vacance": 10.37,
+      "nb_log_vacant": 195
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "code": "83",
+  "nom": "Var",
+  "slug": "var-83",
+  "code_region": "93",
+  "nom_region": "Provence-Alpes-C�te d'Azur",
+  "nb_communes": 153,
+  "nb_log_prive": 703685,
+  "nb_log_vacant": 42510,
+  "nb_log_vacant_2ans": 20479,
+  "taux_vacance": 6.04,
+  "taux_vacance_2ans": 2.91,
+  "top_communes": [
+    {
+      "code_insee": "83044",
+      "nom": "Comps-sur-Artuby",
+      "slug": "comps-sur-artuby-83044",
+      "taux_vacance": 17.24,
+      "nb_log_vacant": 50
+    },
+    {
+      "code_insee": "83082",
+      "nom": "Montferrat",
+      "slug": "montferrat-83082",
+      "taux_vacance": 16.58,
+      "nb_log_vacant": 62
+    },
+    {
+      "code_insee": "83011",
+      "nom": "Bargemon",
+      "slug": "bargemon-83011",
+      "taux_vacance": 14.13,
+      "nb_log_vacant": 199
+    },
+    {
+      "code_insee": "83145",
+      "nom": "Varages",
+      "slug": "varages-83145",
+      "taux_vacance": 13.67,
+      "nb_log_vacant": 134
+    },
+    {
+      "code_insee": "83045",
+      "nom": "Correns",
+      "slug": "correns-83045",
+      "taux_vacance": 13.04,
+      "nb_log_vacant": 88
+    },
+    {
+      "code_insee": "83067",
+      "nom": "Gonfaron",
+      "slug": "gonfaron-83067",
+      "taux_vacance": 12.28,
+      "nb_log_vacant": 326
+    },
+    {
+      "code_insee": "83012",
+      "nom": "Barjols",
+      "slug": "barjols-83012",
+      "taux_vacance": 12.18,
+      "nb_log_vacant": 275
+    },
+    {
+      "code_insee": "83010",
+      "nom": "Barg�me",
+      "slug": "barg-me-83010",
+      "taux_vacance": 12.12,
+      "nb_log_vacant": 20
+    },
+    {
+      "code_insee": "83084",
+      "nom": "Montmeyan",
+      "slug": "montmeyan-83084",
+      "taux_vacance": 12.05,
+      "nb_log_vacant": 64
+    },
+    {
+      "code_insee": "83026",
+      "nom": "Cabasse",
+      "slug": "cabasse-83026",
+      "taux_vacance": 11.16,
+      "nb_log_vacant": 135
+    },
+    {
+      "code_insee": "83066",
+      "nom": "Ginasservis",
+      "slug": "ginasservis-83066",
+      "taux_vacance": 11.06,
+      "nb_log_vacant": 116
+    },
+    {
+      "code_insee": "83007",
+      "nom": "Aups",
+      "slug": "aups-83007",
+      "taux_vacance": 11,
+      "nb_log_vacant": 221
+    },
+    {
+      "code_insee": "83121",
+      "nom": "Salernes",
+      "slug": "salernes-83121",
+      "taux_vacance": 10.98,
+      "nb_log_vacant": 327
+    },
+    {
+      "code_insee": "83043",
+      "nom": "Collobri�res",
+      "slug": "collobri-res-83043",
+      "taux_vacance": 10.71,
+      "nb_log_vacant": 155
+    },
+    {
+      "code_insee": "83135",
+      "nom": "Tavernes",
+      "slug": "tavernes-83135",
+      "taux_vacance": 10.71,
+      "nb_log_vacant": 116
+    },
+    {
+      "code_insee": "83142",
+      "nom": "Trigance",
+      "slug": "trigance-83142",
+      "taux_vacance": 10.53,
+      "nb_log_vacant": 26
+    },
+    {
+      "code_insee": "83028",
+      "nom": "Callas",
+      "slug": "callas-83028",
+      "taux_vacance": 10.48,
+      "nb_log_vacant": 152
+    },
+    {
+      "code_insee": "83038",
+      "nom": "Ch�teaudouble",
+      "slug": "ch-teaudouble-83038",
+      "taux_vacance": 10.29,
+      "nb_log_vacant": 36
+    },
+    {
+      "code_insee": "83041",
+      "nom": "Claviers",
+      "slug": "claviers-83041",
+      "taux_vacance": 10.27,
+      "nb_log_vacant": 75
+    },
+    {
+      "code_insee": "83002",
+      "nom": "Aiguines",
+      "slug": "aiguines-83002",
+      "taux_vacance": 9.9,
+      "nb_log_vacant": 31
+    }
+  ]
+}

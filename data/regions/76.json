@@ -1,0 +1,104 @@
+{
+  "code": "76",
+  "nom": "Occitanie",
+  "slug": "occitanie",
+  "nb_communes": 4445,
+  "nb_log_prive": 3002653,
+  "nb_log_vacant": 228469,
+  "nb_log_vacant_2ans": 118518,
+  "taux_vacance": 7.61,
+  "taux_vacance_2ans": 3.95,
+  "departements": [
+    {
+      "code": "12",
+      "nom": "Aveyron",
+      "slug": "aveyron-12",
+      "taux_vacance": 11.54,
+      "nb_log_vacant": 17312
+    },
+    {
+      "code": "48",
+      "nom": "Loz�re",
+      "slug": "loz-re-48",
+      "taux_vacance": 11.29,
+      "nb_log_vacant": 5268
+    },
+    {
+      "code": "46",
+      "nom": "Lot",
+      "slug": "lot-46",
+      "taux_vacance": 10.41,
+      "nb_log_vacant": 7763
+    },
+    {
+      "code": "32",
+      "nom": "Gers",
+      "slug": "gers-32",
+      "taux_vacance": 10.22,
+      "nb_log_vacant": 7037
+    },
+    {
+      "code": "65",
+      "nom": "Hautes-Pyr�n�es",
+      "slug": "hautes-pyr-n-es-65",
+      "taux_vacance": 10.14,
+      "nb_log_vacant": 10927
+    },
+    {
+      "code": "09",
+      "nom": "Ari�ge",
+      "slug": "ari-ge-09",
+      "taux_vacance": 9.6,
+      "nb_log_vacant": 6985
+    },
+    {
+      "code": "81",
+      "nom": "Tarn",
+      "slug": "tarn-81",
+      "taux_vacance": 8.62,
+      "nb_log_vacant": 14054
+    },
+    {
+      "code": "11",
+      "nom": "Aude",
+      "slug": "aude-11",
+      "taux_vacance": 8.49,
+      "nb_log_vacant": 17924
+    },
+    {
+      "code": "82",
+      "nom": "Tarn-et-Garonne",
+      "slug": "tarn-et-garonne-82",
+      "taux_vacance": 7.81,
+      "nb_log_vacant": 8609
+    },
+    {
+      "code": "30",
+      "nom": "Gard",
+      "slug": "gard-30",
+      "taux_vacance": 7.68,
+      "nb_log_vacant": 27368
+    },
+    {
+      "code": "66",
+      "nom": "Pyr�n�es-Orientales",
+      "slug": "pyr-n-es-orientales-66",
+      "taux_vacance": 7.48,
+      "nb_log_vacant": 24181
+    },
+    {
+      "code": "34",
+      "nom": "H�rault",
+      "slug": "h-rault-34",
+      "taux_vacance": 6.4,
+      "nb_log_vacant": 43214
+    },
+    {
+      "code": "31",
+      "nom": "Haute-Garonne",
+      "slug": "haute-garonne-31",
+      "taux_vacance": 5.89,
+      "nb_log_vacant": 37827
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "code": "26",
+  "nom": "Dr�me",
+  "slug": "dr-me-26",
+  "code_region": "84",
+  "nom_region": "Auvergne-Rh�ne-Alpes",
+  "nb_communes": 362,
+  "nb_log_prive": 237725,
+  "nb_log_vacant": 17205,
+  "nb_log_vacant_2ans": 8841,
+  "taux_vacance": 7.24,
+  "taux_vacance_2ans": 3.72,
+  "top_communes": [
+    {
+      "code_insee": "26333",
+      "nom": "Saint-Vallier",
+      "slug": "saint-vallier-26333",
+      "taux_vacance": 15.4,
+      "nb_log_vacant": 299
+    },
+    {
+      "code_insee": "26263",
+      "nom": "Reilhanette",
+      "slug": "reilhanette-26263",
+      "taux_vacance": 15.38,
+      "nb_log_vacant": 22
+    },
+    {
+      "code_insee": "26340",
+      "nom": "S�deron",
+      "slug": "s-deron-26340",
+      "taux_vacance": 15.23,
+      "nb_log_vacant": 46
+    },
+    {
+      "code_insee": "26060",
+      "nom": "Bouvi�res",
+      "slug": "bouvi-res-26060",
+      "taux_vacance": 14.19,
+      "nb_log_vacant": 22
+    },
+    {
+      "code_insee": "26357",
+      "nom": "Tulette",
+      "slug": "tulette-26357",
+      "taux_vacance": 13.81,
+      "nb_log_vacant": 156
+    },
+    {
+      "code_insee": "26264",
+      "nom": "R�muzat",
+      "slug": "r-muzat-26264",
+      "taux_vacance": 13.52,
+      "nb_log_vacant": 38
+    },
+    {
+      "code_insee": "26059",
+      "nom": "Bouvante",
+      "slug": "bouvante-26059",
+      "taux_vacance": 12.84,
+      "nb_log_vacant": 33
+    },
+    {
+      "code_insee": "26373",
+      "nom": "Vesc",
+      "slug": "vesc-26373",
+      "taux_vacance": 12.37,
+      "nb_log_vacant": 23
+    },
+    {
+      "code_insee": "26238",
+      "nom": "Les Pilles",
+      "slug": "les-pilles-26238",
+      "taux_vacance": 12.29,
+      "nb_log_vacant": 22
+    },
+    {
+      "code_insee": "26314",
+      "nom": "Saint-Martin-d'Ao�t",
+      "slug": "saint-martin-d-ao-t-26314",
+      "taux_vacance": 11.5,
+      "nb_log_vacant": 23
+    },
+    {
+      "code_insee": "26320",
+      "nom": "Saint-Nazaire-en-Royans",
+      "slug": "saint-nazaire-en-royans-26320",
+      "taux_vacance": 10.66,
+      "nb_log_vacant": 42
+    },
+    {
+      "code_insee": "26215",
+      "nom": "La Motte-Chalancon",
+      "slug": "la-motte-chalancon-26215",
+      "taux_vacance": 10.62,
+      "nb_log_vacant": 50
+    },
+    {
+      "code_insee": "26143",
+      "nom": "Le Grand-Serre",
+      "slug": "le-grand-serre-26143",
+      "taux_vacance": 10.57,
+      "nb_log_vacant": 54
+    },
+    {
+      "code_insee": "26210",
+      "nom": "Valherbasse",
+      "slug": "valherbasse-26210",
+      "taux_vacance": 10.22,
+      "nb_log_vacant": 57
+    },
+    {
+      "code_insee": "26198",
+      "nom": "Mont�limar",
+      "slug": "mont-limar-26198",
+      "taux_vacance": 10.06,
+      "nb_log_vacant": 2016
+    },
+    {
+      "code_insee": "26056",
+      "nom": "Bourdeaux",
+      "slug": "bourdeaux-26056",
+      "taux_vacance": 10.04,
+      "nb_log_vacant": 49
+    },
+    {
+      "code_insee": "26193",
+      "nom": "Montbrun-les-Bains",
+      "slug": "montbrun-les-bains-26193",
+      "taux_vacance": 9.97,
+      "nb_log_vacant": 70
+    },
+    {
+      "code_insee": "26146",
+      "nom": "Grignan",
+      "slug": "grignan-26146",
+      "taux_vacance": 9.93,
+      "nb_log_vacant": 117
+    },
+    {
+      "code_insee": "26307",
+      "nom": "Saint-Jean-en-Royans",
+      "slug": "saint-jean-en-royans-26307",
+      "taux_vacance": 9.68,
+      "nb_log_vacant": 164
+    },
+    {
+      "code_insee": "26040",
+      "nom": "Beauri�res",
+      "slug": "beauri-res-26040",
+      "taux_vacance": 9.65,
+      "nb_log_vacant": 11
+    }
+  ]
+}

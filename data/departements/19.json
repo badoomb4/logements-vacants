@@ -1,0 +1,155 @@
+{
+  "code": "19",
+  "nom": "Corr�ze",
+  "slug": "corr-ze-19",
+  "code_region": "75",
+  "nom_region": "Nouvelle-Aquitaine",
+  "nb_communes": 277,
+  "nb_log_prive": 120857,
+  "nb_log_vacant": 13549,
+  "nb_log_vacant_2ans": 8236,
+  "taux_vacance": 11.21,
+  "taux_vacance_2ans": 6.81,
+  "top_communes": [
+    {
+      "code_insee": "19028",
+      "nom": "Bort-les-Orgues",
+      "slug": "bort-les-orgues-19028",
+      "taux_vacance": 23.57,
+      "nb_log_vacant": 490
+    },
+    {
+      "code_insee": "19080",
+      "nom": "Eygurande",
+      "slug": "eygurande-19080",
+      "taux_vacance": 20.46,
+      "nb_log_vacant": 80
+    },
+    {
+      "code_insee": "19108",
+      "nom": "Laroche-pr�s-Feyt",
+      "slug": "laroche-pr-s-feyt-19108",
+      "taux_vacance": 20.25,
+      "nb_log_vacant": 16
+    },
+    {
+      "code_insee": "19134",
+      "nom": "Merlines",
+      "slug": "merlines-19134",
+      "taux_vacance": 19.2,
+      "nb_log_vacant": 96
+    },
+    {
+      "code_insee": "19272",
+      "nom": "Tulle",
+      "slug": "tulle-19272",
+      "taux_vacance": 19.2,
+      "nb_log_vacant": 1692
+    },
+    {
+      "code_insee": "19276",
+      "nom": "Uzerche",
+      "slug": "uzerche-19276",
+      "taux_vacance": 19.15,
+      "nb_log_vacant": 303
+    },
+    {
+      "code_insee": "19034",
+      "nom": "Camps-Saint-Mathurin-L�obazel",
+      "slug": "camps-saint-mathurin-l-obazel-19034",
+      "taux_vacance": 18.32,
+      "nb_log_vacant": 35
+    },
+    {
+      "code_insee": "19131",
+      "nom": "Meilhards",
+      "slug": "meilhards-19131",
+      "taux_vacance": 17.38,
+      "nb_log_vacant": 81
+    },
+    {
+      "code_insee": "19141",
+      "nom": "Monestier-Merlines",
+      "slug": "monestier-merlines-19141",
+      "taux_vacance": 17.02,
+      "nb_log_vacant": 24
+    },
+    {
+      "code_insee": "19264",
+      "nom": "Soursac",
+      "slug": "soursac-19264",
+      "taux_vacance": 16.94,
+      "nb_log_vacant": 82
+    },
+    {
+      "code_insee": "19148",
+      "nom": "Neuvic",
+      "slug": "neuvic-19148",
+      "taux_vacance": 16.89,
+      "nb_log_vacant": 206
+    },
+    {
+      "code_insee": "19002",
+      "nom": "Aix",
+      "slug": "aix-19002",
+      "taux_vacance": 16.6,
+      "nb_log_vacant": 43
+    },
+    {
+      "code_insee": "19250",
+      "nom": "Salon-la-Tour",
+      "slug": "salon-la-tour-19250",
+      "taux_vacance": 15.84,
+      "nb_log_vacant": 77
+    },
+    {
+      "code_insee": "19121",
+      "nom": "Lubersac",
+      "slug": "lubersac-19121",
+      "taux_vacance": 15.71,
+      "nb_log_vacant": 230
+    },
+    {
+      "code_insee": "19062",
+      "nom": "Corr�ze",
+      "slug": "corr-ze-19062",
+      "taux_vacance": 15.59,
+      "nb_log_vacant": 130
+    },
+    {
+      "code_insee": "19192",
+      "nom": "Saint-Chamant",
+      "slug": "saint-chamant-19192",
+      "taux_vacance": 15.57,
+      "nb_log_vacant": 57
+    },
+    {
+      "code_insee": "19079",
+      "nom": "Eyburie",
+      "slug": "eyburie-19079",
+      "taux_vacance": 15.43,
+      "nb_log_vacant": 58
+    },
+    {
+      "code_insee": "19019",
+      "nom": "Beaulieu-sur-Dordogne",
+      "slug": "beaulieu-sur-dordogne-19019",
+      "taux_vacance": 15.25,
+      "nb_log_vacant": 174
+    },
+    {
+      "code_insee": "19130",
+      "nom": "Maussac",
+      "slug": "maussac-19130",
+      "taux_vacance": 15.23,
+      "nb_log_vacant": 46
+    },
+    {
+      "code_insee": "19061",
+      "nom": "Cornil",
+      "slug": "cornil-19061",
+      "taux_vacance": 15.14,
+      "nb_log_vacant": 94
+    }
+  ]
+}

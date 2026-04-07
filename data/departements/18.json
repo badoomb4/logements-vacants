@@ -1,0 +1,155 @@
+{
+  "code": "18",
+  "nom": "Cher",
+  "slug": "cher-18",
+  "code_region": "24",
+  "nom_region": "Centre-Val de Loire",
+  "nb_communes": 286,
+  "nb_log_prive": 131539,
+  "nb_log_vacant": 14908,
+  "nb_log_vacant_2ans": 8862,
+  "taux_vacance": 11.33,
+  "taux_vacance_2ans": 6.74,
+  "top_communes": [
+    {
+      "code_insee": "18058",
+      "nom": "Ch�teauneuf-sur-Cher",
+      "slug": "ch-teauneuf-sur-cher-18058",
+      "taux_vacance": 28.83,
+      "nb_log_vacant": 301
+    },
+    {
+      "code_insee": "18002",
+      "nom": "Ainay-le-Vieil",
+      "slug": "ainay-le-vieil-18002",
+      "taux_vacance": 22.39,
+      "nb_log_vacant": 30
+    },
+    {
+      "code_insee": "18083",
+      "nom": "Culan",
+      "slug": "culan-18083",
+      "taux_vacance": 21.54,
+      "nb_log_vacant": 115
+    },
+    {
+      "code_insee": "18088",
+      "nom": "Ennordres",
+      "slug": "ennordres-18088",
+      "taux_vacance": 21.34,
+      "nb_log_vacant": 35
+    },
+    {
+      "code_insee": "18057",
+      "nom": "Ch�teaumeillant",
+      "slug": "ch-teaumeillant-18057",
+      "taux_vacance": 21.23,
+      "nb_log_vacant": 282
+    },
+    {
+      "code_insee": "18038",
+      "nom": "Bru�re-Allichamps",
+      "slug": "bru-re-allichamps-18038",
+      "taux_vacance": 19.9,
+      "nb_log_vacant": 78
+    },
+    {
+      "code_insee": "18031",
+      "nom": "Blet",
+      "slug": "blet-18031",
+      "taux_vacance": 19.64,
+      "nb_log_vacant": 77
+    },
+    {
+      "code_insee": "18149",
+      "nom": "M�ry-�s-Bois",
+      "slug": "m-ry-s-bois-18149",
+      "taux_vacance": 19.53,
+      "nb_log_vacant": 84
+    },
+    {
+      "code_insee": "18039",
+      "nom": "Bu�",
+      "slug": "bu-18039",
+      "taux_vacance": 19.34,
+      "nb_log_vacant": 47
+    },
+    {
+      "code_insee": "18072",
+      "nom": "Cornusse",
+      "slug": "cornusse-18072",
+      "taux_vacance": 19.28,
+      "nb_log_vacant": 32
+    },
+    {
+      "code_insee": "18127",
+      "nom": "Ligni�res",
+      "slug": "ligni-res-18127",
+      "taux_vacance": 18.99,
+      "nb_log_vacant": 180
+    },
+    {
+      "code_insee": "18129",
+      "nom": "Lissay-Lochy",
+      "slug": "lissay-lochy-18129",
+      "taux_vacance": 18.52,
+      "nb_log_vacant": 20
+    },
+    {
+      "code_insee": "18029",
+      "nom": "Bessais-le-Fromental",
+      "slug": "bessais-le-fromental-18029",
+      "taux_vacance": 18.35,
+      "nb_log_vacant": 49
+    },
+    {
+      "code_insee": "18191",
+      "nom": "Raymond",
+      "slug": "raymond-18191",
+      "taux_vacance": 18.28,
+      "nb_log_vacant": 17
+    },
+    {
+      "code_insee": "18278",
+      "nom": "Vesdun",
+      "slug": "vesdun-18278",
+      "taux_vacance": 18.22,
+      "nb_log_vacant": 80
+    },
+    {
+      "code_insee": "18171",
+      "nom": "Orcenais",
+      "slug": "orcenais-18171",
+      "taux_vacance": 18.11,
+      "nb_log_vacant": 23
+    },
+    {
+      "code_insee": "18241",
+      "nom": "Sancerre",
+      "slug": "sancerre-18241",
+      "taux_vacance": 17.94,
+      "nb_log_vacant": 179
+    },
+    {
+      "code_insee": "18047",
+      "nom": "La Chapelle-d'Angillon",
+      "slug": "la-chapelle-d-angillon-18047",
+      "taux_vacance": 17.74,
+      "nb_log_vacant": 66
+    },
+    {
+      "code_insee": "18059",
+      "nom": "Le Ch�telet",
+      "slug": "le-ch-telet-18059",
+      "taux_vacance": 17.73,
+      "nb_log_vacant": 111
+    },
+    {
+      "code_insee": "18187",
+      "nom": "Pr�veranges",
+      "slug": "pr-veranges-18187",
+      "taux_vacance": 17.59,
+      "nb_log_vacant": 98
+    }
+  ]
+}

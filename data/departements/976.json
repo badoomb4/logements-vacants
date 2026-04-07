@@ -1,0 +1,134 @@
+{
+  "code": "976",
+  "nom": "Mayotte",
+  "slug": "mayotte-976",
+  "code_region": "06",
+  "nom_region": "Mayotte",
+  "nb_communes": 17,
+  "nb_log_prive": 30332,
+  "nb_log_vacant": 3341,
+  "nb_log_vacant_2ans": 2337,
+  "taux_vacance": 11.01,
+  "taux_vacance_2ans": 7.7,
+  "top_communes": [
+    {
+      "code_insee": "97607",
+      "nom": "Dembeni",
+      "slug": "dembeni-97607",
+      "taux_vacance": 16.3,
+      "nb_log_vacant": 200
+    },
+    {
+      "code_insee": "97611",
+      "nom": "Mamoudzou",
+      "slug": "mamoudzou-97611",
+      "taux_vacance": 15.6,
+      "nb_log_vacant": 967
+    },
+    {
+      "code_insee": "97616",
+      "nom": "Sada",
+      "slug": "sada-97616",
+      "taux_vacance": 15.07,
+      "nb_log_vacant": 273
+    },
+    {
+      "code_insee": "97610",
+      "nom": "Koungou",
+      "slug": "koungou-97610",
+      "taux_vacance": 13.67,
+      "nb_log_vacant": 311
+    },
+    {
+      "code_insee": "97613",
+      "nom": "M'Tsangamouji",
+      "slug": "m-tsangamouji-97613",
+      "taux_vacance": 13.58,
+      "nb_log_vacant": 180
+    },
+    {
+      "code_insee": "97615",
+      "nom": "Pamandzi",
+      "slug": "pamandzi-97615",
+      "taux_vacance": 12.22,
+      "nb_log_vacant": 187
+    },
+    {
+      "code_insee": "97612",
+      "nom": "Mtsamboro",
+      "slug": "mtsamboro-97612",
+      "taux_vacance": 10.9,
+      "nb_log_vacant": 163
+    },
+    {
+      "code_insee": "97601",
+      "nom": "Acoua",
+      "slug": "acoua-97601",
+      "taux_vacance": 10.22,
+      "nb_log_vacant": 94
+    },
+    {
+      "code_insee": "97609",
+      "nom": "Kani-K�li",
+      "slug": "kani-k-li-97609",
+      "taux_vacance": 9.74,
+      "nb_log_vacant": 76
+    },
+    {
+      "code_insee": "97604",
+      "nom": "Bou�ni",
+      "slug": "bou-ni-97604",
+      "taux_vacance": 9.64,
+      "nb_log_vacant": 151
+    },
+    {
+      "code_insee": "97603",
+      "nom": "Bandrele",
+      "slug": "bandrele-97603",
+      "taux_vacance": 8.84,
+      "nb_log_vacant": 145
+    },
+    {
+      "code_insee": "97608",
+      "nom": "Dzaoudzi",
+      "slug": "dzaoudzi-97608",
+      "taux_vacance": 8.73,
+      "nb_log_vacant": 171
+    },
+    {
+      "code_insee": "97614",
+      "nom": "Ouangani",
+      "slug": "ouangani-97614",
+      "taux_vacance": 8.37,
+      "nb_log_vacant": 79
+    },
+    {
+      "code_insee": "97606",
+      "nom": "Chirongui",
+      "slug": "chirongui-97606",
+      "taux_vacance": 5.69,
+      "nb_log_vacant": 100
+    },
+    {
+      "code_insee": "97617",
+      "nom": "Tsingoni",
+      "slug": "tsingoni-97617",
+      "taux_vacance": 5.64,
+      "nb_log_vacant": 120
+    },
+    {
+      "code_insee": "97602",
+      "nom": "Bandraboua",
+      "slug": "bandraboua-97602",
+      "taux_vacance": 5.29,
+      "nb_log_vacant": 70
+    },
+    {
+      "code_insee": "97605",
+      "nom": "Chiconi",
+      "slug": "chiconi-97605",
+      "taux_vacance": 3.72,
+      "nb_log_vacant": 54
+    }
+  ]
+}

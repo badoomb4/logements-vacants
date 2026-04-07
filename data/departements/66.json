@@ -1,0 +1,155 @@
+{
+  "code": "66",
+  "nom": "Pyr�n�es-Orientales",
+  "slug": "pyr-n-es-orientales-66",
+  "code_region": "76",
+  "nom_region": "Occitanie",
+  "nb_communes": 226,
+  "nb_log_prive": 323434,
+  "nb_log_vacant": 24181,
+  "nb_log_vacant_2ans": 12446,
+  "taux_vacance": 7.48,
+  "taux_vacance_2ans": 3.85,
+  "top_communes": [
+    {
+      "code_insee": "66223",
+      "nom": "Villefranche-de-Conflent",
+      "slug": "villefranche-de-conflent-66223",
+      "taux_vacance": 25.99,
+      "nb_log_vacant": 59
+    },
+    {
+      "code_insee": "66005",
+      "nom": "Angoustrine-Villeneuve-des-Escaldes",
+      "slug": "angoustrine-villeneuve-des-escaldes-66005",
+      "taux_vacance": 19.42,
+      "nb_log_vacant": 114
+    },
+    {
+      "code_insee": "66117",
+      "nom": "Mont-Louis",
+      "slug": "mont-louis-66117",
+      "taux_vacance": 18.18,
+      "nb_log_vacant": 36
+    },
+    {
+      "code_insee": "66123",
+      "nom": "Nyer",
+      "slug": "nyer-66123",
+      "taux_vacance": 18.11,
+      "nb_log_vacant": 23
+    },
+    {
+      "code_insee": "66107",
+      "nom": "Maury",
+      "slug": "maury-66107",
+      "taux_vacance": 17.57,
+      "nb_log_vacant": 113
+    },
+    {
+      "code_insee": "66039",
+      "nom": "Caramany",
+      "slug": "caramany-66039",
+      "taux_vacance": 15.85,
+      "nb_log_vacant": 29
+    },
+    {
+      "code_insee": "66046",
+      "nom": "Caudi�s-de-Fenouill�des",
+      "slug": "caudi-s-de-fenouill-des-66046",
+      "taux_vacance": 14.68,
+      "nb_log_vacant": 74
+    },
+    {
+      "code_insee": "66150",
+      "nom": "Prats-de-Mollo-la-Preste",
+      "slug": "prats-de-mollo-la-preste-66150",
+      "taux_vacance": 14.52,
+      "nb_log_vacant": 186
+    },
+    {
+      "code_insee": "66080",
+      "nom": "Fontp�drouse",
+      "slug": "fontp-drouse-66080",
+      "taux_vacance": 14.29,
+      "nb_log_vacant": 36
+    },
+    {
+      "code_insee": "66187",
+      "nom": "Saint-Paul-de-Fenouillet",
+      "slug": "saint-paul-de-fenouillet-66187",
+      "taux_vacance": 14.04,
+      "nb_log_vacant": 161
+    },
+    {
+      "code_insee": "66205",
+      "nom": "Tautavel",
+      "slug": "tautavel-66205",
+      "taux_vacance": 13.73,
+      "nb_log_vacant": 89
+    },
+    {
+      "code_insee": "66206",
+      "nom": "Le Tech",
+      "slug": "le-tech-66206",
+      "taux_vacance": 13.64,
+      "nb_log_vacant": 15
+    },
+    {
+      "code_insee": "66179",
+      "nom": "Saint-Laurent-de-Cerdans",
+      "slug": "saint-laurent-de-cerdans-66179",
+      "taux_vacance": 13.32,
+      "nb_log_vacant": 134
+    },
+    {
+      "code_insee": "66125",
+      "nom": "Olette",
+      "slug": "olette-66125",
+      "taux_vacance": 12.96,
+      "nb_log_vacant": 46
+    },
+    {
+      "code_insee": "66231",
+      "nom": "Vingrau",
+      "slug": "vingrau-66231",
+      "taux_vacance": 12.35,
+      "nb_log_vacant": 53
+    },
+    {
+      "code_insee": "66166",
+      "nom": "Sahorre",
+      "slug": "sahorre-66166",
+      "taux_vacance": 12.27,
+      "nb_log_vacant": 47
+    },
+    {
+      "code_insee": "66137",
+      "nom": "Le Perthus",
+      "slug": "le-perthus-66137",
+      "taux_vacance": 12.25,
+      "nb_log_vacant": 37
+    },
+    {
+      "code_insee": "66003",
+      "nom": "Am�lie-les-Bains-Palalda",
+      "slug": "am-lie-les-bains-palalda-66003",
+      "taux_vacance": 12.22,
+      "nb_log_vacant": 634
+    },
+    {
+      "code_insee": "66198",
+      "nom": "Sournia",
+      "slug": "sournia-66198",
+      "taux_vacance": 12.2,
+      "nb_log_vacant": 40
+    },
+    {
+      "code_insee": "66064",
+      "nom": "�gat",
+      "slug": "gat-66064",
+      "taux_vacance": 11.9,
+      "nb_log_vacant": 65
+    }
+  ]
+}

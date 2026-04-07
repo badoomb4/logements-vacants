@@ -1,0 +1,155 @@
+{
+  "code": "61",
+  "nom": "Orne",
+  "slug": "orne-61",
+  "code_region": "28",
+  "nom_region": "Normandie",
+  "nb_communes": 381,
+  "nb_log_prive": 113667,
+  "nb_log_vacant": 11745,
+  "nb_log_vacant_2ans": 6652,
+  "taux_vacance": 10.33,
+  "taux_vacance_2ans": 5.85,
+  "top_communes": [
+    {
+      "code_insee": "61374",
+      "nom": "Saint-Christophe-de-Chaulieu",
+      "slug": "saint-christophe-de-chaulieu-61374",
+      "taux_vacance": 24.14,
+      "nb_log_vacant": 14
+    },
+    {
+      "code_insee": "61181",
+      "nom": "Gac�",
+      "slug": "gac-61181",
+      "taux_vacance": 17,
+      "nb_log_vacant": 145
+    },
+    {
+      "code_insee": "61333",
+      "nom": "Pontchardon",
+      "slug": "pontchardon-61333",
+      "taux_vacance": 17,
+      "nb_log_vacant": 17
+    },
+    {
+      "code_insee": "61386",
+      "nom": "Saint-Evroult-Notre-Dame-du-Bois",
+      "slug": "saint-evroult-notre-dame-du-bois-61386",
+      "taux_vacance": 16.67,
+      "nb_log_vacant": 48
+    },
+    {
+      "code_insee": "61460",
+      "nom": "Sap-en-Auge",
+      "slug": "sap-en-auge-61460",
+      "taux_vacance": 16.67,
+      "nb_log_vacant": 85
+    },
+    {
+      "code_insee": "61275",
+      "nom": "Merlerault-le-Pin",
+      "slug": "merlerault-le-pin-61275",
+      "taux_vacance": 16.58,
+      "nb_log_vacant": 166
+    },
+    {
+      "code_insee": "61097",
+      "nom": "La Chapelle-Montligeon",
+      "slug": "la-chapelle-montligeon-61097",
+      "taux_vacance": 16.4,
+      "nb_log_vacant": 62
+    },
+    {
+      "code_insee": "61248",
+      "nom": "Mantilly",
+      "slug": "mantilly-61248",
+      "taux_vacance": 15.94,
+      "nb_log_vacant": 66
+    },
+    {
+      "code_insee": "61297",
+      "nom": "Moulins-la-Marche",
+      "slug": "moulins-la-marche-61297",
+      "taux_vacance": 15.45,
+      "nb_log_vacant": 68
+    },
+    {
+      "code_insee": "61324",
+      "nom": "Passais Villages",
+      "slug": "passais-villages-61324",
+      "taux_vacance": 15.29,
+      "nb_log_vacant": 131
+    },
+    {
+      "code_insee": "61464",
+      "nom": "S�es",
+      "slug": "s-es-61464",
+      "taux_vacance": 15.24,
+      "nb_log_vacant": 288
+    },
+    {
+      "code_insee": "61074",
+      "nom": "Carrouges",
+      "slug": "carrouges-61074",
+      "taux_vacance": 15.06,
+      "nb_log_vacant": 50
+    },
+    {
+      "code_insee": "61152",
+      "nom": "�corches",
+      "slug": "corches-61152",
+      "taux_vacance": 14.67,
+      "nb_log_vacant": 11
+    },
+    {
+      "code_insee": "61150",
+      "nom": "�chauffour",
+      "slug": "chauffour-61150",
+      "taux_vacance": 14.46,
+      "nb_log_vacant": 70
+    },
+    {
+      "code_insee": "61387",
+      "nom": "Saint-Fraimbault",
+      "slug": "saint-fraimbault-61387",
+      "taux_vacance": 14.06,
+      "nb_log_vacant": 61
+    },
+    {
+      "code_insee": "61055",
+      "nom": "Bouc�",
+      "slug": "bouc-61055",
+      "taux_vacance": 13.95,
+      "nb_log_vacant": 48
+    },
+    {
+      "code_insee": "61081",
+      "nom": "Chaillou�",
+      "slug": "chaillou-61081",
+      "taux_vacance": 13.89,
+      "nb_log_vacant": 66
+    },
+    {
+      "code_insee": "61040",
+      "nom": "Bellou-en-Houlme",
+      "slug": "bellou-en-houlme-61040",
+      "taux_vacance": 13.79,
+      "nb_log_vacant": 75
+    },
+    {
+      "code_insee": "61293",
+      "nom": "Mortagne-au-Perche",
+      "slug": "mortagne-au-perche-61293",
+      "taux_vacance": 13.68,
+      "nb_log_vacant": 262
+    },
+    {
+      "code_insee": "61486",
+      "nom": "Tinchebray-Bocage",
+      "slug": "tinchebray-bocage-61486",
+      "taux_vacance": 13.67,
+      "nb_log_vacant": 354
+    }
+  ]
+}

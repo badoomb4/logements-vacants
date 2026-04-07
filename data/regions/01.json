@@ -1,0 +1,20 @@
+{
+  "code": "01",
+  "nom": "Guadeloupe",
+  "slug": "guadeloupe",
+  "nb_communes": 33,
+  "nb_log_prive": 212346,
+  "nb_log_vacant": 19840,
+  "nb_log_vacant_2ans": 16392,
+  "taux_vacance": 9.34,
+  "taux_vacance_2ans": 7.72,
+  "departements": [
+    {
+      "code": "971",
+      "nom": "Guadeloupe",
+      "slug": "guadeloupe-971",
+      "taux_vacance": 9.34,
+      "nb_log_vacant": 19840
+    }
+  ]
+}

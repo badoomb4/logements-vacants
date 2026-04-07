@@ -1,0 +1,155 @@
+{
+  "code": "25",
+  "nom": "Doubs",
+  "slug": "doubs-25",
+  "code_region": "27",
+  "nom_region": "Bourgogne-Franche-Comt�",
+  "nb_communes": 563,
+  "nb_log_prive": 198541,
+  "nb_log_vacant": 15138,
+  "nb_log_vacant_2ans": 7745,
+  "taux_vacance": 7.62,
+  "taux_vacance_2ans": 3.9,
+  "top_communes": [
+    {
+      "code_insee": "25268",
+      "nom": "Germ�fontaine",
+      "slug": "germ-fontaine-25268",
+      "taux_vacance": 20,
+      "nb_log_vacant": 14
+    },
+    {
+      "code_insee": "25547",
+      "nom": "Sochaux",
+      "slug": "sochaux-25547",
+      "taux_vacance": 19.38,
+      "nb_log_vacant": 279
+    },
+    {
+      "code_insee": "25275",
+      "nom": "Gl�re",
+      "slug": "gl-re-25275",
+      "taux_vacance": 16.2,
+      "nb_log_vacant": 23
+    },
+    {
+      "code_insee": "25335",
+      "nom": "Liebvillers",
+      "slug": "liebvillers-25335",
+      "taux_vacance": 15.56,
+      "nb_log_vacant": 14
+    },
+    {
+      "code_insee": "25223",
+      "nom": "�ternoz-Vall�e-du-Lison",
+      "slug": "ternoz-vall-e-du-lison-25223",
+      "taux_vacance": 13.65,
+      "nb_log_vacant": 34
+    },
+    {
+      "code_insee": "25519",
+      "nom": "Saint-Hippolyte",
+      "slug": "saint-hippolyte-25519",
+      "taux_vacance": 13.65,
+      "nb_log_vacant": 74
+    },
+    {
+      "code_insee": "25156",
+      "nom": "Pays-de-Clerval",
+      "slug": "pays-de-clerval-25156",
+      "taux_vacance": 13.63,
+      "nb_log_vacant": 89
+    },
+    {
+      "code_insee": "25280",
+      "nom": "Goumois",
+      "slug": "goumois-25280",
+      "taux_vacance": 13.19,
+      "nb_log_vacant": 19
+    },
+    {
+      "code_insee": "25105",
+      "nom": "Byans-sur-Doubs",
+      "slug": "byans-sur-doubs-25105",
+      "taux_vacance": 13.16,
+      "nb_log_vacant": 40
+    },
+    {
+      "code_insee": "25339",
+      "nom": "Lods",
+      "slug": "lods-25339",
+      "taux_vacance": 12.79,
+      "nb_log_vacant": 28
+    },
+    {
+      "code_insee": "25058",
+      "nom": "Beure",
+      "slug": "beure-25058",
+      "taux_vacance": 12.67,
+      "nb_log_vacant": 103
+    },
+    {
+      "code_insee": "25336",
+      "nom": "Liesle",
+      "slug": "liesle-25336",
+      "taux_vacance": 12.5,
+      "nb_log_vacant": 39
+    },
+    {
+      "code_insee": "25388",
+      "nom": "Montb�liard",
+      "slug": "montb-liard-25388",
+      "taux_vacance": 12.31,
+      "nb_log_vacant": 1196
+    },
+    {
+      "code_insee": "25315",
+      "nom": "L'Isle-sur-le-Doubs",
+      "slug": "l-isle-sur-le-doubs-25315",
+      "taux_vacance": 11.98,
+      "nb_log_vacant": 177
+    },
+    {
+      "code_insee": "25051",
+      "nom": "Belleherbe",
+      "slug": "belleherbe-25051",
+      "taux_vacance": 11.65,
+      "nb_log_vacant": 41
+    },
+    {
+      "code_insee": "25505",
+      "nom": "Rougemont",
+      "slug": "rougemont-25505",
+      "taux_vacance": 11.02,
+      "nb_log_vacant": 66
+    },
+    {
+      "code_insee": "25031",
+      "nom": "Audincourt",
+      "slug": "audincourt-25031",
+      "taux_vacance": 10.93,
+      "nb_log_vacant": 607
+    },
+    {
+      "code_insee": "25304",
+      "nom": "H�rimoncourt",
+      "slug": "h-rimoncourt-25304",
+      "taux_vacance": 10.93,
+      "nb_log_vacant": 177
+    },
+    {
+      "code_insee": "25463",
+      "nom": "Pont-de-Roide-Vermondans",
+      "slug": "pont-de-roide-vermondans-25463",
+      "taux_vacance": 10.59,
+      "nb_log_vacant": 205
+    },
+    {
+      "code_insee": "25475",
+      "nom": "Quingey",
+      "slug": "quingey-25475",
+      "taux_vacance": 10.23,
+      "nb_log_vacant": 57
+    }
+  ]
+}

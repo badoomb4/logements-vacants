@@ -1,0 +1,155 @@
+{
+  "code": "12",
+  "nom": "Aveyron",
+  "slug": "aveyron-12",
+  "code_region": "76",
+  "nom_region": "Occitanie",
+  "nb_communes": 285,
+  "nb_log_prive": 150051,
+  "nb_log_vacant": 17312,
+  "nb_log_vacant_2ans": 10516,
+  "taux_vacance": 11.54,
+  "taux_vacance_2ans": 7.01,
+  "top_communes": [
+    {
+      "code_insee": "12203",
+      "nom": "Roquefort-sur-Soulzon",
+      "slug": "roquefort-sur-soulzon-12203",
+      "taux_vacance": 51.13,
+      "nb_log_vacant": 271
+    },
+    {
+      "code_insee": "12248",
+      "nom": "Saint-Sernin-sur-Rance",
+      "slug": "saint-sernin-sur-rance-12248",
+      "taux_vacance": 27.27,
+      "nb_log_vacant": 135
+    },
+    {
+      "code_insee": "12095",
+      "nom": "Escandoli�res",
+      "slug": "escandoli-res-12095",
+      "taux_vacance": 23.46,
+      "nb_log_vacant": 38
+    },
+    {
+      "code_insee": "12164",
+      "nom": "Mur-de-Barrez",
+      "slug": "mur-de-barrez-12164",
+      "taux_vacance": 23.29,
+      "nb_log_vacant": 157
+    },
+    {
+      "code_insee": "12035",
+      "nom": "Brasc",
+      "slug": "brasc-12035",
+      "taux_vacance": 21.43,
+      "nb_log_vacant": 36
+    },
+    {
+      "code_insee": "12083",
+      "nom": "Cransac",
+      "slug": "cransac-12083",
+      "taux_vacance": 19.75,
+      "nb_log_vacant": 284
+    },
+    {
+      "code_insee": "12003",
+      "nom": "Les Albres",
+      "slug": "les-albres-12003",
+      "taux_vacance": 19.63,
+      "nb_log_vacant": 42
+    },
+    {
+      "code_insee": "12013",
+      "nom": "Aubin",
+      "slug": "aubin-12013",
+      "taux_vacance": 19.52,
+      "nb_log_vacant": 525
+    },
+    {
+      "code_insee": "12147",
+      "nom": "Montagnol",
+      "slug": "montagnol-12147",
+      "taux_vacance": 19.23,
+      "nb_log_vacant": 35
+    },
+    {
+      "code_insee": "12098",
+      "nom": "Estaing",
+      "slug": "estaing-12098",
+      "taux_vacance": 18.39,
+      "nb_log_vacant": 98
+    },
+    {
+      "code_insee": "12077",
+      "nom": "Cornus",
+      "slug": "cornus-12077",
+      "taux_vacance": 17.68,
+      "nb_log_vacant": 84
+    },
+    {
+      "code_insee": "12266",
+      "nom": "S�gur",
+      "slug": "s-gur-12266",
+      "taux_vacance": 17.16,
+      "nb_log_vacant": 75
+    },
+    {
+      "code_insee": "12089",
+      "nom": "Decazeville",
+      "slug": "decazeville-12089",
+      "taux_vacance": 17.04,
+      "nb_log_vacant": 692
+    },
+    {
+      "code_insee": "12300",
+      "nom": "Villefranche-de-Rouergue",
+      "slug": "villefranche-de-rouergue-12300",
+      "taux_vacance": 16.95,
+      "nb_log_vacant": 1327
+    },
+    {
+      "code_insee": "12209",
+      "nom": "Saint-Amans-des-Cots",
+      "slug": "saint-amans-des-cots-12209",
+      "taux_vacance": 16.56,
+      "nb_log_vacant": 100
+    },
+    {
+      "code_insee": "12246",
+      "nom": "Saint-Santin",
+      "slug": "saint-santin-12246",
+      "taux_vacance": 16.3,
+      "nb_log_vacant": 59
+    },
+    {
+      "code_insee": "12305",
+      "nom": "Viviez",
+      "slug": "viviez-12305",
+      "taux_vacance": 16.17,
+      "nb_log_vacant": 148
+    },
+    {
+      "code_insee": "12282",
+      "nom": "Tournemire",
+      "slug": "tournemire-12282",
+      "taux_vacance": 15.57,
+      "nb_log_vacant": 45
+    },
+    {
+      "code_insee": "12251",
+      "nom": "Saint-Victor-et-Melvieu",
+      "slug": "saint-victor-et-melvieu-12251",
+      "taux_vacance": 15.55,
+      "nb_log_vacant": 44
+    },
+    {
+      "code_insee": "12029",
+      "nom": "Bor-et-Bar",
+      "slug": "bor-et-bar-12029",
+      "taux_vacance": 15.3,
+      "nb_log_vacant": 28
+    }
+  ]
+}

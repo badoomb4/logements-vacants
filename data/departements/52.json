@@ -1,0 +1,155 @@
+{
+  "code": "52",
+  "nom": "Haute-Marne",
+  "slug": "haute-marne-52",
+  "code_region": "44",
+  "nom_region": "Grand Est",
+  "nb_communes": 426,
+  "nb_log_prive": 59328,
+  "nb_log_vacant": 6937,
+  "nb_log_vacant_2ans": 3571,
+  "taux_vacance": 11.69,
+  "taux_vacance_2ans": 6.02,
+  "top_communes": [
+    {
+      "code_insee": "52385",
+      "nom": "Perrusse",
+      "slug": "perrusse-52385",
+      "taux_vacance": 33.33,
+      "nb_log_vacant": 13
+    },
+    {
+      "code_insee": "52187",
+      "nom": "�pizon",
+      "slug": "pizon-52187",
+      "taux_vacance": 26.73,
+      "nb_log_vacant": 27
+    },
+    {
+      "code_insee": "52090",
+      "nom": "Celsoy",
+      "slug": "celsoy-52090",
+      "taux_vacance": 26.15,
+      "nb_log_vacant": 17
+    },
+    {
+      "code_insee": "52060",
+      "nom": "Bourbonne-les-Bains",
+      "slug": "bourbonne-les-bains-52060",
+      "taux_vacance": 25.26,
+      "nb_log_vacant": 431
+    },
+    {
+      "code_insee": "52464",
+      "nom": "Saulles",
+      "slug": "saulles-52464",
+      "taux_vacance": 25,
+      "nb_log_vacant": 12
+    },
+    {
+      "code_insee": "52426",
+      "nom": "Rizaucourt-Buchey",
+      "slug": "rizaucourt-buchey-52426",
+      "taux_vacance": 24.72,
+      "nb_log_vacant": 22
+    },
+    {
+      "code_insee": "52524",
+      "nom": "Vignory",
+      "slug": "vignory-52524",
+      "taux_vacance": 24.12,
+      "nb_log_vacant": 41
+    },
+    {
+      "code_insee": "52178",
+      "nom": "Doulevant-le-Ch�teau",
+      "slug": "doulevant-le-ch-teau-52178",
+      "taux_vacance": 24.06,
+      "nb_log_vacant": 51
+    },
+    {
+      "code_insee": "52250",
+      "nom": "Joinville",
+      "slug": "joinville-52250",
+      "taux_vacance": 22.54,
+      "nb_log_vacant": 339
+    },
+    {
+      "code_insee": "52390",
+      "nom": "Pisseloup",
+      "slug": "pisseloup-52390",
+      "taux_vacance": 20.75,
+      "nb_log_vacant": 11
+    },
+    {
+      "code_insee": "52272",
+      "nom": "Lanty-sur-Aube",
+      "slug": "lanty-sur-aube-52272",
+      "taux_vacance": 20.22,
+      "nb_log_vacant": 18
+    },
+    {
+      "code_insee": "52298",
+      "nom": "Ma�tz",
+      "slug": "ma-tz-52298",
+      "taux_vacance": 19.7,
+      "nb_log_vacant": 13
+    },
+    {
+      "code_insee": "52237",
+      "nom": "Harr�ville-les-Chanteurs",
+      "slug": "harr-ville-les-chanteurs-52237",
+      "taux_vacance": 19.35,
+      "nb_log_vacant": 30
+    },
+    {
+      "code_insee": "52074",
+      "nom": "Breuvannes-en-Bassigny",
+      "slug": "breuvannes-en-bassigny-52074",
+      "taux_vacance": 19.19,
+      "nb_log_vacant": 71
+    },
+    {
+      "code_insee": "52061",
+      "nom": "Bourdons-sur-Rognon",
+      "slug": "bourdons-sur-rognon-52061",
+      "taux_vacance": 18.88,
+      "nb_log_vacant": 37
+    },
+    {
+      "code_insee": "52164",
+      "nom": "Damr�mont",
+      "slug": "damr-mont-52164",
+      "taux_vacance": 18.87,
+      "nb_log_vacant": 30
+    },
+    {
+      "code_insee": "52035",
+      "nom": "Baissey",
+      "slug": "baissey-52035",
+      "taux_vacance": 17.74,
+      "nb_log_vacant": 22
+    },
+    {
+      "code_insee": "52172",
+      "nom": "Dommartin-le-Saint-P�re",
+      "slug": "dommartin-le-saint-p-re-52172",
+      "taux_vacance": 17.58,
+      "nb_log_vacant": 29
+    },
+    {
+      "code_insee": "52438",
+      "nom": "Rougeux",
+      "slug": "rougeux-52438",
+      "taux_vacance": 17.24,
+      "nb_log_vacant": 15
+    },
+    {
+      "code_insee": "52017",
+      "nom": "Arc-en-Barrois",
+      "slug": "arc-en-barrois-52017",
+      "taux_vacance": 17.08,
+      "nb_log_vacant": 69
+    }
+  ]
+}

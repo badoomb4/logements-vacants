@@ -1,0 +1,155 @@
+{
+  "code": "54",
+  "nom": "Meurthe-et-Moselle",
+  "slug": "meurthe-et-moselle-54",
+  "code_region": "44",
+  "nom_region": "Grand Est",
+  "nb_communes": 591,
+  "nb_log_prive": 273838,
+  "nb_log_vacant": 22076,
+  "nb_log_vacant_2ans": 11050,
+  "taux_vacance": 8.06,
+  "taux_vacance_2ans": 4.04,
+  "top_communes": [
+    {
+      "code_insee": "54220",
+      "nom": "G�monville",
+      "slug": "g-monville-54220",
+      "taux_vacance": 23.08,
+      "nb_log_vacant": 12
+    },
+    {
+      "code_insee": "54077",
+      "nom": "Bl�mont",
+      "slug": "bl-mont-54077",
+      "taux_vacance": 19.2,
+      "nb_log_vacant": 106
+    },
+    {
+      "code_insee": "54129",
+      "nom": "Cirey-sur-Vezouze",
+      "slug": "cirey-sur-vezouze-54129",
+      "taux_vacance": 18.25,
+      "nb_log_vacant": 167
+    },
+    {
+      "code_insee": "54039",
+      "nom": "Baccarat",
+      "slug": "baccarat-54039",
+      "taux_vacance": 16.41,
+      "nb_log_vacant": 370
+    },
+    {
+      "code_insee": "54518",
+      "nom": "Thiaucourt-Regni�ville",
+      "slug": "thiaucourt-regni-ville-54518",
+      "taux_vacance": 16.38,
+      "nb_log_vacant": 86
+    },
+    {
+      "code_insee": "54108",
+      "nom": "Burthecourt-aux-Ch�nes",
+      "slug": "burthecourt-aux-ch-nes-54108",
+      "taux_vacance": 15,
+      "nb_log_vacant": 12
+    },
+    {
+      "code_insee": "54399",
+      "nom": "Neuviller-sur-Moselle",
+      "slug": "neuviller-sur-moselle-54399",
+      "taux_vacance": 14.29,
+      "nb_log_vacant": 19
+    },
+    {
+      "code_insee": "54393",
+      "nom": "Moyen",
+      "slug": "moyen-54393",
+      "taux_vacance": 14.14,
+      "nb_log_vacant": 41
+    },
+    {
+      "code_insee": "54423",
+      "nom": "Pexonne",
+      "slug": "pexonne-54423",
+      "taux_vacance": 13.84,
+      "nb_log_vacant": 31
+    },
+    {
+      "code_insee": "54040",
+      "nom": "Badonviller",
+      "slug": "badonviller-54040",
+      "taux_vacance": 13.76,
+      "nb_log_vacant": 115
+    },
+    {
+      "code_insee": "54251",
+      "nom": "Harbouey",
+      "slug": "harbouey-54251",
+      "taux_vacance": 13.58,
+      "nb_log_vacant": 11
+    },
+    {
+      "code_insee": "54329",
+      "nom": "Lun�ville",
+      "slug": "lun-ville-54329",
+      "taux_vacance": 13.37,
+      "nb_log_vacant": 1154
+    },
+    {
+      "code_insee": "54284",
+      "nom": "Joudreville",
+      "slug": "joudreville-54284",
+      "taux_vacance": 12.87,
+      "nb_log_vacant": 66
+    },
+    {
+      "code_insee": "54563",
+      "nom": "V�zelise",
+      "slug": "v-zelise-54563",
+      "taux_vacance": 12.58,
+      "nb_log_vacant": 93
+    },
+    {
+      "code_insee": "54331",
+      "nom": "Magni�res",
+      "slug": "magni-res-54331",
+      "taux_vacance": 12.35,
+      "nb_log_vacant": 20
+    },
+    {
+      "code_insee": "54425",
+      "nom": "Piennes",
+      "slug": "piennes-54425",
+      "taux_vacance": 12.15,
+      "nb_log_vacant": 143
+    },
+    {
+      "code_insee": "54028",
+      "nom": "Aubou�",
+      "slug": "aubou-54028",
+      "taux_vacance": 12.11,
+      "nb_log_vacant": 164
+    },
+    {
+      "code_insee": "54182",
+      "nom": "Essey-et-Maizerais",
+      "slug": "essey-et-maizerais-54182",
+      "taux_vacance": 11.96,
+      "nb_log_vacant": 22
+    },
+    {
+      "code_insee": "54322",
+      "nom": "Longuyon",
+      "slug": "longuyon-54322",
+      "taux_vacance": 11.78,
+      "nb_log_vacant": 333
+    },
+    {
+      "code_insee": "54431",
+      "nom": "Pont-�-Mousson",
+      "slug": "pont-mousson-54431",
+      "taux_vacance": 11.74,
+      "nb_log_vacant": 759
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "code": "55",
+  "nom": "Meuse",
+  "slug": "meuse-55",
+  "code_region": "44",
+  "nom_region": "Grand Est",
+  "nb_communes": 496,
+  "nb_log_prive": 56802,
+  "nb_log_vacant": 6699,
+  "nb_log_vacant_2ans": 3652,
+  "taux_vacance": 11.79,
+  "taux_vacance_2ans": 6.43,
+  "top_communes": [
+    {
+      "code_insee": "55087",
+      "nom": "Bure",
+      "slug": "bure-55087",
+      "taux_vacance": 29.55,
+      "nb_log_vacant": 13
+    },
+    {
+      "code_insee": "55561",
+      "nom": "Villers-devant-Dun",
+      "slug": "villers-devant-dun-55561",
+      "taux_vacance": 24.44,
+      "nb_log_vacant": 11
+    },
+    {
+      "code_insee": "55251",
+      "nom": "Ipp�court",
+      "slug": "ipp-court-55251",
+      "taux_vacance": 23.21,
+      "nb_log_vacant": 13
+    },
+    {
+      "code_insee": "55463",
+      "nom": "Saint-Mihiel",
+      "slug": "saint-mihiel-55463",
+      "taux_vacance": 21.86,
+      "nb_log_vacant": 448
+    },
+    {
+      "code_insee": "55502",
+      "nom": "Stenay",
+      "slug": "stenay-55502",
+      "taux_vacance": 21.29,
+      "nb_log_vacant": 297
+    },
+    {
+      "code_insee": "55348",
+      "nom": "Montiers-sur-Saulx",
+      "slug": "montiers-sur-saulx-55348",
+      "taux_vacance": 21.07,
+      "nb_log_vacant": 55
+    },
+    {
+      "code_insee": "55324",
+      "nom": "Marville",
+      "slug": "marville-55324",
+      "taux_vacance": 19.87,
+      "nb_log_vacant": 62
+    },
+    {
+      "code_insee": "55262",
+      "nom": "Juvigny-sur-Loison",
+      "slug": "juvigny-sur-loison-55262",
+      "taux_vacance": 19.71,
+      "nb_log_vacant": 27
+    },
+    {
+      "code_insee": "55215",
+      "nom": "Gondrecourt-le-Ch�teau",
+      "slug": "gondrecourt-le-ch-teau-55215",
+      "taux_vacance": 17.89,
+      "nb_log_vacant": 90
+    },
+    {
+      "code_insee": "55093",
+      "nom": "Buxi�res-sous-les-C�tes",
+      "slug": "buxi-res-sous-les-c-tes-55093",
+      "taux_vacance": 17.19,
+      "nb_log_vacant": 38
+    },
+    {
+      "code_insee": "55167",
+      "nom": "Dun-sur-Meuse",
+      "slug": "dun-sur-meuse-55167",
+      "taux_vacance": 16.87,
+      "nb_log_vacant": 69
+    },
+    {
+      "code_insee": "55490",
+      "nom": "Sivry-sur-Meuse",
+      "slug": "sivry-sur-meuse-55490",
+      "taux_vacance": 16.81,
+      "nb_log_vacant": 38
+    },
+    {
+      "code_insee": "55040",
+      "nom": "Beausite",
+      "slug": "beausite-55040",
+      "taux_vacance": 16.25,
+      "nb_log_vacant": 26
+    },
+    {
+      "code_insee": "55248",
+      "nom": "Houdelaincourt",
+      "slug": "houdelaincourt-55248",
+      "taux_vacance": 15.88,
+      "nb_log_vacant": 27
+    },
+    {
+      "code_insee": "55533",
+      "nom": "Vaucouleurs",
+      "slug": "vaucouleurs-55533",
+      "taux_vacance": 15.52,
+      "nb_log_vacant": 151
+    },
+    {
+      "code_insee": "55291",
+      "nom": "Ligny-en-Barrois",
+      "slug": "ligny-en-barrois-55291",
+      "taux_vacance": 15.06,
+      "nb_log_vacant": 268
+    },
+    {
+      "code_insee": "55516",
+      "nom": "Tr�veray",
+      "slug": "tr-veray-55516",
+      "taux_vacance": 14.74,
+      "nb_log_vacant": 46
+    },
+    {
+      "code_insee": "55029",
+      "nom": "Bar-le-Duc",
+      "slug": "bar-le-duc-55029",
+      "taux_vacance": 14.61,
+      "nb_log_vacant": 1016
+    },
+    {
+      "code_insee": "55097",
+      "nom": "Chalaines",
+      "slug": "chalaines-55097",
+      "taux_vacance": 14.55,
+      "nb_log_vacant": 24
+    },
+    {
+      "code_insee": "55351",
+      "nom": "Montm�dy",
+      "slug": "montm-dy-55351",
+      "taux_vacance": 14.48,
+      "nb_log_vacant": 138
+    }
+  ]
+}

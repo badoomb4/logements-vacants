@@ -1,0 +1,25 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout
+  title="Page introuvable — LogementsVacants.fr"
+  description="La page que vous recherchez n'existe pas."
+>
+  <div class="max-w-2xl mx-auto px-4 sm:px-6 lg:px-8 py-20 text-center">
+    <p class="text-6xl font-bold text-gray-300 mb-4">404</p>
+    <h1 class="text-2xl font-bold text-gray-900 mb-4">Page introuvable</h1>
+    <p class="text-gray-600 mb-8">
+      La page que vous recherchez n'existe pas ou a été déplacée.
+    </p>
+    <div class="max-w-md mx-auto mb-8">
+      <input
+        type="text"
+        id="search-404"
+        placeholder="Rechercher une commune..."
+        class="w-full px-4 py-3 rounded-lg border border-gray-300 shadow-sm focus:ring-2 focus:ring-blue-500 text-lg"
+      />
+    </div>
+    <a href="/" class="text-blue-700 hover:underline font-medium">← Retour à l'accueil</a>
+  </div>
+</BaseLayout>

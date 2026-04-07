@@ -1,0 +1,155 @@
+{
+  "code": "13",
+  "nom": "Bouches-du-Rh�ne",
+  "slug": "bouches-du-rh-ne-13",
+  "code_region": "93",
+  "nom_region": "Provence-Alpes-C�te d'Azur",
+  "nb_communes": 134,
+  "nb_log_prive": 943684,
+  "nb_log_vacant": 65370,
+  "nb_log_vacant_2ans": 34173,
+  "taux_vacance": 6.93,
+  "taux_vacance_2ans": 3.62,
+  "top_communes": [
+    {
+      "code_insee": "13203",
+      "nom": "Marseille 3e Arrondissement",
+      "slug": "marseille-3e-arrondissement-13203",
+      "taux_vacance": 15.68,
+      "nb_log_vacant": 3164
+    },
+    {
+      "code_insee": "13202",
+      "nom": "Marseille 2e Arrondissement",
+      "slug": "marseille-2e-arrondissement-13202",
+      "taux_vacance": 14.07,
+      "nb_log_vacant": 1963
+    },
+    {
+      "code_insee": "13201",
+      "nom": "Marseille 1er Arrondissement",
+      "slug": "marseille-1er-arrondissement-13201",
+      "taux_vacance": 14,
+      "nb_log_vacant": 3181
+    },
+    {
+      "code_insee": "13011",
+      "nom": "Les Baux-de-Provence",
+      "slug": "les-baux-de-provence-13011",
+      "taux_vacance": 12.4,
+      "nb_log_vacant": 46
+    },
+    {
+      "code_insee": "13099",
+      "nom": "Saint-Paul-l�s-Durance",
+      "slug": "saint-paul-l-s-durance-13099",
+      "taux_vacance": 12.08,
+      "nb_log_vacant": 54
+    },
+    {
+      "code_insee": "13116",
+      "nom": "Verqui�res",
+      "slug": "verqui-res-13116",
+      "taux_vacance": 10.96,
+      "nb_log_vacant": 41
+    },
+    {
+      "code_insee": "13078",
+      "nom": "Port-Saint-Louis-du-Rh�ne",
+      "slug": "port-saint-louis-du-rh-ne-13078",
+      "taux_vacance": 10.93,
+      "nb_log_vacant": 322
+    },
+    {
+      "code_insee": "13034",
+      "nom": "Eygali�res",
+      "slug": "eygali-res-13034",
+      "taux_vacance": 10.64,
+      "nb_log_vacant": 154
+    },
+    {
+      "code_insee": "13215",
+      "nom": "Marseille 15e Arrondissement",
+      "slug": "marseille-15e-arrondissement-13215",
+      "taux_vacance": 10.55,
+      "nb_log_vacant": 2295
+    },
+    {
+      "code_insee": "13206",
+      "nom": "Marseille 6e Arrondissement",
+      "slug": "marseille-6e-arrondissement-13206",
+      "taux_vacance": 9.96,
+      "nb_log_vacant": 2819
+    },
+    {
+      "code_insee": "13214",
+      "nom": "Marseille 14e Arrondissement",
+      "slug": "marseille-14e-arrondissement-13214",
+      "taux_vacance": 9.92,
+      "nb_log_vacant": 1834
+    },
+    {
+      "code_insee": "13079",
+      "nom": "Puyloubier",
+      "slug": "puyloubier-13079",
+      "taux_vacance": 9.42,
+      "nb_log_vacant": 86
+    },
+    {
+      "code_insee": "13216",
+      "nom": "Marseille 16e Arrondissement",
+      "slug": "marseille-16e-arrondissement-13216",
+      "taux_vacance": 9.08,
+      "nb_log_vacant": 621
+    },
+    {
+      "code_insee": "13004",
+      "nom": "Arles",
+      "slug": "arles-13004",
+      "taux_vacance": 9.02,
+      "nb_log_vacant": 2327
+    },
+    {
+      "code_insee": "13205",
+      "nom": "Marseille 5e Arrondissement",
+      "slug": "marseille-5e-arrondissement-13205",
+      "taux_vacance": 8.86,
+      "nb_log_vacant": 2612
+    },
+    {
+      "code_insee": "13108",
+      "nom": "Tarascon",
+      "slug": "tarascon-13108",
+      "taux_vacance": 8.81,
+      "nb_log_vacant": 601
+    },
+    {
+      "code_insee": "13067",
+      "nom": "Orgon",
+      "slug": "orgon-13067",
+      "taux_vacance": 8.23,
+      "nb_log_vacant": 118
+    },
+    {
+      "code_insee": "13204",
+      "nom": "Marseille 4e Arrondissement",
+      "slug": "marseille-4e-arrondissement-13204",
+      "taux_vacance": 8.15,
+      "nb_log_vacant": 2249
+    },
+    {
+      "code_insee": "13207",
+      "nom": "Marseille 7e Arrondissement",
+      "slug": "marseille-7e-arrondissement-13207",
+      "taux_vacance": 8.1,
+      "nb_log_vacant": 1826
+    },
+    {
+      "code_insee": "13096",
+      "nom": "Saintes-Maries-de-la-Mer",
+      "slug": "saintes-maries-de-la-mer-13096",
+      "taux_vacance": 8.09,
+      "nb_log_vacant": 308
+    }
+  ]
+}

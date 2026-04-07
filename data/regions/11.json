@@ -1,0 +1,69 @@
+{
+  "code": "11",
+  "nom": "�le-de-France",
+  "slug": "le-de-france",
+  "nb_communes": 1285,
+  "nb_log_prive": 4594559,
+  "nb_log_vacant": 267825,
+  "nb_log_vacant_2ans": 127110,
+  "taux_vacance": 5.83,
+  "taux_vacance_2ans": 2.77,
+  "departements": [
+    {
+      "code": "93",
+      "nom": "Seine-Saint-Denis",
+      "slug": "seine-saint-denis-93",
+      "taux_vacance": 7.07,
+      "nb_log_vacant": 34920
+    },
+    {
+      "code": "75",
+      "nom": "Paris",
+      "slug": "paris-75",
+      "taux_vacance": 6.73,
+      "nb_log_vacant": 75774
+    },
+    {
+      "code": "94",
+      "nom": "Val-de-Marne",
+      "slug": "val-de-marne-94",
+      "taux_vacance": 5.71,
+      "nb_log_vacant": 29080
+    },
+    {
+      "code": "92",
+      "nom": "Hauts-de-Seine",
+      "slug": "hauts-de-seine-92",
+      "taux_vacance": 5.61,
+      "nb_log_vacant": 35976
+    },
+    {
+      "code": "77",
+      "nom": "Seine-et-Marne",
+      "slug": "seine-et-marne-77",
+      "taux_vacance": 5.43,
+      "nb_log_vacant": 25623
+    },
+    {
+      "code": "95",
+      "nom": "Val-d'Oise",
+      "slug": "val-d-oise-95",
+      "taux_vacance": 4.95,
+      "nb_log_vacant": 19816
+    },
+    {
+      "code": "91",
+      "nom": "Essonne",
+      "slug": "essonne-91",
+      "taux_vacance": 4.9,
+      "nb_log_vacant": 22142
+    },
+    {
+      "code": "78",
+      "nom": "Yvelines",
+      "slug": "yvelines-78",
+      "taux_vacance": 4.89,
+      "nb_log_vacant": 24494
+    }
+  ]
+}

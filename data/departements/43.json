@@ -1,0 +1,155 @@
+{
+  "code": "43",
+  "nom": "Haute-Loire",
+  "slug": "haute-loire-43",
+  "code_region": "84",
+  "nom_region": "Auvergne-Rh�ne-Alpes",
+  "nb_communes": 257,
+  "nb_log_prive": 116627,
+  "nb_log_vacant": 13268,
+  "nb_log_vacant_2ans": 7942,
+  "taux_vacance": 11.38,
+  "taux_vacance_2ans": 6.81,
+  "top_communes": [
+    {
+      "code_insee": "43139",
+      "nom": "Montclard",
+      "slug": "montclard-43139",
+      "taux_vacance": 27.91,
+      "nb_log_vacant": 12
+    },
+    {
+      "code_insee": "43097",
+      "nom": "Freycenet-la-Cuche",
+      "slug": "freycenet-la-cuche-43097",
+      "taux_vacance": 21.74,
+      "nb_log_vacant": 30
+    },
+    {
+      "code_insee": "43148",
+      "nom": "Paulhaguet",
+      "slug": "paulhaguet-43148",
+      "taux_vacance": 21.35,
+      "nb_log_vacant": 133
+    },
+    {
+      "code_insee": "43092",
+      "nom": "Fay-sur-Lignon",
+      "slug": "fay-sur-lignon-43092",
+      "taux_vacance": 20.99,
+      "nb_log_vacant": 72
+    },
+    {
+      "code_insee": "43048",
+      "nom": "La Chaise-Dieu",
+      "slug": "la-chaise-dieu-43048",
+      "taux_vacance": 20.56,
+      "nb_log_vacant": 117
+    },
+    {
+      "code_insee": "43003",
+      "nom": "All�gre",
+      "slug": "all-gre-43003",
+      "taux_vacance": 20.06,
+      "nb_log_vacant": 143
+    },
+    {
+      "code_insee": "43080",
+      "nom": "Craponne-sur-Arzon",
+      "slug": "craponne-sur-arzon-43080",
+      "taux_vacance": 19.8,
+      "nb_log_vacant": 294
+    },
+    {
+      "code_insee": "43154",
+      "nom": "Pradelles",
+      "slug": "pradelles-43154",
+      "taux_vacance": 19.59,
+      "nb_log_vacant": 105
+    },
+    {
+      "code_insee": "43186",
+      "nom": "Saint-Front",
+      "slug": "saint-front-43186",
+      "taux_vacance": 18.85,
+      "nb_log_vacant": 85
+    },
+    {
+      "code_insee": "43198",
+      "nom": "Saint-Jean-Lachalm",
+      "slug": "saint-jean-lachalm-43198",
+      "taux_vacance": 18.5,
+      "nb_log_vacant": 47
+    },
+    {
+      "code_insee": "43156",
+      "nom": "Pr�sailles",
+      "slug": "pr-sailles-43156",
+      "taux_vacance": 17.96,
+      "nb_log_vacant": 37
+    },
+    {
+      "code_insee": "43182",
+      "nom": "Saint-�tienne-sur-Blesle",
+      "slug": "saint-tienne-sur-blesle-43182",
+      "taux_vacance": 17.46,
+      "nb_log_vacant": 11
+    },
+    {
+      "code_insee": "43077",
+      "nom": "Costaros",
+      "slug": "costaros-43077",
+      "taux_vacance": 17.2,
+      "nb_log_vacant": 64
+    },
+    {
+      "code_insee": "43246",
+      "nom": "Tiranges",
+      "slug": "tiranges-43246",
+      "taux_vacance": 16.93,
+      "nb_log_vacant": 76
+    },
+    {
+      "code_insee": "43120",
+      "nom": "Lempdes-sur-Allagnon",
+      "slug": "lempdes-sur-allagnon-43120",
+      "taux_vacance": 16.92,
+      "nb_log_vacant": 146
+    },
+    {
+      "code_insee": "43236",
+      "nom": "La S�auve-sur-Sem�ne",
+      "slug": "la-s-auve-sur-sem-ne-43236",
+      "taux_vacance": 16.9,
+      "nb_log_vacant": 147
+    },
+    {
+      "code_insee": "43163",
+      "nom": "Riotord",
+      "slug": "riotord-43163",
+      "taux_vacance": 16.82,
+      "nb_log_vacant": 142
+    },
+    {
+      "code_insee": "43172",
+      "nom": "Saint-Bonnet-le-Froid",
+      "slug": "saint-bonnet-le-froid-43172",
+      "taux_vacance": 16.67,
+      "nb_log_vacant": 33
+    },
+    {
+      "code_insee": "43119",
+      "nom": "Lavo�te-sur-Loire",
+      "slug": "lavo-te-sur-loire-43119",
+      "taux_vacance": 16.29,
+      "nb_log_vacant": 79
+    },
+    {
+      "code_insee": "43256",
+      "nom": "Venteuges",
+      "slug": "venteuges-43256",
+      "taux_vacance": 16.05,
+      "nb_log_vacant": 48
+    }
+  ]
+}

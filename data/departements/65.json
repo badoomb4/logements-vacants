@@ -1,0 +1,155 @@
+{
+  "code": "65",
+  "nom": "Hautes-Pyr�n�es",
+  "slug": "hautes-pyr-n-es-65",
+  "code_region": "76",
+  "nom_region": "Occitanie",
+  "nb_communes": 469,
+  "nb_log_prive": 107807,
+  "nb_log_vacant": 10927,
+  "nb_log_vacant_2ans": 6277,
+  "taux_vacance": 10.14,
+  "taux_vacance_2ans": 5.82,
+  "top_communes": [
+    {
+      "code_insee": "65287",
+      "nom": "Loures-Barousse",
+      "slug": "loures-barousse-65287",
+      "taux_vacance": 19.19,
+      "nb_log_vacant": 100
+    },
+    {
+      "code_insee": "65452",
+      "nom": "Trie-sur-Ba�se",
+      "slug": "trie-sur-ba-se-65452",
+      "taux_vacance": 18.09,
+      "nb_log_vacant": 125
+    },
+    {
+      "code_insee": "65130",
+      "nom": "Castelnau-Rivi�re-Basse",
+      "slug": "castelnau-rivi-re-basse-65130",
+      "taux_vacance": 17.88,
+      "nb_log_vacant": 64
+    },
+    {
+      "code_insee": "65129",
+      "nom": "Castelnau-Magnoac",
+      "slug": "castelnau-magnoac-65129",
+      "taux_vacance": 15.76,
+      "nb_log_vacant": 84
+    },
+    {
+      "code_insee": "65435",
+      "nom": "Soulom",
+      "slug": "soulom-65435",
+      "taux_vacance": 15.22,
+      "nb_log_vacant": 28
+    },
+    {
+      "code_insee": "65389",
+      "nom": "Saint-Laurent-de-Neste",
+      "slug": "saint-laurent-de-neste-65389",
+      "taux_vacance": 14.67,
+      "nb_log_vacant": 82
+    },
+    {
+      "code_insee": "65305",
+      "nom": "Maul�on-Barousse",
+      "slug": "maul-on-barousse-65305",
+      "taux_vacance": 14.16,
+      "nb_log_vacant": 31
+    },
+    {
+      "code_insee": "65031",
+      "nom": "Arreau",
+      "slug": "arreau-65031",
+      "taux_vacance": 14.1,
+      "nb_log_vacant": 140
+    },
+    {
+      "code_insee": "65286",
+      "nom": "Lourdes",
+      "slug": "lourdes-65286",
+      "taux_vacance": 13.97,
+      "nb_log_vacant": 1324
+    },
+    {
+      "code_insee": "65092",
+      "nom": "Beyr�de-Jumet-Camous",
+      "slug": "beyr-de-jumet-camous-65092",
+      "taux_vacance": 13.82,
+      "nb_log_vacant": 21
+    },
+    {
+      "code_insee": "65123",
+      "nom": "Campan",
+      "slug": "campan-65123",
+      "taux_vacance": 13.37,
+      "nb_log_vacant": 276
+    },
+    {
+      "code_insee": "65440",
+      "nom": "Tarbes",
+      "slug": "tarbes-65440",
+      "taux_vacance": 13.3,
+      "nb_log_vacant": 3356
+    },
+    {
+      "code_insee": "65408",
+      "nom": "Sarrancolin",
+      "slug": "sarrancolin-65408",
+      "taux_vacance": 13.21,
+      "nb_log_vacant": 65
+    },
+    {
+      "code_insee": "65258",
+      "nom": "Lannemezan",
+      "slug": "lannemezan-65258",
+      "taux_vacance": 13.06,
+      "nb_log_vacant": 414
+    },
+    {
+      "code_insee": "65304",
+      "nom": "Maubourguet",
+      "slug": "maubourguet-65304",
+      "taux_vacance": 13.02,
+      "nb_log_vacant": 190
+    },
+    {
+      "code_insee": "65218",
+      "nom": "H�ches",
+      "slug": "h-ches-65218",
+      "taux_vacance": 12.9,
+      "nb_log_vacant": 68
+    },
+    {
+      "code_insee": "65375",
+      "nom": "Rabastens-de-Bigorre",
+      "slug": "rabastens-de-bigorre-65375",
+      "taux_vacance": 12.42,
+      "nb_log_vacant": 99
+    },
+    {
+      "code_insee": "65105",
+      "nom": "Bourg-de-Bigorre",
+      "slug": "bourg-de-bigorre-65105",
+      "taux_vacance": 12.21,
+      "nb_log_vacant": 16
+    },
+    {
+      "code_insee": "65106",
+      "nom": "Bourisp",
+      "slug": "bourisp-65106",
+      "taux_vacance": 11.35,
+      "nb_log_vacant": 26
+    },
+    {
+      "code_insee": "65006",
+      "nom": "Ancizan",
+      "slug": "ancizan-65006",
+      "taux_vacance": 11.3,
+      "nb_log_vacant": 34
+    }
+  ]
+}

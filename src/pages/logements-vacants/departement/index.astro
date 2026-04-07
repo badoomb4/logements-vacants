@@ -1,0 +1,46 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import deptList from '../../../../data/departements-list.json';
+import meta from '../../../../data/meta.json';
+
+const sorted = [...deptList].sort((a, b) => b.taux_vacance - a.taux_vacance);
+---
+
+<BaseLayout
+  title="Logements vacants par département — France LOVAC"
+  description="Classement des 101 départements français par taux de vacance. Statistiques logements vacants — données LOVAC."
+>
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+    <h1 class="text-3xl font-bold text-gray-900 mb-6">Logements vacants par département</h1>
+    <p class="text-gray-600 mb-8">Données LOVAC {meta.millesime} — {deptList.length} départements classés par taux de vacance</p>
+
+    <div class="bg-white rounded-lg shadow overflow-x-auto">
+      <table class="w-full">
+        <thead class="bg-gray-50">
+          <tr>
+            <th class="px-4 py-3 text-left text-sm font-semibold text-gray-700">#</th>
+            <th class="px-4 py-3 text-left text-sm font-semibold text-gray-700">Département</th>
+            <th class="px-4 py-3 text-left text-sm font-semibold text-gray-700">Région</th>
+            <th class="px-4 py-3 text-right text-sm font-semibold text-gray-700">Taux vacance</th>
+            <th class="px-4 py-3 text-right text-sm font-semibold text-gray-700">Logements vacants</th>
+          </tr>
+        </thead>
+        <tbody class="divide-y divide-gray-100">
+          {sorted.map((dept, i) => (
+            <tr class="hover:bg-gray-50">
+              <td class="px-4 py-2 text-sm text-gray-500">{i + 1}</td>
+              <td class="px-4 py-2">
+                <a href={`/logements-vacants/departement/${dept.slug}/`} class="text-blue-700 hover:underline font-medium">
+                  {dept.nom} ({dept.code})
+                </a>
+              </td>
+              <td class="px-4 py-2 text-sm text-gray-600">{dept.nom_region}</td>
+              <td class="px-4 py-2 text-right font-semibold text-orange-600">{dept.taux_vacance}%</td>
+              <td class="px-4 py-2 text-right text-gray-700">{dept.nb_log_vacant?.toLocaleString('fr-FR')}</td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+  </div>
+</BaseLayout>

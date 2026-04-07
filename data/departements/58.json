@@ -1,0 +1,155 @@
+{
+  "code": "58",
+  "nom": "Ni�vre",
+  "slug": "ni-vre-58",
+  "code_region": "27",
+  "nom_region": "Bourgogne-Franche-Comt�",
+  "nb_communes": 309,
+  "nb_log_prive": 87951,
+  "nb_log_vacant": 11769,
+  "nb_log_vacant_2ans": 7377,
+  "taux_vacance": 13.38,
+  "taux_vacance_2ans": 8.39,
+  "top_communes": [
+    {
+      "code_insee": "58267",
+      "nom": "Saint-Saulge",
+      "slug": "saint-saulge-58267",
+      "taux_vacance": 29.26,
+      "nb_log_vacant": 170
+    },
+    {
+      "code_insee": "58062",
+      "nom": "Ch�teau-Chinon (Ville)",
+      "slug": "ch-teau-chinon-ville-58062",
+      "taux_vacance": 25.74,
+      "nb_log_vacant": 252
+    },
+    {
+      "code_insee": "58079",
+      "nom": "Clamecy",
+      "slug": "clamecy-58079",
+      "taux_vacance": 23.02,
+      "nb_log_vacant": 501
+    },
+    {
+      "code_insee": "58190",
+      "nom": "Neuffontaines",
+      "slug": "neuffontaines-58190",
+      "taux_vacance": 22.15,
+      "nb_log_vacant": 35
+    },
+    {
+      "code_insee": "58225",
+      "nom": "Saincaize-Meauce",
+      "slug": "saincaize-meauce-58225",
+      "taux_vacance": 21.1,
+      "nb_log_vacant": 46
+    },
+    {
+      "code_insee": "58304",
+      "nom": "Varzy",
+      "slug": "varzy-58304",
+      "taux_vacance": 18.9,
+      "nb_log_vacant": 162
+    },
+    {
+      "code_insee": "58145",
+      "nom": "Lormes",
+      "slug": "lormes-58145",
+      "taux_vacance": 18.52,
+      "nb_log_vacant": 205
+    },
+    {
+      "code_insee": "58264",
+      "nom": "Saint-Pierre-le-Mo�tier",
+      "slug": "saint-pierre-le-mo-tier-58264",
+      "taux_vacance": 17.99,
+      "nb_log_vacant": 197
+    },
+    {
+      "code_insee": "58286",
+      "nom": "Tannay",
+      "slug": "tannay-58286",
+      "taux_vacance": 17.96,
+      "nb_log_vacant": 88
+    },
+    {
+      "code_insee": "58272",
+      "nom": "Sardy-l�s-�piry",
+      "slug": "sardy-l-s-piry-58272",
+      "taux_vacance": 17.65,
+      "nb_log_vacant": 18
+    },
+    {
+      "code_insee": "58065",
+      "nom": "Ch�tillon-en-Bazois",
+      "slug": "ch-tillon-en-bazois-58065",
+      "taux_vacance": 17.62,
+      "nb_log_vacant": 126
+    },
+    {
+      "code_insee": "58146",
+      "nom": "Lucenay-l�s-Aix",
+      "slug": "lucenay-l-s-aix-58146",
+      "taux_vacance": 17.46,
+      "nb_log_vacant": 107
+    },
+    {
+      "code_insee": "58285",
+      "nom": "Tamnay-en-Bazois",
+      "slug": "tamnay-en-bazois-58285",
+      "taux_vacance": 17.42,
+      "nb_log_vacant": 31
+    },
+    {
+      "code_insee": "58182",
+      "nom": "Moulins-Engilbert",
+      "slug": "moulins-engilbert-58182",
+      "taux_vacance": 17.39,
+      "nb_log_vacant": 176
+    },
+    {
+      "code_insee": "58083",
+      "nom": "Corbigny",
+      "slug": "corbigny-58083",
+      "taux_vacance": 17.03,
+      "nb_log_vacant": 189
+    },
+    {
+      "code_insee": "58105",
+      "nom": "Druy-Parigny",
+      "slug": "druy-parigny-58105",
+      "taux_vacance": 16.84,
+      "nb_log_vacant": 32
+    },
+    {
+      "code_insee": "58223",
+      "nom": "Rouy",
+      "slug": "rouy-58223",
+      "taux_vacance": 16.62,
+      "nb_log_vacant": 66
+    },
+    {
+      "code_insee": "58041",
+      "nom": "Brinon-sur-Beuvron",
+      "slug": "brinon-sur-beuvron-58041",
+      "taux_vacance": 16.37,
+      "nb_log_vacant": 28
+    },
+    {
+      "code_insee": "58115",
+      "nom": "Fleury-sur-Loire",
+      "slug": "fleury-sur-loire-58115",
+      "taux_vacance": 16.3,
+      "nb_log_vacant": 22
+    },
+    {
+      "code_insee": "58085",
+      "nom": "Corvol-l'Orgueilleux",
+      "slug": "corvol-l-orgueilleux-58085",
+      "taux_vacance": 16.25,
+      "nb_log_vacant": 84
+    }
+  ]
+}

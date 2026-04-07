@@ -1,0 +1,155 @@
+{
+  "code": "88",
+  "nom": "Vosges",
+  "slug": "vosges-88",
+  "code_region": "44",
+  "nom_region": "Grand Est",
+  "nb_communes": 506,
+  "nb_log_prive": 150114,
+  "nb_log_vacant": 15358,
+  "nb_log_vacant_2ans": 8967,
+  "taux_vacance": 10.23,
+  "taux_vacance_2ans": 5.97,
+  "top_communes": [
+    {
+      "code_insee": "88351",
+      "nom": "Plombi�res-les-Bains",
+      "slug": "plombi-res-les-bains-88351",
+      "taux_vacance": 23.17,
+      "nb_log_vacant": 389
+    },
+    {
+      "code_insee": "88123",
+      "nom": "Damblain",
+      "slug": "damblain-88123",
+      "taux_vacance": 22.4,
+      "nb_log_vacant": 41
+    },
+    {
+      "code_insee": "88346",
+      "nom": "La Petite-Raon",
+      "slug": "la-petite-raon-88346",
+      "taux_vacance": 22.22,
+      "nb_log_vacant": 114
+    },
+    {
+      "code_insee": "88317",
+      "nom": "Moussey",
+      "slug": "moussey-88317",
+      "taux_vacance": 21.91,
+      "nb_log_vacant": 103
+    },
+    {
+      "code_insee": "88124",
+      "nom": "Darney",
+      "slug": "darney-88124",
+      "taux_vacance": 21.43,
+      "nb_log_vacant": 120
+    },
+    {
+      "code_insee": "88258",
+      "nom": "Lamarche",
+      "slug": "lamarche-88258",
+      "taux_vacance": 21.34,
+      "nb_log_vacant": 108
+    },
+    {
+      "code_insee": "88062",
+      "nom": "Blevaincourt",
+      "slug": "blevaincourt-88062",
+      "taux_vacance": 21.18,
+      "nb_log_vacant": 18
+    },
+    {
+      "code_insee": "88304",
+      "nom": "Mirecourt",
+      "slug": "mirecourt-88304",
+      "taux_vacance": 20.53,
+      "nb_log_vacant": 484
+    },
+    {
+      "code_insee": "88176",
+      "nom": "Fontenoy-le-Ch�teau",
+      "slug": "fontenoy-le-ch-teau-88176",
+      "taux_vacance": 19.62,
+      "nb_log_vacant": 93
+    },
+    {
+      "code_insee": "88446",
+      "nom": "Saulxures-l�s-Bulgn�ville",
+      "slug": "saulxures-l-s-bulgn-ville-88446",
+      "taux_vacance": 18.6,
+      "nb_log_vacant": 24
+    },
+    {
+      "code_insee": "88334",
+      "nom": "O�lleville",
+      "slug": "o-lleville-88334",
+      "taux_vacance": 18.57,
+      "nb_log_vacant": 26
+    },
+    {
+      "code_insee": "88451",
+      "nom": "Senones",
+      "slug": "senones-88451",
+      "taux_vacance": 18.35,
+      "nb_log_vacant": 255
+    },
+    {
+      "code_insee": "88029",
+      "nom": "La V�ge-les-Bains",
+      "slug": "la-v-ge-les-bains-88029",
+      "taux_vacance": 17.82,
+      "nb_log_vacant": 244
+    },
+    {
+      "code_insee": "88212",
+      "nom": "Grand",
+      "slug": "grand-88212",
+      "taux_vacance": 17.72,
+      "nb_log_vacant": 42
+    },
+    {
+      "code_insee": "88367",
+      "nom": "Rambervillers",
+      "slug": "rambervillers-88367",
+      "taux_vacance": 17.47,
+      "nb_log_vacant": 458
+    },
+    {
+      "code_insee": "88455",
+      "nom": "Ser�court",
+      "slug": "ser-court-88455",
+      "taux_vacance": 16.82,
+      "nb_log_vacant": 18
+    },
+    {
+      "code_insee": "88238",
+      "nom": "Hennezel",
+      "slug": "hennezel-88238",
+      "taux_vacance": 16.24,
+      "nb_log_vacant": 44
+    },
+    {
+      "code_insee": "88076",
+      "nom": "Brouvelieures",
+      "slug": "brouvelieures-88076",
+      "taux_vacance": 15.77,
+      "nb_log_vacant": 38
+    },
+    {
+      "code_insee": "88004",
+      "nom": "Ainvelle",
+      "slug": "ainvelle-88004",
+      "taux_vacance": 15.65,
+      "nb_log_vacant": 18
+    },
+    {
+      "code_insee": "88426",
+      "nom": "Saint-Maurice-sur-Moselle",
+      "slug": "saint-maurice-sur-moselle-88426",
+      "taux_vacance": 15.05,
+      "nb_log_vacant": 149
+    }
+  ]
+}

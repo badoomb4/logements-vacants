@@ -1,0 +1,155 @@
+{
+  "code": "04",
+  "nom": "Alpes-de-Haute-Provence",
+  "slug": "alpes-de-haute-provence-04",
+  "code_region": "93",
+  "nom_region": "Provence-Alpes-C�te d'Azur",
+  "nb_communes": 198,
+  "nb_log_prive": 106677,
+  "nb_log_vacant": 10028,
+  "nb_log_vacant_2ans": 5810,
+  "taux_vacance": 9.4,
+  "taux_vacance_2ans": 5.45,
+  "top_communes": [
+    {
+      "code_insee": "04091",
+      "nom": "Ganagobie",
+      "slug": "ganagobie-04091",
+      "taux_vacance": 36.51,
+      "nb_log_vacant": 23
+    },
+    {
+      "code_insee": "04190",
+      "nom": "Saint-Martin-les-Eaux",
+      "slug": "saint-martin-les-eaux-04190",
+      "taux_vacance": 22.81,
+      "nb_log_vacant": 13
+    },
+    {
+      "code_insee": "04069",
+      "nom": "Demandolx",
+      "slug": "demandolx-04069",
+      "taux_vacance": 22.31,
+      "nb_log_vacant": 27
+    },
+    {
+      "code_insee": "04039",
+      "nom": "Castellane",
+      "slug": "castellane-04039",
+      "taux_vacance": 17.66,
+      "nb_log_vacant": 293
+    },
+    {
+      "code_insee": "04134",
+      "nom": "La Motte-du-Caire",
+      "slug": "la-motte-du-caire-04134",
+      "taux_vacance": 17.48,
+      "nb_log_vacant": 72
+    },
+    {
+      "code_insee": "04163",
+      "nom": "Revest-du-Bion",
+      "slug": "revest-du-bion-04163",
+      "taux_vacance": 17.17,
+      "nb_log_vacant": 85
+    },
+    {
+      "code_insee": "04020",
+      "nom": "Barles",
+      "slug": "barles-04020",
+      "taux_vacance": 16.95,
+      "nb_log_vacant": 20
+    },
+    {
+      "code_insee": "04076",
+      "nom": "Entrevaux",
+      "slug": "entrevaux-04076",
+      "taux_vacance": 16.59,
+      "nb_log_vacant": 142
+    },
+    {
+      "code_insee": "04102",
+      "nom": "Le Lauzet-Ubaye",
+      "slug": "le-lauzet-ubaye-04102",
+      "taux_vacance": 16,
+      "nb_log_vacant": 52
+    },
+    {
+      "code_insee": "04166",
+      "nom": "Riez",
+      "slug": "riez-04166",
+      "taux_vacance": 15.56,
+      "nb_log_vacant": 237
+    },
+    {
+      "code_insee": "04121",
+      "nom": "M�zel",
+      "slug": "m-zel-04121",
+      "taux_vacance": 15.54,
+      "nb_log_vacant": 69
+    },
+    {
+      "code_insee": "04097",
+      "nom": "La Javie",
+      "slug": "la-javie-04097",
+      "taux_vacance": 14.33,
+      "nb_log_vacant": 42
+    },
+    {
+      "code_insee": "04018",
+      "nom": "Banon",
+      "slug": "banon-04018",
+      "taux_vacance": 14.05,
+      "nb_log_vacant": 109
+    },
+    {
+      "code_insee": "04004",
+      "nom": "Allemagne-en-Provence",
+      "slug": "allemagne-en-provence-04004",
+      "taux_vacance": 13.64,
+      "nb_log_vacant": 66
+    },
+    {
+      "code_insee": "04178",
+      "nom": "Saint-�tienne-les-Orgues",
+      "slug": "saint-tienne-les-orgues-04178",
+      "taux_vacance": 13.55,
+      "nb_log_vacant": 147
+    },
+    {
+      "code_insee": "04161",
+      "nom": "M�olans-Revel",
+      "slug": "m-olans-revel-04161",
+      "taux_vacance": 13.42,
+      "nb_log_vacant": 60
+    },
+    {
+      "code_insee": "04244",
+      "nom": "Volonne",
+      "slug": "volonne-04244",
+      "taux_vacance": 12.59,
+      "nb_log_vacant": 134
+    },
+    {
+      "code_insee": "04199",
+      "nom": "Saint-Vincent-sur-Jabron",
+      "slug": "saint-vincent-sur-jabron-04199",
+      "taux_vacance": 12.44,
+      "nb_log_vacant": 24
+    },
+    {
+      "code_insee": "04209",
+      "nom": "Sisteron",
+      "slug": "sisteron-04209",
+      "taux_vacance": 12.26,
+      "nb_log_vacant": 501
+    },
+    {
+      "code_insee": "04148",
+      "nom": "Peyroules",
+      "slug": "peyroules-04148",
+      "taux_vacance": 12.2,
+      "nb_log_vacant": 40
+    }
+  ]
+}

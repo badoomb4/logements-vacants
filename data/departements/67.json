@@ -1,0 +1,155 @@
+{
+  "code": "67",
+  "nom": "Bas-Rhin",
+  "slug": "bas-rhin-67",
+  "code_region": "44",
+  "nom_region": "Grand Est",
+  "nb_communes": 514,
+  "nb_log_prive": 441288,
+  "nb_log_vacant": 26675,
+  "nb_log_vacant_2ans": 13498,
+  "taux_vacance": 6.04,
+  "taux_vacance_2ans": 3.06,
+  "top_communes": [
+    {
+      "code_insee": "67421",
+      "nom": "Saales",
+      "slug": "saales-67421",
+      "taux_vacance": 19.47,
+      "nb_log_vacant": 88
+    },
+    {
+      "code_insee": "67434",
+      "nom": "Sarre-Union",
+      "slug": "sarre-union-67434",
+      "taux_vacance": 13.77,
+      "nb_log_vacant": 208
+    },
+    {
+      "code_insee": "67295",
+      "nom": "Mittelbergheim",
+      "slug": "mittelbergheim-67295",
+      "taux_vacance": 13.32,
+      "nb_log_vacant": 51
+    },
+    {
+      "code_insee": "67424",
+      "nom": "Saint-Blaise-la-Roche",
+      "slug": "saint-blaise-la-roche-67424",
+      "taux_vacance": 12.59,
+      "nb_log_vacant": 17
+    },
+    {
+      "code_insee": "67274",
+      "nom": "Lorentzen",
+      "slug": "lorentzen-67274",
+      "taux_vacance": 12.21,
+      "nb_log_vacant": 16
+    },
+    {
+      "code_insee": "67448",
+      "nom": "Schirmeck",
+      "slug": "schirmeck-67448",
+      "taux_vacance": 12.13,
+      "nb_log_vacant": 115
+    },
+    {
+      "code_insee": "67355",
+      "nom": "Oermingen",
+      "slug": "oermingen-67355",
+      "taux_vacance": 11.8,
+      "nb_log_vacant": 57
+    },
+    {
+      "code_insee": "67059",
+      "nom": "Bourg-Bruche",
+      "slug": "bourg-bruche-67059",
+      "taux_vacance": 11.5,
+      "nb_log_vacant": 36
+    },
+    {
+      "code_insee": "67013",
+      "nom": "Asswiller",
+      "slug": "asswiller-67013",
+      "taux_vacance": 11.48,
+      "nb_log_vacant": 14
+    },
+    {
+      "code_insee": "67084",
+      "nom": "Dambach-la-Ville",
+      "slug": "dambach-la-ville-67084",
+      "taux_vacance": 11.42,
+      "nb_log_vacant": 138
+    },
+    {
+      "code_insee": "67371",
+      "nom": "La Petite-Pierre",
+      "slug": "la-petite-pierre-67371",
+      "taux_vacance": 11.37,
+      "nb_log_vacant": 49
+    },
+    {
+      "code_insee": "67337",
+      "nom": "Nothalten",
+      "slug": "nothalten-67337",
+      "taux_vacance": 11.28,
+      "nb_log_vacant": 29
+    },
+    {
+      "code_insee": "67414",
+      "nom": "Rothau",
+      "slug": "rothau-67414",
+      "taux_vacance": 11.03,
+      "nb_log_vacant": 87
+    },
+    {
+      "code_insee": "67210",
+      "nom": "Le Hohwald",
+      "slug": "le-hohwald-67210",
+      "taux_vacance": 10.27,
+      "nb_log_vacant": 60
+    },
+    {
+      "code_insee": "67272",
+      "nom": "Lochwiller",
+      "slug": "lochwiller-67272",
+      "taux_vacance": 10.16,
+      "nb_log_vacant": 19
+    },
+    {
+      "code_insee": "67417",
+      "nom": "Rottelsheim",
+      "slug": "rottelsheim-67417",
+      "taux_vacance": 9.93,
+      "nb_log_vacant": 14
+    },
+    {
+      "code_insee": "67517",
+      "nom": "Wangen",
+      "slug": "wangen-67517",
+      "taux_vacance": 9.75,
+      "nb_log_vacant": 31
+    },
+    {
+      "code_insee": "67019",
+      "nom": "Baldenheim",
+      "slug": "baldenheim-67019",
+      "taux_vacance": 9.74,
+      "nb_log_vacant": 60
+    },
+    {
+      "code_insee": "67061",
+      "nom": "Bouxwiller",
+      "slug": "bouxwiller-67061",
+      "taux_vacance": 9.64,
+      "nb_log_vacant": 176
+    },
+    {
+      "code_insee": "67263",
+      "nom": "Lembach",
+      "slug": "lembach-67263",
+      "taux_vacance": 9.59,
+      "nb_log_vacant": 88
+    }
+  ]
+}

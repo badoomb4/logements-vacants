@@ -1,0 +1,155 @@
+{
+  "code": "82",
+  "nom": "Tarn-et-Garonne",
+  "slug": "tarn-et-garonne-82",
+  "code_region": "76",
+  "nom_region": "Occitanie",
+  "nb_communes": 195,
+  "nb_log_prive": 110233,
+  "nb_log_vacant": 8609,
+  "nb_log_vacant_2ans": 4506,
+  "taux_vacance": 7.81,
+  "taux_vacance_2ans": 4.09,
+  "top_communes": [
+    {
+      "code_insee": "82064",
+      "nom": "Gari�s",
+      "slug": "gari-s-82064",
+      "taux_vacance": 16.67,
+      "nb_log_vacant": 13
+    },
+    {
+      "code_insee": "82022",
+      "nom": "Bourg-de-Visa",
+      "slug": "bourg-de-visa-82022",
+      "taux_vacance": 16.21,
+      "nb_log_vacant": 47
+    },
+    {
+      "code_insee": "82038",
+      "nom": "Caylus",
+      "slug": "caylus-82038",
+      "taux_vacance": 14.99,
+      "nb_log_vacant": 186
+    },
+    {
+      "code_insee": "82088",
+      "nom": "Lagu�pie",
+      "slug": "lagu-pie-82088",
+      "taux_vacance": 14.16,
+      "nb_log_vacant": 81
+    },
+    {
+      "code_insee": "82035",
+      "nom": "Caumont",
+      "slug": "caumont-82035",
+      "taux_vacance": 13.53,
+      "nb_log_vacant": 23
+    },
+    {
+      "code_insee": "82147",
+      "nom": "Puylagarde",
+      "slug": "puylagarde-82147",
+      "taux_vacance": 13.13,
+      "nb_log_vacant": 39
+    },
+    {
+      "code_insee": "82094",
+      "nom": "Lauzerte",
+      "slug": "lauzerte-82094",
+      "taux_vacance": 12.71,
+      "nb_log_vacant": 126
+    },
+    {
+      "code_insee": "82186",
+      "nom": "Valence",
+      "slug": "valence-82186",
+      "taux_vacance": 12.39,
+      "nb_log_vacant": 347
+    },
+    {
+      "code_insee": "82042",
+      "nom": "Cazes-Mondenard",
+      "slug": "cazes-mondenard-82042",
+      "taux_vacance": 11.84,
+      "nb_log_vacant": 83
+    },
+    {
+      "code_insee": "82155",
+      "nom": "Saint-Antonin-Noble-Val",
+      "slug": "saint-antonin-noble-val-82155",
+      "taux_vacance": 11.83,
+      "nb_log_vacant": 199
+    },
+    {
+      "code_insee": "82132",
+      "nom": "Montricoux",
+      "slug": "montricoux-82132",
+      "taux_vacance": 11.65,
+      "nb_log_vacant": 84
+    },
+    {
+      "code_insee": "82187",
+      "nom": "Varen",
+      "slug": "varen-82187",
+      "taux_vacance": 11.6,
+      "nb_log_vacant": 71
+    },
+    {
+      "code_insee": "82063",
+      "nom": "Garganvillar",
+      "slug": "garganvillar-82063",
+      "taux_vacance": 11.56,
+      "nb_log_vacant": 34
+    },
+    {
+      "code_insee": "82061",
+      "nom": "F�neyrols",
+      "slug": "f-neyrols-82061",
+      "taux_vacance": 11.54,
+      "nb_log_vacant": 21
+    },
+    {
+      "code_insee": "82137",
+      "nom": "Parisot",
+      "slug": "parisot-82137",
+      "taux_vacance": 11.42,
+      "nb_log_vacant": 49
+    },
+    {
+      "code_insee": "82151",
+      "nom": "Roquecor",
+      "slug": "roquecor-82151",
+      "taux_vacance": 11.31,
+      "nb_log_vacant": 38
+    },
+    {
+      "code_insee": "82032",
+      "nom": "Castelsagrat",
+      "slug": "castelsagrat-82032",
+      "taux_vacance": 11.11,
+      "nb_log_vacant": 40
+    },
+    {
+      "code_insee": "82013",
+      "nom": "Beaumont-de-Lomagne",
+      "slug": "beaumont-de-lomagne-82013",
+      "taux_vacance": 10.94,
+      "nb_log_vacant": 230
+    },
+    {
+      "code_insee": "82117",
+      "nom": "Montaigu-de-Quercy",
+      "slug": "montaigu-de-quercy-82117",
+      "taux_vacance": 10.82,
+      "nb_log_vacant": 113
+    },
+    {
+      "code_insee": "82113",
+      "nom": "Moli�res",
+      "slug": "moli-res-82113",
+      "taux_vacance": 10.71,
+      "nb_log_vacant": 77
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "code": "03",
+  "nom": "Guyane",
+  "slug": "guyane",
+  "nb_communes": 22,
+  "nb_log_prive": 71115,
+  "nb_log_vacant": 10363,
+  "nb_log_vacant_2ans": 7639,
+  "taux_vacance": 14.57,
+  "taux_vacance_2ans": 10.74,
+  "departements": [
+    {
+      "code": "973",
+      "nom": "Guyane",
+      "slug": "guyane-973",
+      "taux_vacance": 14.57,
+      "nb_log_vacant": 10363
+    }
+  ]
+}

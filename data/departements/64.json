@@ -1,0 +1,155 @@
+{
+  "code": "64",
+  "nom": "Pyr�n�es-Atlantiques",
+  "slug": "pyr-n-es-atlantiques-64",
+  "code_region": "75",
+  "nom_region": "Nouvelle-Aquitaine",
+  "nb_communes": 545,
+  "nb_log_prive": 331116,
+  "nb_log_vacant": 21639,
+  "nb_log_vacant_2ans": 9763,
+  "taux_vacance": 6.54,
+  "taux_vacance_2ans": 2.95,
+  "top_communes": [
+    {
+      "code_insee": "64316",
+      "nom": "Larrau",
+      "slug": "larrau-64316",
+      "taux_vacance": 21.91,
+      "nb_log_vacant": 39
+    },
+    {
+      "code_insee": "64542",
+      "nom": "Urdos",
+      "slug": "urdos-64542",
+      "taux_vacance": 20.54,
+      "nb_log_vacant": 23
+    },
+    {
+      "code_insee": "64533",
+      "nom": "Tardets-Sorholus",
+      "slug": "tardets-sorholus-64533",
+      "taux_vacance": 19.46,
+      "nb_log_vacant": 72
+    },
+    {
+      "code_insee": "64351",
+      "nom": "Lourdios-Ich�re",
+      "slug": "lourdios-ich-re-64351",
+      "taux_vacance": 18.28,
+      "nb_log_vacant": 17
+    },
+    {
+      "code_insee": "64543",
+      "nom": "Urepel",
+      "slug": "urepel-64543",
+      "taux_vacance": 13.66,
+      "nb_log_vacant": 22
+    },
+    {
+      "code_insee": "64331",
+      "nom": "Lembeye",
+      "slug": "lembeye-64331",
+      "taux_vacance": 13.45,
+      "nb_log_vacant": 62
+    },
+    {
+      "code_insee": "64371",
+      "nom": "Maul�on-Licharre",
+      "slug": "maul-on-licharre-64371",
+      "taux_vacance": 12.92,
+      "nb_log_vacant": 239
+    },
+    {
+      "code_insee": "64016",
+      "nom": "Aldudes",
+      "slug": "aldudes-64016",
+      "taux_vacance": 12.82,
+      "nb_log_vacant": 30
+    },
+    {
+      "code_insee": "64499",
+      "nom": "Salies-de-B�arn",
+      "slug": "salies-de-b-arn-64499",
+      "taux_vacance": 12.75,
+      "nb_log_vacant": 403
+    },
+    {
+      "code_insee": "64049",
+      "nom": "Aroue-Ithorots-Olha�by",
+      "slug": "aroue-ithorots-olha-by-64049",
+      "taux_vacance": 12.71,
+      "nb_log_vacant": 15
+    },
+    {
+      "code_insee": "64422",
+      "nom": "Oloron-Sainte-Marie",
+      "slug": "oloron-sainte-marie-64422",
+      "taux_vacance": 12.46,
+      "nb_log_vacant": 811
+    },
+    {
+      "code_insee": "64513",
+      "nom": "Sauveterre-de-B�arn",
+      "slug": "sauveterre-de-b-arn-64513",
+      "taux_vacance": 12.35,
+      "nb_log_vacant": 95
+    },
+    {
+      "code_insee": "64416",
+      "nom": "Navarrenx",
+      "slug": "navarrenx-64416",
+      "taux_vacance": 11.94,
+      "nb_log_vacant": 75
+    },
+    {
+      "code_insee": "64063",
+      "nom": "Arzacq-Arraziguet",
+      "slug": "arzacq-arraziguet-64063",
+      "taux_vacance": 11.8,
+      "nb_log_vacant": 59
+    },
+    {
+      "code_insee": "64320",
+      "nom": "Laruns",
+      "slug": "laruns-64320",
+      "taux_vacance": 11.51,
+      "nb_log_vacant": 168
+    },
+    {
+      "code_insee": "64353",
+      "nom": "Louvie-Juzon",
+      "slug": "louvie-juzon-64353",
+      "taux_vacance": 11.51,
+      "nb_log_vacant": 80
+    },
+    {
+      "code_insee": "64104",
+      "nom": "Bedous",
+      "slug": "bedous-64104",
+      "taux_vacance": 11.47,
+      "nb_log_vacant": 50
+    },
+    {
+      "code_insee": "64093",
+      "nom": "Barcus",
+      "slug": "barcus-64093",
+      "taux_vacance": 11.45,
+      "nb_log_vacant": 45
+    },
+    {
+      "code_insee": "64430",
+      "nom": "Orthez",
+      "slug": "orthez-64430",
+      "taux_vacance": 11.37,
+      "nb_log_vacant": 692
+    },
+    {
+      "code_insee": "64461",
+      "nom": "Puyo�",
+      "slug": "puyo-64461",
+      "taux_vacance": 11.19,
+      "nb_log_vacant": 66
+    }
+  ]
+}
