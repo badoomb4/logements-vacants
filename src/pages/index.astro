@@ -117,7 +117,9 @@ const schema = {
     </section>
   </div>
 
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
   <script>
+    import L from 'leaflet';
     import Fuse from 'fuse.js';
 
     let fuse: any;
@@ -157,5 +159,65 @@ const schema = {
         results.classList.add('hidden');
       }
     });
+
+    // Init home map
+    async function initHomeMap() {
+      const mapEl = document.getElementById('map-home');
+      if (!mapEl) return;
+
+      const map = L.map('map-home').setView([46.5, 2.5], 6);
+      L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        attribution: '&copy; OpenStreetMap contributors',
+        maxZoom: 18,
+      }).addTo(map);
+
+      try {
+        const [geoResp, deptResp] = await Promise.all([
+          fetch('/geo/departements.geojson'),
+          fetch('/data/departements-list.json'),
+        ]);
+        const geojson = await geoResp.json();
+        const deptList = await deptResp.json();
+        const deptMap = Object.fromEntries(deptList.map((d: any) => [d.code, d]));
+
+        function getColor(taux: number) {
+          if (taux > 10) return '#dc2626';
+          if (taux > 6) return '#f97316';
+          if (taux > 3) return '#facc15';
+          return '#22c55e';
+        }
+
+        L.geoJSON(geojson, {
+          style: (feature) => {
+            const code = feature?.properties?.code;
+            const dept = deptMap[code];
+            return {
+              fillColor: getColor(dept?.taux_vacance || 0),
+              weight: 1,
+              opacity: 1,
+              color: '#666',
+              fillOpacity: 0.6,
+            };
+          },
+          onEachFeature: (feature, layer) => {
+            const code = feature.properties?.code;
+            const dept = deptMap[code];
+            if (dept) {
+              layer.bindTooltip(
+                `<strong>${dept.nom} (${dept.code})</strong><br>Taux: ${dept.taux_vacance}%<br>${dept.nb_log_vacant?.toLocaleString('fr-FR')} vacants`,
+                { sticky: true }
+              );
+              layer.on('click', () => {
+                window.location.href = `/logements-vacants/departement/${dept.slug}/`;
+              });
+            }
+          },
+        }).addTo(map);
+      } catch (e) {
+        console.warn('GeoJSON not loaded:', e);
+      }
+    }
+
+    initHomeMap();
   </script>
 </BaseLayout>
